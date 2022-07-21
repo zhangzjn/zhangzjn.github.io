@@ -68,9 +68,9 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 <li><strong>ECCV 2022</strong> <a href="https://arxiv.org">Learning to Train a Point Cloud Reconstruction Network without Matching</a>, Tianxin Huang, Xuemeng Yang, <strong>Jiangning Zhang</strong>, Jinhao Cui, Hao Zou, Jun Chen, Xiangrui Zhao, and Yong Liu | <a href="https://github.com/Tianxinhuang/PCLossNet">Code</a> </li>
 
-<li><strong>CVPR 2022</strong> <a href="https://ieeexplore.ieee.org/abstract/document/9552566">Region-Aware Face Swapping</a>, Chao Xu*, <strong>Jiangning Zhang</strong>*, Miao Hua, Qian He, Zili Yi, and Yong Liu | <a href=""></a> </li>
+<li><strong>CVPR 2022</strong> <a href="https://ieeexplore.ieee.org/abstract/document/9552566">Region-Aware Face Swapping</a>, Chao Xu*, <strong>Jiangning Zhang</strong>*, Miao Hua, Qian He, Zili Yi, and Yong Liu </li>
 
-<li><strong>AAAI 2022</strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Yue Han, Yabiao Wang, Ying Tai, and Yong Liu | <a href=""></a> </li>
+<li><strong>AAAI 2022</strong> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Yue Han, Yabiao Wang, Ying Tai, and Yong Liu </li>
 
 <li><strong>NeurIPS 2021</strong> <a href="https://proceedings.neurips.cc/paper/2021/hash/e02e27e04fdff967ba7d76fb24b8069d-Abstract.html">Analogous to Evolutionary Algorithm: Designing a Unified Sequence Model</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Wenzhou Chen, Yabiao Wang, Ying Tai, Shuo Chen, Chengjie Wang, Feiyue Huang, and Yong Liu | <a href="https://github.com/TencentYoutuResearch/BaseArchitecture-EAT">Code</a> </li>
 
@@ -85,13 +85,13 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 ## Journal
 <ul>
 
-<li><strong>IEEE-TCSVT 2022</strong> <a href="https://ieeexplore.ieee.org/abstract/document/9797768">Multi-Level Spatial-Temporal Feature Aggregation for Video Object Detection</a>, Chao Xu, <strong>Jiangning Zhang</strong>, Mengmeng Wang, Guanzhong Tian, and Yong Liu | <a href=""></a> </li>
+<li><strong>IEEE-TCSVT 2022</strong> <a href="https://ieeexplore.ieee.org/abstract/document/9797768">Multi-Level Spatial-Temporal Feature Aggregation for Video Object Detection</a>, Chao Xu, <strong>Jiangning Zhang</strong>, Mengmeng Wang, Guanzhong Tian, and Yong Liu </li>
 
-<li><strong>IJIRA 2022</strong> <span style="color:red">(Best Paper Reward Nomination)</span> <a href="https://link.springer.com/article/10.1007/s41315-021-00167-2">Learning Hierarchical and Efficient Person Re-Identification for Robotic Navigation</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Xiangrui Zhao, Liang Liu, Yong Liu, Jinqiang Yao, and Zaisheng Pan | <a href=""></a> </li>
+<li><strong>IJIRA 2022</strong> <span style="color:red">(Best Paper Reward Nomination)</span> <a href="https://link.springer.com/article/10.1007/s41315-021-00167-2">Learning Hierarchical and Efficient Person Re-Identification for Robotic Navigation</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Xiangrui Zhao, Liang Liu, Yong Liu, Jinqiang Yao, and Zaisheng Pan </li>
 
 <li><strong>SPL 2022 </strong> <a href="https://ieeexplore.ieee.org/abstract/document/9552566">Real-Time Audio-Guided Multi-Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Chao Xu, and Yong Liu | <a href="https://github.com/zhangzjn/APB2FaceV2">Code</a> </li>
 
-<li><strong>IEEE-TIE 2018</strong> <a href="https://ieeexplore.ieee.org/abstract/document/8566182">Learning-Based Hand Motion Capture and Understanding in Assembly Process</a>, Liang Liu, Yong Liu, and <strong>Jiangning Zhang</strong> | <a href=""></a> </li>
+<li><strong>IEEE-TIE 2018</strong> <a href="https://ieeexplore.ieee.org/abstract/document/8566182">Learning-Based Hand Motion Capture and Understanding in Assembly Process</a>, Liang Liu, Yong Liu, and <strong>Jiangning Zhang</strong> </li>
 
 </ul>
 
@@ -105,7 +105,7 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 <li><strong>arXiv 2022 </strong> <a href="https://arxiv.org/abs/2203.00259">Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection</a>, Yufei Liang*, <strong>Jiangning Zhang</strong>*, Shiwei Zhao, Runze Wu, Yong Liu, and Shuwen Pan | <a href="https://github.com/zhangzjn/OCR-GAN">Code</a> </li>
 
-<li><strong>arXiv 2021 </strong> <a href="https://arxiv.org/abs/2112.10683">SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network</a>, Xianfang Zeng*, <strong>Jiangning Zhang</strong>*, Liang Liu, Guangzhong Tian, and Yong Liu | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
+<li><strong>arXiv 2021 </strong> <a href="https://arxiv.org/abs/2112.10683">SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network</a>, Xianfang Zeng*, <strong>Jiangning Zhang</strong>*, Liang Liu, Guangzhong Tian, and Yong Liu </li>
 
 </ul>
 
