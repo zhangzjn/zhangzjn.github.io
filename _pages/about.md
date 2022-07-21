@@ -34,25 +34,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of Prof. Yong Liu. My major is Computer Vision and my research interests include: 
+I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
 - 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.
 - 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
 - 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection, Person Re-Identification, etc.
 - 💬 Feel free to drop me emails if you have interests.
+- 💬 Remote cooperations are welcomed.
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉🎉 One paper is announced as one of five finalists for the IJIRA Best Paper Award 2022. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
+- *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the IJIRA Best Paper Award 2022. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
 - *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by ECCV 2022. <span style="color:red">(Face Reenactment/Swapping; Point Cloud Sampling/Reconstruction)</span>
 - *2022.06*: &nbsp;🎉🎉🎉 One paper is accepted by TCSVT. <span style="color:red">(Video Object Detection)</span>
 - *2022.03*: &nbsp;🎉🎉🎉 One paper is accepted by CVPR 2022. <span style="color:red">(Face Swapping)</span>
 - *2021.12*: &nbsp;🎉🎉🎉 One paper is accepted by AAAI 2022. <span style="color:red">(Image Colorization and Super-Resolution)</span>
 - *2021.09*: &nbsp;🎉🎉🎉 One paper is accepted by NeurIPS 2021. <span style="color:red">(Transformer Architecture Design)</span>
-- *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher Jian Li, Researcher Yabiao Wang, and Dr. Ying Tai.
+- *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher Jian Li, Researcher Yabiao Wang, and [Dr. Ying Tai](https://tyshiwo.github.io/).
 - *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by ECCV 2020 as spotlight presentation. <span style="color:red">(Time-Lapse Video Generation)</span>
-- *2020.04*: &nbsp;🎉🎉🎉 From master to docker, pursuing Ph.D. in Zhejiang University, Hangzhou, China.
+- *2020.04*: &nbsp;🎉🎉🎉 From master to docker, pursuing Ph.D. in Zhejiang University, Hangzhou, China.🔭🔭🔭
 - *2020.02*: &nbsp;🎉🎉🎉 One paper is accepted by CVPR 2022. <span style="color:red">(Face Reenactment)</span>
 
 # 📝 Publications 
@@ -121,4 +123,5 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2020.12 - Now*, YouTu Lab, Tencent, mentored by Researcher Jian Li, Researcher Yabiao Wang, and Dr. Ying Tai.
+- *2020.12 - Now*, YouTu Lab, Tencent, mentored by Researcher Jian Li, Researcher Yabiao Wang, and [Dr. Ying Tai](https://tyshiwo.github.io/).
+- *2020.06 - 2020.11*, Huawei 2012, mentored by Researcher Zeyi Huang.
