@@ -41,7 +41,7 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 - 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
 - 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection, Person Re-Identification, etc.
 
-💬 Feel free to drop me emails if you have interests, and remote cooperations are 
+💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests, and remote cooperations are 
 
 💖 I love 📷photography, 🍲cooking, and 🌏traveling, going together! 
 
