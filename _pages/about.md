@@ -32,15 +32,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://www.emojiall.com/zh-hans/categories/F
 -->
 
 I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
 - 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.
 - 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
 - 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection, Person Re-Identification, etc.
-- 💬 Feel free to drop me emails if you have interests.
-- 💬 Remote cooperations are welcomed.
 
+💬 Feel free to drop me emails if you have interests, and remote cooperations are 
+
+💖 I love 📷photography, 🍲cooking, and 🌏traveling, going together! 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -124,4 +127,4 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 # 💻 Internships
 - *2020.12 - Now*, YouTu Lab, Tencent, Shanghai, mentored by Researcher Jian Li, Researcher Yabiao Wang, and [Dr. Ying Tai](https://tyshiwo.github.io/).
-- *2020.06 - 2020.11*, Huawei 2012, Hangzhou, mentored by Researcher Zeyi Huang.
+- *2020.06 - 2020.11*, 2012 Lab, Huawei, Hangzhou, mentored by Researcher Zeyi Huang.
