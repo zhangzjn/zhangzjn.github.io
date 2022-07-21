@@ -43,7 +43,7 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests, and remote cooperations are welcomed.
 
-💖 I love 📷photography, 🍲cooking, and 🌏traveling, going together!!!!!!
+💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -58,7 +58,7 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 - *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher Jian Li, Researcher Yabiao Wang, and [Dr. Ying Tai](https://tyshiwo.github.io/).
 - *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by ECCV 2020 as spotlight presentation. <span style="color:red">(Time-Lapse Video Generation)</span>
 - *2020.04*: &nbsp;🎉🎉🎉 From master to docker, pursuing Ph.D. in Zhejiang University, Hangzhou, China.🔭🔭🔭
-- *2020.02*: &nbsp;🎉🎉🎉 One paper is accepted by CVPR 2022. <span style="color:red">(Face Reenactment)</span>
+- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by CVPR 2022. <span style="color:red">(Face Reenactment; Unsupervised Optical Flow Estimation)</span>
 
 # 📝 Publications 
 
@@ -80,6 +80,8 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 <li><strong>ECCV 2020</strong> <span style="color:red">(Spotlight)</span> <a href="https://link.springer.com/chapter/10.1007/978-3-030-58558-7_18">DTVNet: Dynamic Time-Lapse Video Generation via Single Still Image</a>, <strong>Jiangning Zhang</strong>*, Chao Xu*, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, and Yunliang Jiang | <a href="https://github.com/zhangzjn/DTVNet">Code</a> </li>
 
 <li><strong>CVPR 2020</strong> <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">FReeNet: Multi-Identity Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan | <a href="https://github.com/zhangzjn/FReeNet">Code</a> </li>
+
+li><strong>CVPR 2020</strong> <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Learning_by_Analogy_Reliable_Supervision_From_Transformations_for_Unsupervised_Optical_CVPR_2020_paper.html">Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation</a>, Liang Liu, <strong>Jiangning Zhang</strong>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang | <a href="https://github.com/lliuz/ARFlow">Code</a> </li>
 
 <li><strong>ICASSP 2020</strong> <a href="https://ieeexplore.ieee.org/abstract/document/9052977">APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals</a>, <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu | <a href="https://github.com/zhangzjn/APB2Face">Code</a> </li>
 
