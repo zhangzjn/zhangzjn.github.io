@@ -50,7 +50,7 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 # 🔥 News
 - *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the IJIRA Best Paper Award 2022. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
-- *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by ECCV 2022. <span style="color:red">(Face Reenactment/Swapping; Point Cloud Sampling/Reconstruction)</span>
+- *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by ECCV 2022. <span style="color:red">(Face Reenactment/Swapping | Point Cloud Sampling/Reconstruction)</span>
 - *2022.06*: &nbsp;🎉🎉🎉 One paper is accepted by TCSVT. <span style="color:red">(Video Object Detection)</span>
 - *2022.03*: &nbsp;🎉🎉🎉 One paper is accepted by CVPR 2022. <span style="color:red">(Face Swapping)</span>
 - *2021.12*: &nbsp;🎉🎉🎉 One paper is accepted by AAAI 2022. <span style="color:red">(Image Colorization and Super-Resolution)</span>
@@ -58,7 +58,7 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 - *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher Jian Li, Researcher Yabiao Wang, and [Dr. Ying Tai](https://tyshiwo.github.io/).
 - *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by ECCV 2020 as spotlight presentation. <span style="color:red">(Time-Lapse Video Generation)</span>
 - *2020.04*: &nbsp;🎉🎉🎉 From master to docker, pursuing Ph.D. in Zhejiang University, Hangzhou, China.🔭🔭🔭
-- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by CVPR 2022. <span style="color:red">(Face Reenactment; Unsupervised Optical Flow Estimation)</span>
+- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by CVPR 2022. <span style="color:red">(Face Reenactment | Unsupervised Optical Flow Estimation)</span>
 
 # 📝 Publications 
 
@@ -129,4 +129,3 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 # 💻 Internships
 - *2020.12 - Now*, YouTu Lab, Tencent, Shanghai, mentored by Researcher Jian Li, Researcher Yabiao Wang, and [Dr. Ying Tai](https://tyshiwo.github.io/).
-- *2020.06 - 2020.11*, 2012 Lab, Huawei, Hangzhou, mentored by Researcher Zeyi Huang.
