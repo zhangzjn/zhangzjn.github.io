@@ -61,34 +61,34 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 ## Conference 
 <ul>
 
-<li><a href="https://ieeexplore.ieee.org/abstract/document/9052977">APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals</a>, <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu, <strong>ICASSP 2020</strong> | <a href="https://github.com/zhangzjn/APB2Face">Code</a> </li>
-
-<li><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">FReeNet: Multi-Identity Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan, <strong>CVPR 2020</strong> | <a href="https://github.com/zhangzjn/FReeNet">Code</a> </li>
-
-<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-58558-7_18">DTVNet: Dynamic Time-Lapse Video Generation via Single Still Image</a>, <strong>Jiangning Zhang</strong>*, Chao Xu*, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, and Yunliang Jiang, <strong>ECCV 2020</strong> <span style="color:red">(Spotlight)</span> | <a href="https://github.com/zhangzjn/DTVNet">Code</a> </li>
-
-<li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Yue Han, Yabiao Wang, Ying Tai, and Yong Liu, <strong>AAAI 2022</strong> | <a href=""></a> </li>
-
-<li><a href="https://proceedings.neurips.cc/paper/2021/hash/e02e27e04fdff967ba7d76fb24b8069d-Abstract.html">Analogous to Evolutionary Algorithm: Designing a Unified Sequence Model</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Wenzhou Chen, Yabiao Wang, Ying Tai, Shuo Chen, Chengjie Wang, Feiyue Huang, and Yong Liu, <strong>NeurIPS 2021</strong> | <a href="https://github.com/TencentYoutuResearch/BaseArchitecture-EAT">Code</a> </li>
-
-<li><a href="https://ieeexplore.ieee.org/abstract/document/9552566">Region-Aware Face Swapping</a>, Chao Xu*, <strong>Jiangning Zhang</strong>*, Miao Hua, Qian He, Zili Yi, and Yong Liu, <strong>CVPR 2022</strong> | <a href=""></a> </li>
-
 <li><a href="https://arxiv.org">Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping</a>, Chao Xu*, <strong>Jiangning Zhang</strong>*, Yue Han, Guanzhong Tian, Xianfang Zeng, Ying Tai, Yabiao Wang, Chengjie Wang, and Yong Liu, <strong>ECCV 2022</strong> | <a href="https://github.com/xc-csc101/UniFace">Code</a> </li>
 
 <li><a href="https://arxiv.org">Resolution-free Point Cloud Sampling Network with Data Distillation</a>, Tianxin Huang*, <strong>Jiangning Zhang</strong>*, Jun Chen, Yuang Liu, and Yong Liu, <strong>ECCV 2022</strong> | <a href="https://github.com/Tianxinhuang/PCDNet">Code</a> </li>
 
 <li><a href="https://arxiv.org">Learning to Train a Point Cloud Reconstruction Network without Matching</a>, Tianxin Huang, Xuemeng Yang, <strong>Jiangning Zhang</strong>, Jinhao Cui, Hao Zou, Jun Chen, Xiangrui Zhao, and Yong Liu, <strong>ECCV 2022</strong> | <a href="https://github.com/Tianxinhuang/PCLossNet">Code</a> </li>
 
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9552566">Region-Aware Face Swapping</a>, Chao Xu*, <strong>Jiangning Zhang</strong>*, Miao Hua, Qian He, Zili Yi, and Yong Liu, <strong>CVPR 2022</strong> | <a href=""></a> </li>
+
+<li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Yue Han, Yabiao Wang, Ying Tai, and Yong Liu, <strong>AAAI 2022</strong> | <a href=""></a> </li>
+
+<li><a href="https://proceedings.neurips.cc/paper/2021/hash/e02e27e04fdff967ba7d76fb24b8069d-Abstract.html">Analogous to Evolutionary Algorithm: Designing a Unified Sequence Model</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Wenzhou Chen, Yabiao Wang, Ying Tai, Shuo Chen, Chengjie Wang, Feiyue Huang, and Yong Liu, <strong>NeurIPS 2021</strong> | <a href="https://github.com/TencentYoutuResearch/BaseArchitecture-EAT">Code</a> </li>
+
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-58558-7_18">DTVNet: Dynamic Time-Lapse Video Generation via Single Still Image</a>, <strong>Jiangning Zhang</strong>*, Chao Xu*, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, and Yunliang Jiang, <strong>ECCV 2020</strong> <span style="color:red">(Spotlight)</span> | <a href="https://github.com/zhangzjn/DTVNet">Code</a> </li>
+
+<li><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">FReeNet: Multi-Identity Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan, <strong>CVPR 2020</strong> | <a href="https://github.com/zhangzjn/FReeNet">Code</a> </li>
+
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9052977">APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals</a>, <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu, <strong>ICASSP 2020</strong> | <a href="https://github.com/zhangzjn/APB2Face">Code</a> </li>
+
 </ul>
 
 ## Journal
 <ul>
 
-<li><a href="https://ieeexplore.ieee.org/abstract/document/9552566">Real-Time Audio-Guided Multi-Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Chao Xu, and Yong Liu, <strong>SPL 2022 </strong> | <a href="https://github.com/zhangzjn/APB2FaceV2">Code</a> </li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9797768">Multi-Level Spatial-Temporal Feature Aggregation for Video Object Detection</a>, Chao Xu, <strong>Jiangning Zhang</strong>, Mengmeng Wang, Guanzhong Tian, and Yong Liu, <strong>IEEE-TCSVT 2022</strong> | <a href=""></a> </li>
 
 <li><a href="https://link.springer.com/article/10.1007/s41315-021-00167-2">Learning Hierarchical and Efficient Person Re-Identification for Robotic Navigation</a>, <strong>Jiangning Zhang</strong>, Chao Xu, Xiangrui Zhao, Liang Liu, Yong Liu, Jinqiang Yao, and Zaisheng Pan, <strong>IJIRA 2022</strong> <span style="color:red">(Best Paper Reward Nomination)</span> | <a href=""></a> </li>
 
-<li><a href="https://ieeexplore.ieee.org/abstract/document/9797768">Multi-Level Spatial-Temporal Feature Aggregation for Video Object Detection</a>, Chao Xu, <strong>Jiangning Zhang</strong>, Mengmeng Wang, Guanzhong Tian, and Yong Liu, <strong>IEEE-TCSVT 2022</strong> | <a href=""></a> </li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9552566">Real-Time Audio-Guided Multi-Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Chao Xu, and Yong Liu, <strong>SPL 2022 </strong> | <a href="https://github.com/zhangzjn/APB2FaceV2">Code</a> </li>
 
 <li><a href="https://ieeexplore.ieee.org/abstract/document/8566182">Learning-Based Hand Motion Capture and Understanding in Assembly Process</a>, Liang Liu, Yong Liu, and <strong>Jiangning Zhang</strong>, <strong>IEEE-TIE 2018</strong> | <a href=""></a> </li>
 
