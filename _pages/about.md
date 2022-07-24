@@ -129,3 +129,6 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 # 💻 Internships
 - *2020.12 - Now*, YouTu Lab, Tencent, Shanghai, mentored by Researcher Jian Li, Researcher Yabiao Wang, and [Dr. Ying Tai](https://tyshiwo.github.io/).
+- *2020.06 - 2020.10*, 2012 Lab, Huawei, Hangzhou.
+- *2019.07 - 2019.09*, Guangzi Technique Center, Tencent, Shenzhen.
+- *2019.04 - 2019.06*, Fuxi AI Lab, NetEase, Hangzhou.
