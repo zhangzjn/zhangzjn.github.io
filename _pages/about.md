@@ -49,18 +49,18 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the IJIRA Best Paper Award 2022. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
-- *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by ECCV 2022. <span style="color:red">(Face Reenactment/Swapping | Point Cloud Sampling/Reconstruction)</span>
-- *2022.06*: &nbsp;🎉🎉🎉 One paper is accepted by TCSVT. <span style="color:red">(Video Object Detection)</span>
-- *2022.03*: &nbsp;🎉🎉🎉 One paper is accepted by CVPR 2022. <span style="color:red">(Face Swapping)</span>
-- *2022.01*: &nbsp;🎉🎉🎉 One paper is presented in ICASSP 2022. <span style="color:red">(Audio-Guided Face Reenactment)</span>
-- *2021.12*: &nbsp;🎉🎉🎉 One paper is accepted by AAAI 2022. <span style="color:red">(Image Colorization and Super-Resolution)</span>
-- *2021.09*: &nbsp;🎉🎉🎉 One paper is accepted by NeurIPS 2021. <span style="color:red">(Transformer Architecture Design)</span>
+- *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
+- *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. <span style="color:red">(Face Reenactment/Swapping | Point Cloud Sampling/Reconstruction)</span>
+- *2022.06*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TCSVT</strong>. <span style="color:red">(Video Object Detection)</span>
+- *2022.03*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>CVPR 2022</strong>. <span style="color:red">(Face Swapping)</span>
+- *2022.01*: &nbsp;🎉🎉🎉 One paper is presented in <strong>ICASSP 2022</strong>. <span style="color:red">(Audio-Guided Face Reenactment)</span>
+- *2021.12*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2022</strong>. <span style="color:red">(Image Colorization and Super-Resolution)</span>
+- *2021.09*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>NeurIPS 2021</strong>. <span style="color:red">(Transformer Architecture Design)</span>
 - *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher [Jian Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=ACb5C40AAAAJ), Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ), and [Dr. Ying Tai](https://tyshiwo.github.io/).
-- *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by ECCV 2020 as spotlight presentation. <span style="color:red">(Time-Lapse Video Generation)</span>
+- *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. <span style="color:red">(Time-Lapse Video Generation)</span>
 - *2020.04*: &nbsp;🎉🎉🎉 From master to docker, pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/).🔭🔭🔭
-- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by CVPR 2022. <span style="color:red">(Face Reenactment | Unsupervised Optical Flow Estimation)</span>
-- *2020.01*: &nbsp;🎉🎉🎉 One paper is accepted by ICASSP 2020. <span style="color:red">(Audio-Guided Face Reenactment)</span>
+- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2022</strong>. <span style="color:red">(Face Reenactment | Unsupervised Optical Flow Estimation)</span>
+- *2020.01*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. <span style="color:red">(Audio-Guided Face Reenactment)</span>
 
 # 📝 Publications 
 
