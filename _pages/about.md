@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://www.emojiall.com/zh-hans/categories/F
+https://www.emojiall.com/zh-hans/all-cate
 -->
 
 I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
@@ -121,7 +121,7 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.04 - Now*, From master to docker, pursuing Ph.D. in Zhejiang University, Hangzhou, China. 
+- *2020.04 - Now*, M.D. 👉️ Ph.D., pursuing Ph.D. in Zhejiang University, Hangzhou, China. 
 - *2017.09 - 2020.04*, Pursuing M.D. in Zhejiang University, Hangzhou, China.
 - *2013.09 - 2017.06*, Obtained B.S. in Wuhan University, Wuhan, China.
 
