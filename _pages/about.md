@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 https://www.emojiall.com/zh-hans/all-cate
 -->
 
-I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
+I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
 - 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.
 - 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
-- 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection, Person Re-Identification, etc.
+- 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection.
 
 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests, and remote cooperations are welcomed.
 
@@ -49,6 +49,8 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 
 # 🔥 News
+- *2022.10*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>SIGGRAPH Asia 2022</strong>. <span style="color:red">(Point Cloud Quantization Compression)</span>
+- *2022.08*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. <span style="color:red">(Dense Point Cloud Completion)</span>
 - *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
 - *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. <span style="color:red">(Face Reenactment/Swapping | Point Cloud Sampling/Reconstruction)</span>
 - *2022.06*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TCSVT</strong>. <span style="color:red">(Video Object Detection)</span>
@@ -66,6 +68,8 @@ I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science a
 
 ## Conference 
 <ul>
+
+<li><strong>SIGGRAPH Asia 2022</strong> <a href="https://arxiv.org">3QNet: 3D Point Cloud Geometry Quantization Compression Network</a>, Tianxin Huang, <strong>Jiangning Zhang</strong>, Jun Chen, Zhonggan Ding, Ying Tai, Zhenyu Zhang, Chengjie Wang, and Yong Liu </li>
 
 <li><strong>ECCV 2022</strong> <a href="https://arxiv.org">Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping</a>, Chao Xu*, <strong>Jiangning Zhang</strong>*, Yue Han, Guanzhong Tian, Xianfang Zeng, Ying Tai, Yabiao Wang, Chengjie Wang, and Yong Liu | <a href="https://github.com/xc-csc101/UniFace">Code</a> </li>
 
