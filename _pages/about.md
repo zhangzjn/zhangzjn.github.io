@@ -50,6 +50,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 
 # 🔥 News
 - *2022.10*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>SIGGRAPH Asia 2022</strong>. <span style="color:red">(Point Cloud Quantization Compression)</span>
+- *2020.10*: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai.🔭🔭🔭
 - *2022.08*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. <span style="color:red">(Dense Point Cloud Completion)</span>
 - *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
 - *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. <span style="color:red">(Face Reenactment/Swapping | Point Cloud Sampling/Reconstruction)</span>
