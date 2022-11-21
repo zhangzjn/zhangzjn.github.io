@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 https://www.emojiall.com/zh-hans/all-cate
 -->
 
-I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
-- 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.
-- 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
-- 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection.
+I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
+🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.<br>
+🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.<br>
+🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection.
 
 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests, and remote cooperations are welcomed.
 
@@ -49,8 +49,9 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 
 
 # 🔥 News
+- *2022.11*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. <span style="color:red">(Sparsely Annotated Object Detection)</span>
 - *2022.10*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>SIGGRAPH Asia 2022</strong>. <span style="color:red">(Point Cloud Quantization Compression)</span>
-- *2020.10*: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai.🔭🔭🔭
+- *2020.10*: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai. 🔭🔭🔭
 - *2022.08*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. <span style="color:red">(Dense Point Cloud Completion)</span>
 - *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
 - *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. <span style="color:red">(Face Reenactment/Swapping | Point Cloud Sampling/Reconstruction)</span>
@@ -62,7 +63,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 - *2021.09*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>NeurIPS 2021</strong>. <span style="color:red">(Transformer Architecture Design)</span>
 - *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher [Jian Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=ACb5C40AAAAJ), Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ), and [Dr. Ying Tai](https://tyshiwo.github.io/).
 - *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. <span style="color:red">(Time-Lapse Video Generation)</span>
-- *2020.04*: &nbsp;🎉🎉🎉 From master to docker! 🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/).🔭🔭🔭
+- *2020.04*: &nbsp;🎉🎉🎉 From master to docker! 🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). 🔭🔭🔭
 - *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2022</strong>. <span style="color:red">(Face Reenactment | Unsupervised Optical Flow Estimation)</span>
 - *2020.01*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. <span style="color:red">(Audio-Guided Face Reenactment)</span>
 
