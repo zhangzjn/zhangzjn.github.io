@@ -129,7 +129,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.04 - Now*, M.D. 👉️ Ph.D. in College of Control Science and Engineering, Zhejiang University, Hangzhou, China. 
+- *2020.04 - 2022.10*, M.D. 👉️ Ph.D. in College of Control Science and Engineering, Zhejiang University, Hangzhou, China. 
 - *2017.09 - 2020.04*, Pursuing M.D. in College of Control Science and Engineering, Zhejiang University, Hangzhou, China.
 - *2013.09 - 2017.06*, Obtained B.S. in Electronic Information School, Wuhan University, Wuhan, China.
 
@@ -138,7 +138,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2020.12 - Now*, YouTu Lab, Tencent, Shanghai, mentored by Researcher [Jian Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=ACb5C40AAAAJ), Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ), and [Dr. Ying Tai](https://tyshiwo.github.io/).
+- *2020.12 - 2022.10*, YouTu Lab, Tencent, Shanghai, mentored by Researcher [Jian Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=ACb5C40AAAAJ), Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ), and [Dr. Ying Tai](https://tyshiwo.github.io/).
 - *2020.06 - 2020.10*, 2012 Lab, Huawei, Hangzhou.
 - *2019.07 - 2019.09*, Guangzi Technique Center, Tencent, Shenzhen.
 - *2019.04 - 2019.06*, Fuxi AI Lab, NetEase, Hangzhou.
