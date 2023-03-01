@@ -49,6 +49,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. <span style="color:red">(Super-Resolution | Emotional Talking Face Generation | Multimodal Industrial Anomaly Detection | Self-supervised Object Detection | Point Cloud Reconstruction | Noisy Labels Learning)</span>
 - *2022.11*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. <span style="color:red">(Sparsely Annotated Object Detection)</span>
 - *2022.10*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>SIGGRAPH Asia 2022</strong>. <span style="color:red">(Point Cloud Quantization Compression)</span>
 - *2020.10*: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai. 🔭🔭🔭
