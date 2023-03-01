@@ -65,7 +65,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 - *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher [Jian Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=ACb5C40AAAAJ), Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ), and [Dr. Ying Tai](https://tyshiwo.github.io/).
 - *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. <span style="color:red">(Time-Lapse Video Generation)</span>
 - *2020.04*: &nbsp;🎉🎉🎉 From master to docker! 🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). 🔭🔭🔭
-- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2022</strong>. <span style="color:red">(Face Reenactment | Unsupervised Optical Flow Estimation)</span>
+- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>. <span style="color:red">(Face Reenactment | Unsupervised Optical Flow Estimation)</span>
 - *2020.01*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. <span style="color:red">(Audio-Guided Face Reenactment)</span>
 
 # 📝 Publications 
