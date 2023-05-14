@@ -49,7 +49,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉🎉 1st place for [Zero-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12499#results) and 4th place for [Few-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12500#results) in [Visual Anomaly and Novelty Detection (VAND) 2023 Challenge](https://sites.google.com/view/vand-cvpr23/home) by <strong>CVPR 2023</strong>. <span style="color:red">(Anomaly Detection)</span>
+- *2023.05*: &nbsp;🎉🎉🎉 1st place for [Zero-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12499#results) and 4th place for [Few-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12500#results) in [Visual Anomaly and Novelty Detection (VAND) 2023 Challenge](https://sites.google.com/view/vand-cvpr23/home) by <strong>CVPR 2023</strong>. <span style="color:red">(Anomaly Detection and Segmentation)</span>
 - *2023.03*: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. <span style="color:red">(Super-Resolution | Emotional Talking Face Generation | Multimodal Industrial Anomaly Detection | Self-supervised Object Detection | Point Cloud Reconstruction | Noisy Labels Learning)</span>
 - *2022.11*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. <span style="color:red">(Sparsely Annotated Object Detection)</span>
 - *2022.10*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>SIGGRAPH Asia 2022</strong>. <span style="color:red">(Point Cloud Quantization Compression)</span>
