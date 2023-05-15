@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangning Zhang"
-description              : "Generative Adversarial Network (GAN) \nNeural Architecture Design (NAD) \nSemantic/Instance Segmentation"
+description              : "Generative Adversarial Network (GAN) \nNeural Architecture Design (NAD) \nAnomaly Detection and Segmentation"
 repository               : "zhangzjn/zhangzjn.github.io"
 google_scholar_stats_use_cdn : true
 

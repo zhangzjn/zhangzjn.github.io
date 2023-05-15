@@ -39,7 +39,7 @@ https://www.emojiall.com/zh-hans/all-cate
 I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.<br>
 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.<br>
-🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection.
+🌱 Anomaly Detection and Segmentation.
 
 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests, and remote cooperations are welcomed.
 
