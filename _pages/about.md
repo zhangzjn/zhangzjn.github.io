@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 https://www.emojiall.com/zh-hans/all-cate
 -->
 
-I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
+I receive Ph.D. degree (2020.04 - 2022.09) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.<br>
 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.<br>
 🌱 Anomaly Detection and Segmentation.
