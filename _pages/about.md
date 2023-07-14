@@ -49,7 +49,7 @@ I am pursuing my Ph.D. degree (2020.04 - 2022.09) in College of Control Science 
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. <span style="color:red">(Efficient Mobile Backbone; Image Synthesis; Diffusion-based Few-Shot Model Adaption; Anomaly Detection)</span>
+- *2023.07*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. <span style="color:red">(Efficient Mobile Backbone Design | Image Synthesis | Diffusion-based Few-Shot Model Adaption | Anomaly Detection)</span>
 - *2023.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. <span style="color:red">(Anomaly Detection)</span>
 - *2023.05*: &nbsp;🎉🎉🎉 1st place for [Zero-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12499#results) and 4th place for [Few-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12500#results) in [Visual Anomaly and Novelty Detection (VAND) 2023 Challenge](https://sites.google.com/view/vand-cvpr23/home) by <strong>CVPR 2023</strong>. <span style="color:red">(Anomaly Detection and Segmentation)</span>
 - *2023.03*: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. <span style="color:red">(Super-Resolution | Emotional Talking Face Generation | Multimodal Industrial Anomaly Detection | Self-supervised Object Detection | Point Cloud Reconstruction | Noisy Labels Learning)</span>
