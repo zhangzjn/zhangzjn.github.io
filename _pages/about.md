@@ -50,6 +50,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> and I work as a Senior Researc
 
 
 # 🔥 News
+- *2023.07*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. <span style="color:red">(Backbone Design | Facial Representation Learning)</span>
 - *2023.07*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. <span style="color:red">(Efficient Mobile Backbone Design | Image Synthesis | Diffusion-based Few-Shot Model Adaption | Anomaly Detection)</span>
 - *2023.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. <span style="color:red">(Anomaly Detection)</span>
 - *2023.05*: &nbsp;🎉🎉🎉 1st place for [Zero-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12499#results) and 4th place for [Few-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12500#results) in [Visual Anomaly and Novelty Detection (VAND) 2023 Challenge](https://sites.google.com/view/vand-cvpr23/home) by <strong>CVPR 2023</strong>. <span style="color:red">(Anomaly Detection and Segmentation)</span>
