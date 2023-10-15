@@ -42,8 +42,8 @@ I am <strong>Jiangning Zhang (张江宁)</strong> and I work as a Senior Researc
 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture, light-wight vision model, etc.<br>
 🌱 Anomaly Classification and Segmentation.
 
-💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.
-💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team/) at Zhejiang University. 
+💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
+💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team/) at Zhejiang University.<br>
 💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
