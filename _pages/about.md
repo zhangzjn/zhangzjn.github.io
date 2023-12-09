@@ -37,7 +37,7 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-I am <strong>Jiangning Zhang (张江宁)</strong> and I work as a Principal Researcher of two teams (Industry and AIGC orientations) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
+<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry and AIGC orientations) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
 🌱 GAN-/Diffusion-based AIGC researches with LLM, e.g., multi-modal image/video generation, 2D/3D virtual digital human related researches (3D face/body/hand reconstruction, multi-modal digital human drive, motion generation, etc.), text-to-image generation, multi-modal human-centric editing and generation, etc.<br>
 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture, light-wight vision model, etc.<br>
 🌱 Anomaly Classification and Segmentation.
@@ -76,6 +76,23 @@ I am <strong>Jiangning Zhang (张江宁)</strong> and I work as a Principal Rese
 - *2020.01*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. <span style="color:red">(Audio-Guided Face Reenactment)</span>
 
 # 📝 Publications 
+[Conference](##Conference)
+
+[Conference](##ArXiv)
+
+<h2>
+	<a href="#pub2023"><u>2023</u></a>&nbsp;
+	<a href="#pub2022"><u>2022</u></a>&nbsp;
+	<a href="#pub2021"><u>2021</u></a>&nbsp;
+	<a href="#pub2020"><u>2020</u></a>&nbsp;
+	<a href="#pub2019"><u>2019</u></a>&nbsp;
+	<a href="#pub2018"><u>2018</u></a>&nbsp;
+	<a href="#pub2016"><u>2016</u></a>&nbsp;
+	<a href="#top" class="txt"><u>Top</u></a>
+    </small> <br>
+</h2>
+
+<tr> <td><a name="pub2023"></a>2023</td> </tr>
 
 ## Conference 
 <ul>
@@ -116,6 +133,8 @@ I am <strong>Jiangning Zhang (张江宁)</strong> and I work as a Principal Rese
 <li><strong>TIE 2018</strong> <a href="https://ieeexplore.ieee.org/abstract/document/8566182">Learning-Based Hand Motion Capture and Understanding in Assembly Process</a>, Liang Liu, Yong Liu, and <strong>Jiangning Zhang</strong> </li>
 
 </ul>
+
+<tr> <td><a name="pub2022"></a>2022</td> </tr>
 
 ## ArXiv
 
