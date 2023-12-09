@@ -52,47 +52,71 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. <span style="color:red">(Backbone Design | Facial Representation Learning)</span>
-- *2023.07*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. <span style="color:red">(Efficient Mobile Backbone Design | Image Synthesis | Diffusion-based Few-Shot Model Adaption | Anomaly Detection)</span>
-- *2023.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. <span style="color:red">(Anomaly Detection)</span>
-- *2023.05*: &nbsp;🎉🎉🎉 1st place for [Zero-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12499#results) and 4th place for [Few-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12500#results) in [Visual Anomaly and Novelty Detection (VAND) 2023 Challenge](https://sites.google.com/view/vand-cvpr23/home) by <strong>CVPR 2023</strong>. <span style="color:red">(Anomaly Detection and Segmentation)</span>
-- *2023.03*: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. <span style="color:red">(Super-Resolution | Emotional Talking Face Generation | Multimodal Industrial Anomaly Detection | Self-supervised Object Detection | Point Cloud Reconstruction | Noisy Labels Learning)</span>
-- *2022.11*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. <span style="color:red">(Sparsely Annotated Object Detection)</span>
-- *2022.10*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>SIGGRAPH Asia 2022</strong>. <span style="color:red">(Point Cloud Quantization Compression)</span>
+- *2023.12*: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>AAAI 2024</strong>. 
+- *2023.07*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. 
+- *2023.07*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. 
+- *2023.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. 
+- *2023.05*: &nbsp;🎉🎉🎉 1st place for [Zero-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12499#results) and 4th place for [Few-shot Track](https://codalab.lisn.upsaclay.fr/competitions/12500#results) in [Visual Anomaly and Novelty Detection (VAND) 2023 Challenge](https://sites.google.com/view/vand-cvpr23/home) by <strong>CVPR 2023</strong>. 
+- *2023.03*: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. 
+- *2022.11*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. 
+- *2022.10*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>SIGGRAPH Asia 2022</strong>. 
 - *2022.10*: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai. 🔭🔭🔭
-- *2022.08*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. <span style="color:red">(Dense Point Cloud Completion)</span>
-- *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. <span style="color:red">(Person Re-Identification and Robotic Navigation)</span>
-- *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. <span style="color:red">(Face Reenactment/Swapping | Point Cloud Sampling/Reconstruction)</span>
-- *2022.06*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TCSVT</strong>. <span style="color:red">(Video Object Detection)</span>
-- *2022.05*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2022</strong>. <span style="color:red">(Semantic Segmentation)</span>
-- *2022.03*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>CVPR 2022</strong>. <span style="color:red">(Face Swapping)</span>
-- *2022.01*: &nbsp;🎉🎉🎉 One paper is presented in <strong>ICASSP 2022</strong>. <span style="color:red">(Audio-Guided Face Reenactment)</span>
-- *2021.12*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2022</strong>. <span style="color:red">(Image Colorization and Super-Resolution)</span>
-- *2021.09*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>NeurIPS 2021</strong>. <span style="color:red">(Transformer Architecture Design)</span>
+- *2022.08*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. 
+- *2022.07*: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. 
+- *2022.07*: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. 
+- *2022.06*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TCSVT</strong>. 
+- *2022.05*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2022</strong>. 
+- *2022.03*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>CVPR 2022</strong>. 
+- *2022.01*: &nbsp;🎉🎉🎉 One paper is presented in <strong>ICASSP 2022</strong>. 
+- *2021.12*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2022</strong>. 
+- *2021.09*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>NeurIPS 2021</strong>. 
 - *2020.12*: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ) and [Dr. Ying Tai](https://tyshiwo.github.io/).
-- *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. <span style="color:red">(Time-Lapse Video Generation)</span>
-- *2020.04*: &nbsp;🎉🎉🎉 From master to doctor! 🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). 🔭🔭🔭
-- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>. <span style="color:red">(Face Reenactment | Unsupervised Optical Flow Estimation)</span>
-- *2020.01*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. <span style="color:red">(Audio-Guided Face Reenactment)</span>
+- *2020.07*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. 
+- *2020.04*: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). 🔭🔭🔭
+- *2020.02*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>
+- *2020.01*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>
 
 # 📝 Publications 
-[Conference](##Conference)
-
-[Conference](##ArXiv)
 
 <h2>
 	<a href="#pub2023"><u>2023</u></a>&nbsp;
 	<a href="#pub2022"><u>2022</u></a>&nbsp;
-	<a href="#pub2021"><u>2021</u></a>&nbsp;
-	<a href="#pub2020"><u>2020</u></a>&nbsp;
-	<a href="#pub2019"><u>2019</u></a>&nbsp;
-	<a href="#pub2018"><u>2018</u></a>&nbsp;
-	<a href="#pub2016"><u>2016</u></a>&nbsp;
-	<a href="#top" class="txt"><u>Top</u></a>
-    </small> <br>
 </h2>
 
-<tr> <td><a name="pub2023"></a>2023</td> </tr>
+## [2023]() 
+
+<ol reversed id="pub2023">
+
+<li><strong>CVPR 2020</strong> <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">FReeNet: Multi-Identity Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan | <a href="https://github.com/zhangzjn/FReeNet">Code</a> </li>
+
+<li><strong>CVPR 2020</strong> <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Learning_by_Analogy_Reliable_Supervision_From_Transformations_for_Unsupervised_Optical_CVPR_2020_paper.html">Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation</a>, Liang Liu, <strong>Jiangning Zhang</strong>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang | <a href="https://github.com/lliuz/ARFlow">Code</a> </li>
+
+<li id="item1"> 
+  APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
+  <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu <br>
+  <i>International Conference on Acoustics, Speech, and Signal Processing* <strong>(ICASSP).</strong></i> 2020.
+</li>
+
+</ol>
+
+
+## [2022]() 
+
+<ol reversed id="pub2022">
+
+<li><strong>CVPR 2020</strong> <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">FReeNet: Multi-Identity Face Reenactment</a>, <strong>Jiangning Zhang</strong>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan | <a href="https://github.com/zhangzjn/FReeNet">Code</a> </li>
+
+<li><strong>CVPR 2020</strong> <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Learning_by_Analogy_Reliable_Supervision_From_Transformations_for_Unsupervised_Optical_CVPR_2020_paper.html">Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation</a>, Liang Liu, <strong>Jiangning Zhang</strong>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang | <a href="https://github.com/lliuz/ARFlow">Code</a> </li>
+
+<li id="item1"> 
+  APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
+  <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu <br>
+  <i>International Conference on Acoustics, Speech, and Signal Processing* <strong>(ICASSP).</strong></i> 2020.
+</li>
+
+</ol>
+
+
 
 ## Conference 
 <ul>
@@ -117,7 +141,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <li><strong>CVPR 2020</strong> <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Learning_by_Analogy_Reliable_Supervision_From_Transformations_for_Unsupervised_Optical_CVPR_2020_paper.html">Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation</a>, Liang Liu, <strong>Jiangning Zhang</strong>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang | <a href="https://github.com/lliuz/ARFlow">Code</a> </li>
 
-<li><strong>ICASSP 2020</strong> <a href="https://ieeexplore.ieee.org/abstract/document/9052977">APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals</a>, <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu | <a href="https://github.com/zhangzjn/APB2Face">Code</a> </li>
+<li id="item1"><strong>ICASSP 2020</strong> <a href="https://ieeexplore.ieee.org/abstract/document/9052977">APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals</a>, <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu | <a href="https://github.com/zhangzjn/APB2Face">Code</a> </li>
 
 </ul>
 
@@ -133,8 +157,6 @@ https://www.emojiall.com/zh-hans/all-cate
 <li><strong>TIE 2018</strong> <a href="https://ieeexplore.ieee.org/abstract/document/8566182">Learning-Based Hand Motion Capture and Understanding in Assembly Process</a>, Liang Liu, Yong Liu, and <strong>Jiangning Zhang</strong> </li>
 
 </ul>
-
-<tr> <td><a name="pub2022"></a>2022</td> </tr>
 
 ## ArXiv
 
