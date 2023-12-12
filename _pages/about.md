@@ -82,7 +82,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 # 📝 Publications 
 
-<h2 padding-top: 60px; margin-top: -60px;>
+<h2>
 	<a href="#pub2023"><u>2023</u></a>&nbsp;
 	<a href="#pub2022"><u>2022</u></a>&nbsp;
   <a href="#pub2021"><u>2021</u></a>&nbsp;
@@ -103,7 +103,7 @@ https://www.emojiall.com/zh-hans/all-cate
 </ol> -->
 
 
-<h2 id="pub2023" style="color: #2c4a88;">2023</h2>
+<h2 id="pub2023" style="color: #2c4a88;" padding-top=60px margin-top=-60px>2023</h2>
 <ol reversed>
   <li id="2023-18"> 
     A Diffusion-based Framework for Multi-class Anomaly Detection <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
@@ -197,7 +197,7 @@ https://www.emojiall.com/zh-hans/all-cate
   </li>
 </ol>
 
-<h2 id="pub2022" style="color: #2c4a88;">2022</h2>
+<h2 id="pub2022" style="color: #2c4a88;" padding-top=60px margin-top=-60px>2022</h2>
 <ol reversed>
   <li id="2022-11"> 
     Calibrated Teacher for Sparsely Annotated Object Detection <a href="https://link.springer.com/chapter/10.1007/978-3-031-19784-0_4">[Paper]</a> <a href="https://github.com/whileherham/calibratedteacher">[Code]</a> <br> 
@@ -256,7 +256,7 @@ https://www.emojiall.com/zh-hans/all-cate
   </li>
 </ol>
 
-<h2 id="pub2021" style="color: #2c4a88;">2021</h2>
+<h2 id="pub2021" style="color: #2c4a88;" padding-top=60px margin-top=-60px>2021</h2>
 <ol reversed>
   <li id="2021-5"> 
     SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">[Paper]</a> <br> 
@@ -285,7 +285,7 @@ https://www.emojiall.com/zh-hans/all-cate
   </li>
 </ol>
 
-<h2 id="pub2020" style="color: #2c4a88;">2020</h2>
+<h2 id="pub2020" style="color: #2c4a88;" padding-top=60px margin-top=-60px>2020</h2>
 <ol reversed>
   <li id="2020-4"> 
     DTVNet: Dynamic Time-Lapse Video Generation via Single Still Image <a href="https://link.springer.com/chapter/10.1007/978-3-030-58558-7_18">[Paper]</a> <a href="https://github.com/zhangzjn/DTVNet">[Code]</a> <br> 
@@ -319,7 +319,7 @@ https://www.emojiall.com/zh-hans/all-cate
   </li>
 </ol>
 
-<h2 id="arxiv" style="color: #2c4a88;">arXiv</h2>
+<h2 id="arxiv" style="color: #2c4a88;" padding-top=60px margin-top=-60px>arXiv</h2>
 <ol reversed>
   <li id="arxiv"> 
     Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.02612">[Paper]</a> <a href="https://github.com/zhangzjn/GPT-4V-AD">[Code]</a> <br> 
@@ -363,7 +363,7 @@ https://www.emojiall.com/zh-hans/all-cate
   </li>
 </ol>
 
-<h2 id="challenges" style="color: #2c4a88;">Challenges</h2>
+<h2 id="challenges" style="color: #2c4a88;" padding-top=60px margin-top=-60px>Challenges</h2>
 <ol reversed>
   <li id="2018-1"> 
     1st place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12499#results)">[Zero-shot Track]</a> and 4th place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12500#results)">[Few-shot Track]</a> in <a href="(https://sites.google.com/view/vand-cvpr23/home)">[Visual Anomaly and Novelty Detection (VAND) 2023 Challenge]</a> by <strong>CVPR 2023</strong> <br>
