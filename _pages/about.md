@@ -37,7 +37,7 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry and AIGC orientations) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
+<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry and AIGC orientations) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My major is Computer Vision and my research interests include:<br>
 🌱 GAN-/Diffusion-based AIGC researches with LLM, e.g., multi-modal image/video generation, 2D/3D virtual digital human related researches (3D face/body/hand reconstruction, multi-modal digital human drive, motion generation, etc.), text-to-image generation, multi-modal human-centric editing and generation, etc.<br>
 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture, light-wight vision model, etc.<br>
 🌱 Anomaly Classification and Segmentation.
@@ -45,8 +45,9 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
-💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team/) at Zhejiang University.<br>
-💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!!
+💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team) at Zhejiang University.<br>
+💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!! <br>
+📝 [Publications](https://zhangzjn.github.io/#-publications)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
