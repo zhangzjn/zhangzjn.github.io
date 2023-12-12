@@ -106,7 +106,7 @@ https://www.emojiall.com/zh-hans/all-cate
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
   <li id="2023-18"> 
-    A Diffusion-based Framework for Multi-class Anomaly Detection <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
+    DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection <a href="https://arxiv.org/abs/2312.06607">[Paper]</a> <a href="https://github.com/lewandofskee/DiAD">[Code]</a> <a href="https://lewandofskee.github.io/projects/diad">[Project]</a> <br> 
     Haoyang He*, <strong>Jiangning Zhang*</strong>, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
@@ -116,12 +116,12 @@ https://www.emojiall.com/zh-hans/all-cate
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-16"> 
-    Self-supervised Likelihood Estimation with Energy Guidance for Anomaly Segmentation in Urban Scenes <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
+    Self-supervised Likelihood Estimation with Energy Guidance for Anomaly Segmentation in Urban Scenes <a href="https://arxiv.org/abs/2302.06815">[Paper]</a> <a href="">[Code]</a> <br> 
     Yuanpeng Tu, Yuxi Li, Boshen Zhang, Liang Liu, <strong>Jiangning Zhang</strong>, Yabiao Wang, and Cairong Zhao <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-15"> 
-    AnomalyDiffusion: Few-Shot Anomaly Generation with Diffusion Model <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
+    AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model <a href="https://arxiv.org/abs/2312.05767">[Paper]</a> <a href="https://github.com/sjtuplayer/anomalydiffusion">[Code]</a> <br> 
     Teng Hu*, <strong>Jiangning Zhang*</strong>, Ran Yi, Yuzhen Du, Xu Chen, Liang Liu, Yabiao Wang, and Chengjie Wang <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
