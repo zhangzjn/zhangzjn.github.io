@@ -323,6 +323,11 @@ https://www.emojiall.com/zh-hans/all-cate
 <h2 id="arxiv" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">arXiv</h2>
 <ol reversed>
   <li id="arxiv"> 
+    Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <br> 
+    <strong>Jiangning Zhang</strong>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, Dacheng Tao <br>
+    <i><strong>(arXiv).</strong></i> 2023, 2312.07495.
+  </li>
+  <li id="arxiv"> 
     Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.02612">[Paper]</a> <a href="https://github.com/zhangzjn/GPT-4V-AD">[Code]</a> <br> 
     <strong>Jiangning Zhang</strong>, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
     <i><strong>(arXiv).</strong></i> 2023, 2311.02612.
