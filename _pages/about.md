@@ -53,6 +53,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
+- *2023.12.14*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. 
 - *2023.12.09*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. 
 - *2023.07.26*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. 
 - *2023.07.14*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. 
@@ -106,6 +107,11 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
+  <li id="arxiv"> 
+    Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation <a href="https://arxiv.org/abs/2305.07223">[Paper]</a> <br> 
+    Yuhang Ling, Yuxi Li, Zhenye Gan, <strong>Jiangning Zhang</strong>, Mingmin Chi, and Yabiao Wang <br>
+    <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2024.
+  </li>
   <li id="2023-18"> 
     DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection <a href="https://arxiv.org/abs/2312.06607">[Paper]</a> <a href="https://github.com/lewandofskee/DiAD">[Code]</a> <a href="https://lewandofskee.github.io/projects/diad">[Project]</a> <br> 
     Haoyang He*, <strong>Jiangning Zhang*</strong>, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie <br>
@@ -341,11 +347,6 @@ https://www.emojiall.com/zh-hans/all-cate
     Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
     Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <strong>Jiangning Zhang</strong>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
     <i><strong>(arXiv).</strong></i> 2023, 2306.15880.
-  </li>
-  <li id="arxiv"> 
-    Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation <a href="https://arxiv.org/abs/2305.07223">[Paper]</a> <br> 
-    Yuhang Ling, Yuxi Li, Zhenye Gan, <strong>Jiangning Zhang</strong>, Mingmin Chi, and Yabiao Wang <br>
-    <i><strong>(arXiv).</strong></i> 2023, 2305.07223.
   </li>
   <li id="arxiv"> 
     Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator <a href="https://arxiv.org/abs/2305.02594">[Paper]</a> <br> 
