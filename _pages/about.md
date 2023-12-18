@@ -107,7 +107,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
-  <li id="arxiv"> 
+  <li id="2023-19"> 
     Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation <a href="https://arxiv.org/abs/2305.07223">[Paper]</a> <br> 
     Yuhang Ling, Yuxi Li, Zhenye Gan, <strong>Jiangning Zhang</strong>, Mingmin Chi, and Yabiao Wang <br>
     <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2024.
@@ -128,7 +128,7 @@ https://www.emojiall.com/zh-hans/all-cate
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-15"> 
-    AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model <a href="https://arxiv.org/abs/2312.05767">[Paper]</a> <a href="https://github.com/sjtuplayer/anomalydiffusion">[Code]</a> <br> 
+    AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model <a href="https://arxiv.org/abs/2312.05767">[Paper]</a> <a href="https://github.com/sjtuplayer/anomalydiffusion">[Code]</a> <a href="https://sjtuplayer.github.io/anomalydiffusion-page">[Project]</a> <br> 
     Teng Hu*, <strong>Jiangning Zhang*</strong>, Ran Yi, Yuzhen Du, Xu Chen, Liang Liu, Yabiao Wang, and Chengjie Wang <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
@@ -328,6 +328,11 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="arxiv" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">arXiv</h2>
 <ol reversed>
+  <li id="arxiv"> 
+    PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization <a href="https://arxiv.org/abs/2312.06354">[Paper]</a> <br> 
+    Xu Peng, Junwei Zhu, Boyuan Jiang, Ying Tai, Donghao Luo, <strong>Jiangning Zhang</strong>, Wei Lin, Taisong Jin, Chengjie Wang, Rongrong Ji <br>
+    <i><strong>(arXiv).</strong></i> 2023, 2312.06354.
+  </li>
   <li id="arxiv"> 
     Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <br> 
     <strong>Jiangning Zhang</strong>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, Dacheng Tao <br>
