@@ -99,7 +99,7 @@ https://www.emojiall.com/zh-hans/all-cate
 <ol reversed>
   <li id="2024-1"> 
     APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Zhucun Xue, and Yong Liu <br>
     <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2020.
   </li>
 </ol> -->
@@ -109,97 +109,97 @@ https://www.emojiall.com/zh-hans/all-cate
 <ol reversed>
   <li id="2023-19"> 
     Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation <a href="https://arxiv.org/abs/2305.07223">[Paper]</a> <br> 
-    Yuhang Ling, Yuxi Li, Zhenye Gan, <strong>Jiangning Zhang</strong>, Mingmin Chi, and Yabiao Wang <br>
+    Yuhang Ling, Yuxi Li, Zhenye Gan, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Mingmin Chi, and Yabiao Wang <br>
     <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2024.
   </li>
   <li id="2023-18"> 
     DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection <a href="https://arxiv.org/abs/2312.06607">[Paper]</a> <a href="https://github.com/lewandofskee/DiAD">[Code]</a> <a href="https://lewandofskee.github.io/projects/diad">[Project]</a> <br> 
-    Haoyang He*, <strong>Jiangning Zhang*</strong>, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie <br>
+    Haoyang He*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-17"> 
     Rethinking Reverse Distillation for Multi-Modal Anomaly Detection <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
-    Zhihao Gu, <strong>Jiangning Zhang</strong>, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, and Lizhuang Ma <br>
+    Zhihao Gu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, and Lizhuang Ma <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-16"> 
     Self-supervised Likelihood Estimation with Energy Guidance for Anomaly Segmentation in Urban Scenes <a href="https://arxiv.org/abs/2302.06815">[Paper]</a> <a href="">[Code]</a> <br> 
-    Yuanpeng Tu, Yuxi Li, Boshen Zhang, Liang Liu, <strong>Jiangning Zhang</strong>, Yabiao Wang, and Cairong Zhao <br>
+    Yuanpeng Tu, Yuxi Li, Boshen Zhang, Liang Liu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yabiao Wang, and Cairong Zhao <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-15"> 
     AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model <a href="https://arxiv.org/abs/2312.05767">[Paper]</a> <a href="https://github.com/sjtuplayer/anomalydiffusion">[Code]</a> <a href="https://sjtuplayer.github.io/anomalydiffusion-page">[Project]</a> <br> 
-    Teng Hu*, <strong>Jiangning Zhang*</strong>, Ran Yi, Yuzhen Du, Xu Chen, Liang Liu, Yabiao Wang, and Chengjie Wang <br>
+    Teng Hu*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Ran Yi, Yuzhen Du, Xu Chen, Liang Liu, Yabiao Wang, and Chengjie Wang <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-14"> 
     PVG: Progressive Vision Graph for Vision Recognition <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612122">[Paper]</a> <br> 
-    Jiafu Wu, Jian Li, <strong>Jiangning Zhang</strong>, Boshen Zhang, Mingmin Chi, Yabiao Wang, and Chengjie Wang <br>
+    Jiafu Wu, Jian Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Boshen Zhang, Mingmin Chi, Yabiao Wang, and Chengjie Wang <br>
     <i>ACM Multimedia <strong>(ACM MM).</strong></i> 2023.
   </li>
   <li id="2023-13"> 
     Toward High Quality Facial Representation Learning <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611999">[Paper]</a> <a href="https://github.com/nomewang/MCF">[Code]</a> <br> 
-    Yue Wang, Jinlong Peng, <strong>Jiangning Zhang</strong>, Ran Yi, Liang Liu, Yabiao Wang, and Chengjie Wang <br>
+    Yue Wang, Jinlong Peng, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ran Yi, Liang Liu, Yabiao Wang, and Chengjie Wang <br>
     <i>ACM Multimedia <strong>(ACM MM).</strong></i> 2023.
   </li>
   <li id="2023-12"> 
     Rethinking Mobile Block for Efficient Attention-based Models <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Rethinking_Mobile_Block_for_Efficient_Attention-based_Models_ICCV_2023_paper.html">[Paper]</a> <a href="https://github.com/zhangzjn/EMO">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Xiangtai Li, Jian Li, Liang Liu, Zhucun Xue, Boshen Zhang, Zhengkai Jiang, Tianxin Huang, Yabiao Wang, and Chengjie Wang <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xiangtai Li, Jian Li, Liang Liu, Zhucun Xue, Boshen Zhang, Zhengkai Jiang, Tianxin Huang, Yabiao Wang, and Chengjie Wang <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2023.
   </li>
   <li id="2023-11"> 
     Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Gu_Remembering_Normality_Memory-guided_Knowledge_Distillation_for_Unsupervised_Anomaly_Detection_ICCV_2023_paper.html">[Paper]</a> <br> 
-    Zhihao Gu, Liang Liu, Xu Chen, Ran Yi, <strong>Jiangning Zhang</strong>, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, and Lizhuang Ma <br>
+    Zhihao Gu, Liang Liu, Xu Chen, Ran Yi, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, and Lizhuang Ma <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2023.
   </li>
   <li id="2023-10"> 
     Learning Global-aware Kernel for Image Harmonization <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Shen_Learning_Global-aware_Kernel_for_Image_Harmonization_ICCV_2023_paper.html">[Paper]</a> <br> 
-    Xintian Shen*, <strong>Jiangning Zhang*</strong>, Jun Chen, Shipeng Bai, Yue Han, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
+    Xintian Shen*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Jun Chen, Shipeng Bai, Yue Han, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2023.
   </li>
   <li id="2023-9"> 
     Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Hu_Phasic_Content_Fusing_Diffusion_Model_with_Directional_Distribution_Consistency_for_ICCV_2023_paper.html">[Paper]</a> <br> 
-    Teng Hu*, <strong>Jiangning Zhang*</strong>, Liang Liu, Ran Yi, Siqi Kou, Haokun Zhu, Xu Chen, Yabiao Wang, Chengjie Wang, and Lizhuang Ma <br>
+    Teng Hu*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Liang Liu, Ran Yi, Siqi Kou, Haokun Zhu, Xu Chen, Yabiao Wang, Chengjie Wang, and Lizhuang Ma <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2023.
   </li>
   <li id="2023-8"> 
     SFNet: Faster and Accurate Semantic Segmentation Via Semantic Flow <a href="https://arxiv.org/abs/2207.04415">[Paper]</a> <a href="https://github.com/lxtGH/SFSegNets">[Code]</a> <br> 
-    Xiangtai Li, <strong>Jiangning Zhang</strong>, Yibo Yang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, and Dacheng Tao <br>
+    Xiangtai Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yibo Yang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, and Dacheng Tao <br>
     <i>International Journal of Computer Vision <strong>(IJCV).</strong></i> 2023.
   </li>
   <li id="2023-7"> 
     Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection <a href="https://ieeexplore.ieee.org/abstract/document/10192551/">[Paper]</a> <a href="https://github.com/zhangzjn/OCR-GAN">[Code]</a> <br> 
-    Yufei Liang*, <strong>Jiangning Zhang*</strong>, Shiwei Zhao, Runze Wu, Yong Liu, and Shuwen Pan <br>
+    Yufei Liang*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Shiwei Zhao, Runze Wu, Yong Liu, and Shuwen Pan <br>
     <i>Transactions on Image Processing <strong>(TIP).</strong></i> 2023.
   </li>
   <li id="2023-6"> 
     Multimodal Industrial Anomaly Detection via Hybrid Fusion <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Multimodal_Industrial_Anomaly_Detection_via_Hybrid_Fusion_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/nomewang/M3DM">[Code]</a> <br> 
-    Yue Wang, Jinlong Peng, <strong>Jiangning Zhang</strong>, Ran Yi, Yabiao Wang, and Chengjie Wang <br>
+    Yue Wang, Jinlong Peng, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ran Yi, Yabiao Wang, and Chengjie Wang <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2023.
   </li>
   <li id="2023-5"> 
     Learning To Measure the Point Cloud Reconstruction Loss in a Representation Space <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Learning_To_Measure_the_Point_Cloud_Reconstruction_Loss_in_a_CVPR_2023_paper.html">[Paper]</a> <br> 
-    Tianxin Huang, Zhonggan Ding, <strong>Jiangning Zhang</strong>, Ying Tai, Zhenyu Zhang, Mingang Chen, Chengjie Wang, and Yong Liu <br>
+    Tianxin Huang, Zhonggan Ding, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ying Tai, Zhenyu Zhang, Mingang Chen, Chengjie Wang, and Yong Liu <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2023.
   </li>
   <li id="2023-4"> 
     MixTeacher: Mining Promising Labels With Mixed Scale Teacher for Semi-Supervised Object Detection <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Liu_MixTeacher_Mining_Promising_Labels_With_Mixed_Scale_Teacher_for_Semi-Supervised_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/lliuz/MixTeacher">[Code]</a> <br> 
-    Liang Liu, Boshen Zhang, <strong>Jiangning Zhang</strong>, Wuhao Zhang, Zhenye Gan, Guanzhong Tian, Wenbing Zhu, Yabiao Wang, and Chengjie Wang <br>
+    Liang Liu, Boshen Zhang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Wuhao Zhang, Zhenye Gan, Guanzhong Tian, Wenbing Zhu, Yabiao Wang, and Chengjie Wang <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2023.
   </li>
   <li id="2023-3"> 
     Better "CMOS" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Better_CMOS_Produces_Clearer_Images_Learning_Space-Variant_Blur_Estimation_for_CVPR_2023_paper.html">[Paper]</a> <br> 
-    Xuhai Chen*, <strong>Jiangning Zhang*</strong>, Chao Xu, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
+    Xuhai Chen*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Chao Xu, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2023.
   </li>
   <li id="2023-2"> 
     High-Fidelity Generalized Emotional Talking Face Generation With Multi-Modal Emotion Space Learning <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Xu_High-Fidelity_Generalized_Emotional_Talking_Face_Generation_With_Multi-Modal_Emotion_Space_CVPR_2023_paper.html">[Paper]</a> <br> 
-    Chao Xu, Junwei Zhu, <strong>Jiangning Zhang</strong>, Yue Han, Wenqing Chu, Ying Tai, Chengjie Wang, Zhifeng Xie, and Yong Liu <br>
+    Chao Xu, Junwei Zhu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yue Han, Wenqing Chu, Ying Tai, Chengjie Wang, Zhifeng Xie, and Yong Liu <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2023.
   </li>
   <li id="2023-1"> 
     Learning With Noisy Labels via Self-Supervised Adversarial Noisy Masking <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Learning_With_Noisy_Labels_via_Self-Supervised_Adversarial_Noisy_Masking_CVPR_2023_paper.html">[Paper]</a> <a href="https://github.com/yuanpengtu/SANM">[Code]</a> <br> 
-    Yuanpeng Tu, Boshen Zhang, Yuxi Li, Liang Liu, Jian Li, <strong>Jiangning Zhang</strong>, Yabiao Wang, Chengjie Wang, and Cairong Zhao <br>
+    Yuanpeng Tu, Boshen Zhang, Yuxi Li, Liang Liu, Jian Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yabiao Wang, Chengjie Wang, and Cairong Zhao <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2023.
   </li>
 </ol>
@@ -208,57 +208,57 @@ https://www.emojiall.com/zh-hans/all-cate
 <ol reversed>
   <li id="2022-11"> 
     Calibrated Teacher for Sparsely Annotated Object Detection <a href="https://link.springer.com/chapter/10.1007/978-3-031-19784-0_4">[Paper]</a> <a href="https://github.com/whileherham/calibratedteacher">[Code]</a> <br> 
-    Haohan Wang, Liang Liu, Boshen Zhang, <strong>Jiangning Zhang</strong>, Wuhao Zhang, Zhenye Gan, Yabiao Wang, Chengjie Wang, and Haoqian Wang <br>
+    Haohan Wang, Liang Liu, Boshen Zhang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Wuhao Zhang, Zhenye Gan, Yabiao Wang, Chengjie Wang, and Haoqian Wang <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2023.
   </li>
     <li id="2022-10"> 
     Fast Point Cloud Sampling Network <a href="https://www.sciencedirect.com/science/article/abs/pii/S016786552200335X">[Paper]</a> <br> 
-    Tianxin Huang, Jun Chen, <strong>Jiangning Zhang</strong>, Yong Liu, and Jie Liang <br>
+    Tianxin Huang, Jun Chen, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yong Liu, and Jie Liang <br>
     <i>Pattern Recognition Letters <strong>(PRL).</strong></i> 2023.
   </li>
   <li id="2022-9"> 
     3QNet: 3D Point Cloud Geometry Quantization Compression Network <a href="https://dl.acm.org/doi/abs/10.1145/3550454.3555481">[Paper]</a> <br> 
-    Tianxin Huang, <strong>Jiangning Zhang</strong>, Jun Chen, Zhonggan Ding, Ying Tai, Zhenyu Zhang, Chengjie Wang, and Yong Liu <br>
+    Tianxin Huang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Jun Chen, Zhonggan Ding, Ying Tai, Zhenyu Zhang, Chengjie Wang, and Yong Liu <br>
     <i>ACM Transactions on Graphics <strong>(ACM TOG).</strong></i> 2022.
   </li>
   <li id="2022-8"> 
     Adaptive Recurrent Forward Network for Dense Point Cloud Completion <a href="https://ieeexplore.ieee.org/abstract/document/9864273">[Paper]</a> <br> 
-    Tianxin Huang, Hao Zou, Jinhao Cui, <strong>Jiangning Zhang</strong>, Xuemeng Yang, Lin Li, and Yong Liu <br>
+    Tianxin Huang, Hao Zou, Jinhao Cui, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuemeng Yang, Lin Li, and Yong Liu <br>
     <i>Transactions on Multimedia <strong>(TMM).</strong></i> 2022.
   </li>
   <li id="2022-7"> 
     Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping <a href="https://link.springer.com/chapter/10.1007/978-3-031-19784-0_4">[Paper]</a> <a href="https://github.com/xc-csc101/UniFace">[Code]</a> <br> 
-    Chao Xu*, <strong>Jiangning Zhang*</strong>, Yue Han, Guanzhong Tian, Xianfang Zeng, Ying Tai, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
+    Chao Xu*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Yue Han, Guanzhong Tian, Xianfang Zeng, Ying Tai, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2022.
   </li>
   <li id="2022-6"> 
     Resolution-free Point Cloud Sampling Network with Data Distillation <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4326_ECCV_2022_paper.php">[Paper]</a> <a href="https://github.com/Tianxinhuang/PCDNet">[Code]</a> <br> 
-    Tianxin Huang*, <strong>Jiangning Zhang*</strong>, Jun Chen, Yuang Liu, and Yong Liu <br>
+    Tianxin Huang*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Jun Chen, Yuang Liu, and Yong Liu <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2022.
   </li>
   <li id="2022-5"> 
     Learning to Train a Point Cloud Reconstruction Network without Matching <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1235_ECCV_2022_paper.php">[Paper]</a> <a href="https://github.com/Tianxinhuang/PCLossNet">[Code]</a> <br> 
-    Tianxin Huang, Xuemeng Yang, <strong>Jiangning Zhang</strong>, Jinhao Cui, Hao Zou, Jun Chen, Xiangrui Zhao, and Yong Liu <br>
+    Tianxin Huang, Xuemeng Yang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Jinhao Cui, Hao Zou, Jun Chen, Xiangrui Zhao, and Yong Liu <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2022.
   </li>
   <li id="2022-4"> 
     Multilevel Spatial-Temporal Feature Aggregation for Video Object Detection <a href="https://ieeexplore.ieee.org/abstract/document/9797768">[Paper]</a> <br> 
-    Chao Xu, <strong>Jiangning Zhang</strong>, Mengmeng Wang, Guanzhong Tian, and Yong Liu <br>
+    Chao Xu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Mengmeng Wang, Guanzhong Tian, and Yong Liu <br>
     <i>Transactions on Circuits and Systems for Video Technology <strong>(TCSVT).</strong></i> 2022.
   </li>
   <li id="2022-3"> 
     Learning Hierarchical and Efficient Person Re-Identification for Robotic Navigation <a href="https://link.springer.com/article/10.1007/s41315-021-00167-2">[Paper]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Chao Xu, Xiangrui Zhao, Liang Liu, Yong Liu, Jinqiang Yao, and Zaisheng Pan <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chao Xu, Xiangrui Zhao, Liang Liu, Yong Liu, Jinqiang Yao, and Zaisheng Pan <br>
     <i>International Journal of Intelligent Robotics and Applications <strong>(IJIRA, Best Paper Reward Nomination).</strong></i> 2022.
   </li>
   <li id="2022-2"> 
     Iterative Few-shot Semantic Segmentation from Image Label Text <a href="https://arxiv.org/abs/2303.05646">[Paper]</a> <a href="https://github.com/Whileherham/IMR-HSNet">[Code]</a> <br> 
-    Haohan Wang, Liang Liu, Wuhao Zhang, <strong>Jiangning Zhang</strong>, Zhenye Gan, Yabiao Wang, Chengjie Wang, and Haoqian Wang <br>
+    Haohan Wang, Liang Liu, Wuhao Zhang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Zhenye Gan, Yabiao Wang, Chengjie Wang, and Haoqian Wang <br>
     <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI).</strong></i> 2022.
   </li>
   <li id="2022-1"> 
     Region-Aware Face Swapping <a href="https://ieeexplore.ieee.org/abstract/document/9552566">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
-    Chao Xu*, <strong>Jiangning Zhang*</strong>, Miao Hua, Qian He, Zili Yi, and Yong Liu <br>
+    Chao Xu*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Miao Hua, Qian He, Zili Yi, and Yong Liu <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2022.
   </li>
 </ol>
@@ -267,27 +267,27 @@ https://www.emojiall.com/zh-hans/all-cate
 <ol reversed>
   <li id="2021-5"> 
     SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">[Paper]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Yue Han, Yabiao Wang, Ying Tai, and Yong Liu <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chao Xu, Jian Li, Yue Han, Yabiao Wang, Ying Tai, and Yong Liu <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2022.
   </li>
   <li id="2021-4"> 
     Analogous to Evolutionary Algorithm: Designing a Unified Sequence Model <a href="https://proceedings.neurips.cc/paper/2021/hash/e02e27e04fdff967ba7d76fb24b8069d-Abstract.html">[Paper]</a> <a href="https://github.com/TencentYoutuResearch/BaseArchitecture-EAT">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Chao Xu, Jian Li, Wenzhou Chen, Yabiao Wang, Ying Tai, Shuo Chen, Chengjie Wang, Feiyue Huang, and Yong Liu <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chao Xu, Jian Li, Wenzhou Chen, Yabiao Wang, Ying Tai, Shuo Chen, Chengjie Wang, Feiyue Huang, and Yong Liu <br>
     <i>Conference on Neural Information Processing Systems <strong>(NeurIPS).</strong></i> 2021.
   </li>
   <li id="2021-3"> 
     Real-Time Audio-Guided Multi-Face Reenactment <a href="https://ieeexplore.ieee.org/abstract/document/9552566">[Paper]</a> <a href="https://github.com/zhangzjn/APB2FaceV2">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Xianfang Zeng, Chao Xu, and Yong Liu <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xianfang Zeng, Chao Xu, and Yong Liu <br>
     <i>Signal Processing Letters <strong>(SPL).</strong></i> 2021.
   </li>
   <li id="2021-2"> 
     Adding Before Pruning: Sparse Filter Fusion for Deep Convolutional Neural Networks via Auxiliary Attention <a href="https://ieeexplore.ieee.org/abstract/document/9552566">[Paper]</a> <a href="https://github.com/zhangzjn/APB2FaceV2">[Code]</a> <br> 
-    Guanzhong Tian, Yiran Sun, Yuang Liu, Xianfang Zeng, Mengmeng Wang, Yong Liu, <strong>Jiangning Zhang</strong>, and Jun Chen <br>
+    Guanzhong Tian, Yiran Sun, Yuang Liu, Xianfang Zeng, Mengmeng Wang, Yong Liu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, and Jun Chen <br>
     <i>Transactions on Neural Networks and Learning Systems <strong>(TNNLS).</strong></i> 2021.
   </li>
   <li id="2021-1"> 
     RFNet: Recurrent Forward Network for Dense Point Cloud Completion <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.html">[Paper]</a> <a href="https://github.com/Tianxinhuang/RFNet">[Code]</a> <br> 
-    Tianxin Huang, Hao Zou, Jinhao Cui, Xuemeng Yang, Mengmeng Wang, Xiangrui Zhao, <strong>Jiangning Zhang</strong>, Yi Yuan, Yifan Xu, and Yong Liu <br>
+    Tianxin Huang, Hao Zou, Jinhao Cui, Xuemeng Yang, Mengmeng Wang, Xiangrui Zhao, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yi Yuan, Yifan Xu, and Yong Liu <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2021.
   </li>
 </ol>
@@ -296,32 +296,32 @@ https://www.emojiall.com/zh-hans/all-cate
 <ol reversed>
   <li id="2020-4"> 
     DTVNet: Dynamic Time-Lapse Video Generation via Single Still Image <a href="https://link.springer.com/chapter/10.1007/978-3-030-58558-7_18">[Paper]</a> <a href="https://github.com/zhangzjn/DTVNet">[Code]</a> <br> 
-    <strong>Jiangning Zhang*</strong>, Chao Xu*, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, and Yunliang Jiang <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Chao Xu*, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, and Yunliang Jiang <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2020.
   </li>
   <li id="2020-3"> 
     FReeNet: Multi-Identity Face Reenactment <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">[Paper]</a> <a href="https://github.com/zhangzjn/FReeNet">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2020.
   </li>
   <li id="2020-2"> 
     Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Learning_by_Analogy_Reliable_Supervision_From_Transformations_for_Unsupervised_Optical_CVPR_2020_paper.html">[Paper]</a> <a href="https://github.com/lliuz/ARFlow">[Code]</a> <br> 
-    Liang Liu, <strong>Jiangning Zhang</strong>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang <br>
+    Liang Liu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2020.
   </li>
   <li id="2020-1"> 
     APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Liang Liu, Zhucun Xue, and Yong Liu <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Zhucun Xue, and Yong Liu <br>
     <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2020.
   </li>
   <li id="2019-1"> 
     Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6970">[Paper]</a> <br> 
-    Xianfang Zeng, Yusu Pan, Mengmeng Wang, <strong>Jiangning Zhang</strong>, and Yong Liu <br>
+    Xianfang Zeng, Yusu Pan, Mengmeng Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, and Yong Liu <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2020.
   </li>
   <li id="2018-1"> 
     Learning-Based Hand Motion Capture and Understanding in Assembly Process <a href="https://ieeexplore.ieee.org/abstract/document/8566182">[Paper]</a> <br> 
-    Liang Liu, Yong Liu, and <strong>Jiangning Zhang</strong> <br>
+    Liang Liu, Yong Liu, and <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span> <br>
     <i>Transactions on Industrial Electronics <strong>(TIE).</strong></i> 2018.
   </li>
 </ol>
@@ -330,48 +330,48 @@ https://www.emojiall.com/zh-hans/all-cate
 <ol reversed>
   <li id="arxiv"> 
     PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization <a href="https://arxiv.org/abs/2312.06354">[Paper]</a> <br> 
-    Xu Peng, Junwei Zhu, Boyuan Jiang, Ying Tai, Donghao Luo, <strong>Jiangning Zhang</strong>, Wei Lin, Taisong Jin, Chengjie Wang, Rongrong Ji <br>
-    <i><strong>(arXiv).</strong></i> 2023, 2312.06354.
+    Xu Peng, Junwei Zhu, Boyuan Jiang, Ying Tai, Donghao Luo, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Wei Lin, Taisong Jin, Chengjie Wang, Rongrong Ji <br>
+    <i><strong>arXiv.</strong></i> 2023, 2312.06354.
   </li>
   <li id="arxiv"> 
     Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, Dacheng Tao <br>
-    <i><strong>(arXiv).</strong></i> 2023, 2312.07495.
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, Dacheng Tao <br>
+    <i><strong>arXiv.</strong></i> 2023, 2312.07495.
   </li>
   <li id="arxiv"> 
     Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.02612">[Paper]</a> <a href="https://github.com/zhangzjn/GPT-4V-AD">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
-    <i><strong>(arXiv).</strong></i> 2023, 2311.02612.
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
+    <i><strong>arXiv.</strong></i> 2023, 2311.02612.
   </li>
   <li id="arxiv"> 
     CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.00453">[Paper]</a> <br> 
-    Xuhai Chen*, <strong>Jiangning Zhang*</strong>, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, and Yong Liu <br>
-    <i><strong>(arXiv).</strong></i> 2023, 2311.00453.
+    Xuhai Chen*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, and Yong Liu <br>
+    <i><strong>arXiv.</strong></i> 2023, 2311.00453.
   </li>
   <li id="arxiv"> 
     Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
-    Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <strong>Jiangning Zhang</strong>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
-    <i><strong>(arXiv).</strong></i> 2023, 2306.15880.
+    Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
+    <i><strong>arXiv.</strong></i> 2023, 2306.15880.
   </li>
   <li id="arxiv"> 
     Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator <a href="https://arxiv.org/abs/2305.02594">[Paper]</a> <br> 
-    Chao Xu, Shaoting Zhu, Junwei Zhu, Tianxin Huang, <strong>Jiangning Zhang</strong>, Ying Tai, and Yong Liu <br>
-    <i><strong>(arXiv).</strong></i> 2023, 2305.02594.
+    Chao Xu, Shaoting Zhu, Junwei Zhu, Tianxin Huang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ying Tai, and Yong Liu <br>
+    <i><strong>arXiv.</strong></i> 2023, 2305.02594.
   </li>
   <li id="arxiv"> 
     Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation <a href="https://arxiv.org/abs/2301.01156">[Paper]</a> <a href="https://github.com/hanyue1648/RefT">[Code]</a> <br> 
-    Yue Han*, <strong>Jiangning Zhang*</strong>, Zhucun Xue, Chao Xu, Xintian Shen, Yabiao Wang, Chengjie Wang, Yong Liu, and Xiangtai Li <br>
-    <i><strong>(arXiv).</strong></i> 2022, 2301.01156.
+    Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zhucun Xue, Chao Xu, Xintian Shen, Yabiao Wang, Chengjie Wang, Yong Liu, and Xiangtai Li <br>
+    <i><strong>arXiv.</strong></i> 2022, 2301.01156.
   </li>
   <li id="arxiv"> 
     EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm <a href="https://arxiv.org/abs/2206.09325">[Paper]</a> <a href="https://https://github.com/zhangzjn/EATFormer">[Code]</a> <br> 
-    <strong>Jiangning Zhang</strong>, Xiangtai Li, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, and Dacheng Tao <br>
-    <i><strong>(arXiv).</strong></i> 2022, 2206.09325.
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xiangtai Li, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, and Dacheng Tao <br>
+    <i><strong>arXiv.</strong></i> 2022, 2206.09325.
   </li>
   <li id="arxiv"> 
     SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network <a href="https://arxiv.org/abs/2112.10683">[Paper]</a> <br> 
-    Xianfang Zeng*, <strong>Jiangning Zhang*</strong>, Liang Liu, Guangzhong Tian, and Yong Liu <br>
-    <i><strong>(arXiv).</strong></i> 2021, 2112.10683.
+    Xianfang Zeng*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Liang Liu, Guangzhong Tian, and Yong Liu <br>
+    <i><strong>arXiv.</strong></i> 2021, 2112.10683.
   </li>
 </ol>
 
@@ -380,8 +380,8 @@ https://www.emojiall.com/zh-hans/all-cate
   <li id="2018-1"> 
     1st place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12499#results)">[Zero-shot Track]</a> and 4th place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12500#results)">[Few-shot Track]</a> in <a href="(https://sites.google.com/view/vand-cvpr23/home)">[Visual Anomaly and Novelty Detection (VAND) 2023 Challenge]</a> by <strong>CVPR 2023</strong> <br>
     A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD <a href="https://arxiv.org/abs/2305.17382">[Paper]</a> <a href="https://github.com/ByChelsea/VAND-APRIL-GAN">[Code]</a> <br> 
-    Xuhai Chen*, Yue Han*, <strong>Jiangning Zhang*</strong> <br>
-    <i><strong>(arXiv).</strong></i> 2022.
+    Xuhai Chen*, Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span> <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR)</strong> VAND.</i> 2022.
   </li>
 </ol>
 
