@@ -53,6 +53,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
+- *2024.01.16*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. 
 - *2023.12.14*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. 
 - *2023.12.09*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. 
 - *2023.07.26*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. 
@@ -85,6 +86,7 @@ https://www.emojiall.com/zh-hans/all-cate
 # 📝 Publications 
 
 <h2>
+  <a href="#pub2024"><u>2024</u></a>&nbsp;
 	<a href="#pub2023"><u>2023</u></a>&nbsp;
 	<a href="#pub2022"><u>2022</u></a>&nbsp;
   <a href="#pub2021"><u>2021</u></a>&nbsp;
@@ -95,14 +97,14 @@ https://www.emojiall.com/zh-hans/all-cate
 <strong>*</strong> joint first author | <strong>#</strong> joint corresponding author <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
-<!-- <h2 id="pub2024" style="color: #2c4a88;">2024</h2>
+<h2 id="pub2024" style="color: #2c4a88;">2024</h2>
 <ol reversed>
   <li id="2024-1"> 
-    APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Zhucun Xue, and Yong Liu <br>
-    <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2020.
+    An Effective Information Theoretic Framework for Channel Pruning <a href="">[Paper]</a> <br> 
+    Yihao Chen, Guanzhong Tian, Yihao Chen, Zefang Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Mengmeng Wang, Shanqi Liu, and Yong Liu <br>
+    <i>Transactions on Neural Networks and Learning Systems <strong>(TNNLS).</strong></i> 2024.
   </li>
-</ol> -->
+</ol>
 
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
