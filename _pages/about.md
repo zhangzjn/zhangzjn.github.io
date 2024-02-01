@@ -53,7 +53,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
-<div style="max-height: 36em; overflow-y: auto;">
+<div style="max-height: 6em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
     <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
@@ -63,6 +63,7 @@ https://www.emojiall.com/zh-hans/all-cate
     <li><i>2023.07.14</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. </li>
     <li><i>2023.07.08</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2023</strong>. </li>
     <li><i>2023.07.07</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. </li>
+    <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 1st place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12499#results">Zero-shot Track</a> and 4th place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12500#results">Few-shot Track</a> in <a href="https://sites.google.com/view/vand-cvpr23/home">Visual Anomaly and Novelty Detection (VAND) 2023 Challenge</a> by <strong>CVPR 2023</strong>. </li>
   </ol>
 </div>
 <!-- </details> -->
