@@ -58,8 +58,8 @@ https://www.emojiall.com/zh-hans/all-cate
   <summary></summary> -->
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li></li>
-    <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li></li>
+    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
+    <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
     <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
     <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
     <li><i>2023.07.26</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. </li>
@@ -85,7 +85,7 @@ https://www.emojiall.com/zh-hans/all-cate
     <li><i>2021.07.23</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>ICCV 2021</strong>. </li>
     <li><i>2020.12.12</i>: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ">Yabiao Wang</a> and <a href="https://tyshiwo.github.io">Dr. Ying Tai</a>. </li>
     <li><i>2020.07.03</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. </li>
-    <li><i>2020.04.01</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). 🔭🔭🔭 </li>
+    <li><i>2020.04.01</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of <a href="https://april.zju.edu.cn/our-team">Prof. Yong Liu</a>. 🔭🔭🔭 </li>
     <li><i>2020.02.27</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>. </li>
     <li><i>2020.01.25</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. </li>
   </ol>
