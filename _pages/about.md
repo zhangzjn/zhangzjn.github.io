@@ -56,6 +56,13 @@ https://www.emojiall.com/zh-hans/all-cate
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
+    <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
+    <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
+    <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
+    <li><i>2023.07.26</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. </li>
+    <li><i>2023.07.14</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. </li>
+    <li><i>2023.07.08</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2023</strong>. </li>
+    <li><i>2023.07.07</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. </li>
   </ol>
 </div>
 <!-- </details> -->
