@@ -53,39 +53,9 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
-<h2 id="news" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">news</h2>
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
-    <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
-    <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
-    <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
-    <li><i>2023.07.26</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. </li>
-    <li><i>2023.07.14</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. </li>
-    <li><i>2023.07.08</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2023</strong>. </li>
-    <li><i>2023.07.07</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. </li>
-    <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 1st place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12499#results">Zero-shot Track</a> and 4th place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12500#results">Few-shot Track</a> in <a href="https://sites.google.com/view/vand-cvpr23/home">Visual Anomaly and Novelty Detection (VAND) 2023 Challenge</a> by <strong>CVPR 2023</strong>. </li>
-    <li><i>2023.03.09</i>: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. </li>
-    <li><i>2022.11.22</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. </li>
-    <li><i>2022.11.11</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>PRL 2022</strong>. </li>
-    <li><i>2022.10.11</i>: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai. 🔭🔭🔭
-    <li><i>2022.10.01</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ACM TOG 2022</strong>. </li>
-    <li><i>2022.08.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. </li>
-    <li><i>2022.07.09</i>: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. </li>
-    <li><i>2022.06.18</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TCSVT</strong>. </li>
-    <li><i>2022.06.07</i>: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. </li>
-    <li><i>2022.04.21</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2022</strong>. </li>
-    <li><i>2022.03.03</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>CVPR 2022</strong>. </li>
-    <li><i>2021.12.01</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2022</strong>. </li>
-    <li><i>2021.09.29</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>NeurIPS 2021</strong>. </li>
-    <li><i>2021.09.27</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>SPL 2021</strong>. </li>
-    <li><i>2021.08.12</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>TNNLS 2021</strong>. </li>
-    <li><i>2021.07.23</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>ICCV 2021</strong>. </li>
-    <li><i>2020.12.12</i>: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ">Yabiao Wang</a> and <a href="https://tyshiwo.github.io">Dr. Ying Tai</a>. </li>
-    <li><i>2020.07.03</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. </li>
-    <li><i>2020.04.01</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of <a href="https://april.zju.edu.cn/our-team">Prof. Yong Liu</a>. 🔭🔭🔭 </li>
-    <li><i>2020.02.27</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>. </li>
-    <li><i>2020.01.25</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. </li>
   </ol>
 </div>
 <!-- </details> -->
