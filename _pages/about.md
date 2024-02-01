@@ -113,7 +113,7 @@ https://www.emojiall.com/zh-hans/all-cate
   </li>
   <li id="2024-1"> 
     An Effective Information Theoretic Framework for Channel Pruning <a href="">[Paper]</a> <br> 
-    Yihao Chen, Guanzhong Tian, Yihao Chen, Zefang Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Mengmeng Wang, Shanqi Liu, and Yong Liu <br>
+    Yihao Chen, Guanzhong Tian#, Yihao Chen, Zefang Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Liang Liu, Mengmeng Wang, Shanqi Liu, and Yong Liu <br>
     <i>Transactions on Neural Networks and Learning Systems <strong>(TNNLS).</strong></i> 2024.
   </li>
 </ol>
