@@ -53,6 +53,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
+- *2024.01.30*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. 
 - *2024.01.16*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. 
 - *2023.12.14*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. 
 - *2023.12.09*: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. 
@@ -99,6 +100,11 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="pub2024" style="color: #2c4a88;">2024</h2>
 <ol reversed>
+  <li id="2024-2"> 
+    Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
+    Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
+    <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI).</strong></i> 2024.
+  </li>
   <li id="2024-1"> 
     An Effective Information Theoretic Framework for Channel Pruning <a href="">[Paper]</a> <br> 
     Yihao Chen, Guanzhong Tian, Yihao Chen, Zefang Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Mengmeng Wang, Shanqi Liu, and Yong Liu <br>
@@ -351,11 +357,6 @@ https://www.emojiall.com/zh-hans/all-cate
     <i><strong>arXiv.</strong></i> 2023, 2311.00453.
   </li>
   <li id="arxiv"> 
-    Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
-    Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
-    <i><strong>arXiv.</strong></i> 2023, 2306.15880.
-  </li>
-  <li id="arxiv"> 
     Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator <a href="https://arxiv.org/abs/2305.02594">[Paper]</a> <br> 
     Chao Xu, Shaoting Zhu, Junwei Zhu, Tianxin Huang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ying Tai, and Yong Liu <br>
     <i><strong>arXiv.</strong></i> 2023, 2305.02594.
@@ -383,7 +384,7 @@ https://www.emojiall.com/zh-hans/all-cate
     1st place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12499#results)">[Zero-shot Track]</a> and 4th place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12500#results)">[Few-shot Track]</a> in <a href="(https://sites.google.com/view/vand-cvpr23/home)">[Visual Anomaly and Novelty Detection (VAND) 2023 Challenge]</a> by <strong>CVPR 2023</strong> <br>
     A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD <a href="https://arxiv.org/abs/2305.17382">[Paper]</a> <a href="https://github.com/ByChelsea/VAND-APRIL-GAN">[Code]</a> <br> 
     Xuhai Chen*, Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span> <br>
-    <i>Computer Vision and Pattern Recognition <strong>(CVPR)</strong> VAND.</i> 2022.
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR)</strong> VAND.</i> 2023.
   </li>
 </ol>
 
