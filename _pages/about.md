@@ -57,7 +57,6 @@ https://www.emojiall.com/zh-hans/all-cate
 <!-- <details open> -->
 <!-- <summary></summary> -->
 <div style="max-height: 36em; overflow-y: auto;">
-
   <ol style="list-style-type: none;">
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
     <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
@@ -89,9 +88,8 @@ https://www.emojiall.com/zh-hans/all-cate
     <li><i>2020.04.01</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of <a href="https://april.zju.edu.cn/our-team">Prof. Yong Liu</a>. 🔭🔭🔭 </li>
     <li><i>2020.02.27</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>. </li>
     <li><i>2020.01.25</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. </li>
-  </ol>
-  
-</div>
+  <!-- </ol>
+</div> -->
 <!-- </details> -->
 
 
