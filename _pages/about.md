@@ -67,7 +67,7 @@ https://www.emojiall.com/zh-hans/all-cate
     <li><i>2023.03.09</i>: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. </li>
     <li><i>2022.11.22</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. </li>
     <li><i>2022.11.11</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>PRL 2022</strong>. </li>
-    <li><i>2022.10.11</i>: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai. 🔭🔭🔭
+    <li><i>2022.10.11</i>: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai. 🔭🔭🔭 </li>
     <li><i>2022.10.01</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ACM TOG 2022</strong>. </li>
     <li><i>2022.08.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. </li>
     <li><i>2022.07.09</i>: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. </li>
@@ -80,11 +80,11 @@ https://www.emojiall.com/zh-hans/all-cate
     <li><i>2021.09.27</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>SPL 2021</strong>. </li>
     <li><i>2021.08.12</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>TNNLS 2021</strong>. </li>
     <li><i>2021.07.23</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>ICCV 2021</strong>. </li>
-    <!-- <li><i>2020.12.12</i>: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ">Yabiao Wang</a> and <a href="https://tyshiwo.github.io">Dr. Ying Tai</a>. </li>
+    <li><i>2020.12.12</i>: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ">Yabiao Wang</a> and <a href="https://tyshiwo.github.io">Dr. Ying Tai</a>. </li>
     <li><i>2020.07.03</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. </li>
     <li><i>2020.04.01</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of <a href="https://april.zju.edu.cn/our-team">Prof. Yong Liu</a>. 🔭🔭🔭 </li>
     <li><i>2020.02.27</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>. </li>
-    <li><i>2020.01.25</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. </li> -->
+    <li><i>2020.01.25</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. </li>
   </ol>
 </div>
 <!-- </details> -->
