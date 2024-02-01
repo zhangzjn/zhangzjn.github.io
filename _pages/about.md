@@ -53,6 +53,50 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
+<!-- <details open>
+  <summary></summary> -->
+<div style="max-height: 36em; overflow-y: auto;">
+  <ol>
+    <li><strong>2024.01.30</strong>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
+    <li><strong>2024.01.16</strong>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+    <li>Item 5</li>
+    <li>Item 6</li>
+    <li>Item 7</li>
+    <li>Item 8</li>
+    <li>Item 9</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+    <li>Item 10</li>
+  </ol>
+</div>
+<!-- </details> -->
+
+<!-- # 🔥 News
 - *2024.01.30*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. 
 - *2024.01.16*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. 
 - *2023.12.14*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. 
@@ -82,7 +126,7 @@ https://www.emojiall.com/zh-hans/all-cate
 - *2020.07.03*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. 
 - *2020.04.01*: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). 🔭🔭🔭
 - *2020.02.27*: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>
-- *2020.01.25*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>
+- *2020.01.25*: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong> -->
 
 # 📝 Publications 
 
@@ -98,7 +142,7 @@ https://www.emojiall.com/zh-hans/all-cate
 <strong>*</strong> joint first author | <strong>#</strong> joint corresponding author <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
-<h2 id="pub2024" style="color: #2c4a88;">2024</h2>
+<h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
   <li id="2024-2"> 
     Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
