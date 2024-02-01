@@ -53,6 +53,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 # 🔥 News
+<h2 id="news" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">news</h2>
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
@@ -88,6 +89,7 @@ https://www.emojiall.com/zh-hans/all-cate
   </ol>
 </div>
 <!-- </details> -->
+
 
 
 # 📝 Publications 
