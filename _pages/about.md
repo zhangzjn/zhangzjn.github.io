@@ -56,7 +56,7 @@ https://www.emojiall.com/zh-hans/all-cate
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
-    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
+    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
     <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
     <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
     <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
@@ -115,7 +115,7 @@ https://www.emojiall.com/zh-hans/all-cate
   <li id="2024-2"> 
     Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
     Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
-    <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2024.
+    <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI).</strong></i> 2024.
   </li>
   <li id="2024-1"> 
     An Effective Information Theoretic Framework for Channel Pruning <a href="">[Paper]</a> <br> 
