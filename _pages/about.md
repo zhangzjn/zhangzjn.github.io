@@ -55,7 +55,8 @@ https://www.emojiall.com/zh-hans/all-cate
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TPAMI 2024</strong>. </li>
+    <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
+    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
     <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
     <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
     <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
@@ -106,10 +107,15 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
+    <li id="2024-3"> 
+    EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm <a href="https://arxiv.org/abs/2206.09325">[Paper]</a> <a href="https://https://github.com/zhangzjn/EATFormer">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xiangtai Li, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, and Dacheng Tao <br>
+    <i>International Journal of Computer Vision <strong>(IJCV).</strong></i> 2024.
+  </li>
   <li id="2024-2"> 
     Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
     Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
-    <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI).</strong></i> 2024.
+    <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2024.
   </li>
   <li id="2024-1"> 
     An Effective Information Theoretic Framework for Channel Pruning <a href="">[Paper]</a> <br> 
@@ -371,11 +377,6 @@ https://www.emojiall.com/zh-hans/all-cate
     Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation <a href="https://arxiv.org/abs/2301.01156">[Paper]</a> <a href="https://github.com/hanyue1648/RefT">[Code]</a> <br> 
     Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zhucun Xue, Chao Xu, Xintian Shen, Yabiao Wang, Chengjie Wang, Yong Liu, and Xiangtai Li <br>
     <i><strong>arXiv.</strong></i> 2022, 2301.01156.
-  </li>
-  <li id="arxiv"> 
-    EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm <a href="https://arxiv.org/abs/2206.09325">[Paper]</a> <a href="https://https://github.com/zhangzjn/EATFormer">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xiangtai Li, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, and Dacheng Tao <br>
-    <i><strong>arXiv.</strong></i> 2022, 2206.09325.
   </li>
   <li id="arxiv"> 
     SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network <a href="https://arxiv.org/abs/2112.10683">[Paper]</a> <br> 
