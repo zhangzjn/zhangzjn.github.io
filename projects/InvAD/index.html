@@ -183,7 +183,7 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            TBA
+            Current anomaly detection (AD) datasets generally target specific scenarios such as industrial quality inspection, and their scale and evaluation methods are still relatively small and imperfect compared to mature tasks, <i>e.g.</i>, object detection and segmentation. To address these issues, this paper first constructs a large-scale and general-purpose COCO-AD dataset by extending COCO to the AD field, enabling fair evaluation and sustainable development for different research on this challenging benchmark. In the end, we point out several potential challenges of the COCO-AD dataset. In addition, drawing on the metrics in the segmentation field, we propose several more practical threshold-dependent AD-specific metrics to evaluate the methods better. On the methodological level, inspired by the high-quality reconstruction capability of GAN inversion, we propose a novel and powerful InvAD framework to achieve high-quality feature reconstruction, significantly improving the effectiveness of reconstruction-based methods on popular MVTec AD, VisA, and our COCO-AD datasets under the multi-class unsupervised setting. Furthermore, massive ablation experiments have demonstrated the effectiveness of each component of our InvAD. 
           </p>
         </div>
       </div>
@@ -204,6 +204,129 @@
   </div>
 </section>
 
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Motivation. -->
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Motivation & Comparison with SoTAs on MUAD Setting</h2>
+        <div class="content has-text-justified">
+          <p>
+            The current field of Anomaly Detection (AD) suffers from the following three issues: <br>
+            1) The AD datasets are relatively small and specific to certain domains. <br>
+            &nbsp&nbsp&nbsp&nbsp ==> We extend the COCO dataset to general visual AD scenarios (COCO-AD) and propose a highly challenging benchmark to evaluate different methods fairly. <br>
+            2) The evaluation criteria are not uniquely designed for segmentation-based AD tasks, reducing the guidance of the metrics. <br>
+            &nbsp&nbsp&nbsp&nbsp ==> We propose four pixel-level metrics that are more in line with actual application scenarios <br>
+            3) The results of existing methods under multi-class unsupervised anomaly detection tasks still need to be improved. <br>
+            &nbsp&nbsp&nbsp&nbsp ==> Drawing on the concept of GAN inversion, we design a novel InvAD and propose an SSM module to ensure high-quality reconstruction. <br>
+            4) Our method shows a <b>significant</b> improvement over comparative methods on the more challenging COCO-AD dataset, and we also conduct experiments on the currently popular MVTec AD and VisA datasets, achieving obvious new heights in multi-class unsupervised AD tasks.
+          </p>
+        </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is has-text-centered">
+            <img src="./assets/images/motivation.png" style="width: 70%"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+          <div class="column is has-text-centered">
+            <img src="./assets/images/radar_cocoad.png"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+        </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is has-text-centered">
+            <img src="./assets/images/radar_mvtec.png" style="width: 97%"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+          <div class="column is has-text-centered">
+            <img src="./assets/images/radar_visa.png"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ Motivation. -->
+
+    <!-- Method. -->
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">InvAD </h2>
+        <div class="content has-text-justified">
+          <p>
+            <strong>Top:</strong> AD datasets comparison. <strong>Middle:</strong> AD metric comparison. <strong>Bottom:</strong> Structure of our InvAD.
+          </p>
+        </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is has-text-centered">
+            <img src="./assets/images/dataset.png"  style="width: 70%"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+        </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is-8 has-text-centered">
+            <img src="./assets/images/metric.png"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+            <!-- <p>Start Frame</p> -->
+          </div>
+        </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is-8 has-text-centered">
+            <img src="./assets/images/invad.png"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+            <!-- <p>Start Frame</p> -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ Method. -->
+
+    <!-- Experiments. -->
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Experiments on COCO-AD, MVTec-AD, and VisA </h2>
+        <div class="content has-text-justified"> </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is has-text-centered">
+            <img src="./assets/images/quantitative.png"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+        </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is has-text-centered">
+            <img src="./assets/images/qualitative.png"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <!--/ Experiments. -->
+</div>
+</section>
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>
+      @article{vitad,
+        title={Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection},
+        author={Jiangning Zhang and Xuhai Chen and Yabiao Wang and Chengjie Wang and Yong Liu and Xiangtai Li and Ming-Hsuan Yang and Dacheng Tao},
+        journal={arXiv preprint arXiv:2312.07495},
+        year={2023}
+      }
+    </code></pre>
+  </div>
+</section>
 
 
 <footer class="footer">

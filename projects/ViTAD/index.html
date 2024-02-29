@@ -182,16 +182,7 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            This work studies the recently proposed challenging and practical Multi-class Unsupervised Anomaly Detection (MUAD) task, which only requires normal images for training while simultaneously testing both normal/anomaly images for multiple classes. 
-            Existing reconstruction-based methods typically adopt pyramid networks as encoders/decoders to obtain multi-resolution features, accompanied by elaborate sub-modules with heavier handcraft engineering designs for more precise localization. 
-            In contrast, a plain Vision Transformer (ViT) with simple architecture has been shown effective in multiple domains, which is simpler, more effective, and elegant. 
-            Following this spirit, this paper explores plain ViT architecture for MUAD. 
-            Specifically, we abstract a Meta-AD concept by inducing current reconstruction-based methods. 
-            Then, we instantiate a novel and elegant plain ViT-based symmetric ViTAD structure, effectively designed step by step from three macro and four micro perspectives. 
-            In addition, this paper reveals several interesting findings for further exploration. 
-            Finally, we propose a comprehensive and fair evaluation benchmark on eight metrics for the MUAD task.
-            Based on a naive training recipe, ViTAD achieves state-of-the-art (SoTA) results and efficiency on the MVTec AD and VisA datasets without bells and whistles, obtaining 85.4 mAD that surpasses SoTA UniAD by +3.0↑, and only requiring 1.1 hours and 2.3G GPU memory to complete model training by a single V100 GPU. 
-            Source code, models, and more results are available soon. 
+            This work studies a challenging and practical problem, termed multi-class unsupervised anomaly detection (MUAD), which only requires normal images for training while simultaneously testing both normal and anomaly images for multiple classes. Existing reconstruction-based methods typically adopt pyramidal networks as encoders and decoders to obtain multi-resolution features, accompanied by elaborating sub-modules with heavier handcraft engineering designs. In contrast, a plain Vision Transformer (ViT) showcasing a more straightforward architecture has proven effective in multiple domains, including detection and segmentation tasks. It is simpler, more effective, and elegant. Following this spirit, we explore plain ViT features for MUAD. We first abstract a Meta-AD concept by inducing current reconstruction-based methods. Then, we instantiate a novel ViT-based ViTAD structure, effectively designed step by step from global and local perspectives. In addition, this paper reveals several interesting findings for further exploration. Finally, we benchmark various approaches comprehensively and fairly on eight metrics. Based on a naive training recipe with only an MSE loss, ViTAD achieves state-of-the-art results and efficiency on MVTec-AD, VisA, and Uni-Medical datasets, obtaining 85.4 mAD that surpasses UniAD by +3.0, while only requiring 1.1 hours and 2.3G GPU memory to complete model training by one V100 on the MVTec-AD dataset. 
           </p>
         </div>
       </div>
@@ -223,8 +214,8 @@
           <p>
             Existing reconstruction-based methods typically adopt pyramid networks as encoders/decoders to obtain multi-resolution features, accompanied by elaborate sub-modules with heavier handcraft engineering designs for more precise localization. <br>
             1. We first abstract a Meta-AD concept by inducing current reconstruction-based methods. <br>
-            2. Then, we instantiate a novel and elegant plain ViT-based symmetric ViTAD structure, effectively designed step by step from three macro and four micro perspectives. <br>
-            3. Based on a naive training recipe (only MSE loss), ViTAD achieves SoTA results and efficiency on MVTec AD and VisA datasets.
+            2. Then, we instantiate a novel ViT-based ViTAD structure, effectively designed step by step from global and local perspectives. <br>
+            3. Based on a naive training recipe (only MSE loss), ViTAD achieves SoTA results and efficiency on MVTec AD, VisA, and Uni-Medical datasets.
           </p>
         </div>
         <div class="columns is-centered interpolation-panel">
@@ -300,8 +291,18 @@
                 alt="Interpolate start reference image."/>
           </div>
         </div>
+        
+        <h2 class="title is-3">Experiments on Uni-Medical </h2>
+        <div class="content has-text-justified"> </div>
+        <div class="columns is-centered interpolation-panel">
+          <div class="column is has-text-centered">
+            <img src="./assets/images/medical.png"
+                class="interpolation-image"
+                alt="Interpolate start reference image."/>
+          </div>
+        </div>
 
-        <h2 class="title is-3">Qualitative Results on MVTec AD and VisA </h2>
+        <h2 class="title is-3">Qualitative Results on MVTec AD, VisA, and Uni-Medical </h2>
         <div class="content has-text-justified"> </div>
         <div class="columns is-centered interpolation-panel">
           <div class="column is has-text-centered">
