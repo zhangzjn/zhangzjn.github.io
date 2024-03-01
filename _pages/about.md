@@ -55,7 +55,7 @@ https://www.emojiall.com/zh-hans/all-cate
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
+    <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
     <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
