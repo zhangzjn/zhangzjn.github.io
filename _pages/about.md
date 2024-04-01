@@ -55,10 +55,10 @@ https://www.emojiall.com/zh-hans/all-cate
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
+    <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 We release the largest <a href="">Real-IAD</a> for industrial anomaly detection. </li>
     <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
-    <li><i>2024.01.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TNNLS 2024</strong>. </li>
     <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
     <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
     <li><i>2023.07.26</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. </li>
@@ -108,20 +108,15 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
-    <li id="2024-3"> 
+    <li id="2024-2"> 
     EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm <a href="https://arxiv.org/abs/2206.09325">[Paper]</a> <a href="https://https://github.com/zhangzjn/EATFormer">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xiangtai Li, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, and Dacheng Tao <br>
     <i>International Journal of Computer Vision <strong>(IJCV).</strong></i> 2024.
   </li>
-  <li id="2024-2"> 
+  <li id="2024-1"> 
     Towards open vocabulary learning: A survey <a href="https://arxiv.org/abs/2306.15880">[Paper]</a> <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">[Code]</a> <br> 
     Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
     <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2024.
-  </li>
-  <li id="2024-1"> 
-    An Effective Information Theoretic Framework for Channel Pruning <a href="">[Paper]</a> <br> 
-    Yihao Chen, Guanzhong Tian#, Yihao Chen, Zefang Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Liang Liu, Mengmeng Wang, Shanqi Liu, and Yong Liu <br>
-    <i>Transactions on Neural Networks and Learning Systems <strong>(TNNLS).</strong></i> 2024.
   </li>
 </ol>
 
