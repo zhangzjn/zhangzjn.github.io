@@ -55,7 +55,7 @@ https://www.emojiall.com/zh-hans/all-cate
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 We release the largest <a href="">Real-IAD</a> for industrial anomaly detection. </li>
+    <li><i>2024.03.20</i>: &nbsp;🎉🎉🎉 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
     <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
@@ -124,27 +124,27 @@ https://www.emojiall.com/zh-hans/all-cate
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
   <li id="2023-19"> 
-    Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation <a href="https://arxiv.org/abs/2305.07223">[Paper]</a> <br> 
+    Hear to Segment: Unmixing the Audio to Guide the Semantic Segmentation <a href="https://ieeexplore.ieee.org/abstract/document/10446516">[Paper]</a> <br> 
     Yuhang Ling, Yuxi Li, Zhenye Gan, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Mingmin Chi, and Yabiao Wang <br>
     <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2024.
   </li>
   <li id="2023-18"> 
-    DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection <a href="https://arxiv.org/abs/2312.06607">[Paper]</a> <a href="https://github.com/lewandofskee/DiAD">[Code]</a> <a href="https://lewandofskee.github.io/projects/diad">[Project]</a> <br> 
+    DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28690">[Paper]</a> <a href="https://github.com/lewandofskee/DiAD">[Code]</a> <a href="https://lewandofskee.github.io/projects/diad">[Project]</a> <br> 
     Haoyang He*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-17"> 
-    Rethinking Reverse Distillation for Multi-Modal Anomaly Detection <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
+    Rethinking Reverse Distillation for Multi-Modal Anomaly Detection <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28687">[Paper]</a> <br> 
     Zhihao Gu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, and Lizhuang Ma <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-16"> 
-    Self-supervised Likelihood Estimation with Energy Guidance for Anomaly Segmentation in Urban Scenes <a href="https://arxiv.org/abs/2302.06815">[Paper]</a> <a href="">[Code]</a> <br> 
+    Self-supervised Likelihood Estimation with Energy Guidance for Anomaly Segmentation in Urban Scenes <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30162">[Paper]</a> <br> 
     Yuanpeng Tu, Yuxi Li, Boshen Zhang, Liang Liu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yabiao Wang, and Cairong Zhao <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
   <li id="2023-15"> 
-    AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model <a href="https://arxiv.org/abs/2312.05767">[Paper]</a> <a href="https://github.com/sjtuplayer/anomalydiffusion">[Code]</a> <a href="https://sjtuplayer.github.io/anomalydiffusion-page">[Project]</a> <br> 
+    AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28696">[Paper]</a> <a href="https://github.com/sjtuplayer/anomalydiffusion">[Code]</a> <a href="https://sjtuplayer.github.io/anomalydiffusion-page">[Project]</a> <br> 
     Teng Hu*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Ran Yi, Yuzhen Du, Xu Chen, Liang Liu, Yabiao Wang, and Chengjie Wang <br>
     <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
   </li>
