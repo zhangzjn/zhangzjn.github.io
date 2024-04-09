@@ -55,6 +55,7 @@ https://www.emojiall.com/zh-hans/all-cate
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
+    <li><i>2024.03.20</i>: &nbsp;🎉🎉🎉 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a> based on PyTorch. </li>
     <li><i>2024.03.20</i>: &nbsp;🎉🎉🎉 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
     <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
@@ -108,7 +109,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
-    <li id="2024-2"> 
+  <li id="2024-2"> 
     EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm <a href="https://arxiv.org/abs/2206.09325">[Paper]</a> <a href="https://https://github.com/zhangzjn/EATFormer">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xiangtai Li, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, and Dacheng Tao <br>
     <i>International Journal of Computer Vision <strong>(IJCV).</strong></i> 2024.
