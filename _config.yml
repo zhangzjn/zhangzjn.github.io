@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiangning Zhang"
   avatar           : "images/zhangzjn-512x512.png"
-  bio              : "Photograph by my loved wife: Ms. Zhucun Xue"  # "Ph.D. under Zhejiang University"   fiancee -> wife, 2023.10.02
+  bio              : "Photograph by my loved wife: Ms. Xue"  # "Ph.D. under Zhejiang University"   fiancee -> wife, 2023.10.02
   location         : "Shanghai, China"
   employer         : 
   pubmed           : 
