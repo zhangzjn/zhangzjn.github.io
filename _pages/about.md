@@ -55,7 +55,8 @@ https://www.emojiall.com/zh-hans/all-cate
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <li><i>2024.03.20</i>: &nbsp;🎉🎉🎉 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a> based on PyTorch. </li>
+    <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2024</strong>. </li>
+    <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a> based on PyTorch. </li>
     <li><i>2024.03.20</i>: &nbsp;🎉🎉🎉 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
     <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
