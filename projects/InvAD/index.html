@@ -120,7 +120,7 @@
             <div class="publication-links">
               <!-- PDF Link. -->
               <span class="link-block">
-                <a href="https://arxiv.org/pdf/2011.12948"
+                <a href="https://arxiv.org/abs/2404.10760"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
@@ -184,7 +184,7 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Anomaly detection (AD) is often focused on detecting anomaly areas for industrial quality inspection and medical lesion examination. However, due to the specific scenario targets, the data scale for AD is relatively small, and evaluation metrics are still deficient compared to classic vision tasks, such as object detection and semantic segmentation. To fill these gaps, this work first constructs a large-scale and general-purpose COCO-AD dataset by extending COCO to the AD field. This enables fair evaluation and sustainable development for different methods on this challenging benchmark. Moreover, current metrics such as AU-ROC have nearly reached saturation on simple datasets, which prevents a comprehensive evaluation of different methods. Inspired by the metrics in the segmentation field, we further propose several more practical threshold-dependent AD-specific metrics, <i>i.e. </i>, <span style="position: relative;"> m<i>F</i><sub>1</sub><sup style="position: absolute; top: -0.5em;">.2</sup><sub style="position: absolute; bottom: -0.5em;">.8</sub> </span>, <span style="position: relative;"> mAcc<sup style="position: absolute; top: -0.5em;">.2</sup><sub style="position: absolute; bottom: -0.5em;">.8</sub> </span>,  <span style="position: relative;"> mIoU<sup style="position: absolute; top: -0.5em;">.2</sup><sub style="position: absolute; bottom: -0.5em;">.8</sub> </span>, and mIoU-max. Motivated by GAN inversion's high-quality reconstruction capability, we propose a simple but more powerful InvAD framework to achieve high-quality feature reconstruction. Our method improves the effectiveness of reconstruction-based methods on popular MVTec AD, VisA, and our newly proposed COCO-AD datasets under a multi-class unsupervised setting, where only a single detection model is trained to detect anomalies from different classes. Extensive ablation experiments have demonstrated the effectiveness of each component of our InvAD. 
+            Anomaly detection (AD) is often focused on detecting anomaly areas for industrial quality inspection and medical lesion examination. However, due to the specific scenario targets, the data scale for AD is relatively small, and evaluation metrics are still deficient compared to classic vision tasks, such as object detection and semantic segmentation. To fill these gaps, this work first constructs a large-scale and general-purpose COCO-AD dataset by extending COCO to the AD field. This enables fair evaluation and sustainable development for different methods on this challenging benchmark. Moreover, current metrics such as AU-ROC have nearly reached saturation on simple datasets, which prevents a comprehensive evaluation of different methods. Inspired by the metrics in the segmentation field, we further propose several more practical threshold-dependent AD-specific metrics, <i>i.e.</i>, <span style="position: relative;"> m<i>F</i><sub>1</sub><sup style="position: absolute; top: -0.5em;">.2</sup><sub style="position: absolute; bottom: -0.5em;">.8</sub> </span>, <span style="position: relative;"> mAcc<sup style="position: absolute; top: -0.5em;">.2</sup><sub style="position: absolute; bottom: -0.5em;">.8</sub> </span>,  <span style="position: relative;"> mIoU<sup style="position: absolute; top: -0.5em;">.2</sup><sub style="position: absolute; bottom: -0.5em;">.8</sub> </span>, and mIoU-max. Motivated by GAN inversion's high-quality reconstruction capability, we propose a simple but more powerful InvAD framework to achieve high-quality feature reconstruction. Our method improves the effectiveness of reconstruction-based methods on popular MVTec AD, VisA, and our newly proposed COCO-AD datasets under a multi-class unsupervised setting, where only a single detection model is trained to detect anomalies from different classes. Extensive ablation experiments have demonstrated the effectiveness of each component of our InvAD. 
           </p>
         </div>
       </div>
@@ -346,11 +346,11 @@
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
     <pre><code>
-      @article{vitad,
-        title={Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection},
-        author={Jiangning Zhang and Xuhai Chen and Yabiao Wang and Chengjie Wang and Yong Liu and Xiangtai Li and Ming-Hsuan Yang and Dacheng Tao},
-        journal={arXiv preprint arXiv:2312.07495},
-        year={2023}
+      @article{invad,
+        title={Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark},
+        author={Jiangning Zhang and Chengjie Wang and Xiangtai Li and Guanzhong Tian and Zhucun Xue and Yong Liu and Guansong Pang and Dacheng Tao},
+        journal={arXiv preprint arXiv:2404.10760},
+        year={2024}
       }
     </code></pre>
   </div>
