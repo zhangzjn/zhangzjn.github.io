@@ -110,8 +110,33 @@ https://www.emojiall.com/zh-hans/all-cate
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
+  <li id="2024-7"> 
+    UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation <a href="https://arxiv.org/abs/2401.11395">[Paper]</a> <a href="https://github.com/hithqd/UniM-OV3D">[Code]</a> <br> 
+   Qingdong He, Jinlong Peng, Zhengkai Jiang, Kai Wu, Xiaozhong Ji, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Yabiao Wang, Chengjie Wang, Mingang Chen, and Yunsheng Wu <br>
+    <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI).</strong></i> 2024.
+  </li>
+  <li id="2024-6"> 
+    Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection <a href="https://arxiv.org/abs/2403.12580">[Paper]</a> <a href="https://github.com/TencentYoutuResearch/AnomalyDetection_Real-IAD">[Code]</a> <a href="https://realiad4ad.github.io/Real-IAD">[Project]</a> <br> 
+    Chengjie Wang, Wenbing Zhu, Bin-Bin Gao, Zhenye Gan, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Zhihao Gu, Shuguang Qian, Mingang Chen, and Lizhuang Ma <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2024.
+  </li>
+  <li id="2024-5"> 
+    Towards Language-Driven Video Inpainting Via Multimodal Large Language Models <a href="https://arxiv.org/abs/2401.10226">[Paper]</a> <a href="https://github.com/jianzongwu/Language-Driven-Video-Inpainting">[Code]</a> <a href="https://jianzongwu.github.io/projects/rovi">[Project]</a> <br> 
+    Jianzong Wu, Xiangtai Li, Chenyang Si, Shangchen Zhou, Jingkang Yang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yining Li, Kai Chen, Yunhai Tong, Ziwei Liu, and Chen Change Loy <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2024.
+  </li>
+  <li id="2024-4"> 
+    SuperSVG: Superpixel-Based Scalable Vector Graphics Synthesis <a href="https://orca.cardiff.ac.uk/id/eprint/167659/">[Paper]</a> <br> 
+    Teng Hu, Ran Yi, Baihong Qian, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Paul Rosin, and Yukun Lai <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2024.
+  </li>
+  <li id="2024-3"> 
+    PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization <a href="https://arxiv.org/abs/2312.06354">[Paper]</a> <a href="https://portraitbooth.github.io">[Project]</a> <br> 
+    Xu Peng, Junwei Zhu, Boyuan Jiang, Ying Tai, Donghao Luo, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Wei Lin, Taisong Jin, Chengjie Wang, and Rongrong Ji <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2024.
+  </li>
   <li id="2024-2"> 
-    EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm <a href="https://arxiv.org/abs/2206.09325">[Paper]</a> <a href="https://https://github.com/zhangzjn/EATFormer">[Code]</a> <br> 
+    EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm <a href="https://arxiv.org/abs/2206.09325">[Paper]</a> <a href="https://github.com/zhangzjn/EATFormer">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xiangtai Li, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, and Dacheng Tao <br>
     <i>International Journal of Computer Vision <strong>(IJCV).</strong></i> 2024.
   </li>
