@@ -37,12 +37,10 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry Perception and AIGC) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My major is Computer Vision and my research interests include:<br>
-🌱 GAN-/Diffusion-based AIGC researches with LLM, e.g., multi-modal image/video generation, 2D/3D virtual digital human related researches (3D face/body/hand reconstruction, multi-modal digital human drive, motion generation, etc.), text-to-image generation, multi-modal human-centric editing and generation, etc.<br>
-🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture, light-wight vision model, etc.<br>
-🌱 Anomaly Classification and Segmentation.
-
-
+。m<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry Perception and AIGC) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My major is Computer Vision and my research interests include:<br>
+🌱 Neural Architecture Design: transformer-based architecture, light-wight vision model.<br>
+🌱 Multi-modal GAN-/VAE-/Diffusion-based AIGC researches: image/video generation, multi-modal human-centric editing and generation, and 2D/3D virtual digital human related researches (3D face/body/hand/cloth reconstruction, multi-modal digital human animation, motion generation, etc.).<br>
+🌱 3D Scene Segmentation via Foundation Models, Visual Anomaly Classification and Segmentation.
 
 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
 💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team) at Zhejiang University.<br>
@@ -55,6 +53,9 @@ https://www.emojiall.com/zh-hans/all-cate
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
+    <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 3rd place for <a href="https://economy.gmw.cn/2024-01/30/content_37121032.htm">The 3rd New Audiovisual Media Integration Innovation and Creativity Competition 2024</a>. </li> -->
+    <li><i>2024.06.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI</strong>. </li>
+    <li><i>2024.06.01</i>: &nbsp;🎉🎉🎉 Two paper are accepted by <strong>IJCAI 2024-ADFM</strong>. </li>
     <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2024</strong>. </li>
     <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a> based on PyTorch. </li>
     <li><i>2024.03.20</i>: &nbsp;🎉🎉🎉 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
@@ -105,11 +106,25 @@ https://www.emojiall.com/zh-hans/all-cate
   <a href="#arxiv"><u>arXiv</u></a>&nbsp;
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
-<strong>*</strong> joint first author | <strong>#</strong> joint corresponding author <br> 
+<span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> joint corresponding author <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
+  <li id="2024-10"> 
+    Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation <a href="https://arxiv.org/abs/2301.01156">[Paper]</a> <a href="https://github.com/hanyue1648/RefT">[Code]</a> <br> 
+    Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zhucun Xue, Chao Xu, Xintian Shen, Yabiao Wang, Chengjie Wang, Yong Liu, and Xiangtai Li <br>
+    <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2024.
+  <li id="2024-9"> 
+    GPT-4V-AD: Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.02612">[Paper]</a> <a href="https://github.com/zhangzjn/GPT-4V-AD">[Code]</a> <br> 
+   <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Haoyang He, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, Lei Xie, and Yong Liu <br>
+    <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI) ADFM.</strong></i> 2024.
+  </li>
+  <li id="2024-8"> 
+    CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.00453">[Paper]</a> <br> 
+   Xuhai Chen, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
+    <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI) ADFM.</strong></i> 2024.
+  </li>
   <li id="2024-7"> 
     UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation <a href="https://arxiv.org/abs/2401.11395">[Paper]</a> <a href="https://github.com/hithqd/UniM-OV3D">[Code]</a> <br> 
    Qingdong He, Jinlong Peng, Zhengkai Jiang, Kai Wu, Xiaozhong Ji, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Yabiao Wang, Chengjie Wang, Mingang Chen, and Yunsheng Wu <br>
