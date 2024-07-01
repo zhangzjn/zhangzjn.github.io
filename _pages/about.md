@@ -109,7 +109,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
 <span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> joint corresponding author <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
-<h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
+<!-- <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
   <li id="2024-10"> 
     Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation <a href="https://arxiv.org/abs/2301.01156">[Paper]</a> <a href="https://github.com/hanyue1648/RefT">[Code]</a> <br> 
@@ -160,7 +160,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
     Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Xudong Jiang, Bernard Ghanem, and Dacheng Tao <br>
     <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2024.
   </li>
-</ol>
+</ol> -->
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
