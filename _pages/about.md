@@ -108,7 +108,8 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
 <span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> joint corresponding author <br> 
-<!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
+<strong>Summary:</strong> IJCV (1), TPAMI (2) + TIP (1) <br>
+<strong>Summary:</strong> CVPR (13), ICCV (5) + ECCV (10) <br>
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
