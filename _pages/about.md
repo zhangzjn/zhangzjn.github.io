@@ -54,6 +54,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 3rd place for <a href="https://economy.gmw.cn/2024-01/30/content_37121032.htm">The 3rd New Audiovisual Media Integration Innovation and Creativity Competition 2024</a>. </li> -->
+    <li><i>2024.07.01</i>: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>ECCV</strong>. </li>
     <li><i>2024.06.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI</strong>. </li>
     <li><i>2024.06.01</i>: &nbsp;🎉🎉🎉 Two paper are accepted by <strong>IJCAI 2024-ADFM</strong>. </li>
     <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2024</strong>. </li>
@@ -103,7 +104,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
 	<a href="#pub2022"><u>2022</u></a>&nbsp;
   <a href="#pub2021"><u>2021</u></a>&nbsp;
   <a href="#pub2020"><u>2020</u></a>&nbsp;
-  <a href="#arxiv"><u>arXiv</u></a>&nbsp;
+  <!-- <a href="#arxiv"><u>arXiv</u></a>&nbsp; -->
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
 <span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> joint corresponding author <br> 
@@ -111,6 +112,36 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
+  <li id="2024-16"> 
+    DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation <a href="https://arxiv.org/abs/2403.06168">[Paper]</a> <br> 
+    Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Taisong Jin, Chengjie Wang, and Rongrong Ji <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+  <li id="2024-15"> 
+    Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control <a href="https://arxiv.org/abs/2405.12970">[Paper]</a> <br> 
+    Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chengjie Wang, and Yong Liu <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+  <li id="2024-14"> 
+    TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation <a href="https://arxiv.org/abs/2403.12906">[Paper]</a> <br> 
+    Yufei Liu, Junwei Zhu, Junshu Tang, Shijie Zhang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Weijian Cao, Chengjie Wang, Yunsheng Wu, and Dongjin Huang <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+  <li id="2024-13"> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="">[Paper]</a> <br> 
+    Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Luca Frittoli, Yuqi Cheng, Weiming Shen, and Giacomo Boracchi <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+  <li id="2024-12"> 
+    FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis <a href="https://arxiv.org/abs/2405.15763">[Paper]</a> <br> 
+    Ke Fan, Junshu Tang, Weijian Cao, Ran Yi, Moran Li, Jingyu Gong, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yabiao Wang, Chengjie Wang, and Lizhuang Ma <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+  <li id="2024-11"> 
+    Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection <a href="https://arxiv.org/abs/2401.03145">[Paper]</a> <br> 
+    Yuanpeng Tu, Boshen Zhang, Liang Liu, Yuxi Li, Xuhai Chen, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yabiao Wang, Chengjie Wang, and Cai Rong Zhao <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
   <li id="2024-10"> 
     Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation <a href="https://arxiv.org/abs/2301.01156">[Paper]</a> <a href="https://github.com/hanyue1648/RefT">[Code]</a> <br> 
     Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zhucun Xue, Chao Xu, Xintian Shen, Yabiao Wang, Chengjie Wang, Yong Liu, and Xiangtai Li <br>
@@ -384,44 +415,6 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
   </li>
 </ol>
 
-<h2 id="arxiv" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">arXiv</h2>
-<ol reversed>
-  <li id="arxiv"> 
-    PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization <a href="https://arxiv.org/abs/2312.06354">[Paper]</a> <br> 
-    Xu Peng, Junwei Zhu, Boyuan Jiang, Ying Tai, Donghao Luo, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Wei Lin, Taisong Jin, Chengjie Wang, Rongrong Ji <br>
-    <i><strong>arXiv.</strong></i> 2023, 2312.06354.
-  </li>
-  <li id="arxiv"> 
-    Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, Dacheng Tao <br>
-    <i><strong>arXiv.</strong></i> 2023, 2312.07495.
-  </li>
-  <li id="arxiv"> 
-    Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.02612">[Paper]</a> <a href="https://github.com/zhangzjn/GPT-4V-AD">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2023, 2311.02612.
-  </li>
-  <li id="arxiv"> 
-    CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.00453">[Paper]</a> <br> 
-    Xuhai Chen*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2023, 2311.00453.
-  </li>
-  <li id="arxiv"> 
-    Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator <a href="https://arxiv.org/abs/2305.02594">[Paper]</a> <br> 
-    Chao Xu, Shaoting Zhu, Junwei Zhu, Tianxin Huang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ying Tai, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2023, 2305.02594.
-  </li>
-  <li id="arxiv"> 
-    Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation <a href="https://arxiv.org/abs/2301.01156">[Paper]</a> <a href="https://github.com/hanyue1648/RefT">[Code]</a> <br> 
-    Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zhucun Xue, Chao Xu, Xintian Shen, Yabiao Wang, Chengjie Wang, Yong Liu, and Xiangtai Li <br>
-    <i><strong>arXiv.</strong></i> 2022, 2301.01156.
-  </li>
-  <li id="arxiv"> 
-    SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network <a href="https://arxiv.org/abs/2112.10683">[Paper]</a> <br> 
-    Xianfang Zeng*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Liang Liu, Guangzhong Tian, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2021, 2112.10683.
-  </li>
-</ol>
 
 <h2 id="challenges" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Challenges</h2>
 <ol reversed>
