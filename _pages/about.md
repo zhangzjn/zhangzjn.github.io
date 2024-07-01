@@ -37,7 +37,7 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-I am<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry Perception and AIGC) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My major is Computer Vision and my research interests include:<br>
+I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry Perception and AIGC) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My major is Computer Vision and my research interests include:<br>
 🌱 Neural Architecture Design: transformer-based architecture, light-wight vision model.<br>
 🌱 Multi-modal GAN-/VAE-/Diffusion-based AIGC researches: image/video generation, multi-modal human-centric editing and generation, and 2D/3D virtual digital human related researches (3D face/body/hand/cloth reconstruction, multi-modal digital human animation, motion generation, etc.).<br>
 🌱 3D Scene Segmentation via Foundation Models, Visual Anomaly Classification and Segmentation.
@@ -161,7 +161,6 @@ I am<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher
     <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2024.
   </li>
 </ol>
-
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
