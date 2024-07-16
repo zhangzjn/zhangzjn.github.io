@@ -55,15 +55,15 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
   <ol style="list-style-type: none;">
     <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 3rd place for <a href="https://economy.gmw.cn/2024-01/30/content_37121032.htm">The 3rd New Audiovisual Media Integration Innovation and Creativity Competition 2024</a>. </li> -->
     <li><i>2024.07.16</i>: &nbsp;🔥🔥🔥 Checkout our recent <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, a training-free camera-motion transferred video generation method. </li>
-    <li><i>2024.07.16</i>: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ACMM MM</strong>. </li>
-    <li><i>2024.07.01</i>: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>ECCV</strong>. </li>
-    <li><i>2024.06.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI</strong>. </li>
-    <li><i>2024.06.01</i>: &nbsp;🎉🎉🎉 Two paper are accepted by <strong>IJCAI 2024-ADFM</strong>. </li>
-    <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2024</strong>. </li>
+    <li><i>2024.07.16</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, <a href="">MambaGesture</a>, and <a href="">MDT-A2G</a> are accepted by <strong>ACMM MM</strong>. </li>
+    <li><i>2024.07.01</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2401.03145">LSFA</a>, <a href="https://arxiv.org/abs/2405.15763">FreeMotion</a>, <a href="">AdaCLIP</a>, <a href="https://ggxxii.github.io/texdreamer">TexDreamer</a>, <a href="https://faceadapter.github.io/face-adapter.github.io">Face-Adapter</a>, and <a href="https://arxiv.org/abs/2403.06168">DiffuMatting</a> are accepted by <strong>ECCV</strong>. </li>
+    <li><i>2024.06.16</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/hanyue1648/RefT">ReferenceTwice</a> for few-shot IS is accepted by <strong>T-PAMI</strong>. </li>
+    <li><i>2024.06.01</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/GPT-4V-AD">GPT-4V-AD</a> and <a href="https://arxiv.org/abs/2311.00453">CLIP-AD</a> are accepted by <strong>IJCAI 2024-ADFM</strong>. </li>
+    <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/hithqd/UniM-OV3D">UniM-OV3D</a> is accepted by <strong>IJCAI 2024</strong>. </li>
     <li><i>2024.04.17</i>: &nbsp;🔥🔥🔥 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a>. </li>
     <li><i>2024.03.20</i>: &nbsp;🔥🔥🔥 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
-    <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
-    <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
+    <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>, <a href="https://portraitbooth.github.io">PortraitBooth</a>, <a href="https://github.com/sjtuplayer/SuperSVG">SuperSVG</a>, and <a href="https://jianzongwu.github.io/projects/rovi">ROVI</a> are accepted by <strong>CVPR 2024</strong>. </li>
+    <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 Strong backbone <a href="https://github.com/zhangzjn/EATFormer">EATFormer</a> is accepted by <strong>IJCV 2024</strong>. </li>
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
     <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
     <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
@@ -136,12 +136,12 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
   </li>
   <li id="2024-15"> 
-    Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control <a href="https://arxiv.org/abs/2405.12970">[Paper]</a> <br> 
+    Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control <a href="https://arxiv.org/abs/2405.12970">[Paper]</a> <a href="https://github.com/FaceAdapter/Face-Adapter">[Code]</a> <a href="https://faceadapter.github.io/face-adapter.github.io">[Project]</a> <br> 
     Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Chengjie Wang, and Yong Liu <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
   </li>
   <li id="2024-14"> 
-    TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation <a href="https://arxiv.org/abs/2403.12906">[Paper]</a> <br> 
+    TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation <a href="https://arxiv.org/abs/2403.12906">[Paper]</a> <a href="https://github.com/ggxxii/texdreamer">[Code]</a> <a href="https://ggxxii.github.io/texdreamer">[Project]</a> <br> 
     Yufei Liu, Junwei Zhu, Junshu Tang, Shijie Zhang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Weijian Cao, Chengjie Wang, Yunsheng Wu, and Dongjin Huang <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
   </li>
@@ -191,7 +191,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2024.
   </li>
   <li id="2024-4"> 
-    SuperSVG: Superpixel-Based Scalable Vector Graphics Synthesis <a href="https://orca.cardiff.ac.uk/id/eprint/167659/">[Paper]</a> <br> 
+    SuperSVG: Superpixel-Based Scalable Vector Graphics Synthesis <a href="https://arxiv.org/abs/2406.09794">[Paper]</a> <a href="https://github.com/sjtuplayer/SuperSVG">[Code]</a> <br> 
     Teng Hu, Ran Yi, Baihong Qian, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Paul Rosin, and Yukun Lai <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2024.
   </li>
