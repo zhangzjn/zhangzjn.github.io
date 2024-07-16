@@ -54,12 +54,14 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 3rd place for <a href="https://economy.gmw.cn/2024-01/30/content_37121032.htm">The 3rd New Audiovisual Media Integration Innovation and Creativity Competition 2024</a>. </li> -->
+    <li><i>2024.07.16</i>: &nbsp;🔥🔥🔥 Checkout our recent <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, a training-free camera-motion transferred video generation method. </li>
+    <li><i>2024.07.16</i>: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ACMM MM</strong>. </li>
     <li><i>2024.07.01</i>: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>ECCV</strong>. </li>
     <li><i>2024.06.16</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI</strong>. </li>
     <li><i>2024.06.01</i>: &nbsp;🎉🎉🎉 Two paper are accepted by <strong>IJCAI 2024-ADFM</strong>. </li>
     <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2024</strong>. </li>
-    <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a> based on PyTorch. </li>
-    <li><i>2024.03.20</i>: &nbsp;🎉🎉🎉 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
+    <li><i>2024.04.17</i>: &nbsp;🔥🔥🔥 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a>. </li>
+    <li><i>2024.03.20</i>: &nbsp;🔥🔥🔥 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
     <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2024</strong>. </li>
     <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
@@ -113,6 +115,21 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
+  <!-- <li id="2024-19"> 
+    DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation <a href="https://arxiv.org/abs/2403.06168">[Paper]</a> <br> 
+    Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Taisong Jin, Chengjie Wang, and Rongrong Ji <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+  <li id="2024-18"> 
+    DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation <a href="https://arxiv.org/abs/2403.06168">[Paper]</a> <br> 
+    Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Taisong Jin, Chengjie Wang, and Rongrong Ji <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li> -->
+  <li id="2024-17"> 
+    MotionMaster: Training-free Camera Motion Transfer For Video Generation <a href="https://arxiv.org/abs/2404.15789">[Paper]</a> <a href="https://github.com/sjtuplayer/MotionMaster">[Code]</a> <a href="https://sjtuplayer.github.io/projects/MotionMaster">[Project]</a> <br> 
+    Teng Hu*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, and Lizhuang Ma <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
   <li id="2024-16"> 
     DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation <a href="https://arxiv.org/abs/2403.06168">[Paper]</a> <br> 
     Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Taisong Jin, Chengjie Wang, and Rongrong Ji <br>
@@ -120,7 +137,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
   </li>
   <li id="2024-15"> 
     Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control <a href="https://arxiv.org/abs/2405.12970">[Paper]</a> <br> 
-    Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chengjie Wang, and Yong Liu <br>
+    Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Chengjie Wang, and Yong Liu <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
   </li>
   <li id="2024-14"> 
