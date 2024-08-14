@@ -7,9 +7,7 @@
 
 # Site Settings
 title                    : "Jiangning Zhang"
-description              : |
-AIGC · MLLM · 3D Motion
-Virtual Digital Human
+description              : AIGC · MLLM · 3D Motion · Virtual Digital Human
 repository               : "zhangzjn/zhangzjn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -47,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/241/9593.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-8891-6766"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
