@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Jiangning Zhang"
-description              : "AIGC \nVirtual Digital Human \nMLLM \n 3D Motion"
+description              : |
+AIGC · MLLM · 3D Motion
+Virtual Digital Human
 repository               : "zhangzjn/zhangzjn.github.io"
 google_scholar_stats_use_cdn : true
 
