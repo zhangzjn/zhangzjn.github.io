@@ -54,6 +54,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 3rd place for <a href="https://economy.gmw.cn/2024-01/30/content_37121032.htm">The 3rd New Audiovisual Media Integration Innovation and Creativity Competition 2024</a>. </li> -->
+    <li><i>2024.08.22</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>KBS 2024</strong>. </li>
     <li><i>2024.07.16</i>: &nbsp;🔥🔥🔥 Checkout our recent <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, a training-free camera-motion transferred video generation method. </li>
     <li><i>2024.07.16</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, <a href="">MambaGesture</a>, and <a href="">MDT-A2G</a> are accepted by <strong>ACM MM</strong>. </li>
     <li><i>2024.07.01</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2401.03145">LSFA</a>, <a href="https://arxiv.org/abs/2405.15763">FreeMotion</a>, <a href="">AdaCLIP</a>, <a href="https://ggxxii.github.io/texdreamer">TexDreamer (Oral)</a>, <a href="https://faceadapter.github.io/face-adapter.github.io">Face-Adapter</a>, and <a href="https://arxiv.org/abs/2403.06168">DiffuMatting</a> are accepted by <strong>ECCV</strong>. </li>
@@ -119,12 +120,12 @@ I am <strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researche
     DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation <a href="https://arxiv.org/abs/2403.06168">[Paper]</a> <br> 
     Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Taisong Jin, Chengjie Wang, and Rongrong Ji <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
-  </li>
-  <li id="2024-18"> 
-    DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation <a href="https://arxiv.org/abs/2403.06168">[Paper]</a> <br> 
-    Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Taisong Jin, Chengjie Wang, and Rongrong Ji <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
   </li> -->
+  <li id="2024-18"> 
+    Dual-path Frequency Discriminators for Few-shot Anomaly Detection <a href="https://arxiv.org/abs/2403.04151">[Paper]</a> <a href="https://github.com/yuhbai/DFD">[Code]</a> <br> 
+    Yuhu Bai*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zhaofeng Chen, Yuhang Dong, Yunkang Cao, and Guanzhong Tian <br>
+    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2024.
+  </li>
   <li id="2024-17"> 
     MotionMaster: Training-free Camera Motion Transfer For Video Generation <a href="https://arxiv.org/abs/2404.15789">[Paper]</a> <a href="https://github.com/sjtuplayer/MotionMaster">[Code]</a> <a href="https://sjtuplayer.github.io/projects/MotionMaster">[Project]</a> <br> 
     Teng Hu*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, and Lizhuang Ma <br>
