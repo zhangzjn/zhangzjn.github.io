@@ -111,7 +111,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
   <!-- <a href="#arxiv"><u>arXiv</u></a>&nbsp; -->
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
-<span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> joint corresponding author <br> 
+<span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> corresponding author <br> 
 <strong>Summary:</strong> IJCV (2), TPAMI (2), TIP (1) <br>
 <strong>Summary:</strong> CVPR (13), ICCV (5), ECCV (10), NeurIPS (4) <br>
 
@@ -119,7 +119,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 <ol reversed>
   <li id="2024-22"> 
     MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2404.06564">[Paper]</a> <a href="https://lewandofskee.github.io/projects/MambaAD/">[Project]</a> <a href="https://github.com/lewandofskee/MambaAD">[Code]</a> <br> 
-    Haoyang He, Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, and Lei Xie <br>
+    Haoyang He, Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, and Lei Xie <br>
     <i>Conference on Neural Information Processing Systems <strong>(NeurIPS).</strong></i> 2024.
   </li>
   <li id="2024-21"> 
