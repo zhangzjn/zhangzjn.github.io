@@ -119,7 +119,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 <ol reversed>
   <li id="2024-22"> 
     MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2404.06564">[Paper]</a> <a href="https://lewandofskee.github.io/projects/MambaAD/">[Project]</a> <a href="https://github.com/lewandofskee/MambaAD">[Code]</a> <br> 
-    Haoyang He, Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, and Lei Xie <br>
+    Haoyang He, Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, and Lei Xie <br>
     <i>Conference on Neural Information Processing Systems <strong>(NeurIPS).</strong></i> 2024.
   </li>
   <li id="2024-21"> 
