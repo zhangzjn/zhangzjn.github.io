@@ -54,13 +54,14 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 3rd place for <a href="https://economy.gmw.cn/2024-01/30/content_37121032.htm">The 3rd New Audiovisual Media Integration Innovation and Creativity Competition 2024</a>. </li> -->
+    <li><i>2024.12.10</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2405.15214">PointRWKV</a>, <a href="https://arxiv.org/abs/2406.16710">	
+ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="https://arxiv.org/abs/2403.09616">RefLDMSeg</a> are accepted by <strong>AAAI 2025</strong>. </li>
     <li><i>2024.09.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/jianzongwu/MotionBooth">MotionBooth</a>, <a href="">Fetch-and-Forge</a>, and <a href="https://lewandofskee.github.io/projects/MambaAD/">MambaAD</a> are accepted by <strong>NeurIPS 2024</strong>. </li>
-    <li><i>2024.08.22</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2403.04151">DFD</a> is accepted by <strong>KBS 2024</strong>. </li>
     <li><i>2024.07.16</i>: &nbsp;🔥🔥🔥 Checkout our recent <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, a training-free camera-motion transferred video generation method. </li>
     <li><i>2024.07.16</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, <a href="https://fcchit.github.io/mambagesture/">MambaGesture</a>, and <a href="https://xiaofenmao.github.io/web-project/MDT-A2G/">MDT-A2G</a> are accepted by <strong>ACM MM 2024</strong>. </li>
     <li><i>2024.07.01</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2401.03145">LSFA</a>, <a href="https://arxiv.org/abs/2405.15763">FreeMotion</a>, <a href="">AdaCLIP</a>, <a href="https://ggxxii.github.io/texdreamer">TexDreamer (Oral)</a>, <a href="https://faceadapter.github.io/face-adapter.github.io">Face-Adapter</a>, and <a href="https://arxiv.org/abs/2403.06168">DiffuMatting</a> are accepted by <strong>ECCV 2024</strong>. </li>
     <li><i>2024.06.16</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/hanyue1648/RefT">ReferenceTwice</a> for few-shot IS is accepted by <strong>T-PAMI 2024</strong>. </li>
-    <li><i>2024.06.01</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/GPT-4V-AD">GPT-4V-AD</a> and <a href="https://arxiv.org/abs/2311.00453">CLIP-AD</a> are accepted by <strong>IJCAI 2024-ADFM</strong>. </li>
+    <li><i>2024.06.01</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/GPT-4V-AD">GPT-4V-AD</a> and <a href="https://arxiv.org/abs/2311.00453">CLIP-AD</a> are accepted by <strong>IJCAI 2024</strong>. </li>
     <li><i>2024.04.17</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/hithqd/UniM-OV3D">UniM-OV3D</a> is accepted by <strong>IJCAI 2024</strong>. </li>
     <li><i>2024.04.17</i>: &nbsp;🔥🔥🔥 We release a visual Anomaly Detection toolbox <a href="https://github.com/zhangzjn/ader">ADer</a>. </li>
     <li><i>2024.03.20</i>: &nbsp;🔥🔥🔥 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
@@ -117,9 +118,29 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
+  <li id="2024-26"> 
+    Explore In-Context Segmentation via Latent Diffusion Models <a href="https://arxiv.org/abs/2404.06564">[Paper]</a> <a href="https://wang-chaoyang.github.io/project/refldmseg/">[Project]</a> <a href="https://github.com/wang-chaoyang/RefLDMSeg">[Code]</a> <br> 
+    Chaoyang Wang, Xiangtai Li, Henghui Ding, Lu Qi, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Chen Change Loy, and Shuicheng Yan <br>
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+  </li>
+  <li id="2024-25"> 
+    Point Cloud Mamba: Point Cloud Learning via State Space Model <a href="https://arxiv.org/abs/2403.00762">[Paper]</a> <a href="https://github.com/zhang-tao-whu/PCM">[Code]</a> <br> 
+    Tao Zhang, Haobo Yuan, Lu Qi, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Qianyu Zhou, Shunping Ji, Shuicheng Yan, and Xiangtai Li <br>
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+  </li>
+  <li id="2024-24"> 
+    ID-Sculpt: ID-aware 3D Head Generation from Single In-the-wild Portrait Image <a href="https://arxiv.org/abs/2406.16710">[Paper]</a> <a href="https://jinkun-hao.github.io/Portrait3D">[Project]</a> <a href="https://github.com/jinkun-hao/Portrait3D">[Code]</a> <br> 
+    Jinkun Hao, Junshu Tang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ran Yi, Yijia Hong, Moran Li, Weijian Cao, Yating Wang, Chengjie Wang, and Lizhuang Ma <br>
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+  </li>
+  <li id="2024-23"> 
+    PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning <a href="https://arxiv.org/abs/2405.15214">[Paper]</a> <a href="https://github.com/hithqd/PointRWKV">[Code]</a> <br> 
+    Qingdong He, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Jinlong Peng, Haoyang He, Xiangtai Li, Yabiao Wang, and Chengjie Wang <br>
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+  </li>
   <li id="2024-22"> 
     MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2404.06564">[Paper]</a> <a href="https://lewandofskee.github.io/projects/MambaAD/">[Project]</a> <a href="https://github.com/lewandofskee/MambaAD">[Code]</a> <br> 
-    Haoyang He, Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, and Lei Xie <br>
+    Haoyang He, Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, and Lei Xie <br>
     <i>Conference on Neural Information Processing Systems <strong>(NeurIPS).</strong></i> 2024.
   </li>
   <li id="2024-21"> 
@@ -185,12 +206,12 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
   <li id="2024-9"> 
     GPT-4V-AD: Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.02612">[Paper]</a> <a href="https://github.com/zhangzjn/GPT-4V-AD">[Code]</a> <br> 
    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Haoyang He, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, Lei Xie, and Yong Liu <br>
-    <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI) ADFM.</strong></i> 2024.
+    <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI).</strong></i> 2024.
   </li>
   <li id="2024-8"> 
     CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.00453">[Paper]</a> <br> 
    Xuhai Chen, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
-    <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI) ADFM.</strong></i> 2024.
+    <i>International Joint Conference on Artificial Intelligence <strong>(IJCAI).</strong></i> 2024.
   </li>
   <li id="2024-7"> 
     UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation <a href="https://arxiv.org/abs/2401.11395">[Paper]</a> <a href="https://github.com/hithqd/UniM-OV3D">[Code]</a> <br> 
