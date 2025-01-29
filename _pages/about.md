@@ -122,7 +122,7 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
 <ol reversed>
   <li id="2025-2"> 
     Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <br> 
-    Jiangning Zhang, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, and Dacheng Tao <br>
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, and Dacheng Tao <br>
     <i>Computer Vision and Image Understanding <strong>(CVIU).</strong></i> 2025.
   </li>
   <li id="2025-1"> 
