@@ -40,7 +40,7 @@ https://www.emojiall.com/zh-hans/all-cate
 I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Principal Researcher of two teams (Industry Perception and AIGC) at YouTu Lab, Tencent, Shanghai (技术大咖计划). I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
 🌱 Neural Architecture Design: transformer-based architecture, light-wight vision model.<br>
 🌱 Multi-modal GAN-/VAE-/Diffusion-based AIGC researches: image/video generation, multi-modal human-centric editing and generation, and 2D/3D virtual digital human related researches (3D face/body/hand/cloth reconstruction, multi-modal digital human animation, motion generation, etc.).<br>
-🌱 3D Scene Segmentation via Foundation Models, Visual Anomaly Classification and Segmentation.
+🌱 Controllable Video Generation, RAG for LLM, Efficient Training. 
 
 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
 💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team) at Zhejiang University.<br>
@@ -53,7 +53,8 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 3rd place for <a href="https://economy.gmw.cn/2024-01/30/content_37121032.htm">The 3rd New Audiovisual Media Integration Innovation and Creativity Competition 2024</a>. </li> -->
+    <li><i>2025.01.29</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/ViTAD/">ViTAD</a> is accepted by <strong>CVIU 2025</strong>. </li>
+    <li><i>2025.01.22</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/SaRA/">SaRA</a> is accepted by <strong>ICLR 2025</strong>. </li>
     <li><i>2024.12.10</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2405.15214">PointRWKV</a>, <a href="https://arxiv.org/abs/2406.16710">	
 ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="https://arxiv.org/abs/2403.09616">RefLDMSeg</a> are accepted by <strong>AAAI 2025</strong>. </li>
     <li><i>2024.09.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/jianzongwu/MotionBooth">MotionBooth</a>, <a href="">Fetch-and-Forge</a>, and <a href="https://lewandofskee.github.io/projects/MambaAD/">MambaAD</a> are accepted by <strong>NeurIPS 2024</strong>. </li>
@@ -104,6 +105,7 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
 
 # 📝 Publications 
 <h2>
+  <a href="#pub2025"><u>2025</u></a>&nbsp;
   <a href="#pub2024"><u>2024</u></a>&nbsp;
 	<a href="#pub2023"><u>2023</u></a>&nbsp;
 	<a href="#pub2022"><u>2022</u></a>&nbsp;
@@ -113,8 +115,22 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
 <span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> corresponding author <br> 
-<strong>Summary:</strong> IJCV (2), TPAMI (2), TIP (1) <br>
-<strong>Summary:</strong> CVPR (13), ICCV (5), ECCV (10), NeurIPS (4) <br>
+<strong>Summary:</strong> IJCV (2), TPAMI (2), TIP (1),  CVIU (1) <br>
+<strong>Summary:</strong> CVPR (13), ICCV (5), ECCV (10), NeurIPS (4), ICLR (1) <br>
+
+<h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
+<ol reversed>
+  <li id="2025-2"> 
+    Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <br> 
+    Jiangning Zhang, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, and Dacheng Tao <br>
+    <i>Computer Vision and Image Understanding <strong>(CVIU).</strong></i> 2025.
+  </li>
+  <li id="2025-1"> 
+    SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation <a href="https://arxiv.org/abs/2409.06633">[Paper]</a> <a href="https://sjtuplayer.github.io/projects/SaRA/">[Project]</a> <a href="https://github.com/sjtuplayer/SaRA">[Code]</a> <br> 
+    Teng Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Ran Yi, Hongrui Huang, Yabiao Wang, and Lizhuang Ma <br>
+    <i>International Conference on Learning Representations <strong>(ICLR).</strong></i> 2025.
+  </li>
+</ol>
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
