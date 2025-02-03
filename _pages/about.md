@@ -53,6 +53,10 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
+    <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li>
+    <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a>, a high-fidelity/-naturalness portrait animation framework, open-sourced. </li>
+    <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://wangzhiyaoo.github.io/SVFR//">SVFR</a>, a generalized video face restoration framework. </li>
+    <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://github.com/BoyuanJiang/FitDiT/">FitDiT</a>, a high-fidelity virtual try-on method. </li>
     <li><i>2025.01.29</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/ViTAD/">ViTAD</a> is accepted by <strong>CVIU 2025</strong>. </li>
     <li><i>2025.01.22</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/SaRA/">SaRA</a> is accepted by <strong>ICLR 2025</strong>. </li>
     <li><i>2024.12.10</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2405.15214">PointRWKV</a>, <a href="https://arxiv.org/abs/2406.16710">	
@@ -137,22 +141,22 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   <li id="2024-26"> 
     Explore In-Context Segmentation via Latent Diffusion Models <a href="https://arxiv.org/abs/2404.06564">[Paper]</a> <a href="https://wang-chaoyang.github.io/project/refldmseg/">[Project]</a> <a href="https://github.com/wang-chaoyang/RefLDMSeg">[Code]</a> <br> 
     Chaoyang Wang, Xiangtai Li, Henghui Ding, Lu Qi, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, Chen Change Loy, and Shuicheng Yan <br>
-    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2025.
   </li>
   <li id="2024-25"> 
     Point Cloud Mamba: Point Cloud Learning via State Space Model <a href="https://arxiv.org/abs/2403.00762">[Paper]</a> <a href="https://github.com/zhang-tao-whu/PCM">[Code]</a> <br> 
     Tao Zhang, Haobo Yuan, Lu Qi, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Qianyu Zhou, Shunping Ji, Shuicheng Yan, and Xiangtai Li <br>
-    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2025.
   </li>
   <li id="2024-24"> 
     ID-Sculpt: ID-aware 3D Head Generation from Single In-the-wild Portrait Image <a href="https://arxiv.org/abs/2406.16710">[Paper]</a> <a href="https://jinkun-hao.github.io/Portrait3D">[Project]</a> <a href="https://github.com/jinkun-hao/Portrait3D">[Code]</a> <br> 
     Jinkun Hao, Junshu Tang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ran Yi, Yijia Hong, Moran Li, Weijian Cao, Yating Wang, Chengjie Wang, and Lizhuang Ma <br>
-    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2025.
   </li>
   <li id="2024-23"> 
     PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning <a href="https://arxiv.org/abs/2405.15214">[Paper]</a> <a href="https://github.com/hithqd/PointRWKV">[Code]</a> <br> 
     Qingdong He, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Jinlong Peng, Haoyang He, Xiangtai Li, Yabiao Wang, and Chengjie Wang <br>
-    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2024.
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2025.
   </li>
   <li id="2024-22"> 
     MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2404.06564">[Paper]</a> <a href="https://lewandofskee.github.io/projects/MambaAD/">[Project]</a> <a href="https://github.com/lewandofskee/MambaAD">[Code]</a> <br> 
