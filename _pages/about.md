@@ -54,7 +54,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li>
-    <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a>, a high-fidelity/-naturalness portrait animation framework, open-sourced. </li>
+    <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a>, a high-fidelity/-naturalness portrait animation framework. </li>
     <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://wangzhiyaoo.github.io/SVFR//">SVFR</a>, a generalized video face restoration framework. </li>
     <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://github.com/BoyuanJiang/FitDiT/">FitDiT</a>, a high-fidelity virtual try-on method. </li>
     <li><i>2025.01.29</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/ViTAD/">ViTAD</a> is accepted by <strong>CVIU 2025</strong>. </li>
