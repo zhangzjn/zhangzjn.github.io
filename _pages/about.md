@@ -57,6 +57,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
     <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a>, a high-fidelity/-naturalness portrait animation framework. </li>
     <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://wangzhiyaoo.github.io/SVFR//">SVFR</a>, a generalized video face restoration framework. </li>
     <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://github.com/BoyuanJiang/FitDiT/">FitDiT</a>, a high-fidelity virtual try-on method. </li>
+    <li><i>2025.02.27</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/sjtuplayer/IAR">IAR</a>, <a href="https://github.com/lewandofskee/MobileMamba">MobileMamba</a>, <a href="https://github.com/GroundingFace/GroundingFace">GroundingFace</a>, <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>, <a href="https://lingjiekong-fdu.github.io/">AnyMaker</a>, <a href="https://realiad4ad.github.io/Real-IAD/">Real-IAD D³</a>, <a href="https://wangzhiyaoo.github.io/SVFR/">SVFR</a>, <a href="https://arxiv.org/abs/2409.11367">OSV</a>, <a href="https://pengchengpcx.github.io/EditFT/">EditFT</a>, and <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a> are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2025.01.29</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/ViTAD/">ViTAD</a> is accepted by <strong>CVIU 2025</strong>. </li>
     <li><i>2025.01.22</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/SaRA/">SaRA</a> is accepted by <strong>ICLR 2025</strong>. </li>
     <li><i>2024.12.10</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2405.15214">PointRWKV</a>, <a href="https://arxiv.org/abs/2406.16710">	
@@ -118,12 +119,62 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   <!-- <a href="#arxiv"><u>arXiv</u></a>&nbsp; -->
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
-<span style="color:#b02418; font-weight:bold;">*</span> joint first author | <span style="color:#b02418; font-weight:bold;">#</span> corresponding author <br> 
+<span style="color:#b02418; font-weight:bold;">*</span> Joint first author | <span style="color:#b02418; font-weight:bold;">#</span> Corresponding author | <span style="color:#b02418; font-weight:bold;">†</span> Project lead <br> 
 <strong>Summary:</strong> IJCV (2), TPAMI (2), TIP (1),  CVIU (1) <br>
-<strong>Summary:</strong> CVPR (13), ICCV (5), ECCV (10), NeurIPS (4), ICLR (1) <br>
+<strong>Summary:</strong> CVPR (23), ICCV (5), ECCV (10), NeurIPS (4), ICLR (1) <br>
 
 <h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 <ol reversed>
+  <li id="2025-12"> 
+    Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction <a href="https://arxiv.org/abs/2501.00880">[Paper]</a> <a href="https://github.com/sjtuplayer/IAR">[Code]</a> <br> 
+    Teng Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang†</span>, Ran Yi, Jieyu Weng, Yabiao Wang, Xianfang Zeng, Zhucun Xue, and Lizhuang Ma <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-11"> 
+    MobileMamba: Lightweight Multi-Receptive Visual Mamba Network <a href="https://arxiv.org/abs/2411.15941">[Paper]</a> <a href="https://github.com/lewandofskee/MobileMamba">[Code]</a> <br> 
+    Haoyang He, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Yuxuan Cai, Hongxu Chen, Xiaobin Hu, Zhenye Gan, Yabiao Wang, Chengjie Wang, Yunsheng Wu, and Lei Xie <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-10"> 
+    GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model <br> 
+    Yue Han, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Junwei Zhu, Runze Hou, Xiaozhong Ji, Chuming Lin, Xiaobin Hu, Zhucun Xue, and Yong Liu <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-9"> 
+    TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation <a href="https://arxiv.org/abs/2408.17135">[Paper]</a> <a href="https://aigc-explorer.github.io/TIMotion-page/">[Project]</a> <a href="https://github.com/AIGC-Explorer/TIMotion">[Code]</a> <br> 
+    Yabiao Wang, Shuo Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ke Fan, Jiafu Wu, Zhucun Xue, and Yong Liu <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-8"> 
+    AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection <a href="https://arxiv.org/abs/2406.11643v3">[Paper]</a> <a href="https://lingjiekong-fdu.github.io/">[Project]</a> <a href="https://github.com/LingjieKong-fdu/CustAny">[Code]</a> <br> 
+    Lingjie Kong, Kai Wu, Xiaobin Hu, Wenhui Han, Jinlong Peng, Chengming Xu, Donghao Luo, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chengjie Wang, and Yanwei Fu <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-7"> 
+    Real-IAD D³: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection <br> 
+    Wenbing Zhu, Lidong Wang, Ziqing Zhou, Chengjie Wang, Yurui Pan, Ruoyi Zhang, Zhuhao Chen, Linjie Cheng, Bin-Bin Gao, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Zhenye Gan, Yuxie Wang, Yulong Chen, Shuguang Qian, Mingmin Chi, Bo Peng, and Lizhuang Ma <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-6"> 
+    SVFR: A Unified Framework for Generalized Video Face Restoration <a href="https://arxiv.org/abs/2501.01235">[Paper]</a> <a href="https://wangzhiyaoo.github.io/SVFR/">[Project]</a> <a href="https://github.com/wangzhiyaoo/SVFR">[Code]</a> <br> 
+    Zhiyao Wang, Xu Chen, Chengming Xu, Junwei Zhu, Xiaobin Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chengjie Wang, Yuqi Liu, Yiyi Zhou, and Rongrong Ji <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-5"> 
+    OSV: One Step is Enough for High-Quality Image to Video Generation <a href="https://arxiv.org/abs/2409.11367">[Paper]</a> <br> 
+    Xiaofeng Mao, Zhengkai Jiang, Fu-Yun Wang, Wenbing Zhu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Hao Chen, Mingmin Chi, and Yabiao Wang <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-4"> 
+    Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing <a href="https://arxiv.org/abs/2411.15843">[Paper]</a> <a href="https://pengchengpcx.github.io/EditFT/">[Project]</a> <a href="https://github.com/Pengchengpcx/FTEdit">[Code]</a> <br> 
+    Pengcheng Xu, Boyuan Jiang, Xiaobin Hu, Donghao Luo, Qingdong He, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Chengjie Wang, Yunsheng Wu, Charles Ling, and Boyu Wang <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+  <li id="2025-3"> 
+    Sonic: Shifting Focus to Global Audio Perception in Portrait Animation <a href="https://arxiv.org/abs/2411.16331">[Paper]</a> <a href="https://jixiaozhong.github.io/Sonic/">[Project]</a> <a href="https://github.com/jixiaozhong/Sonic">[Code]</a> <br> 
+    Xiaozhong Ji, Xiaobin Hu, Zhihong Xu, Junwei Zhu, Chuming Lin, Qingdong He, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Donghao Luo, Yi Chen, Qin Lin, Qinglin Lu, and Chengjie Wang <br>
+    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
   <li id="2025-2"> 
     Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, and Dacheng Tao <br>
