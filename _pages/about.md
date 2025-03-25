@@ -47,6 +47,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!! <br>
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我在协助[刘勇教授](https://april.zju.edu.cn/our-team)招科研助理（RA）以及2026年硕士/博士生，(M)LLM Agent和多模态视频生成方向方向，有相关方向科研经历优先，欢迎本科实习生，感兴趣的同学欢迎邮件联系我。</strong></span> 🔥🔥🔥<br>
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>I am assisting [Prof. Yong Liu](https://april.zju.edu.cn/our-team) in recruiting Research Assistants (RAs) and master's / doctoral students for 2026. The focus areas include (M)LLM Agent and multimodal video generation. Candidates with relevant research experience are preferred. Undergraduate interns are also welcome. Interested individuals are encouraged to contact me via email.</strong></span> 🔥🔥🔥<br>
+<!-- I (and my interns) had at most 8 disposable high-memory GPUs in all my previous studies. I would like to thank external collaborators who provided the computing resources. Long live eating grass and producing milk! -->
 📝 [Publications](https://zhangzjn.github.io/#-publications)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -126,7 +127,7 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
 <ol reversed>
   <li id="2025-12"> 
     Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction <a href="https://arxiv.org/abs/2501.00880">[Paper]</a> <a href="https://github.com/sjtuplayer/IAR">[Code]</a> <br> 
-    Teng Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang†</span>, Ran Yi, Jieyu Weng, Yabiao Wang, Xianfang Zeng, Zhucun Xue, and Lizhuang Ma <br>
+    Teng Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Ran Yi, Jieyu Weng, Yabiao Wang, Xianfang Zeng, Zhucun Xue, and Lizhuang Ma <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
   </li>
   <li id="2025-11"> 
@@ -136,7 +137,7 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   </li>
   <li id="2025-10"> 
     GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model <br> 
-    Yue Han, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Junwei Zhu, Runze Hou, Xiaozhong Ji, Chuming Lin, Xiaobin Hu, Zhucun Xue, and Yong Liu <br>
+    Yue Han, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang†</span>, Junwei Zhu, Runze Hou, Xiaozhong Ji, Chuming Lin, Xiaobin Hu, Zhucun Xue, and Yong Liu <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
   </li>
   <li id="2025-9"> 
