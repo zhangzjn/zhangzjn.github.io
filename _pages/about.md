@@ -37,17 +37,16 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Principal Researcher of two teams (Industry Perception and AIGC) at YouTu Lab, Tencent, Shanghai (技术大咖计划). I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
-🌱 Neural Architecture Design: transformer-based architecture, light-wight vision model.<br>
-🌱 Multi-modal GAN-/VAE-/Diffusion-based AIGC researches: image/video generation, multi-modal human-centric editing and generation, and 2D/3D virtual digital human related researches (3D face/body/hand/cloth reconstruction, multi-modal digital human animation, motion generation, etc.).<br>
-🌱 Controllable Video Generation, RAG for LLM, Efficient Training. 
+I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead Researcher of two teams (AIGC and Industry Perception) at YouTu Lab, Tencent, Shanghai (技术大咖计划). I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
+🌱 Neural Architecture Design: transformer-based architecture, light-wight visual image/video model.<br>
+🌱 Multi-modal AIGC researches: general image/video generation/editing, multi-modal human-centric editing and generation, and 2D/3D virtual digital human related researches.<br>
+🌱 RAG for LLM/Video, Efficient Training, and other interesting researches. 
 
-💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
-💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team) at Zhejiang University.<br>
+💬 Feel free to drop me emails if you have interests on above topics, and remote cooperations are welcomed.<br>
+💬 You can contact me if you are applying for a <span style="color:#b02418; font-weight:bold;"><strong>Research Intern or a B.S./Ph.D.</strong></span> student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team) and lead [APRIL-AIGC Group](https://huggingface.co/APRIL-AIGC) at Zhejiang University.<br>
 💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!! <br>
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我在协助[刘勇教授](https://april.zju.edu.cn/our-team)招科研助理（RA）以及2026年硕士/博士生，(M)LLM Agent和多模态视频生成方向方向，有相关方向科研经历优先，欢迎本科实习生，感兴趣的同学欢迎邮件联系我。</strong></span> 🔥🔥🔥<br>
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>I am assisting [Prof. Yong Liu](https://april.zju.edu.cn/our-team) in recruiting Research Assistants (RAs) and master's / doctoral students for 2026. The focus areas include (M)LLM Agent and multimodal video generation. Candidates with relevant research experience are preferred. Undergraduate interns are also welcome. Interested individuals are encouraged to contact me via email.</strong></span> 🔥🔥🔥<br>
-<!-- I (and my interns) had at most 8 disposable high-memory GPUs in all my previous studies. I would like to thank external collaborators who provided the computing resources. Long live eating grass and producing milk! -->
 📝 [Publications](https://zhangzjn.github.io/#-publications)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -56,7 +55,9 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Princi
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <li><i></i> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li>
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li>
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li>
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li>
     <li><i>2025.02.27</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/sjtuplayer/IAR">IAR</a>, <a href="https://github.com/lewandofskee/MobileMamba">MobileMamba</a>, <a href="https://github.com/GroundingFace/GroundingFace">GroundingFace</a>, <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>, <a href="https://lingjiekong-fdu.github.io/">AnyMaker</a>, <a href="https://realiad4ad.github.io/Real-IAD/">Real-IAD D³</a>, <a href="https://wangzhiyaoo.github.io/SVFR/">SVFR</a>, <a href="https://arxiv.org/abs/2409.11367">OSV</a>, <a href="https://pengchengpcx.github.io/EditFT/">EditFT</a>, and <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a> are accepted by <strong>CVPR 2025</strong>, <a href="https://papercopilot.com/paper-list/cvpr-paper-list/cvpr-2025-paper-list/">ranked 14th globally</a>. </li>
     <li><i>2025.01.29</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/ViTAD/">ViTAD</a> is accepted by <strong>CVIU 2025</strong>. </li>
     <li><i>2025.01.22</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/SaRA/">SaRA</a> is accepted by <strong>ICLR 2025</strong>. </li>
