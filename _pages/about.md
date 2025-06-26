@@ -58,6 +58,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead R
     <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li>
+    <li><i>2025.06.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/Fantasyele/LLaVA-KD">LLaVA-KD</a>, <a href="https://github.com/zhouyiks/CoLVA">CoLVA</a>, and <a href="https://shi-qingyu.github.io/DeT.github.io/">DeT</a> are accepted by <strong>ICCV 2025</strong>. </li>
     <li><i>2025.02.27</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/sjtuplayer/IAR">IAR</a>, <a href="https://github.com/lewandofskee/MobileMamba">MobileMamba</a>, <a href="https://github.com/GroundingFace/GroundingFace">GroundingFace</a>, <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>, <a href="https://lingjiekong-fdu.github.io/">AnyMaker</a>, <a href="https://realiad4ad.github.io/Real-IAD/">Real-IAD D³</a>, <a href="https://wangzhiyaoo.github.io/SVFR/">SVFR</a>, <a href="https://arxiv.org/abs/2409.11367">OSV</a>, <a href="https://pengchengpcx.github.io/EditFT/">EditFT</a>, and <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a> are accepted by <strong>CVPR 2025</strong>, <a href="https://papercopilot.com/paper-list/cvpr-paper-list/cvpr-2025-paper-list/">ranked 14th globally</a>. </li>
     <li><i>2025.01.29</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/ViTAD/">ViTAD</a> is accepted by <strong>CVIU 2025</strong>. </li>
     <li><i>2025.01.22</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/SaRA/">SaRA</a> is accepted by <strong>ICLR 2025</strong>. </li>
@@ -126,6 +127,21 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
 
 <h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 <ol reversed>
+  <li id="2025-15"> 
+    LLaVA-KD: A Framework of Distilling Multimodal Large Language Models <a href="https://arxiv.org/abs/2410.16236">[Paper]</a> <a href="https://github.com/Fantasyele/LLaVA-KD">[Code]</a> <br> 
+    Yuxuan Cai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Haoyang He, Xinwei He, Ao Tong, Zhenye Gan, Chengjie Wang, Xuezhucun, Yong Liu, and Xiang Bai <br>
+    <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
+  </li>
+  <li id="2025-14"> 
+    Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs <a href="https://arxiv.org/abs/2501.04670">[Paper]</a> <a href="https://github.com/zhouyiks/CoLVA">[Code]</a> <a href="https://zhouyiks.github.io/projects/CoLVA/">[Project]</a> <br> 
+    Yikang Zhou, Tao Zhang, Shilin Xu, Shihao Chen, Qianyu Zhou, Yunhai Tong, Shunping Ji, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Lu Qi, and Xiangtai Li <br>
+    <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
+  </li>
+  <li id="2025-13"> 
+    Decouple and Track: Benchmarking and Improving Video Diffusion Transformers For Motion Transfer <a href="https://arxiv.org/abs/2503.17350">[Paper]</a> <a href="https://github.com/Shi-qingyu/DeT">[Code]</a> <a href="https://shi-qingyu.github.io/DeT.github.io/">[Project]</a> <br> 
+    Qingyu Shi, Jianzong Wu, Jinbin Bai, Lu Qi, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, and Xiangtai Li <br>
+    <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
+  </li>
   <li id="2025-12"> 
     Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction <a href="https://arxiv.org/abs/2501.00880">[Paper]</a> <a href="https://github.com/sjtuplayer/IAR">[Code]</a> <br> 
     Teng Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Ran Yi, Jieyu Weng, Yabiao Wang, Xianfang Zeng, Zhucun Xue, and Lizhuang Ma <br>
