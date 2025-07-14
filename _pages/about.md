@@ -38,7 +38,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead Researcher of two teams (AIGC and Industry Perception) at YouTu Lab, Tencent, Shanghai (技术大咖计划). I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
-🌱 Neural Architecture Design: transformer-based architecture, light-wight visual image/video model.<br>
+🌱 Efficient learning: transformer-based architecture, light-wight visual image/video model.<br>
 🌱 Multi-modal AIGC researches: general image/video generation/editing, multi-modal human-centric editing and generation, and 2D/3D virtual digital human related researches.<br>
 🌱 RAG for LLM/Video, Efficient Training, and other interesting researches. 
 
