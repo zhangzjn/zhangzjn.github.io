@@ -62,6 +62,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead R
     <li><i>2025.07.11</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/ADer">ADer</a>, <a href="https://arxiv.org/abs/2507.11003">FiSeCLIP</a>, and <a href="https://arxiv.org/abs/2403.06403">PointSeg</a> are accepted by <strong>ICCV 2025</strong>. </li>
     <li><i>2025.07.06</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org">StrandDesigner</a> is accepted by <strong>ACM MM 2025</strong>. </li>
     <li><i>2025.06.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/Fantasyele/LLaVA-KD">LLaVA-KD</a>, <a href="https://github.com/zhouyiks/CoLVA">CoLVA</a>, and <a href="https://shi-qingyu.github.io/DeT.github.io/">DeT</a> are accepted by <strong>ICCV 2025</strong>. </li>
+    <li><i>2025.06.05</i>: &nbsp;🎉🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004340">MMoFusion</a> is accepted by <strong>PR 2025</strong>. </li>
     <li><i>2025.02.27</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/sjtuplayer/IAR">IAR</a>, <a href="https://github.com/lewandofskee/MobileMamba">MobileMamba</a>, <a href="https://github.com/GroundingFace/GroundingFace">GroundingFace</a>, <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>, <a href="https://lingjiekong-fdu.github.io/">AnyMaker</a>, <a href="https://realiad4ad.github.io/Real-IAD/">Real-IAD D³</a>, <a href="https://wangzhiyaoo.github.io/SVFR/">SVFR</a>, <a href="https://arxiv.org/abs/2409.11367">OSV</a>, <a href="https://pengchengpcx.github.io/EditFT/">EditFT</a>, and <a href="https://jixiaozhong.github.io/Sonic/">Sonic</a> are accepted by <strong>CVPR 2025</strong>, <a href="https://papercopilot.com/paper-list/cvpr-paper-list/cvpr-2025-paper-list/">ranked 14th globally</a>. </li>
     <li><i>2025.01.29</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/ViTAD/">ViTAD</a> is accepted by <strong>CVIU 2025</strong>. </li>
     <li><i>2025.01.22</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/SaRA/">SaRA</a> is accepted by <strong>ICLR 2025</strong>. </li>
@@ -125,50 +126,55 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
 <span style="color:#b02418; font-weight:bold;">*</span> Joint first author | <span style="color:#b02418; font-weight:bold;">#</span> Corresponding author | <span style="color:#b02418; font-weight:bold;">†</span> Project lead <br> 
-<strong>Summary:</strong> IJCV (2), TPAMI (2), TIP (1),  CVIU (1) <br>
-<strong>Summary:</strong> CVPR (23), ICCV (5), ECCV (10), NeurIPS (4), ICLR (1) <br>
+<strong>Summary:</strong> IJCV (2), TPAMI (3), TIP (1), CVIU (1) <br>
+<strong>Summary:</strong> CVPR (23), ICCV (11), ECCV (10), NeurIPS (4), ICLR (1) <br>
 
 <h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 <ol reversed>
-  <li id="2025-20"> 
-    M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising <a href="https://arxiv.org/abs/2406.02263">[Paper]</a> </a> <br> 
+  <li id="2025-21"> 
+    M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising <a href="https://arxiv.org/abs/2406.02263">[Paper]</a> <br> 
     Chengjie Wang, Haokun Zhu, Jinlong Peng, Yue Wang, Ran Yi, Yunsheng Wu, Lizhuang Ma, and <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span> <br>
     <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2025.
   </li>
-  <li id="2025-19"> 
+  <li id="2025-20"> 
     PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models <a href="https://arxiv.org/abs/2403.06403">[Paper]</a> <br> 
     Qingdong He , Jinlong Peng, Zhengkai Jiang, Xiaobin Hu, and <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span> <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
   </li>
-  <li id="2025-18"> 
+  <li id="2025-19"> 
     Bridge Feature Matching and Cross-Modal Alignment with Mutual-filtering for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2507.11003">[Paper]</a> <a href="https://github.com/ybai111/FiSeCLIP">[Code]</a> <br> 
     Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Yunkang Cao, Guangyuan Lu, Qingdong He, Xiangtai Li, and Guanzhong Tian <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
   </li>
-  <li id="2025-17"> 
+  <li id="2025-18"> 
     A Comprehensive Library for Benchmarking Multi-class Visual Anomaly Detection <a href="https://arxiv.org/abs/2406.03262">[Paper]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Haoyang He, Zhenye Gan, Qingdong He, Yuxuan Cai, Zhucun Xue, Yabiao Wang, Chengjie Wang, Lei Xie, and Yong Liu <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
   </li>
-  <li id="2025-16"> 
+  <li id="2025-17"> 
     StrandDesigner: Towards Practical Strand Generation with Sketch Guidance <a href="https://arxiv.org">[Paper]</a> <br> 
     Na Zhang, Moran Li, Chengming Xu, Han Feng, Xiaobin Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Weijian Cao, Chengjie Wang, and Yanwei Fu <br>
     <i>ACM Multimedia <strong>(ACM MM).</strong></i> 2025.
   </li>
-  <li id="2025-15"> 
+  <li id="2025-16"> 
     LLaVA-KD: A Framework of Distilling Multimodal Large Language Models <a href="https://arxiv.org/abs/2410.16236">[Paper]</a> <a href="https://github.com/Fantasyele/LLaVA-KD">[Code]</a> <br> 
     Yuxuan Cai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Haoyang He, Xinwei He, Ao Tong, Zhenye Gan, Chengjie Wang, Xuezhucun, Yong Liu, and Xiang Bai <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
   </li>
-  <li id="2025-14"> 
+  <li id="2025-15"> 
     Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs <a href="https://arxiv.org/abs/2501.04670">[Paper]</a> <a href="https://github.com/zhouyiks/CoLVA">[Code]</a> <a href="https://zhouyiks.github.io/projects/CoLVA/">[Project]</a> <br> 
     Yikang Zhou, Tao Zhang, Shilin Xu, Shihao Chen, Qianyu Zhou, Yunhai Tong, Shunping Ji, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Lu Qi, and Xiangtai Li <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
   </li>
-  <li id="2025-13"> 
+  <li id="2025-14"> 
     Decouple and Track: Benchmarking and Improving Video Diffusion Transformers For Motion Transfer <a href="https://arxiv.org/abs/2503.17350">[Paper]</a> <a href="https://github.com/Shi-qingyu/DeT">[Code]</a> <a href="https://shi-qingyu.github.io/DeT.github.io/">[Project]</a> <br> 
     Qingyu Shi, Jianzong Wu, Jinbin Bai, Lu Qi, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yunhai Tong, and Xiangtai Li <br>
     <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
+  </li>
+  <li id="2025-13"> 
+    MMoFusion: Multi-modal co-speech motion generation with diffusion model <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004340">[Paper]</a> <a href="https://github.com/wangsen99/MMoFusion">[Code]</a> <a href="https://mmofusion.github.io/">[Project]</a> <br> 
+    Sen Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xin Tan, Zhifeng Xie, Chengjie Wang, and Lizhuang Ma <br>
+    <i>Pattern Recognition <strong>(PR).</strong></i> 2025.
   </li>
   <li id="2025-12"> 
     Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction <a href="https://arxiv.org/abs/2501.00880">[Paper]</a> <a href="https://github.com/sjtuplayer/IAR">[Code]</a> <br> 
