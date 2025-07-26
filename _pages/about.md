@@ -57,7 +57,8 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead R
   <ol style="list-style-type: none;">
     <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li>
-    <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li>
+    <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li> -->
+    <li><i>2025.07.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> is accepted by <strong>T-PAMI 2025</strong>. </li>
     <li><i>2025.07.12</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2406.02263">M3DM-NR</a> is accepted by <strong>T-PAMI 2025</strong>. </li>
     <li><i>2025.07.11</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/ADer">ADer</a>, <a href="https://arxiv.org/abs/2507.11003">FiSeCLIP</a>, and <a href="https://arxiv.org/abs/2403.06403">PointSeg</a> are accepted by <strong>ICCV 2025</strong>. </li>
     <li><i>2025.07.06</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org">StrandDesigner</a> is accepted by <strong>ACM MM 2025</strong>. </li>
@@ -126,11 +127,16 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
 <span style="color:#b02418; font-weight:bold;">*</span> Joint first author | <span style="color:#b02418; font-weight:bold;">#</span> Corresponding author | <span style="color:#b02418; font-weight:bold;">†</span> Project lead <br> 
-<strong>Summary:</strong> IJCV (2), TPAMI (3), TIP (1), CVIU (1) <br>
+<strong>Summary:</strong> IJCV (2), T-PAMI (4), TIP (1), CVIU (1) <br>
 <strong>Summary:</strong> CVPR (23), ICCV (11), ECCV (10), NeurIPS (4), ICLR (1) <br>
 
 <h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 <ol reversed>
+  <li id="2025-22"> 
+    EMOv2: Pushing 5M Vision Model Frontier <a href="https://arxiv.org/abs/2412.06674">[Paper]</a> <a href="https://github.com/zhangzjn/EMOv2">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Teng Hu, Haoyang He, Zhucun Xue, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, and Dacheng Tao <br>
+    <i>Transactions on Pattern Analysis and Machine Intelligence <strong>(T-PAMI).</strong></i> 2025.
+  </li>
   <li id="2025-21"> 
     M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising <a href="https://arxiv.org/abs/2406.02263">[Paper]</a> <br> 
     Chengjie Wang, Haokun Zhu, Jinlong Peng, Yue Wang, Ran Yi, Yunsheng Wu, Lizhuang Ma, and <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span> <br>
