@@ -58,9 +58,10 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead R
     <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li>
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li> -->
+    <li><i>2025.08.08</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/lewandofskee/MVAD">MVAD</a> is accepted by <strong>TMM 2025</strong>. </li>
     <li><i>2025.07.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> is accepted by <strong>T-PAMI 2025</strong>. </li>
     <li><i>2025.07.12</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2406.02263">M3DM-NR</a> is accepted by <strong>T-PAMI 2025</strong>. </li>
-    <li><i>2025.07.11</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/ADer">ADer</a>, <a href="https://arxiv.org/abs/2507.11003">FiSeCLIP</a>, and <a href="https://arxiv.org/abs/2403.06403">PointSeg</a> are accepted by <strong>ICCV 2025</strong>. </li>
+    <li><i>2025.07.11</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/ADer">ADer</a>, <a href="https://arxiv.org/abs/2507.11003">FiSeCLIP</a>, and <a href="https://arxiv.org/abs/2403.06403">PointSeg</a> are accepted by <strong>ICCVW 2025</strong>. </li>
     <li><i>2025.07.06</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org">StrandDesigner</a> is accepted by <strong>ACM MM 2025</strong>. </li>
     <li><i>2025.06.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/Fantasyele/LLaVA-KD">LLaVA-KD</a>, <a href="https://github.com/zhouyiks/CoLVA">CoLVA</a>, and <a href="https://shi-qingyu.github.io/DeT.github.io/">DeT</a> are accepted by <strong>ICCV 2025</strong>. </li>
     <li><i>2025.06.05</i>: &nbsp;🎉🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325004340">MMoFusion</a> is accepted by <strong>PR 2025</strong>. </li>
@@ -132,6 +133,11 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
 
 <h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 <ol reversed>
+  <li id="2025-23"> 
+    Learning Multi-view Anomaly Detection with Efficient Adaptive Selection <a href="https://arxiv.org/abs/2412.06674">[Paper]</a> <a href="https://github.com/lewandofskee/MVAD">[Code]</a> <br> 
+    Haoyang He, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang†</span>, Guanzhong Tian, Chengjie Wang, and Lei Xie <br>
+    <i>Transactions on Multimedia <strong>(TMM).</strong></i> 2025.
+  </li>
   <li id="2025-22"> 
     EMOv2: Pushing 5M Vision Model Frontier <a href="https://arxiv.org/abs/2412.06674">[Paper]</a> <a href="https://github.com/zhangzjn/EMOv2">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Teng Hu, Haoyang He, Zhucun Xue, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, and Dacheng Tao <br>
@@ -145,17 +151,17 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   <li id="2025-20"> 
     PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models <a href="https://arxiv.org/abs/2403.06403">[Paper]</a> <br> 
     Qingdong He , Jinlong Peng, Zhengkai Jiang, Xiaobin Hu, and <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span> <br>
-    <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
+    <i>International Conference on Computer Vision Workshop of E2E3D <strong>(ICCVW).</strong></i> 2025.
   </li>
   <li id="2025-19"> 
     Bridge Feature Matching and Cross-Modal Alignment with Mutual-filtering for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2507.11003">[Paper]</a> <a href="https://github.com/ybai111/FiSeCLIP">[Code]</a> <br> 
     Yuhu Bai, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Yunkang Cao, Guangyuan Lu, Qingdong He, Xiangtai Li, and Guanzhong Tian <br>
-    <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
+    <i>International Conference on Computer Vision Workshop of ADFM <strong>(ICCVW).</strong></i> 2025.
   </li>
   <li id="2025-18"> 
     A Comprehensive Library for Benchmarking Multi-class Visual Anomaly Detection <a href="https://arxiv.org/abs/2406.03262">[Paper]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Haoyang He, Zhenye Gan, Qingdong He, Yuxuan Cai, Zhucun Xue, Yabiao Wang, Chengjie Wang, Lei Xie, and Yong Liu <br>
-    <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2025.
+    <i>International Conference on Computer Vision Workshop of ADFM <strong>(ICCVW).</strong></i> 2025.
   </li>
   <li id="2025-17"> 
     StrandDesigner: Towards Practical Strand Generation with Sketch Guidance <a href="https://arxiv.org">[Paper]</a> <br> 
