@@ -58,6 +58,8 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead R
     <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li>
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li> -->
+    <li><i>2025.09.21</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/document/11197930">ImitDiff</a> is accepted by <strong>RA-L 2025</strong>. </li>
+    <li><i>2025.09.19</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> and <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> are accepted by <strong>NeurIPS 2025</strong>. </li>
     <li><i>2025.08.08</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/lewandofskee/MVAD">MVAD</a> is accepted by <strong>TMM 2025</strong>. </li>
     <li><i>2025.07.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> is accepted by <strong>T-PAMI 2025</strong>. </li>
     <li><i>2025.07.12</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2406.02263">M3DM-NR</a> is accepted by <strong>T-PAMI 2025</strong>. </li>
@@ -133,8 +135,23 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
 
 <h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 <ol reversed>
+  <li id="2025-26"> 
+    ImitDiff: Transferring Foundation-Model Priors for Distraction-Robust Visuomotor Policy <a href="https://ieeexplore.ieee.org/document/11197930">[Paper]</a> <a href="https://github.com/">[Code]</a> <a href="https://yuhangdong-zju.github.io/ImitDiff/">[Project]</a> <br> 
+    Yuhang Dong, Haizhou Ge, Yupei Zeng, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Beiwen Tian, Hongrui Zhu, Yufei Jia, Ruixiang Wang, Zhucun Xue, Guyue Zhou, Longhua Ma, and Guanzhong Tian <br>
+    <i>Robotics and Automation Letters <strong>(RA-L).</strong></i> 2025.
+  </li>
+  <li id="2025-25"> 
+    UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions <a href="https://arxiv.org/abs/2506.13691">[Paper]</a> <a href="https://xzc-zju.github.io/projects/UltraVideo/">[Project]</a> <a href="https://github.com/xzc-zju/UltraVideo">[Code]</a> <br> 
+    Zhucun Xue, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Teng Hu, Haoyang He, Yinan Chen, Yuxuan Cai, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, and Dacheng Tao <br>
+    <i>Conference on Neural Information Processing Systems <strong>(NeurIPS).</strong></i> 2025.
+  </li>
+  <li id="2025-24"> 
+    AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding <a href="https://arxiv.org/abs/2506.13589">[Paper]</a> <a href="https://xzc-zju.github.io/projects/UltraVideo/">[Project]</a> <a href="https://github.com/xzc-zju/AdaVideoRAG">[Code]</a> <br> 
+    Zhucun Xue, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Xurong Xie, Yuxuan Cai, Yong Liu, Xiangtai Li, and Dacheng Tao <br>
+    <i>Conference on Neural Information Processing Systems <strong>(NeurIPS).</strong></i> 2025.
+  </li>
   <li id="2025-23"> 
-    Learning Multi-view Anomaly Detection with Efficient Adaptive Selection <a href="https://arxiv.org/abs/2412.06674">[Paper]</a> <a href="https://github.com/lewandofskee/MVAD">[Code]</a> <br> 
+    Learning Multi-view Anomaly Detection with Efficient Adaptive Selection <a href="https://arxiv.org/abs/2407.11935">[Paper]</a> <a href="https://github.com/lewandofskee/MVAD">[Code]</a> <br> 
     Haoyang He, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang†</span>, Guanzhong Tian, Chengjie Wang, and Lei Xie <br>
     <i>Transactions on Multimedia <strong>(TMM).</strong></i> 2025.
   </li>
