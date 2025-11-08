@@ -51,13 +51,13 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a Lead R
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
   <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li>
+    <li><i>2025.11.08</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/UltraGen/">UltraGen</a> and <a href="https://github.com/SassyRong/AdaKD/">AdaKD (Oral)</a> are accepted by <strong>AAAI 2026</strong>. </li>
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li> -->
     <li><i>2025.09.21</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/document/11197930">ImitDiff</a> is accepted by <strong>RA-L 2025</strong>. </li>
     <li><i>2025.09.19</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> and <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> are accepted by <strong>NeurIPS 2025</strong>. </li>
@@ -136,6 +136,16 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
 
 <h2 id="pub2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 <ol reversed>
+  <li id="2025-28"> 
+    UltraGen: High-Resolution Video Generation with Hierarchical Attention <a href="https://arxiv.org/abs/2510.18775">[Paper]</a> <a href="https://github.com/sjtuplayer/UltraGen">[Code]</a> <a href="https://sjtuplayer.github.io/projects/UltraGen/">[Project]</a> <br> 
+    Teng Hu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zihan Su, Ran Yi <br>
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2026.
+  </li>
+  <li id="2025-27"> 
+    LLM-Oriented Token-Adaptive Knowledge Distillation <a href="https://arxiv.org/abs/2510.11615">[Paper]</a> <a href="https://github.com/SassyRong/AdaKD/">[Code]</a> <br> 
+    Xurong Xie, Zhucun Xue, Jiafu Wu, Jian Li, Yabiao Wang, Xiaobin Hu, Yong Liu, and <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span> <br>
+    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2026.
+  </li>
   <li id="2025-26"> 
     ImitDiff: Transferring Foundation-Model Priors for Distraction-Robust Visuomotor Policy <a href="https://ieeexplore.ieee.org/document/11197930">[Paper]</a> <a href="https://github.com/">[Code]</a> <a href="https://yuhangdong-zju.github.io/ImitDiff/">[Project]</a> <br> 
     Yuhang Dong, Haizhou Ge, Yupei Zeng, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Beiwen Tian, Hongrui Zhu, Yufei Jia, Ruixiang Wang, Zhucun Xue, Guyue Zhou, Longhua Ma, and Guanzhong Tian <br>
