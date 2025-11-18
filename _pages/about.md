@@ -38,7 +38,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert researcher of two teams (AIGC and Industry Perception) at YouTu Lab, Tencent, Shanghai (技术大咖计划), also serve as the leader for [APRIL-AIGC](https://april.zju.edu.cn/our-team) (12 M.D./Ph.D. students). I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
-🌱 <strong>Efficient Learning</strong>: Neural Architecture Design | Light-wight (Ultra-High Definition) Visual Image/Video Model | Efficient Fintuning.<br>
+🌱 <strong>Efficient Learning</strong>: Neural Architecture Design | Light-weight (Ultra-High Definition) Visual Image/Video Model | Efficient Fintuning.<br>
 🌱 <strong>Multimodal Perception and Generation</strong>: Multimodal Digital Human | Image/Video Generation/Editing | Long-term Efficient Video Understanding/RAG | Fundamental Researches, <i>e.g.</i>, interdisciplinarity, optimization, and technological paradigm.<br>
 🔥 <strong>Humanoid Robot AI</strong> researches and applications with [APRIL Lab](https://april.zju.edu.cn/our-team)
 
