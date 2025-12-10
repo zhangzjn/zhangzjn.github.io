@@ -2933,62 +2933,90 @@
   </div>
   
   
-  <script>
+<script>
 document.addEventListener('DOMContentLoaded', function() {
-    // 创建 Intersection Observer
-    const videoObserver = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            const video = entry.target;
-            const source = video.querySelector('source[data-src]');
+    let loadedVideos = new Set();
+    let loadedAudios = new Set();
+    let currentActiveIndex = null;
+    
+    function loadVideo(video) {
+        const source = video.querySelector('source[data-src]');
+        if (source && source.dataset.src && !source.src) {
+            source.src = source.dataset.src;
+            video.load();
+            console.log('Loaded video:', video.id);
+        }
+    }
+    
+    function loadAudio(audio) {
+        const source = audio.querySelector('source[data-src]');
+        if (source && source.dataset.src && !source.src) {
+            source.src = source.dataset.src;
+            audio.load();
+            console.log('Loaded audio:', audio.id);
+        }
+    }
+    
+    function checkAndLoadActiveGroup() {
+        const activeGroup = document.querySelector('.video-group.is-active');
+        
+        if (activeGroup) {
+            const groupIndex = activeGroup.dataset.groupIndex;
             
-            if (entry.isIntersecting) {
-                // 视频进入可视区域，加载视频
-                if (source && source.dataset.src) {
-                    source.src = source.dataset.src;
-                    video.load();
-                    console.log('Loading video:', source.dataset.src);
-                }
-            } else {
-                // 视频离开可视区域，暂停并可选择性卸载
-                video.pause();
-                // 可选：完全卸载视频以释放内存
-                // video.removeAttribute('src');
-                // video.load();
+            // 只在切换到新组时加载
+            if (currentActiveIndex !== groupIndex) {
+                console.log('Switching to group:', groupIndex);
+                currentActiveIndex = groupIndex;
+                
+                // 暂停所有其他组
+                document.querySelectorAll('.video-group').forEach(group => {
+                    if (group !== activeGroup) {
+                        group.querySelectorAll('video, audio').forEach(media => {
+                            media.pause();
+                        });
+                    }
+                });
+                
+                // 加载当前激活组
+                activeGroup.querySelectorAll('video').forEach(loadVideo);
+                activeGroup.querySelectorAll('audio').forEach(loadAudio);
             }
+        }
+    }
+    
+    // 初始加载
+    checkAndLoadActiveGroup();
+    
+    // 使用 MutationObserver 监听整个轮播容器
+    const carousel = document.getElementById('results-carousel2');
+    if (carousel) {
+        const observer = new MutationObserver(() => {
+            checkAndLoadActiveGroup();
         });
-    }, {
-        root: null, // 使用视口作为根
-        rootMargin: '50px', // 提前50px开始加载
-        threshold: 0.1 // 10%可见时触发
-    });
-
-    // 观察所有视频元素
-    const videos = document.querySelectorAll('video[id]');
-    videos.forEach(video => {
-        videoObserver.observe(video);
-    });
-
-    // 同样处理音频
-    const audioObserver = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            const audio = entry.target;
-            const source = audio.querySelector('source[data-src]');
-            
-            if (entry.isIntersecting && source && source.dataset.src) {
-                source.src = source.dataset.src;
-                audio.load();
-            } else {
-                audio.pause();
-            }
+        
+        observer.observe(carousel, {
+            attributes: true,
+            attributeFilter: ['class'],
+            subtree: true,
+            childList: true
         });
-    }, {
-        rootMargin: '50px',
-        threshold: 0.1
+    }
+    
+    // 额外的轮询检查（作为后备方案）
+    setInterval(checkAndLoadActiveGroup, 500);
+    
+    // 监听所有可能的交互事件
+    document.addEventListener('click', () => {
+        setTimeout(checkAndLoadActiveGroup, 100);
     });
-
-    const audios = document.querySelectorAll('audio[id]');
-    audios.forEach(audio => {
-        audioObserver.observe(audio);
+    
+    document.addEventListener('keydown', () => {
+        setTimeout(checkAndLoadActiveGroup, 100);
+    });
+    
+    // 监听触摸事件（移动端）
+    document.addEventListener('touchend', () => {
+        setTimeout(checkAndLoadActiveGroup, 100);
     });
 });
 </script>
