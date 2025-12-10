@@ -2931,61 +2931,68 @@
       </div>
     </div>
   </div>
+  
+  
   <script>
-  document.addEventListener('DOMContentLoaded', function() {
-      let loadedVideos = new Set();
-      
-      const videoObserver = new IntersectionObserver((entries) => {
-          entries.forEach(entry => {
-              const video = entry.target;
-              const videoId = video.id;
-              const source = video.querySelector('source[data-src]');
-              
-              if (entry.isIntersecting) {
-                  // 只加载属于激活组的视频
-                  const parentGroup = video.closest('.video-group');
-                  if (parentGroup && parentGroup.classList.contains('is-active')) {
-                      if (source && source.dataset.src && !loadedVideos.has(videoId)) {
-                          source.src = source.dataset.src;
-                          video.load();
-                          loadedVideos.add(videoId);
-                          console.log('Loaded:', videoId);
-                      }
-                  }
-              } else {
-                  video.pause();
-              }
-          });
-      }, {
-          root: null,
-          rootMargin: '100px',
-          threshold: 0.1
-      });
-      
-      // 观察所有视频
-      document.querySelectorAll('video').forEach(video => {
-          videoObserver.observe(video);
-      });
-      
-      // 同样处理音频
-      const audioObserver = new IntersectionObserver((entries) => {
-          entries.forEach(entry => {
-              if (entry.isIntersecting) {
-                  const audio = entry.target;
-                  const source = audio.querySelector('source[data-src]');
-                  if (source && source.dataset.src && !source.src) {
-                      source.src = source.dataset.src;
-                      audio.load();
-                  }
-              }
-          });
-      }, { rootMargin: '100px' });
-      
-      document.querySelectorAll('audio').forEach(audio => {
-          audioObserver.observe(audio);
-      });
-  });
-  </script>
+document.addEventListener('DOMContentLoaded', function() {
+    // 创建 Intersection Observer
+    const videoObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            const video = entry.target;
+            const source = video.querySelector('source[data-src]');
+            
+            if (entry.isIntersecting) {
+                // 视频进入可视区域，加载视频
+                if (source && source.dataset.src) {
+                    source.src = source.dataset.src;
+                    video.load();
+                    console.log('Loading video:', source.dataset.src);
+                }
+            } else {
+                // 视频离开可视区域，暂停并可选择性卸载
+                video.pause();
+                // 可选：完全卸载视频以释放内存
+                // video.removeAttribute('src');
+                // video.load();
+            }
+        });
+    }, {
+        root: null, // 使用视口作为根
+        rootMargin: '50px', // 提前50px开始加载
+        threshold: 0.1 // 10%可见时触发
+    });
+
+    // 观察所有视频元素
+    const videos = document.querySelectorAll('video[id]');
+    videos.forEach(video => {
+        videoObserver.observe(video);
+    });
+
+    // 同样处理音频
+    const audioObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            const audio = entry.target;
+            const source = audio.querySelector('source[data-src]');
+            
+            if (entry.isIntersecting && source && source.dataset.src) {
+                source.src = source.dataset.src;
+                audio.load();
+            } else {
+                audio.pause();
+            }
+        });
+    }, {
+        rootMargin: '50px',
+        threshold: 0.1
+    });
+
+    const audios = document.querySelectorAll('audio[id]');
+    audios.forEach(audio => {
+        audioObserver.observe(audio);
+    });
+});
+</script>
+
 </section>
 
 
