@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Anime,Singing",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "dancing",
+        "painting",
+        "reading classical poetry",
+        "playing the guzheng"
+    ],
+    "personality": "graceful, gentle, intelligent, and kind-hearted",
+    "message": "N/A",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，身着蓝白渐变的华美古风裙装，发髻高挽饰以蓝色花朵与宝石，正轻抬右手，仿佛在吟唱一首悠扬的古风曲调，清澈的蓝色眼眸凝视前方，神情温柔而专注，周围水珠飞溅，背景是朦胧的山水与枯枝，营造出空灵梦幻的意境。",
+    "en_prompt": "The character in the image is singing, wearing an elegant traditional-style dress with a gradient of blue and white. Her hair is styled in an elaborate updo adorned with blue flowers and gemstones. She gently raises her right hand, as if singing a melodious ancient-style tune. Her clear blue eyes gaze forward with a gentle and focused expression. Water droplets splash around her, while the background features hazy mountains, water, and bare branches, creating an ethereal and dreamlike atmosphere.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Talking,Anime",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional embroidery",
+        "classical dance",
+        "reading ancient poetry",
+        "flower arrangement"
+    ],
+    "personality": "gentle, elegant, kind-hearted, and deeply connected to cultural heritage",
+    "message": "我是一位热爱传统文化的少女，喜欢在月光下绣花，听古筝的旋律。我向往宁静与美好，愿用双手传承祖先的智慧。每一片花瓣、每一针一线，都承载着我对生活的敬意。我愿与你分享东方的诗意与温柔，让这份美好如春风般拂过心田。愿世界多一份宁静，多一份对美的珍视。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色身着华美古风嫁衣，头戴繁复花冠，正对着镜头讲话，双手轻拢于胸前，姿态端庄优雅。镜头固定，聚焦于角色精致的面容与服饰细节，营造出梦幻唯美的氛围。",
+    "en_prompt": "The character in the image is wearing an exquisite traditional bridal gown, adorned with an elaborate floral crown, speaking directly to the camera with hands gently clasped in front of the chest, exuding a graceful and elegant demeanor. The camera remains stationary, focusing on the character's delicate facial features and intricate costume details, creating a dreamy and beautiful atmosphere.",
+    "main_character": "comic"
+}

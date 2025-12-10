@@ -1,0 +1,18 @@
+{
+    "gender": "Male,Talking",
+    "age": 32,
+    "nationality": "Indian",
+    "speaking_language": "English",
+    "hobbies": [
+        "traditional dance",
+        "calligraphy",
+        "attending cultural festivals",
+        "photography"
+    ],
+    "personality": "confident, respectful, passionate about heritage, artistic, introspective",
+    "message": "I am proud to wear the rich heritage of my culture. This attire isn't just clothing—it’s a story of generations, of artistry, and of identity. Every thread, every embroidery, speaks of tradition and dignity. I cherish moments like this, where I can connect with my roots and share them with the world. I believe in preserving our customs while embracing modernity. Let us honor our past, celebrate our present, and inspire the future with grace and pride.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士站在古朴的石柱廊下，身着华丽的金色刺绣礼服与酒红色天鹅绒披肩，双手交叠于身前，对着镜头讲话。镜头固定，背景的暖金色阳光与石柱的斑驳纹理营造出浓郁的古典氛围。",
+    "en_prompt": "The man in the image stands under an ancient stone colonnade, wearing an elaborate golden-embroidered ceremonial outfit with a deep red velvet shawl. His hands are clasped in front of him as he speaks directly to the camera. The camera remains stationary, while the warm golden sunlight and the weathered textures of the stone columns in the background create a rich, classical atmosphere.",
+    "main_character": "human"
+}

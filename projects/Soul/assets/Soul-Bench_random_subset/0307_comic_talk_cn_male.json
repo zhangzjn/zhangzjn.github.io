@@ -1,0 +1,18 @@
+{
+    "gender": "Male,Anime,Talking",
+    "age": 24,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "painting",
+        "playing the guqin",
+        "enjoying spring blossoms"
+    ],
+    "personality": "calm, refined, introspective, and gentle with a quiet strength",
+    "message": "春日的暖阳洒在窗棂，樱花轻舞，如诗如画。我独坐于此，品一盏清茶，听风拂过花枝的低语。这世间纷扰，我愿以静心观之，以墨笔绘之。人生如花开花落，不必争抢，只需在属于自己的时节，绽放出最本真的色彩。愿你我皆能守一份宁静，怀一颗赤子之心，在喧嚣中寻得内心的桃花源。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正端坐于窗前，身着淡紫色汉服，正在讲话，双手自然搭在膝上，镜头固定。背景中梅花枝头绽放，窗边青瓷花瓶与青花瓷罐相映成趣，暖光透过窗棂洒落，营造出静谧雅致的古典氛围。角色偶尔轻抬眼眸，似在与镜头对视，或微微颔首，流露沉静从容之态。",
+    "en_prompt": "The character in the image is seated gracefully by the window, wearing a light purple Hanfu, speaking softly with both hands resting naturally on their knees. The camera remains fixed. In the background, branches of blooming plum blossoms extend into the frame, while a celadon porcelain vase and a blue-and-white porcelain jar sit beside the window, complementing each other beautifully. Warm light filters through the window lattice, creating a serene and elegant classical atmosphere. Occasionally, the character gently lifts their gaze, as if making eye contact with the camera, or slightly nods their head, exuding a calm and composed demeanor.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "Male, Singing",
+    "age": 30,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing acoustic guitar",
+        "singing",
+        "writing music",
+        "recording in home studio"
+    ],
+    "personality": "passionate, introspective, creative, and emotionally expressive",
+    "message": "N/A",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在唱歌，一边弹奏手中的吉他。",
+    "en_prompt": "The man in the image is singing while playing the guitar in his hands.",
+    "main_character": "human"
+}

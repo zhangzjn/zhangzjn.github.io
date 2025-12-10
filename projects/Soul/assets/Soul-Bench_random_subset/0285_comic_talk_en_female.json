@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Anime,Talking",
+    "age": 16,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "reading books under the sun",
+        "drawing nature scenes",
+        "walking through meadows",
+        "collecting wildflowers"
+    ],
+    "personality": "gentle, kind-hearted, observant, and full of quiet joy",
+    "message": "在这片金黄的草地上，每一朵雏菊都像在对我微笑。我最喜欢坐在这里，听着风穿过草叶的声音，感受阳光洒在脸上的温暖。虽然生活有时会有些小烦恼，但只要抬头看看天空，看看这些绽放的小花，我的心就会变得平静又明亮。希望你也常常停下脚步，去发现身边的美好，因为世界其实充满了温柔的奇迹。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在开满雏菊的金色草地上，微笑着对着镜头讲话，双手自然交叠于身前，偶尔轻轻摆动以匹配说话内容，镜头固定，背景是连绵起伏的绿色山丘与蓝天白云，营造出宁静温暖的田园氛围。",
+    "en_prompt": "The character in the image stands in a golden meadow filled with daisies, smiling and speaking directly to the camera, with hands naturally clasped in front, occasionally moving gently to match the speech content. The camera remains fixed, with a background of rolling green hills and a blue sky with white clouds, creating a serene and warm pastoral atmosphere.",
+    "main_character": "comic"
+}

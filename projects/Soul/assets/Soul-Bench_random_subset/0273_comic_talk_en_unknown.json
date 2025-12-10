@@ -1,0 +1,18 @@
+{
+    "gender": "Humanoid,Talking",
+    "age": 5,
+    "nationality": "unknown",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing with toys",
+        "making funny faces",
+        "jumping around",
+        "exploring new places"
+    ],
+    "personality": "cheerful, energetic, curious, friendly, and always ready to laugh",
+    "message": "Hi there! I’m your little orange friend, and I’m so happy to meet you! I love jumping, laughing, and making new friends. My big eyes are always looking for fun adventures, and my smile never stops! I’m full of energy and ready to explore the world with you. Let’s play, dance, and have a great time together! Don’t worry, I’m super friendly and always up for a good laugh. Come on, let’s go on an adventure!",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，偶尔做些动作匹配说话的内容，镜头固定。这个毛茸茸的橙色小怪物咧着大嘴笑，露出整齐的牙齿，眼睛圆溜溜地眨动，双手自然垂在身体两侧，时不时会兴奋地抬起手比个“V”字或者轻轻拍打自己的小胸脯，显得活泼又可爱。背景是温暖的橙黄色，突出角色的毛茸茸质感和明亮色彩。",
+    "en_prompt": "The character in the image is speaking directly to the camera, occasionally making gestures that match the content of their speech, with a fixed camera angle. This fluffy orange little monster is grinning widely, showing neat teeth, with round eyes blinking expressively. Its hands hang naturally at its sides, occasionally lifting excitedly to make a \"V\" sign or gently patting its little chest, appearing lively and adorable. The background is a warm orange-yellow, emphasizing the character's fluffy texture and vibrant colors.",
+    "main_character": "comic"
+}

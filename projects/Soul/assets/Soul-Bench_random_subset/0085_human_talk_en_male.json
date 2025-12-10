@@ -1,0 +1,17 @@
+{
+    "gender": "Male,Talking",
+    "age": 52,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "woodworking",
+        "camping",
+        "listening to classic rock"
+    ],
+    "personality": "hardworking, reliable, calm under pressure, proud of his craft",
+    "message": "I've spent over 30 years building structures that stand the test of time. Every beam, every brick, every measurement matters. I take pride in my work, not just for the paycheck, but because I know I'm helping shape the future of our cities. Safety first, quality second, and trust in your team always. This job isn’t easy, but it’s rewarding. If you’re in the field, keep your head up, your tools sharp, and your heart in the work. We’re building more than buildings—we’re building communities.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，双手稳稳握着一把黄色卷尺，偶尔用尺子轻点或比划以配合讲解内容，镜头固定。背景是繁忙的建筑工地，身后可见在建高楼、塔吊和黄色挖掘机，阳光明媚，场景真实而充满力量感。",
+    "en_prompt": "The man in the image is speaking directly to the camera, holding a yellow tape measure steadily with both hands, occasionally tapping or gesturing with the tape to emphasize his explanation. The camera remains fixed. The background features a busy construction site, with a high-rise building under construction, tower cranes, and a yellow excavator visible behind him. The scene is bathed in bright sunlight, creating a realistic and powerful atmosphere.",
+    "main_character": "human"
+}

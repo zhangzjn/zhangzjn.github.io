@@ -1,0 +1,17 @@
+{
+    "gender": "Female,Talking,Anime",
+    "age": 16,
+    "nationality": "Dutch",
+    "speaking_language": "English",
+    "hobbies": [
+        "painting",
+        "reading classical literature",
+        "listening to baroque music"
+    ],
+    "personality": "curious, gentle, introspective, artistic",
+    "message": "I am a young woman from the 17th century, painted by Vermeer. Though my world was quiet and simple, I found beauty in light, color, and the quiet moments of life. I wear my pearl earring not for show, but as a symbol of my inner grace. I dream of a world where art speaks louder than words, where every glance holds meaning. I hope you see not just my face, but the soul behind it — a soul that longs for connection, understanding, and the timeless power of beauty.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。她头戴蓝黄相间的头巾，耳坠珍珠耳环，身着暖色调衣衫，背景是缤纷的彩色涂鸦线条，营造出活泼又复古的艺术氛围。角色眼神温柔，嘴角微扬，仿佛在娓娓讲述一个关于艺术与青春的故事。",
+    "en_prompt": "The character in the image is speaking directly to the camera, with a fixed shot. She wears a blue-and-yellow headscarf, a pearl earring, and warm-toned clothing. The background features vibrant, colorful graffiti-like lines, creating a lively yet retro artistic atmosphere. Her eyes are gentle, and her lips are slightly upturned, as if softly narrating a story about art and youth.",
+    "main_character": "comic"
+}

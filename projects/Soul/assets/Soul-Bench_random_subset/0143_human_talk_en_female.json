@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Talking",
+    "age": 22,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "hiking",
+        "listening to indie music",
+        "painting"
+    ],
+    "personality": "confident, artistic, introspective, and free-spirited",
+    "message": "I believe in the beauty of raw moments—like standing in the quiet of nature, letting the wind play with my hair. Life is too short to be anything but authentic. I chase inspiration in sunsets, in music, in the way light dances through leaves. I’m not afraid to be myself, even if it means standing out. I create, I explore, I feel deeply. This is my truth, and I wear it proudly. Let your soul breathe and let your light shine.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双手自然插在牛仔裤口袋里，偶尔轻轻晃动卷发，镜头固定。",
+    "en_prompt": "The woman in the image is facing the camera and speaking, with both hands naturally placed in her jeans pockets. Occasionally, she gently shakes her curly hair. The camera remains stationary.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "Female, Singing",
+    "age": 20,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "singing",
+        "performing",
+        "wearing traditional attire",
+        "learning classical music"
+    ],
+    "personality": "graceful, confident, gentle, artistic",
+    "message": "N/A",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在唱歌，她身着淡蓝色古风服饰，头戴华丽钻石皇冠，手持麦克风，神情专注温柔。背景为深蓝色舞台灯光，营造梦幻氛围。",
+    "en_prompt": "The woman in the image is singing, wearing light blue traditional-style clothing, adorned with an elegant diamond crown, holding a microphone, with a focused and gentle expression. The background features deep blue stage lighting, creating a dreamy atmosphere.",
+    "main_character": "human"
+}

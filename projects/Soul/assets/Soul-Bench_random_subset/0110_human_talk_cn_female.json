@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Talking",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "dancing",
+        "reading classic literature",
+        "traveling to historic cities"
+    ],
+    "personality": "elegant, confident, introspective, and passionate about art and culture",
+    "message": "夜色中的城市灯火，像无数个未完成的梦想在闪烁。我站在栏杆前，穿着这件黑色旗袍，仿佛与过去与未来对话。我喜欢用镜头记录下那些转瞬即逝的美，也喜欢在舞步中释放内心的节奏。每一段旅程，每一本书，都是灵魂的滋养。我坚信，真正的优雅，来自内心的从容与对生活的热爱。愿你我都能在喧嚣中，找到属于自己的宁静与光芒。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，偶尔轻抬手臂做些优雅的手势匹配说话内容，镜头固定。她身着黑色旗袍，佩戴精致耳饰，背景是夜晚模糊的城市灯光，营造出温柔而富有韵味的氛围。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, occasionally raising her arms gracefully to gesture in sync with her speech. The camera remains stationary. She is wearing a black qipao and elegant earrings, with a blurred cityscape of nighttime lights in the background, creating a gentle and sophisticated atmosphere.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Talking",
+    "age": 30,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "traveling",
+        "reading literature",
+        "yoga"
+    ],
+    "personality": "graceful, confident, kind-hearted, and introspective",
+    "message": "每个人都是自己故事的主角。无论身处何地，我始终相信，内心的平静与坚定，是面对世界最好的姿态。我喜欢用镜头记录生活中的美好瞬间，也享受在旅途中遇见不同的人和文化。阅读让我在喧嚣中找到宁静，而瑜伽则帮助我与自己的身体和心灵对话。愿你也能在平凡中发现不凡，在忙碌中保持温柔。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她佩戴着精致的长款耳坠，妆容优雅，神情从容，背景温暖柔和，营造出一种高级而宁静的氛围。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She is wearing elegant, long dangling earrings, has refined makeup, and a composed expression. The background is warm and soft, creating a sophisticated and serene atmosphere.",
+    "main_character": "human"
+}

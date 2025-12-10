@@ -1,0 +1,19 @@
+{
+    "gender": "Female,Talking",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "drinking coffee",
+        "taking photos",
+        "listening to music",
+        "wearing stylish outfits"
+    ],
+    "personality": "calm, thoughtful, artistic, and slightly introverted",
+    "message": "在咖啡馆的暖光下，我最喜欢捧着一杯热咖啡，静静地读一本书，或者看着窗外的行人发呆。生活不需要太匆忙，慢下来才能发现那些细微的美好。我喜欢用镜头记录下每一个瞬间，也喜欢用文字表达内心的想法。或许我有点内向，但我的世界很丰富。希望你也愿意偶尔停下脚步，感受生活的温度。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正坐在咖啡馆的木桌旁，双手捧着一杯咖啡，对着镜头讲话，偶尔轻轻晃动手中的咖啡杯以匹配说话内容，镜头固定。她戴着圆框眼镜，穿着灰色毛绒外套和白色高领内搭，神情自然放松，背景是暖色调的咖啡馆环境，有木质桌椅和模糊的其他顾客。",
+    "en_prompt": "The woman in the image is sitting at a wooden table in a café, holding a cup of coffee with both hands, speaking directly to the camera. Occasionally, she gently sways the coffee cup to match her speech. The camera remains stationary. She is wearing round-framed glasses, a gray fuzzy coat over a white turtleneck, with a natural and relaxed expression. The background features a warm-toned café setting with wooden tables and chairs, and blurred other customers.",
+    "main_character": "human"
+}

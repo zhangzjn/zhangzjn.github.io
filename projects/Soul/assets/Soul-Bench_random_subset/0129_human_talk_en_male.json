@@ -1,0 +1,18 @@
+{
+    "gender": "Male,Talking",
+    "age": 38,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "mechanical repair",
+        "working with heavy machinery",
+        "watch collecting",
+        "DIY home projects"
+    ],
+    "personality": "confident, reliable, hands-on, detail-oriented, and proud of his work",
+    "message": "I’ve spent years mastering the tools and machines that keep this workshop running. Every bolt, every gear — they’re more than parts to me; they’re a craft. I take pride in building and fixing things with my own hands. It’s not just a job; it’s a way of life. I value precision, safety, and hard work. If you need something done right, you come to me. That’s the kind of trust I earn — one project at a time. And yes, I wear those goggles not just for safety — they’re part of my identity. I’m proud to be a mechanic, and I’ll always stand by my work.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，双臂交叉于胸前，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with his arms crossed over his chest, and the camera remains stationary.",
+    "main_character": "human"
+}

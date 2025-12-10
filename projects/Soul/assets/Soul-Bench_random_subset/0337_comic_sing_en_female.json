@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Anime,Singing",
+    "age": 16,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "snowboarding",
+        "collecting cute stationery",
+        "reading manga",
+        "listening to J-pop"
+    ],
+    "personality": "cheerful, kind-hearted, slightly shy but expressive when excited, loves winter and small gifts",
+    "message": "N/A",
+    "source": "generated",
+    "cn_prompt": "画面中的角色在雪景中开心地捧着一个可爱的礼物盒，对着镜头唱歌，仿佛正在轻声哼唱一首温暖的冬日小曲，背景雪花飘落，树枝静谧，营造出温馨治愈的氛围。",
+    "en_prompt": "The character in the scene happily holds a cute gift box in the snowy landscape, singing softly toward the camera as if gently humming a warm winter melody. Snowflakes gently fall in the background, with bare tree branches standing quietly, creating a cozy and healing atmosphere.",
+    "main_character": "comic"
+}

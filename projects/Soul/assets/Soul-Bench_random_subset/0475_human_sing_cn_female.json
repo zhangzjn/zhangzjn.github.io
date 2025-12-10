@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Singing",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "yoga",
+        "photography",
+        "listening to music"
+    ],
+    "personality": "gentle, thoughtful, calm, and optimistic",
+    "message": "N/A",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正演唱，头戴粉色缎带发箍，眼神温柔注视前方，背景是柔和的暖光室内环境，营造出宁静而梦幻的氛围。",
+    "en_prompt": "The character in the scene is singing, wearing a pink satin headband, with soft eyes gazing forward. The background features a warm, softly lit indoor environment, creating a serene and dreamy atmosphere.",
+    "main_character": "human"
+}

@@ -1,0 +1,17 @@
+{
+    "gender": "Male,Talking",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "weightlifting",
+        "photography",
+        "listening to jazz music"
+    ],
+    "personality": "confident, introspective, disciplined, and expressive",
+    "message": "I believe strength is more than what you see on the surface—it’s in the quiet moments, in the discipline, in the way you carry yourself. I train not just to build muscle, but to build character. I capture moments through my lens because I see beauty in raw honesty. Music, especially jazz, speaks to the soul in ways words can’t. I’m not just a man of action—I’m a man of thought, feeling, and purpose. I live intentionally, and I hope to inspire others to do the same.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

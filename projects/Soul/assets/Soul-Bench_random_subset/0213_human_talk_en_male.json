@@ -1,0 +1,18 @@
+{
+    "gender": "Male,Talking",
+    "age": 35,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "cooking",
+        "experimenting with new recipes",
+        "gardening",
+        "reading culinary books"
+    ],
+    "personality": "dedicated, disciplined, passionate, detail-oriented, and confident",
+    "message": "In the kitchen, every dish is a story, and every ingredient has a voice. I believe in the power of food to connect people, to bring joy, and to express creativity. I’ve spent years mastering techniques, but I still approach each meal with curiosity and respect. Cooking is not just a job—it’s a craft, a passion, and a way of life. I’m always learning, always improving, and always striving to create something that not only tastes great but also tells a story. That’s what makes me a chef.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士站在厨房里，一手持着金属锅铲，正对着镜头讲话，偶尔用锅铲轻点或做出强调动作，镜头固定。背景是专业厨房环境，可见灶台、锅具和调料架，营造出真实烹饪场景氛围。",
+    "en_prompt": "The man in the image stands in a kitchen, holding a metal spatula in one hand, speaking directly to the camera, occasionally tapping or gesturing with the spatula for emphasis. The camera remains fixed. The background features a professional kitchen environment, with visible stovetops, pots, and spice racks, creating an authentic cooking scene atmosphere.",
+    "main_character": "human"
+}

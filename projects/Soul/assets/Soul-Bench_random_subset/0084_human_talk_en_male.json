@@ -1,0 +1,18 @@
+{
+    "gender": "Male,Talking",
+    "age": 19,
+    "nationality": "French",
+    "speaking_language": "English",
+    "hobbies": [
+        "painting",
+        "drawing",
+        "exploring art history",
+        "visiting galleries"
+    ],
+    "personality": "introspective, passionate, creative, and slightly reserved",
+    "message": "Art is my voice when words fail. Every brushstroke is a piece of my soul, a silent conversation with the world. I paint not to impress, but to understand—to find meaning in the chaos. The studio is my sanctuary, where time slows and colors speak louder than language. I may not be famous, but I am true to myself. I paint for the joy of creation, for the beauty of imperfection, and for the hope that someone, someday, will see my work and feel something real. That’s enough for me.",
+    "source": "generated",
+    "cn_prompt": "画面中的男孩站在画室中央，一手持调色板，一手握画笔，正对着镜头讲话，偶尔用画笔轻点调色板或抬起手做些小幅度动作匹配说话内容，镜头固定。他身着满是颜料的围裙，头戴贝雷帽，背景是斑驳的墙壁和两个画架，地面散落着颜料痕迹，营造出浓厚的艺术创作氛围。",
+    "en_prompt": "The boy stands in the center of the art studio, holding a palette in one hand and a paintbrush in the other, speaking directly to the camera. Occasionally, he lightly taps the palette with the brush or raises his hand slightly to gesture in sync with his speech. The camera remains fixed. He wears a paint-splattered apron and a beret. The background features a weathered wall and two easels, while the floor is scattered with paint stains, creating a rich and immersive artistic atmosphere.",
+    "main_character": "human"
+}

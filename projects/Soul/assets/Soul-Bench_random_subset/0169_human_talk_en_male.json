@@ -1,0 +1,17 @@
+{
+    "gender": "Male,Talking",
+    "age": 52,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading police procedural books",
+        "playing chess",
+        "volunteering at community centers"
+    ],
+    "personality": "calm, responsible, compassionate, and experienced",
+    "message": "I've spent over 25 years serving my community, and every day I remind myself that my duty is not just to enforce the law, but to protect and connect with the people I serve. I believe in justice, fairness, and building trust between the police and the public. Whether it’s helping a lost child, mediating a dispute, or standing guard during a crisis, I do it with honor and humility. I’m proud to be a part of this city’s safety and resilience. Thank you for your trust.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，双手稳稳握着对讲机，偶尔用手指轻点设备或微微调整握持姿势以匹配说话内容，镜头固定。他身着警服，佩戴警徽与肩章，背景是城市街道，高楼林立，氛围庄重而专业。",
+    "en_prompt": "The man in the image is speaking directly to the camera, holding a walkie-talkie steadily with both hands. Occasionally, he lightly taps the device with his fingers or slightly adjusts his grip to match the content of his speech. The camera remains fixed. He is wearing a police uniform with a badge and shoulder patches. The background features an urban street lined with tall buildings, creating a solemn and professional atmosphere.",
+    "main_character": "human"
+}

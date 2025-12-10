@@ -1,0 +1,18 @@
+{
+    "gender": "Humanoid,Talking",
+    "age": 3,
+    "nationality": "Japanese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "playing fetch",
+        "sitting on laps",
+        "chasing squirrels",
+        "napping in sunbeams"
+    ],
+    "personality": "friendly, curious, loyal, playful",
+    "message": "你好！我是一只快乐的小柴犬，喜欢每天和主人一起玩耍。我最爱在阳光下打滚，也喜欢追着小球跑来跑去。虽然有时候会调皮，但我总是很听主人的话。我有一双大大的眼睛，能看懂主人的每一个表情。希望你能喜欢我，和我一起度过每一个温暖的日子。我会用我的尾巴摇出最真诚的问候！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。角色是一只表情呆萌、眼睛圆溜溜的柴犬，毛色为黑、白、棕三色，耳朵竖立，正专注地看着镜头，仿佛在和观众互动。背景简洁，突出角色的可爱神态。",
+    "en_prompt": "The character in the image is speaking directly to the camera with a fixed shot. The character is an adorable Shiba Inu with large, round eyes, featuring a tri-color coat of black, white, and brown. Its ears are perked up, and it is looking attentively at the camera, as if interacting with the audience. The background is simple and minimal, emphasizing the character's cute and expressive demeanor.",
+    "main_character": "comic"
+}

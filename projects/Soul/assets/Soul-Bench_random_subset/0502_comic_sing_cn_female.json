@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Anime,Singing",
+    "age": 6,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "holding a floral fan",
+        "wearing traditional Hanfu",
+        "admiring flowers",
+        "dancing in the garden"
+    ],
+    "personality": "sweet, gentle, curious, and full of joy",
+    "message": "N/A",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，手持绘有花枝的团扇，仿佛在花园中吟诵诗词，背景是古色古香的宫殿庭院，阳光温柔洒落，花朵随风轻摇，营造出诗意盎然的古典氛围。",
+    "en_prompt": "The character in the image is singing, holding a round fan adorned with floral branches, as if reciting poetry in a garden. The background features a classic ancient palace courtyard, with gentle sunlight cascading down and flowers swaying lightly in the breeze, creating a poetic and elegant traditional atmosphere.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "Humanoid,Talking",
+    "age": 2,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing in the forest",
+        "chasing butterflies",
+        "collecting shiny stones",
+        "napping in the sun"
+    ],
+    "personality": "curious, playful, kind-hearted, and always eager to explore the world around her",
+    "message": "Hello, friend! I’m little Foxie, and I love exploring the woods and making new friends. Every day is an adventure—whether I’m chasing butterflies, finding the perfect leaf, or just sitting and watching the clouds. I’m always excited to learn something new and share my discoveries with others. If you ever need a companion on a sunny day, I’d be happy to join you! Let’s go on an adventure together!",
+    "source": "generated",
+    "cn_prompt": "画面中的小狐狸正对着镜头讲话，大眼睛充满好奇，偶尔眨眨眼睛，镜头固定。",
+    "en_prompt": "The little fox in the image is facing the camera and speaking, with big eyes full of curiosity, occasionally blinking, and the camera remains fixed.",
+    "main_character": "comic"
+}

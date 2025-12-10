@@ -1,0 +1,18 @@
+{
+    "gender": "Female,Anime,Singing",
+    "age": 18,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "reading manga",
+        "painting",
+        "listening to jazz music",
+        "taking walks in cherry blossom gardens"
+    ],
+    "personality": "gentle, introspective, artistic, and kind-hearted",
+    "message": "N/A",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正唱歌，眼神微漾，嘴角带着浅浅的笑意，仿佛沉浸在音乐的意境中。她身着印有淡粉色樱花图案的和服，发间系着粉色蝴蝶结发饰，坐在窗边柔和的光线下，随音乐轻轻摆动身体，营造出宁静而梦幻的氛围。",
+    "en_prompt": "The character in the image is singing, her eyes softly shimmering and a faint smile playing on her lips, as if lost in the musical atmosphere. She is wearing a kimono adorned with delicate pink cherry blossom patterns, with a pink ribbon hair accessory in her hair. Sitting by the window under soft, warm light, she sways gently to the music, creating a serene and dreamy ambiance.",
+    "main_character": "comic"
+}
