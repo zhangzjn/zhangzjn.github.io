@@ -322,7 +322,7 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
   </li>
   <li id="2024-18"> 
     MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion <a href="https://arxiv.org/abs/2407.19976">[Paper]</a> <a href="https://fcchit.github.io/mambagesture/">[Project]</a> <br> 
-    Chencan Fu, Yabiao Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Zhengkai Jiang, Xiaofeng Mao, Jiafu Wu, Weijian Cao, Chengjie Wang, Yanhao Ge, and Yong Liu <br>
+    Chencan Fu, Yabiao Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang#</span>, Zhengkai Jiang, Xiaofeng Mao, Jiafu Wu, Weijian Cao, Chengjie Wang, Yanhao Ge, and Yong Liu <br>
     <i>ACM Multimedia <strong>(ACM MM).</strong></i> 2024.
   </li>
   <li id="2024-17"> 
