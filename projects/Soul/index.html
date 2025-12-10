@@ -2931,6 +2931,61 @@
       </div>
     </div>
   </div>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+      let loadedVideos = new Set();
+      
+      const videoObserver = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+              const video = entry.target;
+              const videoId = video.id;
+              const source = video.querySelector('source[data-src]');
+              
+              if (entry.isIntersecting) {
+                  // 只加载属于激活组的视频
+                  const parentGroup = video.closest('.video-group');
+                  if (parentGroup && parentGroup.classList.contains('is-active')) {
+                      if (source && source.dataset.src && !loadedVideos.has(videoId)) {
+                          source.src = source.dataset.src;
+                          video.load();
+                          loadedVideos.add(videoId);
+                          console.log('Loaded:', videoId);
+                      }
+                  }
+              } else {
+                  video.pause();
+              }
+          });
+      }, {
+          root: null,
+          rootMargin: '100px',
+          threshold: 0.1
+      });
+      
+      // 观察所有视频
+      document.querySelectorAll('video').forEach(video => {
+          videoObserver.observe(video);
+      });
+      
+      // 同样处理音频
+      const audioObserver = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                  const audio = entry.target;
+                  const source = audio.querySelector('source[data-src]');
+                  if (source && source.dataset.src && !source.src) {
+                      source.src = source.dataset.src;
+                      audio.load();
+                  }
+              }
+          });
+      }, { rootMargin: '100px' });
+      
+      document.querySelectorAll('audio').forEach(audio => {
+          audioObserver.observe(audio);
+      });
+  });
+  </script>
 </section>
 
 
