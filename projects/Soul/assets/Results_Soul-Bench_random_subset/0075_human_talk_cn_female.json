@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "flower arrangement",
+        "photography",
+        "reading",
+        "traveling"
+    ],
+    "personality": "gentle, thoughtful, artistic, and kind-hearted",
+    "message": "生活中最美的瞬间，往往藏在那些不经意的细节里。一朵花的绽放，一缕阳光的洒落，都能让我感受到世界的温柔。我喜欢用镜头记录下这些美好，也喜欢用双手为他人编织花束，传递一份心意。希望每个人都能在忙碌中停下脚步，发现身边的诗意与温暖。愿你我都能像花一样，不争不抢，却自有芬芳。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，手中捧着一束鲜花，偶尔用手指轻点花束或微微侧头，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, holding a bouquet of fresh flowers. Occasionally, she gently taps the bouquet with her fingers or slightly turns her head. The camera remains stationary.",
+    "main_character": "human"
+}

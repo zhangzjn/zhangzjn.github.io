@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 20,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "singing",
+        "performing",
+        "wearing traditional attire",
+        "learning classical music"
+    ],
+    "personality": "graceful, confident, gentle, artistic",
+    "message": "亲爱的朋友们，今晚我穿上这身汉服，戴上皇冠，不仅是为了展现古典之美，更是想把中华文化的优雅与深情传递给你们。每一首歌，都是我的心声；每一次登台，都是对艺术的敬意。愿我的歌声能像清泉一样，滋润你的心田。无论你在哪里，希望你能感受到这份来自东方的温柔与力量。让我们一起，用音乐连接心灵，用文化温暖世界。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在唱歌，她身着淡蓝色古风服饰，头戴华丽钻石皇冠，手持麦克风，神情专注温柔。背景为深蓝色舞台灯光，营造梦幻氛围。",
+    "en_prompt": "The woman in the image is singing, wearing light blue traditional-style clothing, adorned with an elegant diamond crown, holding a microphone, with a focused and gentle expression. The background features deep blue stage lighting, creating a dreamy atmosphere.",
+    "main_character": "human"
+}

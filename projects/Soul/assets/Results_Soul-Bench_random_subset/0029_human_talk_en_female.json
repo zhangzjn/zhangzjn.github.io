@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading",
+        "traveling",
+        "photography",
+        "attending art exhibitions"
+    ],
+    "personality": "confident, thoughtful, independent, and creative",
+    "message": "I believe in the power of quiet strength and thoughtful action. Life is not about rushing through moments, but about truly experiencing them. I find inspiration in the details — a window’s reflection, a stranger’s smile, the way light falls on a city street. I’m passionate about creating meaning in my work and my relationships. I value authenticity and strive to live with purpose. Whether I’m capturing a moment through my lens or navigating a new city, I’m always learning, growing, and embracing the journey.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，偶尔用右手轻轻撩动发丝，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, occasionally using her right hand to gently brush her hair aside, with a fixed camera shot.",
+    "main_character": "human"
+}

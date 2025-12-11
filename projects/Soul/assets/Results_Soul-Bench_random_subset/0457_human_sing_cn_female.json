@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "playing traditional musical instruments",
+        "dancing",
+        "wearing ethnic costumes",
+        "exploring nature"
+    ],
+    "personality": "graceful, passionate, artistic, and deeply connected to her cultural heritage",
+    "message": "草原的风拂过我的发梢，我手中的琵琶诉说着千年的故事。我是来自草原的女儿，血液里流淌着祖先的歌谣。我热爱用音乐传递情感，用舞蹈表达自由。每一片云，每一缕阳光，都是我灵感的源泉。我愿用我的艺术，让更多人感受这份纯真与美好。无论走到哪里，我的根永远扎在这片辽阔的绿野之上。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色一边唱歌一边弹奏手中的乐器，身着华丽的民族服饰，头戴繁复的银饰与彩色毛绒头饰，双辫垂肩，背景是辽阔的草原与蓝天白云，阳光洒在她身上，营造出梦幻而充满民族风情的氛围。",
+    "en_prompt": "The character in the image sings while playing the musical instrument in her hands, wearing elaborate ethnic attire, adorned with intricate silver jewelry and a colorful furry headdress, with two braids hanging over her shoulders. The background features vast grasslands under a bright blue sky with white clouds, with sunlight shining upon her, creating a dreamy and richly ethnic atmosphere.",
+    "main_character": "human"
+}

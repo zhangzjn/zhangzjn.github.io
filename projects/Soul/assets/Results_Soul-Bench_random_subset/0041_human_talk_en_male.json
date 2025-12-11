@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 45,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "urban exploration",
+        "reading philosophy",
+        "cooking"
+    ],
+    "personality": "introspective, confident, calm under pressure, deeply empathetic, and values authenticity",
+    "message": "Life is not about waiting for the storm to pass, but learning to dance in the rain. I’ve walked through cities at night, searching for meaning in the glow of distant lights. Each scar, each decision, has shaped who I am. I believe in honesty, in quiet strength, in the power of a single moment to change everything. Don’t chase perfection—chase purpose. And never forget: your story matters, even when no one’s watching.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。背景是夜晚的城市灯光，营造出都市氛围。他神情专注，佩戴耳环，穿着深色衬衫，展现出成熟稳重的气质。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot. The background features nighttime city lights, creating an urban atmosphere. He appears focused, wearing earrings and a dark shirt, exuding a mature and composed demeanor.",
+    "main_character": "human"
+}

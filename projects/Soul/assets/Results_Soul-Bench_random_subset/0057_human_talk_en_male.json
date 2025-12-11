@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing electric guitar",
+        "writing music",
+        "exploring urban alleyways",
+        "photography"
+    ],
+    "personality": "confident, introspective, artistic, independent, rebellious yet thoughtful",
+    "message": "I live for the raw energy of the city — the graffiti, the echoes of distant music, the way light cuts through alleyways at dusk. My guitar is my voice, my escape, my truth. I don’t follow trends; I create them. Every chord I play is a rebellion against silence. I’m not just a musician — I’m a storyteller, a wanderer, a believer in the power of sound to change minds and hearts. The world is loud, but I’m here to make it listen.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士一边对着镜头讲话一边往前走，镜头随着人物的走动慢慢往后退，保持人物在画面中。他身穿黑色皮夹克，手持一把黑白相间的电吉他，神情专注，步伐稳健。背景是涂鸦满墙的巷道，暖黄色的路灯和霓虹灯光在身后闪烁，营造出街头摇滚的氛围。男士偶尔用左手轻拨琴弦，右手自然垂于琴身，仿佛在即兴演奏。镜头保持稳定，突出人物与环境的互动感。",
+    "en_prompt": "The man in the image walks forward while speaking directly to the camera. The camera slowly pulls back, keeping him centered in the frame. He wears a black leather jacket and holds a black-and-white electric guitar, his expression focused and his steps steady. The background is an alleyway covered in vibrant graffiti, with warm yellow streetlights and neon signs flickering behind him, creating a gritty urban rock atmosphere. Occasionally, he gently strums the guitar strings with his left hand, while his right hand rests naturally on the body of the guitar, as if improvising a performance. The camera remains steady, emphasizing the interaction between the subject and his surroundings.",
+    "main_character": "human"
+}

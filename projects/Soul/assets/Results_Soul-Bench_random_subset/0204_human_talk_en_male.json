@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 30,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "home renovation",
+        "DIY projects",
+        "woodworking",
+        "reading technical manuals"
+    ],
+    "personality": "methodical, detail-oriented, confident, hands-on, and passionate about craftsmanship",
+    "message": "I’m proud to be part of the transformation of this space. Every tool, every measurement, and every decision matters. I love the process of turning raw potential into something beautiful and functional. Whether it’s a new wall, a fresh coat of paint, or a reimagined layout, I take pride in doing it right. This isn’t just construction—it’s creation. And I’m excited to see the final result. Safety first, always. Let’s build something great.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士一边对着镜头讲话一边往前走，镜头随着人物的走动慢慢往后退，保持人物在画面中。他头戴白色安全帽，手持一个黑黄相间的工具箱，身后是正在装修的房间，旁边放着梯子和水平尺。",
+    "en_prompt": "The man in the image is walking forward while speaking to the camera. The camera slowly pulls back, keeping him centered in the frame. He is wearing a white hard hat and carrying a black-and-yellow toolbox. Behind him is a room under renovation, with a ladder and a level placed nearby.",
+    "main_character": "human"
+}
