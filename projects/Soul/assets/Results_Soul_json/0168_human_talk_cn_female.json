@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "acting",
+        "philanthropy",
+        "reading",
+        "traveling"
+    ],
+    "personality": "graceful, warm-hearted, intelligent, and resilient",
+    "message": "每个人的生命都像一朵花，有绽放的时刻，也有静默的时光。我始终相信，只要心中有光，就能照亮前行的路。岁月带走了青春，却沉淀了从容与智慧。我热爱表演，也热爱生活，更愿意用自己微薄的力量去温暖他人。愿我们都能在平凡中活出不凡，在岁月里保持初心，温柔而坚定地走好每一步。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头说话，镜头固定。她佩戴着精致的金色花朵耳环，妆容优雅，神情从容，仿佛在分享一段美好的故事。背景柔和的浅蓝色调衬托出她的温婉气质，肩部的轻纱礼服增添了一份梦幻感。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She wears elegant golden floral earrings, has refined makeup, and a composed expression, as if sharing a beautiful story. The soft light blue background highlights her gentle demeanor, while the sheer fabric of her dress on the shoulders adds a touch of dreaminess.",
+    "main_character": "human"
+}

@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 65,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "gardening",
+        "using smartphones for plant care apps",
+        "learning about botany"
+    ],
+    "personality": "calm, thoughtful, tech-savvy, nature-loving",
+    "message": "I find great joy in tending to my plants, both in my garden and in this greenhouse. With the help of my smartphone, I can monitor their growth, check for pests, and even learn new techniques. Technology and nature go hand in hand for me. I believe that staying connected with the natural world, even through digital tools, enriches our lives. Whether I'm watering a seedling or reading an article about soil health, every moment spent with plants brings me peace and purpose.",
+    "source": "pexels",
+    "cn_prompt": "画面中的老爷爷正站在绿意盎然的植物背景前，双手拿着手机，对着镜头讲话，镜头固定。",
+    "en_prompt": "The elderly man in the image is standing in front of a lush green plant background, holding a smartphone with both hands, speaking directly to the camera. The shot is static.",
+    "main_character": "human"
+}

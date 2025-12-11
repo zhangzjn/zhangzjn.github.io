@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 45,
+    "nationality": "German",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading classic literature",
+        "photography",
+        "hiking in the Alps",
+        "playing chess"
+    ],
+    "personality": "thoughtful, calm, introspective, and kind-hearted",
+    "message": "Life is not about waiting for the storm to pass, but learning to dance in the rain. I find peace in quiet moments—reading by the window, capturing nature’s beauty through my lens, or challenging my mind with a game of chess. I value deep conversations over noise, and I believe in listening more than speaking. My journey has taught me to embrace imperfections and to see wisdom in silence. To those who seek meaning: look within, and you’ll find it.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。他戴着一副复古圆框眼镜，神情温和专注，嘴角微扬，展现出沉稳又亲切的气质。背景为纯黑色，突出人物面部细节与表情变化，适合用于访谈、演讲或个人品牌介绍类视频。",
+    "en_prompt": "The man in the image is speaking directly to the camera with a fixed shot. He wears a pair of vintage round-framed glasses, with a gentle and focused expression, a slight smile on his lips, exuding a calm and approachable demeanor. The background is pure black, emphasizing facial details and subtle expression changes, making it ideal for interview, speech, or personal branding video content.",
+    "main_character": "human"
+}

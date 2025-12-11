@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 58,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese dance",
+        "calligraphy",
+        "gardening",
+        "reading classical literature"
+    ],
+    "personality": "graceful, composed, wise, and deeply rooted in cultural heritage",
+    "message": "在这座古桥之上，柳丝轻拂，流水潺潺，我仿佛听见了时光的低语。身着旗袍，手持折扇，不是为了炫耀，而是对传统的敬意。岁月虽在脸上留下痕迹，却也赋予我从容与智慧。愿我们都能在快节奏的现代生活中，不忘慢品生活的诗意。传承文化，不是负担，而是心灵的归宿。愿你我皆能如这园中柳，柔韧而优雅，随风起舞，却不失本心。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在石桥上，身着淡青色刺绣旗袍，手持一把古典折扇，优雅地垂手于身前。她面带温婉微笑，正对着镜头讲话，偶尔轻抬扇子做些柔和的手势以匹配说话内容，镜头固定，背景是绿意盎然的中式园林，流水、垂柳与飞檐相映成趣，营造出宁静雅致的氛围。",
+    "en_prompt": "The woman in the image stands on a stone bridge, wearing a light teal embroidered cheongsam, holding a classical folding fan gracefully in front of her. She wears a gentle, warm smile and speaks directly to the camera, occasionally lifting the fan slightly to make soft, expressive gestures that match her speech. The camera remains fixed. The background features a lush, traditional Chinese garden with flowing water, weeping willows, and upturned eaves, creating a serene and elegant atmosphere.",
+    "main_character": "human"
+}

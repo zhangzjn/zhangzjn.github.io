@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 23,
+    "nationality": "Mexican",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "traveling",
+        "dancing",
+        "listening to music"
+    ],
+    "personality": "outgoing, cheerful, adventurous, expressive",
+    "message": "Hi there! I’m so excited to share my journey with you. Life is full of beautiful moments, and I love capturing them through my lens. Whether I’m dancing under the sun, exploring new cities, or just enjoying a good song, I try to live every day with joy and curiosity. I believe in spreading positivity and embracing the little things that make life special. Let’s connect and create some amazing memories together!",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色正在开心地演唱，充满活力与感染力。她身穿灰色系带短上衣和红色格纹下装，双手轻抚秀发，姿态自然放松，背景是温暖的建筑外墙与绿植，整体氛围轻松愉悦，适合搭配轻快或抒情的音乐。",
+    "en_prompt": "The character in the image is singing joyfully, exuding energy and charisma. She is wearing a gray knotted crop top and red plaid bottoms, gently touching her hair with both hands in a natural and relaxed pose. The background features a warm building wall and greenery, creating an overall light and cheerful atmosphere, perfect for pairing with upbeat or melodic music.",
+    "main_character": "human"
+}

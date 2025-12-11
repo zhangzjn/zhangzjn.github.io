@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 78,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "gardening",
+        "calligraphy",
+        "traditional Chinese music",
+        "walking in bamboo groves"
+    ],
+    "personality": "graceful, wise, serene, compassionate, and deeply connected to tradition and nature",
+    "message": "在这片竹林深处，我仿佛听见了岁月的低语。手中的油纸伞，是我与过去对话的桥梁。年轻时，我常在这样的小径上漫步，看竹影婆娑，听风过林梢。如今，我依然热爱着这些宁静的时光。愿你也能在匆忙的生活中，停下脚步，感受自然的呼吸，倾听内心的声音。岁月虽逝，但优雅与宁静，永远属于那些懂得珍惜的人。",
+    "source": "generated",
+    "cn_prompt": "画面中的老太太站在竹林小径中，手持一把古典油纸伞，一边对着镜头讲话，一边缓缓向前走，镜头随着她的步伐慢慢往后退，保持她始终在画面中央。她身着精致的旗袍，双手自然握伞，偶尔轻抬手调整伞柄，姿态优雅从容，背景是斑驳的竹影与青石小路，阳光透过竹叶洒下柔和光影，营造出宁静悠远的氛围。镜头固定，画面稳定，突出人物与自然环境的和谐交融。",
+    "en_prompt": "An elderly woman stands on a path through a bamboo grove, holding a classic oil-paper umbrella. She speaks toward the camera while slowly walking forward. The camera gradually pulls back, keeping her centered in the frame. She wears an elegant cheongsam, holding the umbrella naturally with both hands, occasionally lifting one hand to adjust the handle, exuding grace and composure. The background features dappled bamboo shadows and a stone pathway, with sunlight filtering through the leaves, casting soft, gentle light and creating a serene, tranquil atmosphere. The shot remains steady and fixed, emphasizing the harmonious blend between the woman and her natural surroundings.",
+    "main_character": "human"
+}

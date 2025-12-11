@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 24,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "nature walks",
+        "reading poetry",
+        "wearing floral accessories"
+    ],
+    "personality": "calm, introspective, artistic, and deeply connected to nature",
+    "message": "我站在这棵古老的树前，仿佛时间也放慢了脚步。我喜欢用镜头捕捉自然的每一丝呼吸，也喜欢在寂静中倾听自己的内心。花朵耳环是我与自然对话的方式，它们轻柔地诉说着生命的美好。我愿做一个安静的观察者，用温柔的目光去感受世界，用诗意的心去拥抱生活。",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正正在讲话，镜头固定。她身穿白色连衣裙，佩戴着精致的花朵耳环，右手轻抚胸前，左手自然交叠于身前，神情沉静地凝视镜头。背景是斑驳的树干与朦胧的绿植，营造出自然优雅的氛围。",
+    "en_prompt": "The woman in the image is speaking, with a fixed camera shot. She is wearing a white dress and elegant floral earrings. Her right hand gently touches her chest, while her left hand rests naturally in front of her. She gazes calmly and directly at the camera with a serene expression. The background features a textured tree trunk and softly blurred greenery, creating a natural and elegant atmosphere.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 22,
+    "nationality": "Australian",
+    "speaking_language": "English",
+    "hobbies": [
+        "fashion photography",
+        "exploring forests",
+        "wearing vintage clothing",
+        "listening to indie music"
+    ],
+    "personality": "introspective, artistic, confident, slightly mysterious",
+    "message": "I find beauty in the quiet moments—like standing in a forest, surrounded by trees that whisper stories. Fashion is my language, a way to express who I am without words. The coat, the tie, the pearls—they’re not just clothes; they’re pieces of my identity. I don’t follow trends; I create my own. Life is about finding your rhythm, your color, your truth. Don’t be afraid to stand out. Be bold. Be you. And always, always listen to the trees—they know more than we think.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男孩正倚靠在树干上，对着镜头讲话，镜头固定。他身穿驼色大衣、灰色衬衫，搭配一条醒目的橙黄色条纹领带，脖子上还戴着一条银色珠链，整体造型时尚而富有个性。背景是林间光影斑驳的自然环境，营造出一种沉静又略带戏剧感的氛围。",
+    "en_prompt": "The boy in the image is leaning against a tree trunk, speaking directly to the camera, with a fixed shot. He is wearing a camel-colored overcoat, a gray shirt, and a striking orange-yellow striped tie, with a silver beaded necklace around his neck, creating a stylish and distinctive look. The background features a natural woodland setting with dappled sunlight filtering through the trees, creating a calm yet slightly dramatic atmosphere.",
+    "main_character": "human"
+}

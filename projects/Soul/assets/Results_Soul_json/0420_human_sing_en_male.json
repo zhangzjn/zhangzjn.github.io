@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "traveling",
+        "reading literature",
+        "exploring urban architecture"
+    ],
+    "personality": "calm, introspective, artistic, and observant",
+    "message": "I find beauty in the quiet moments—like standing by this red door, feeling the warmth of the sun on my skin and the stillness of the city around me. Life moves fast, but I choose to pause, to reflect, to absorb the details that often go unnoticed. I’m drawn to stories, to places, to people—each one a chapter waiting to be discovered. I believe in simplicity, in authenticity, and in the power of a single moment to change everything. I’m not in a rush. I’m here, now, and that’s enough.",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色靠在红色大门旁，身穿白色衬衫和白色长裤，神情专注地望向远方，正在唱歌。",
+    "en_prompt": "The character in the image leans against a red door, wearing a white shirt and white trousers, gazing intently into the distance, singing.",
+    "main_character": "human"
+}

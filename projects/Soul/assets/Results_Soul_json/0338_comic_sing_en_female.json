@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 18,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "painting",
+        "reading poetry",
+        "watching butterflies",
+        "listening to classical music"
+    ],
+    "personality": "gentle, introspective, dreamy, and deeply connected to nature",
+    "message": "在静谧的午后，我闭上眼睛，任由蓝色的蝴蝶轻抚我的发丝与衣襟。它们仿佛是我内心思绪的化身，自由而轻盈。我常常独自坐在花园里，用画笔记录下它们飞舞的瞬间，仿佛在与自然对话。我渴望被理解，却又享受独处的宁静。愿每个人都能在喧嚣的世界中，找到属于自己的那片宁静之境，像蝴蝶一样，轻盈地飞过生命的每一个瞬间。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色闭目沉醉，蓝色蝴蝶翩翩环绕其发梢与衣襟，仿佛在轻柔的旋律中翩跹起舞。她微微仰首，唇角轻启，似在无声吟唱一首梦幻的歌谣，周身光影如星尘般闪烁，营造出空灵唯美的氛围。",
+    "en_prompt": "The character in the image closes her eyes, immersed in tranquility, as blue butterflies gracefully flutter around her hair and collar, dancing softly as if swaying to a gentle melody. She tilts her head slightly upward, lips parted as if silently singing a dreamlike ballad. The light around her sparkles like stardust, creating an ethereal and beautiful atmosphere.",
+    "main_character": "comic"
+}

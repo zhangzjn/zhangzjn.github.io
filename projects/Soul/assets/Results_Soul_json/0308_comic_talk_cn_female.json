@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 8,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "watching the sea",
+        "dancing in traditional costumes",
+        "collecting seashells",
+        "drawing flowers"
+    ],
+    "personality": "curious, cheerful, gentle, imaginative",
+    "message": "站在船边，看着蓝色的大海，我感觉自己像一只自由的小鸟。海浪轻轻拍打着船身，阳光洒在水面上，闪闪发亮，就像无数颗珍珠在跳舞。我穿着妈妈给我做的蓝色汉服，头上戴着漂亮的发饰，真美啊！我多想变成一朵浪花，和海风一起唱歌。大海真神奇，它告诉我：世界很大，梦想更远。我会一直笑着，勇敢地去探索每一个未知的角落。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在船舷边，身穿蓝色汉服，手扶栏杆，正在讲话，镜头固定。背景是波光粼粼的大海，阳光洒在海面上，营造出宁静美好的氛围。角色偶尔轻轻摆动裙摆，享受海风拂面的惬意时光。",
+    "en_prompt": "The character in the image stands by the ship's railing, wearing a blue Hanfu, holding onto the railing, and speaking. The camera remains fixed. The background features a shimmering ocean with sunlight reflecting on the water's surface, creating a peaceful and beautiful atmosphere. The character occasionally gently sways her skirt, enjoying the pleasant moment as the sea breeze brushes her face.",
+    "main_character": "comic"
+}

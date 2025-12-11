@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 17,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "playing electric guitar",
+        "listening to rock music",
+        "drawing anime characters",
+        "wearing cute outfits"
+    ],
+    "personality": "shy but passionate, creative, kind-hearted, and determined",
+    "message": "大家好，我是小樱。虽然我平时有点害羞，但只要拿起吉他，我就充满了勇气。音乐是我的朋友，它让我表达内心最真实的情感。我梦想有一天能站在舞台上，用我的歌声和琴声打动每一个人。即使现在只是练习，我也从不放弃。希望你们能喜欢我的音乐，也请多多支持我哦！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色一边唱歌一边弹奏手中的白色电吉他，粉色长发随节奏轻扬，身穿粉色上衣与格子短裙，坐在高脚凳上，神情专注而充满活力，背景为纯黑色，突出角色与乐器的视觉表现力。",
+    "en_prompt": "The character in the image sings while playing a white electric guitar, her long pink hair gently swaying to the rhythm. She wears a pink top and a plaid mini skirt, sitting on a stool with a focused and energetic expression. The background is pure black, emphasizing the visual impact of the character and the instrument.",
+    "main_character": "human"
+}

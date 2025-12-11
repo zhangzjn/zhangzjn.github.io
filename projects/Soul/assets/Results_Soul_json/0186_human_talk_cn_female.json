@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 58,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese embroidery",
+        "calligraphy",
+        "walking along ancient canals",
+        "collecting jade ornaments"
+    ],
+    "personality": "graceful, composed, nostalgic, culturally proud, warm-hearted",
+    "message": "走过江南的石桥，看水波荡漾，仿佛时光也慢了下来。我爱这青砖黛瓦，爱这旗袍上的花纹，更爱那玉佩轻摇的温润声音。年轻时，我常在小巷里听评弹，如今虽已年长，心却依旧如初。愿后人记住这水乡的韵味，记住我们祖辈传下的优雅与从容。生活不必匆忙，慢下来，才能听见心底的声音。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在古桥边的水巷中，一边对着镜头讲话，一边轻轻整理手中精致的银雕手袋，镜头固定。她身着典雅的青色旗袍，佩戴翡翠项链与耳坠，背景是斑驳的石桥与江南水乡老屋，氛围宁静而富有韵味。",
+    "en_prompt": "The woman in the image stands by a water alley beside an ancient stone bridge, speaking gently to the camera while delicately adjusting her exquisite silver-embossed handbag. The camera remains fixed. She wears an elegant teal qipao, adorned with a jade necklace and matching earrings. The background features weathered stone arches and traditional Jiangnan water town houses, creating a serene and culturally rich atmosphere.",
+    "main_character": "human"
+}

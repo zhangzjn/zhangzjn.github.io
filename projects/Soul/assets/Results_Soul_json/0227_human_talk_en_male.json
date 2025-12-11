@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 32,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "motorcycling",
+        "urban exploration",
+        "fitness",
+        "photography"
+    ],
+    "personality": "confident, independent, adventurous, introspective",
+    "message": "I live for the open road and the freedom it brings. Every mile on my bike is a chance to escape the noise and find clarity. I’m not just riding—I’m living. I value authenticity, and I’m always chasing the next horizon. Life’s too short to follow the crowd. I wear my leather jacket not just for style, but as a symbol of who I am: tough, resilient, and unafraid to face the night. I’m not looking for approval—I’m building my own story, one ride at a time.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正站在夜晚的城市街头，一手拿着黑色摩托车头盔，另一手自然垂下，佩戴着银色项链和手表，穿着皮夹克和牛仔裤，神情专注地对着镜头讲话，偶尔用拿头盔的手做些小幅度动作匹配说话内容，镜头固定。",
+    "en_prompt": "The man in the image stands on a city street at night, holding a black motorcycle helmet in one hand while the other hand hangs naturally by his side. He wears a silver necklace and a watch, dressed in a leather jacket and jeans. He speaks directly to the camera with a focused expression, occasionally making small gestures with the hand holding the helmet to match his speech. The camera remains fixed.",
+    "main_character": "human"
+}

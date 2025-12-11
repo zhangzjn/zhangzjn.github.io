@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 18,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "reading manga",
+        "painting",
+        "listening to jazz music",
+        "taking walks in cherry blossom gardens"
+    ],
+    "personality": "gentle, introspective, artistic, and kind-hearted",
+    "message": "清晨的阳光透过窗帘洒在身上，我最喜欢的樱花图案和服也仿佛在轻声诉说着春天的故事。我常常在安静的午后，用画笔记录下那些微小而美好的瞬间。或许我并不擅长表达，但我的心，总是温柔地装着对生活的热爱。希望你也能找到属于自己的宁静角落，感受每一片花瓣飘落时的温柔。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正唱歌，眼神微漾，嘴角带着浅浅的笑意，仿佛沉浸在音乐的意境中。她身着印有淡粉色樱花图案的和服，发间系着粉色蝴蝶结发饰，坐在窗边柔和的光线下，随音乐轻轻摆动身体，营造出宁静而梦幻的氛围。",
+    "en_prompt": "The character in the image is singing, her eyes softly shimmering and a faint smile playing on her lips, as if lost in the musical atmosphere. She is wearing a kimono adorned with delicate pink cherry blossom patterns, with a pink ribbon hair accessory in her hair. Sitting by the window under soft, warm light, she sways gently to the music, creating a serene and dreamy ambiance.",
+    "main_character": "comic"
+}

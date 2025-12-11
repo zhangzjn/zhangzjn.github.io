@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 72,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "walking in the snow",
+        "drinking hot tea",
+        "enjoying winter scenery",
+        "reading poetry"
+    ],
+    "personality": "gentle, warm-hearted, reflective, and peaceful",
+    "message": "在这银装素裹的冬日里，我最喜欢捧一杯热茶，漫步于雪中。雪花轻轻落在肩头，像时光的低语，提醒我慢下来，感受生活的温度。岁月虽已沉淀，但心依旧柔软。愿你也能在寒冷中找到属于自己的温暖，无论是来自一杯热饮，还是一个微笑。生活不必匆忙，静下来，才能听见内心的声音。愿你平安喜乐，如这冬日的雪，纯净而安宁。",
+    "source": "generated",
+    "cn_prompt": "画面中的老太太站在雪景小径中，双手捧着一杯热饮，面带微笑对着镜头说话，偶尔轻轻晃动手中的杯子，镜头固定。两侧雪地里点缀着温暖的玻璃灯笼，背景是被白雪覆盖的松林，营造出宁静温馨的冬日氛围。",
+    "en_prompt": "An elderly woman stands on a snowy path, holding a warm drink with both hands, smiling gently as she speaks directly to the camera, occasionally giving the cup a slight gentle shake. The camera remains fixed. On either side of the path, warm glass lanterns are nestled in the snow, and the background features a serene pine forest blanketed in snow, creating a peaceful and cozy winter atmosphere.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 18,
+    "nationality": "Tibetan",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "singing traditional Tibetan songs",
+        "practicing meditation",
+        "crafting prayer flags",
+        "exploring high mountain trails"
+    ],
+    "personality": "gentle, wise, serene, and deeply connected to nature and spirituality",
+    "message": "在雪山之巅，我听见风的低语，那是祖先的祝福。我用歌声传递希望，用祈祷旗迎接朝阳。每一粒雪，每一片云，都是天地的恩赐。我愿守护这片圣洁的土地，让纯净的心灵与自然共鸣。愿你也能在喧嚣中寻得内心的宁静，如雪莲般纯洁，如高原的天空般辽阔。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色在雪山之巅轻声吟唱，歌声如风拂过经幡，紫眸温柔注视远方，白发随风飘扬，头饰彩铃轻晃，衣袂翻飞间，仿佛在吟诵古老的雪山圣歌。",
+    "en_prompt": "The character in the image softly sings atop a snow-capped mountain peak, her voice flowing like wind brushing through prayer flags. Her purple eyes gaze gently into the distance, while her white hair dances in the breeze. Colorful ornaments on her headdress gently sway, and as her robes flutter, she seems to be chanting an ancient sacred hymn of the snowy mountains.",
+    "main_character": "comic"
+}

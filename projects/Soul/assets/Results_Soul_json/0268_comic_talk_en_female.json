@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 14,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading books",
+        "drawing",
+        "watching cherry blossoms",
+        "exploring nature"
+    ],
+    "personality": "kind, curious, gentle, and observant",
+    "message": "Spring is here, and the cherry blossoms are blooming so beautifully. I love standing under the trees, feeling the soft petals fall on my shoulders. It reminds me to appreciate the simple moments in life. I often wonder what stories these flowers could tell if they could speak. I dream of traveling to faraway places, but for now, I’m happy just being here, in this quiet moment, with the wind whispering through the branches. Life is like a gentle breeze—sometimes soft, sometimes strong, but always full of wonder.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。背景是盛开的樱花树，粉色花瓣轻柔飘落，营造出温柔宁静的春日氛围。角色穿着水手服，神情恬静，嘴角带着淡淡的微笑，仿佛在分享一个美好的回忆或故事。",
+    "en_prompt": "The character in the image is speaking directly to the camera, with a fixed shot. The background features blooming cherry blossom trees, with soft pink petals gently falling, creating a gentle and serene spring atmosphere. The character is wearing a sailor-style school uniform, with a calm expression and a subtle smile on their lips, as if sharing a beautiful memory or story.",
+    "main_character": "comic"
+}

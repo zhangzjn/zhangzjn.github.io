@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "painting",
+        "traveling",
+        "listening to music"
+    ],
+    "personality": "gentle, kind-hearted, optimistic, and thoughtful",
+    "message": "你好，我是小雅。我热爱生活中的每一份美好，喜欢在书页间寻找智慧，在画布上表达情感，在旅途中感受世界的广阔。我相信，温柔是一种力量，微笑能融化冰雪。愿你我都能在平凡的日子里，发现不平凡的光。无论遇到什么困难，都请记得：你并不孤单，世界始终充满希望。愿你每天都能拥抱阳光，心怀善意，勇敢前行。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她妆容精致，眼神温柔，佩戴着小巧的耳饰，背景是温暖柔和的暖黄色调，整体氛围宁静优雅。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She has精致 makeup, gentle eyes, and is wearing small earrings. The background features a warm, soft, golden-yellow tone, creating an overall serene and elegant atmosphere.",
+    "main_character": "human"
+}

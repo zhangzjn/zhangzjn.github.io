@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading medical journals",
+        "gardening",
+        "practicing calligraphy"
+    ],
+    "personality": "compassionate, responsible, calm, and dedicated",
+    "message": "作为一名护士，我深知每一份关怀都可能改变患者的生命轨迹。在医院的长廊里，我不仅记录着病历，更传递着温暖与希望。我坚信，专业与仁心并重，才能真正守护健康。无论多忙，我都愿用耐心倾听患者的每一句诉说，用行动践行医者仁心。生命因关怀而更有温度，愿每一位患者都能在这里感受到安心与力量。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在医院走廊中，一边对着镜头讲话，一边手持病历夹，镜头随着她轻微的走动慢慢往后退，保持人物在画面中。她身着淡蓝色护士服，佩戴护士帽和工牌，神情温和专业，背景是整洁明亮的医院走廊，两侧是病房门和医疗设备。",
+    "en_prompt": "The woman in the image stands in a hospital corridor, speaking directly to the camera while holding a clipboard. As she takes slight steps forward, the camera slowly pulls back, keeping her centered in the frame. She is wearing a light blue nurse's uniform, complete with a nurse's cap and ID badge, exuding a calm and professional demeanor. The background features a clean, well-lit hospital hallway, with patient room doors and medical equipment visible on both sides.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 16,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing electric guitar",
+        "listening to rock music",
+        "designing punk fashion",
+        "drawing comic art"
+    ],
+    "personality": "confident, rebellious, creative, passionate, and energetic",
+    "message": "Hey everyone! I’m the ultimate rock star in training, and I live for the sound of my electric guitar screaming through the air. I don’t follow rules — I make my own. With my spiky teal hair, cool shades, and punk style, I’m here to rock the world! Whether I’m shredding a solo or designing my next outfit, I’m all about expressing myself. Let’s turn up the volume and break the silence — this is my stage, and I’m not going to back down!",
+    "source": "generated",
+    "cn_prompt": "画面中的角色一边唱歌一边弹奏手中的电吉他。",
+    "en_prompt": "The character in the image is singing while playing the electric guitar in hand.",
+    "main_character": "comic"
+}

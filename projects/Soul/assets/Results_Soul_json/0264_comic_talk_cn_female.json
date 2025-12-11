@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "painting flowers",
+        "reading classical literature",
+        "wearing traditional hanfu",
+        "gardening"
+    ],
+    "personality": "gentle, artistic, thoughtful, and deeply connected to nature and tradition",
+    "message": "我喜爱青花瓷的淡雅与宁静，就像我心中对美的追求。手中的卷轴，是我对自然之美的记录，每一朵花都承载着我的思绪与情感。我愿在诗与画中徜徉，让心灵与古韵相融。花瓣飘落，是时光的轻语，提醒我珍惜当下，守护内心的纯净。愿你也能在喧嚣中寻得一方宁静，如我一般，与花为伴，与诗同行。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色身着蓝白相间的华美古风裙装，头戴繁复花冠，手持一卷绘有蓝花的卷轴，正优雅地对着镜头讲话，偶尔轻抚卷轴或微微侧首，眼神温柔灵动，镜头固定，背景飘落的花瓣为画面增添诗意氛围。",
+    "en_prompt": "The character in the image is wearing an elegant traditional-style dress in blue and white, adorned with an intricate floral headdress, and holding a scroll painted with blue flowers. She gracefully speaks toward the camera, occasionally gently touching the scroll or slightly turning her head, with soft and expressive eyes. The camera remains fixed, while falling petals in the background add a poetic atmosphere to the scene.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "traveling",
+        "photography",
+        "listening to music"
+    ],
+    "personality": "gentle, optimistic, thoughtful, and kind-hearted",
+    "message": "你好，我是来自中国的一位普通女孩。我热爱生活，喜欢在书页间寻找智慧，在旅途中感受世界的美好。我相信每个人都有属于自己的光芒，只要用心去发现、去努力。愿你我都能保持初心，温柔对待生活中的每一份遇见。无论顺境逆境，都请记得微笑面对，因为最美的风景，往往就在坚持的路上。愿你我都能成为更好的自己。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正轻柔地演唱，嘴角微扬，眼神温柔，背景为朦胧的浅灰色布景，她佩戴着精致的流苏耳环，身着轻盈的白色蕾丝上衣，整体氛围优雅宁静，仿佛在演绎一首抒情的歌曲。",
+    "en_prompt": "The character in the image is gently singing, with a slight smile on her lips and soft, tender eyes. The background is a hazy, light gray backdrop. She wears delicate fringe earrings and a lightweight white lace top. The overall atmosphere is elegant and serene, as if performing a lyrical song.",
+    "main_character": "human"
+}

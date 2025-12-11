@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 8,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "dancing",
+        "singing",
+        "wearing traditional costumes",
+        "playing with lanterns"
+    ],
+    "personality": "cute, cheerful, curious, kind-hearted",
+    "message": "大家好！我是小玲，今年八岁啦！我最喜欢穿着漂亮的戏服，戴着华丽的头饰，在红灯笼下跳舞。每当我穿上这身衣服，就感觉自己像童话里的小公主。我爱唱京剧，也爱和小伙伴们一起玩灯笼游戏。春节的时候，我会和家人一起贴春联、包饺子，热闹极了！希望你们也喜欢中国传统文化，和我一起感受这份温暖与美好！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，身着华丽的戏曲服饰，头戴精致的凤冠，眼神温柔而专注，仿佛在演绎一段婉转悠扬的戏曲唱段。背景中的红灯笼与古典家具烘托出浓厚的东方韵味，角色微微扬首，双手轻拢衣袖，仿佛在与观众分享一段古老而动人的故事。",
+    "en_prompt": "The character in the scene is singing, dressed in exquisite opera attire, adorned with an ornate phoenix crown. Her eyes are gentle and focused, as if performing a melodious and graceful opera aria. The red lanterns and classical furniture in the background enhance the rich Eastern ambiance. The character slightly lifts her head, gently gathering her sleeves with both hands, as if sharing an ancient and touching story with the audience.",
+    "main_character": "comic"
+}

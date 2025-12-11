@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 24,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "street photography",
+        "graffiti art",
+        "listening to indie music",
+        "exploring urban neighborhoods"
+    ],
+    "personality": "outgoing, creative, optimistic, adventurous",
+    "message": "你好！我是小雅，一个热爱城市街头文化的城市探索者。我总喜欢在涂鸦墙前驻足，用镜头记录下那些充满生命力的色彩与故事。生活就像一幅未完成的涂鸦，每一步都充满可能。我喜欢在音乐中寻找灵感，在街头发现惊喜。如果你也热爱自由与创意，欢迎一起漫步在城市的角落，用眼睛和心灵去感受这个世界的温度。让我们一起，把平凡的日子过得不平凡！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在涂鸦墙前，面带微笑，充满活力，正在唱一首流行歌曲，背景音乐节奏轻快，她的表情自然放松，仿佛在享受音乐带来的快乐。",
+    "en_prompt": "The character in the image stands in front of a graffiti-covered wall, smiling brightly and full of energy, singing a pop song. The background music has a light, upbeat rhythm. Her expression is natural and relaxed, as if she is enjoying the joy brought by the music.",
+    "main_character": "human"
+}

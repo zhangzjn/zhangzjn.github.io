@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 48,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing electric guitar",
+        "writing music",
+        "collecting vintage instruments",
+        "performing live concerts"
+    ],
+    "personality": "passionate, intense, artistic, confident, introspective",
+    "message": "Music is my soul, my escape, my truth. Every note I play is a piece of my heart. I’ve spent years chasing the perfect sound, the right chord, the emotion that resonates deep within. I don’t just play guitar—I live it. The stage is where I feel most alive, where the world fades and only the music remains. To my fans: thank you for sharing this journey. Keep your spirits high, your hearts open, and your guitars loud. Rock on.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在演唱，同时弹奏手中的电吉他。他留着长发和胡须，身穿黑色皮背心，手臂上有纹身，神情专注地沉浸在音乐中。舞台灯光以暖黄色和红色为主，背景模糊可见鼓组轮廓，营造出热烈的现场演出氛围。",
+    "en_prompt": "The man in the image is singing while playing an electric guitar. He has long hair and a beard, wearing a black leather vest, with tattoos on his arms, and is deeply focused, immersed in the music. The stage lighting features warm yellow and red tones, with a blurred background showing the outline of a drum set, creating a lively and energetic live performance atmosphere.",
+    "main_character": "human"
+}

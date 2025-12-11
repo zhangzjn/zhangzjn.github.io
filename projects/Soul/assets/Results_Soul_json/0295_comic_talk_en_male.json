@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 3,
+    "nationality": "unknown",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing with toys",
+        "chasing balls",
+        "sniffing flowers",
+        "sitting by the window"
+    ],
+    "personality": "cute, curious, gentle, affectionate, loyal",
+    "message": "Hello, I’m a little pup with big dreams! I love to play, explore, and cuddle with my favorite humans. My floppy ears and wagging tail always show how happy I am. I’m curious about everything—birds, butterflies, and even the wind! I want to be your best friend, to bring joy to your day with my playful barks and warm hugs. No matter where you go, I’ll be by your side, always ready to share a smile. Let’s go on an adventure together!",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。角色是一只毛茸茸的卡通小狗，表情呆萌可爱，正用大眼睛注视着镜头，似乎在期待互动或分享有趣的故事。它脖子上戴着一条浅绿色项圈，整体姿态温顺乖巧，适合营造温馨治愈的氛围。",
+    "en_prompt": "The character in the image is speaking directly to the camera, with a fixed shot. The character is a fluffy cartoon puppy with an adorable and innocent expression, gazing at the camera with big eyes, as if eagerly awaiting interaction or sharing an interesting story. It wears a light green collar around its neck, and its overall posture is gentle and well-behaved, perfect for creating a warm and comforting atmosphere.",
+    "main_character": "comic"
+}

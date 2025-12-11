@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese embroidery",
+        "classical Chinese music",
+        "calligraphy",
+        "tea ceremony"
+    ],
+    "personality": "graceful, elegant, culturally proud, and introspective",
+    "message": "我热爱中华传统文化，旗袍不仅是服饰，更是民族精神的体现。每一道刺绣、每一枚玉饰，都承载着千年的匠心与故事。我愿将这份美传承下去，让更多人感受东方女性的温婉与力量。在快节奏的现代生活中，我坚持慢下来，品茶、听古筝、写书法，让心灵回归宁静。传统不是束缚，而是滋养灵魂的源泉。愿你我共守这份优雅，让文化之光永不熄灭。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双手轻握手中红色绣花手包，偶尔微微调整姿势以配合表达，镜头固定。她身着精致的浅色刺绣旗袍，佩戴翠绿色翡翠耳坠与手镯，背景是古典雕花屏风，整体氛围典雅端庄。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, gently holding a red embroidered clutch in both hands, occasionally making slight posture adjustments to match her expression. The camera remains fixed. She is wearing an elegant light-colored embroidered qipao, adorned with emerald green jade earrings and bracelets. The background features a classical carved screen, creating an overall refined and dignified atmosphere.",
+    "main_character": "human"
+}

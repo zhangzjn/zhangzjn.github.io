@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 3,
+    "nationality": "fantasy realm",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "collecting glowing heart charms",
+        "playing in the snow",
+        "singing soft lullabies",
+        "admiring the stars"
+    ],
+    "personality": "gentle, kind-hearted, curious, and full of wonder",
+    "message": "亲爱的朋友，我是来自星夜之境的小雪龙，我最爱在雪花飘落的夜晚收集闪闪发光的心形挂饰。每当看到它们在月光下闪烁，我的心里就充满了温暖。我虽然年纪小，但相信每颗心都藏着爱与希望。愿你也能像我一样，用温柔的眼睛看世界，用善良的心去拥抱每一个美好瞬间。让我们一起在星光下许下最纯真的愿望吧！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正坐在柔软的云朵上，对着镜头讲话，双手轻握着一枚金色心形饰品，耳朵上垂挂着闪亮的爱心吊坠，镜头固定，营造出梦幻治愈的氛围。",
+    "en_prompt": "The character in the image is sitting on soft clouds, speaking directly to the camera, gently holding a golden heart-shaped ornament with both hands, with shiny heart-shaped pendants hanging from its ears. The camera remains fixed, creating a dreamy and healing atmosphere.",
+    "main_character": "comic"
+}

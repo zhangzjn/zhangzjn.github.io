@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 24,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "mountain hiking",
+        "backpacking",
+        "photography",
+        "exploring nature"
+    ],
+    "personality": "adventurous, determined, calm, observant, independent",
+    "message": "Standing at the edge of the world, I feel the wind whispering ancient stories. Every step on this rugged path has taught me resilience and humility. The mountains don’t care about your past—they only care about your next step. I hike not to escape life, but to find myself in the silence between peaks. Each summit is a reminder: progress isn’t always measured in miles, but in the courage to keep going. To anyone chasing their own summit—breathe deep, move forward, and let the wild shape your soul.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士背着登山包，手持登山杖，站在雪山前对着镜头讲话，偶尔用登山杖轻点地面做些动作匹配说话的内容，镜头固定。",
+    "en_prompt": "The man in the image is wearing a hiking backpack and holding trekking poles, standing in front of snowy mountains, speaking directly to the camera. Occasionally, he gently taps the ground with his trekking poles to match the content of his speech. The camera remains fixed.",
+    "main_character": "human"
+}

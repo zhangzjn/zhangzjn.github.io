@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "practicing calligraphy",
+        "enjoying tea ceremonies",
+        "wearing traditional jewelry"
+    ],
+    "personality": "gentle, thoughtful, calm, and culturally appreciative",
+    "message": "我热爱传统文化，喜欢在宁静的午后品一杯清茶，读一本古籍。翡翠吊坠是我母亲传给我的，它承载着家的温暖与祝福。我愿以温柔之心对待生活，也期待与志同道合的人分享这份宁静与美好。愿你我都能在喧嚣中寻得内心的平和，像这抹淡雅的粉，温柔而坚定。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头温柔微笑，双臂自然交叠于胸前，偶尔轻轻点头或抬手轻抚发间花饰，镜头固定。",
+    "en_prompt": "The woman in the image is gently smiling directly at the camera, with her arms naturally crossed over her chest. Occasionally, she gives a slight nod or raises her hand to softly touch the floral accessory in her hair. The camera remains stationary.",
+    "main_character": "human"
+}

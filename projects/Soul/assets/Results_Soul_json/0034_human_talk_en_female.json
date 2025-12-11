@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "hiking",
+        "reading",
+        "journaling"
+    ],
+    "personality": "calm, thoughtful, creative, and kind-hearted",
+    "message": "Hello! I’m someone who finds peace in nature and beauty in small moments. I love capturing the world through my camera lens and exploring quiet trails with a good book in hand. My journal is always full of thoughts, dreams, and reflections. I believe in kindness, authenticity, and the power of a simple smile. Life is short, so I try to live it with intention and gratitude. If you’re ever feeling lost, remember: you’re not alone. Let’s find joy together, one step at a time.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在绿叶树丛前，对着镜头讲话。镜头固定。",
+    "en_prompt": "The woman in the image stands in front of a backdrop of green leafy trees, speaking directly to the camera. The camera remains stationary.",
+    "main_character": "human"
+}

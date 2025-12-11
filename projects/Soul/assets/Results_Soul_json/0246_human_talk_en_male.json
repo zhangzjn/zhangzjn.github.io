@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "basketball",
+        "photography",
+        "reading self-help books"
+    ],
+    "personality": "confident, introspective, and determined with a calm demeanor and strong sense of purpose",
+    "message": "I believe in the power of self-discovery and growth. Every challenge is a chance to become stronger, wiser, and more authentic. I find peace in quiet moments and inspiration in the small details of life. Whether on the court or behind the lens, I strive to express my truth. I’m not perfect, but I’m committed to becoming the best version of myself. Stay focused, stay kind, and never stop believing in your journey.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

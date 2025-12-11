@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese dance",
+        "calligraphy",
+        "tea ceremony",
+        "classical music"
+    ],
+    "personality": "graceful, poised, culturally passionate, and introspective",
+    "message": "在这座古老的庭院里，我感受到时光的静谧与文化的厚重。红色旗袍不仅是一件服饰，更是中华传统美的传承。手中的折扇轻摇，仿佛在诉说千年的故事。我热爱书法的笔墨流转，也钟情于茶香袅袅中的沉静。愿更多人能走近传统文化，感受那份温润如玉的东方韵味。美，不只在衣饰，更在心与文化的共鸣。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双手轻握一把绘有绿色山水的折扇，偶尔轻轻摆动扇面以配合语句节奏，镜头固定。",
+    "en_prompt": "The woman in the image is facing the camera and speaking, holding a folding fan painted with green landscapes in both hands. She occasionally gently moves the fan to match the rhythm of her speech. The camera remains stationary.",
+    "main_character": "human"
+}

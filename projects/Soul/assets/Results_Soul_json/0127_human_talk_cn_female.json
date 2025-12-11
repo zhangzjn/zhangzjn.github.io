@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 32,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "practicing calligraphy",
+        "attending cultural exhibitions",
+        "traveling to historical sites"
+    ],
+    "personality": "graceful, thoughtful, elegant, and deeply connected to her cultural roots",
+    "message": "每个人的生命都是一幅未完成的画卷，我愿以从容之心，细细描绘每一笔。岁月或许会留下痕迹，但内心的宁静与对美的追求永不褪色。我热爱传统文化，也珍惜每一次与世界的对话。愿你我都能在纷繁中保持本真，在时光里优雅前行。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她佩戴着精致的水滴形耳坠，神情温婉，妆容自然，背景柔和暖色调，整体氛围优雅从容。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She is wearing elegant teardrop-shaped earrings, with a gentle and graceful expression, natural makeup, and a soft warm-toned background. The overall atmosphere is refined and composed.",
+    "main_character": "human"
+}

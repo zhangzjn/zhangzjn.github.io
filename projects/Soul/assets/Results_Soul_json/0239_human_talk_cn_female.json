@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading business literature",
+        "practicing yoga",
+        "attending art exhibitions"
+    ],
+    "personality": "confident, professional, thoughtful, and detail-oriented",
+    "message": "在职场中，我始终相信：专业与真诚是通往成功的双翼。每一次挑战都是成长的契机，每一个细节都值得用心雕琢。我热爱阅读商业书籍，从中汲取智慧；也享受瑜伽带来的内心宁静，让我在忙碌中保持平衡。艺术展览则为我打开灵感之门，激发创新思维。我愿以坚定的步伐，持续精进，用行动诠释责任与担当。未来，我将继续在专业领域深耕，追求卓越，成就更好的自己。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双臂自然交叉于胸前，偶尔配合语言做出轻微手势，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with her arms naturally crossed over her chest, occasionally making slight hand gestures to accompany her speech. The camera remains fixed.",
+    "main_character": "human"
+}

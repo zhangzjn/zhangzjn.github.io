@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 35,
+    "nationality": "Indian",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading",
+        "coding",
+        "hiking",
+        "photography"
+    ],
+    "personality": "intelligent, kind, curious, and approachable",
+    "message": "Hello! I'm a passionate software engineer and lifelong learner. I love solving complex problems and creating technology that makes a difference. In my free time, I enjoy exploring nature through hiking and capturing its beauty with my camera. I believe in continuous growth and learning, and I’m always excited to connect with others who share a curiosity for innovation and creativity. Let’s build something amazing together!",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，镜头固定。她戴着黑框眼镜，身穿蓝棕格纹衬衫，面带微笑，神情自然。背景为简洁的室内环境，右侧有明亮的窗户，光线柔和。她的双手自然垂于身侧，姿态放松，适合进行清晰、亲切的口播表达。",
+    "en_prompt": "The woman in the frame is speaking directly to the camera with a fixed shot. She is wearing black-framed glasses and a blue and brown checkered shirt, smiling naturally with a relaxed expression. The background is a simple indoor setting, with a bright window on the right side, providing soft, natural lighting. Her hands are relaxed at her sides, and her posture is casual and comfortable, making her ideal for clear and friendly verbal delivery.",
+    "main_character": "human"
+}

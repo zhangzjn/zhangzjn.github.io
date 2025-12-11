@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 42,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "motorcycling",
+        "hiking",
+        "reading philosophy"
+    ],
+    "personality": "intense, introspective, resilient, and deeply thoughtful. He carries the weight of experience in his eyes and has a quiet strength that commands respect.",
+    "message": "I’ve seen the world through the lens of my camera and the wind on my face while riding. Life isn’t about avoiding pain—it’s about understanding it, learning from it, and moving forward with purpose. I don’t chase perfection; I chase meaning. Every scar, every wrinkle, every moment of silence tells a story. I’m not who I was ten years ago, and I’m not who I’ll be ten years from now. But right here, right now, I’m present. And that’s enough.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。他神情专注，目光直视镜头，面部表情略带严肃，嘴角微抿，展现出成熟稳重的气质。他留有短胡须，鬓角略显花白，耳垂佩戴着银色圆环耳饰，穿着深色休闲上衣。背景为纯黑色，突显人物主体，光线柔和聚焦于面部，营造出沉稳、内敛的氛围。",
+    "en_prompt": "The man in the image is speaking directly to the camera with a fixed shot. He appears focused, maintaining steady eye contact with the lens, his expression slightly serious, lips gently pressed together, exuding a mature and composed demeanor. He has a short beard with slightly graying sideburns, and wears silver hoop earrings in both earlobes. He is dressed in a dark casual top. The background is pure black, emphasizing the subject, with soft lighting focused on his face, creating a calm and introspective atmosphere.",
+    "main_character": "human"
+}

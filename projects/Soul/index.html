@@ -664,32 +664,6 @@
   </style>
 
 
-  <script>
-  // 给第一个项添加联动
-  const img0002 = document.getElementById('short_0002_img');
-  const audio0002 = document.getElementById('short_0002_audio');
-  img0002.style.cursor = 'pointer';
-  img0002.addEventListener('click', () => {
-    if (audio0002.paused) {
-      audio0002.play();
-    } else {
-      audio0002.pause();
-    }
-  });
-
-  // 第二个项联动
-  const img0004 = document.getElementById('short_0004_img');
-  const audio0004 = document.getElementById('short_0004_audio');
-  img0004.style.cursor = 'pointer';
-  img0004.addEventListener('click', () => {
-    if (audio0004.paused) {
-      audio0004.play();
-    } else {
-      audio0004.pause();
-    }
-  });
-  </script>
-  
   
 </head>
 <body>
@@ -756,7 +730,7 @@
                   <span class="icon">
                       <i class="fab fa-youtube"></i>
                   </span>
-                  <span>Soul</span>
+                  <span>Soul Demo</span>
                 </a>
               </span>
               <!-- Code Link. -->
@@ -795,9 +769,9 @@
                 <a href="https://huggingface.co/APRIL-AIGC/UltraWan"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
-                      <i class="far fa-hugging-face"></i>
+                      <i class="far fa-microchip"></i>
                   </span>
-                  <span>Models</span>
+                  <span>Models/Soul-Bench (Huggingface)</span>
                   </a>
               </span>
 
@@ -809,6 +783,49 @@
                   <span>Leaderboard</span>
                 </a>
               </span>
+              
+              <br>
+              <span class="link-block">
+                <a href="#soul"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-video"></i>
+                  </span>
+                  <span>Enjoy Soul Results</span>
+                </a>
+              </span>
+
+              <span class="link-block">
+                <a href="#soul_bench"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-video"></i>
+                  </span>
+                  <span>Soul Bench</span>
+                </a>
+              </span>
+
+              <span class="link-block">
+                <a href="#sota"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-video"></i>
+                  </span>
+                  <span>SOTAs Comparison</span>
+                </a>
+              </span>
+
+              <!-- <span class="link-block">
+                <a href="https://huggingface.co/你的仓库地址"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-robot"></i>
+                  </span>
+                  <span>Soul Demo (Huggingface)</span>
+                </a>
+              </span> -->
+  
+
 
             </div>
           </div>
@@ -848,15 +865,687 @@
 </section>
 
 
+
+
+
+<section class="hero is-light is-small" style="background-color: #e9ecef;">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-3" id="soul" style="text-align: center;">
+        <strong>Enjoy animation results</strong> of 
+        <strong><span style="color:#b02418; font-weight:bold;">Soul</span></strong> on <strong><span style="color:#b02418; font-weight:bold;">Soul-Bench</span></strong>
+      </h2>
+      <div id="results-carousel" class="carousel results-carousel">
+        
+        
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->  
+
+
+
+<div class="item item-0464_human_sing_cn_female">
+  <video poster="" id="0464_human_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0464_human_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing, wearing an elegant diamond tiara, a white gown, and exquisite necklace and earrings, holding a microphone, with a focused and gentle expression, as if passionately performing on stage.</p>
+  </div>
+</div>
+
+
+<div class="item item-0204_human_talk_en_male">
+  <video poster="" id="0204_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0204_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is walking forward while speaking to the camera. The camera slowly pulls back, keeping him centered in the frame. He is wearing a white hard hat and carrying a black-and-yellow toolbox. Behind him is a room under renovation, with a ladder and a level placed nearby.</p>
+  </div>
+</div>
+
+
+<div class="item item-0273_comic_talk_en_unknown">
+  <video poster="" id="0273_comic_talk_en_unknown" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0273_comic_talk_en_unknown.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is speaking directly to the camera, occasionally making gestures that match the content of their speech, with a fixed camera angle. This fluffy orange little monster is grinning widely, showing neat teeth, with round eyes blinking expressively. Its hands hang naturally at its sides, occasionally lifting excitedly to make a "V" sign or gently patting its little chest, appearing lively and adorable. The background is a warm orange-yellow, emphasizing the character's fluffy texture and vibrant colors.</p>
+  </div>
+</div>
+
+
+<div class="item item-0285_comic_talk_en_female">
+  <video poster="" id="0285_comic_talk_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0285_comic_talk_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image stands in a golden meadow filled with daisies, smiling and speaking directly to the camera, with hands naturally clasped in front, occasionally moving gently to match the speech content. The camera remains fixed, with a background of rolling green hills and a blue sky with white clouds, creating a serene and warm pastoral atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0457_human_sing_cn_female">
+  <video poster="" id="0457_human_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0457_human_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image sings while playing the musical instrument in her hands, wearing elaborate ethnic attire, adorned with intricate silver jewelry and a colorful furry headdress, with two braids hanging over her shoulders. The background features vast grasslands under a bright blue sky with white clouds, with sunlight shining upon her, creating a dreamy and richly ethnic atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0057_human_talk_en_male">
+  <video poster="" id="0057_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0057_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image walks forward while speaking directly to the camera. The camera slowly pulls back, keeping him centered in the frame. He wears a black leather jacket and holds a black-and-white electric guitar, his expression focused and his steps steady. The background is an alleyway covered in vibrant graffiti, with warm yellow streetlights and neon signs flickering behind him, creating a gritty urban rock atmosphere. Occasionally, he gently strums the guitar strings with his left hand, while his right hand rests naturally on the body of the guitar, as if improvising a performance. The camera remains steady, emphasizing the interaction between the subject and his surroundings.</p>
+  </div>
+</div>
+
+
+<div class="item item-0499_comic_sing_cn_male">
+  <video poster="" id="0499_comic_sing_cn_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0499_comic_sing_cn_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing directly into a microphone, wearing professional headphones, with a focused expression. The background features recording studio equipment, creating an immersive music recording atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0036_human_talk_en_male">
+  <video poster="" id="0036_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0036_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is standing in a bright office, speaking directly to the camera. He holds a pen in his right hand and wears a silver watch on his left wrist, occasionally using the pen to gesture in sync with his speech. The camera remains fixed. The background features floor-to-ceiling windows and a bookshelf, with city buildings visible outside. Inside, there are green plants and a desk, creating an overall professional and composed atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0125_human_talk_en_male">
+  <video poster="" id="0125_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0125_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the frame is speaking directly to the camera, smiling while adjusting his bow tie with one hand. His right hand hangs naturally by his side, while his left hand holds a white suit jacket draped over his shoulder. A white boutonniere is pinned to the jacket. The camera remains stationary.</p>
+  </div>
+</div>
+
+
+<div class="item item-0502_comic_sing_cn_female">
+  <video poster="" id="0502_comic_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0502_comic_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing, holding a round fan adorned with floral branches, as if reciting poetry in a garden. The background features a classic ancient palace courtyard, with gentle sunlight cascading down and flowers swaying lightly in the breeze, creating a poetic and elegant traditional atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0037_human_talk_cn_female">
+  <video poster="" id="0037_human_talk_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0037_human_talk_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is speaking directly to the camera, with a fixed shot. She is wearing elegant, long dangling earrings, has refined makeup, and a composed expression. The background is warm and soft, creating a sophisticated and serene atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0029_human_talk_en_female">
+  <video poster="" id="0029_human_talk_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0029_human_talk_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is speaking directly to the camera, occasionally using her right hand to gently brush her hair aside, with a fixed camera shot.</p>
+  </div>
+</div>
+
+
+<div class="item item-0110_human_talk_cn_female">
+  <video poster="" id="0110_human_talk_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0110_human_talk_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is speaking directly to the camera, occasionally raising her arms gracefully to gesture in sync with her speech. The camera remains stationary. She is wearing a black qipao and elegant earrings, with a blurred cityscape of nighttime lights in the background, creating a gentle and sophisticated atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0007_human_sing_cn_female">
+  <video poster="" id="0007_human_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0007_human_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is singing, wearing light blue traditional-style clothing, adorned with an elegant diamond crown, holding a microphone, with a focused and gentle expression. The background features deep blue stage lighting, creating a dreamy atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0302_comic_talk_en_female">
+  <video poster="" id="0302_comic_talk_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0302_comic_talk_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The little fox in the image is facing the camera and speaking, with big eyes full of curiosity, occasionally blinking, and the camera remains fixed.</p>
+  </div>
+</div>
+
+
+<div class="item item-0041_human_talk_en_male">
+  <video poster="" id="0041_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0041_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is speaking directly to the camera, with a fixed shot. The background features nighttime city lights, creating an urban atmosphere. He appears focused, wearing earrings and a dark shirt, exuding a mature and composed demeanor.</p>
+  </div>
+</div>
+
+
+<div class="item item-0129_human_talk_en_male">
+  <video poster="" id="0129_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0129_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is speaking directly to the camera, with his arms crossed over his chest, and the camera remains stationary.</p>
+  </div>
+</div>
+
+
+<div class="item item-0179_human_talk_en_male">
+  <video poster="" id="0179_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0179_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The elderly man in the image is standing in front of a lush green plant background, holding a smartphone with both hands, speaking directly to the camera. The shot is static.</p>
+  </div>
+</div>
+
+
+<div class="item item-0241_human_talk_en_male">
+  <video poster="" id="0241_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0241_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is wearing a hiking backpack and holding trekking poles, standing in front of snowy mountains, speaking directly to the camera. Occasionally, he gently taps the ground with his trekking poles to match the content of his speech. The camera remains fixed.</p>
+  </div>
+</div>
+
+
+<div class="item item-0307_comic_talk_cn_male">
+  <video poster="" id="0307_comic_talk_cn_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0307_comic_talk_cn_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is seated gracefully by the window, wearing a light purple Hanfu, speaking softly with both hands resting naturally on their knees. The camera remains fixed. In the background, branches of blooming plum blossoms extend into the frame, while a celadon porcelain vase and a blue-and-white porcelain jar sit beside the window, complementing each other beautifully. Warm light filters through the window lattice, creating a serene and elegant classical atmosphere. Occasionally, the character gently lifts their gaze, as if making eye contact with the camera, or slightly nods their head, exuding a calm and composed demeanor.</p>
+  </div>
+</div>
+
+
+<div class="item item-0337_comic_sing_en_female">
+  <video poster="" id="0337_comic_sing_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0337_comic_sing_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the scene happily holds a cute gift box in the snowy landscape, singing softly toward the camera as if gently humming a warm winter melody. Snowflakes gently fall in the background, with bare tree branches standing quietly, creating a cozy and healing atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0011_human_sing_en_male">
+  <video poster="" id="0011_human_sing_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0011_human_sing_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is singing while playing the guitar in his hands.</p>
+  </div>
+</div>
+
+
+<div class="item item-0428_human_sing_cn_female">
+  <video poster="" id="0428_human_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0428_human_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing, with a soft and blurred background. She softly hums a cheerful pop song, her eyes bright and full of emotion, as if sharing a beautiful moment with the audience. She wears pearl earrings and a pearl necklace, dressed elegantly and refined. The overall atmosphere is warm and dreamy, as if sitting by a sunlit window, conveying warmth and hope through her singing.</p>
+  </div>
+</div>
+
+
+<div class="item item-0085_human_talk_en_male">
+  <video poster="" id="0085_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0085_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is speaking directly to the camera, holding a yellow tape measure steadily with both hands, occasionally tapping or gesturing with the tape to emphasize his explanation. The camera remains fixed. The background features a busy construction site, with a high-rise building under construction, tower cranes, and a yellow excavator visible behind him. The scene is bathed in bright sunlight, creating a realistic and powerful atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0413_comic_sing_en_female">
+  <video poster="" id="0413_comic_sing_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0413_comic_sing_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing, her eyes softly shimmering and a faint smile playing on her lips, as if lost in the musical atmosphere. She is wearing a kimono adorned with delicate pink cherry blossom patterns, with a pink ribbon hair accessory in her hair. Sitting by the window under soft, warm light, she sways gently to the music, creating a serene and dreamy ambiance.</p>
+  </div>
+</div>
+
+
+<div class="item item-0143_human_talk_en_female">
+  <video poster="" id="0143_human_talk_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0143_human_talk_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is facing the camera and speaking, with both hands naturally placed in her jeans pockets. Occasionally, she gently shakes her curly hair. The camera remains stationary.</p>
+  </div>
+</div>
+
+
+<div class="item item-0118_human_talk_en_male">
+  <video poster="" id="0118_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0118_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is wearing a blue three-piece suit, paired with a white shirt and a red patterned tie. He is smiling, with his right hand in his pocket and his left hand lightly resting on his suit jacket. As he walks forward while speaking to the camera, the camera slowly pulls back, keeping him centered in the frame.</p>
+  </div>
+</div>
+
+
+<div class="item item-0191_human_talk_en_male">
+  <video poster="" id="0191_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0191_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image stands under an ancient stone colonnade, wearing an elaborate golden-embroidered ceremonial outfit with a deep red velvet shawl. His hands are clasped in front of him as he speaks directly to the camera. The camera remains stationary, while the warm golden sunlight and the weathered textures of the stone columns in the background create a rich, classical atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0269_comic_talk_cn_female">
+  <video poster="" id="0269_comic_talk_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0269_comic_talk_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is wearing an exquisite traditional bridal gown, adorned with an elaborate floral crown, speaking directly to the camera with hands gently clasped in front of the chest, exuding a graceful and elegant demeanor. The camera remains stationary, focusing on the character's delicate facial features and intricate costume details, creating a dreamy and beautiful atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0075_human_talk_cn_female">
+  <video poster="" id="0075_human_talk_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0075_human_talk_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is speaking directly to the camera, holding a bouquet of fresh flowers. Occasionally, she gently taps the bouquet with her fingers or slightly turns her head. The camera remains stationary.</p>
+  </div>
+</div>
+
+
+<div class="item item-0032_human_talk_en_male">
+  <video poster="" id="0032_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0032_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is speaking directly to the camera, with a fixed shot.</p>
+  </div>
+</div>
+
+
+<div class="item item-0475_human_sing_cn_female">
+  <video poster="" id="0475_human_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0475_human_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the scene is singing, wearing a pink satin headband, with soft eyes gazing forward. The background features a warm, softly lit indoor environment, creating a serene and dreamy atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0116_human_talk_en_female">
+  <video poster="" id="0116_human_talk_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0116_human_talk_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image stands in the center of an elegant hallway, speaking directly to the camera while slowly walking forward. The camera gradually pulls back, keeping her centered in the frame. She is wearing a sophisticated navy blue suit set, paired with a brown silk scarf and light-colored high heels, exuding calm confidence. The hallway features classical-style door frames and marble flooring on both sides, creating an atmosphere of refined elegance and grandeur.</p>
+  </div>
+</div>
+
+
+<div class="item item-0293_comic_talk_en_male">
+  <video poster="" id="0293_comic_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0293_comic_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> Pikachu sits inside a transparent spherical capsule, which rests on a Poké Ball-shaped base. It faces the camera directly, speaking with its hands naturally placed in front of its body, occasionally moving them gently to match the rhythm of its speech. The background features a colorful Pokémon-themed amusement park, with a Ferris wheel and pink buildings visible. The camera remains fixed, keeping Pikachu centered in the frame, creating a warm and adorable atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0205_human_talk_en_male">
+  <video poster="" id="0205_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0205_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is speaking directly to the camera, with a fixed shot.</p>
+  </div>
+</div>
+
+
+<div class="item item-0084_human_talk_en_male">
+  <video poster="" id="0084_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0084_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The boy stands in the center of the art studio, holding a palette in one hand and a paintbrush in the other, speaking directly to the camera. Occasionally, he lightly taps the palette with the brush or raises his hand slightly to gesture in sync with his speech. The camera remains fixed. He wears a paint-splattered apron and a beret. The background features a weathered wall and two easels, while the floor is scattered with paint stains, creating a rich and immersive artistic atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0152_human_talk_cn_female">
+  <video poster="" id="0152_human_talk_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0152_human_talk_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image stands on a sandy beach by the sea, holding a surfboard, walking forward while speaking to the camera. The camera slowly pulls back as she moves, keeping her centered in the frame. She wears a straw hat, a vibrant floral-print dress, and a shell necklace, with a natural and relaxed expression. The background features blue ocean waves and a clear sky.</p>
+  </div>
+</div>
+
+
+<div class="item item-0015_human_talk_cn_female">
+  <video poster="" id="0015_human_talk_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0015_human_talk_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is sitting at a desk, speaking directly to the camera, with her hands resting naturally on the tabletop. Occasionally, she gently lifts her fingers to make elegant gestures that match her speech. The camera remains fixed. Behind her, a bookshelf and a desk lamp create a warm and intellectual atmosphere. She wears a pearl necklace and earrings, and her expression is calm and confident.</p>
+  </div>
+</div>
+
+
+<div class="item item-0282_comic_talk_cn_male">
+  <video poster="" id="0282_comic_talk_cn_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0282_comic_talk_cn_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is speaking directly to the camera with a fixed shot. The character is an adorable Shiba Inu with large, round eyes, featuring a tri-color coat of black, white, and brown. Its ears are perked up, and it is looking attentively at the camera, as if interacting with the audience. The background is simple and minimal, emphasizing the character's cute and expressive demeanor.</p>
+  </div>
+</div>
+
+
+<div class="item item-0309_comic_talk_en_female">
+  <video poster="" id="0309_comic_talk_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0309_comic_talk_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is speaking directly to the camera, with a fixed shot.</p>
+  </div>
+</div>
+
+
+<div class="item item-0256_comic_talk_en_female">
+  <video poster="" id="0256_comic_talk_en_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0256_comic_talk_en_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is speaking directly to the camera, with a fixed shot. She wears a blue-and-yellow headscarf, a pearl earring, and warm-toned clothing. The background features vibrant, colorful graffiti-like lines, creating a lively yet retro artistic atmosphere. Her eyes are gentle, and her lips are slightly upturned, as if softly narrating a story about art and youth.</p>
+  </div>
+</div>
+
+
+<div class="item item-0247_human_talk_en_male">
+  <video poster="" id="0247_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0247_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image stands on the red carpet, wearing a striking pink cowboy outfit with a matching pink cowboy hat. His hands are naturally crossed in front of him as he speaks directly to the camera. The camera remains fixed. The background features the iconic black quilted wall of the Grammy Awards, creating an overall glamorous and vibrant atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0145_human_talk_en_male">
+  <video poster="" id="0145_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0145_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is speaking directly to the camera, holding dumbbells firmly in both hands, occasionally performing small, controlled strength demonstration movements that match his speech content. The camera remains fixed.</p>
+  </div>
+</div>
+
+
+<div class="item item-0131_human_talk_cn_female">
+  <video poster="" id="0131_human_talk_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0131_human_talk_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image is sitting at a wooden table in a café, holding a cup of coffee with both hands, speaking directly to the camera. Occasionally, she gently sways the coffee cup to match her speech. The camera remains stationary. She is wearing round-framed glasses, a gray fuzzy coat over a white turtleneck, with a natural and relaxed expression. The background features a warm-toned café setting with wooden tables and chairs, and blurred other customers.</p>
+  </div>
+</div>
+
+
+<div class="item item-0213_human_talk_en_male">
+  <video poster="" id="0213_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0213_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image stands in a kitchen, holding a metal spatula in one hand, speaking directly to the camera, occasionally tapping or gesturing with the spatula for emphasis. The camera remains fixed. The background features a professional kitchen environment, with visible stovetops, pots, and spice racks, creating an authentic cooking scene atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0479_comic_sing_cn_female">
+  <video poster="" id="0479_comic_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0479_comic_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing, wearing an elegant traditional-style dress with a gradient of blue and white. Her hair is styled in an elaborate updo adorned with blue flowers and gemstones. She gently raises her right hand, as if singing a melodious ancient-style tune. Her clear blue eyes gaze forward with a gentle and focused expression. Water droplets splash around her, while the background features hazy mountains, water, and bare branches, creating an ethereal and dreamlike atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0327_comic_sing_cn_female">
+  <video poster="" id="0327_comic_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0327_comic_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing while DJing, operating the DJ controller with both hands, wearing pink headphones, and focused on adjusting the music rhythm. The background features a vibrant electronic music scene filled with neon lights, creating an energetic nightclub atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0009_human_sing_en_male">
+  <video poster="" id="0009_human_sing_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0009_human_sing_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is singing while playing an electric guitar. He has long hair and a beard, wearing a black leather vest, with tattoos on his arms, and is deeply focused, immersed in the music. The stage lighting features warm yellow and red tones, with a blurred background showing the outline of a drum set, creating a lively and energetic live performance atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0335_comic_sing_cn_male">
+  <video poster="" id="0335_comic_sing_cn_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0335_comic_sing_cn_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The character in the image is singing in a recording studio, wearing professional headphones, with a microphone in front of him. He appears focused, and the background features recording equipment. The overall atmosphere is immersive and professional.</p>
+  </div>
+</div>
+
+
+<div class="item item-0169_human_talk_en_male">
+  <video poster="" id="0169_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0169_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The man in the image is speaking directly to the camera, holding a walkie-talkie steadily with both hands. Occasionally, he lightly taps the device with his fingers or slightly adjusts his grip to match the content of his speech. The camera remains fixed. He is wearing a police uniform with a badge and shoulder patches. The background features an urban street lined with tall buildings, creating a solemn and professional atmosphere.</p>
+  </div>
+</div>
+
+
+<div class="item item-0012_human_sing_cn_female">
+  <video poster="" id="0012_human_sing_cn_female" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0012_human_sing_cn_female.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The woman in the image stands on a grassland, singing while playing the musical instrument in her hands. She wears elaborate ethnic attire, adorned with an intricately decorated headdress, and her two braids fall gracefully over her shoulders. Her expression is focused and gentle. The background features a blue sky with white clouds and rolling green hills, with sunlight bathing her, creating a serene and poetic atmosphere. The instrument she holds is a beautifully crafted stringed instrument, with finely carved body and strings that shimmer in the sunlight. Her movements are graceful, as if she is conversing with nature through her song. The entire scene is rich in ethnic charm and artistic appeal.</p>
+  </div>
+</div>
+
+
+<div class="item item-0081_human_talk_en_male">
+  <video poster="" id="0081_human_talk_en_male" class="lazy-video" autoplay controls muted loop playsinline style="width:100%;height:auto;object-fit:contain;background:#000;border-radius:14px;">
+    <source data-src="./assets/Results_Soul/0081_human_talk_en_male.mp4" type="video/mp4">
+  </video>
+  <div class="video-caption">
+    <p><span class="target-label">Text prompt:</span> The elderly man in the image is speaking directly to the camera, holding a fishing rod naturally in his right hand, occasionally gently moving the rod to match his speech. The camera remains fixed. The background features a lush garden and a small stream, with soft sunlight and a peaceful, leisurely atmosphere.</p>
+  </div>
+</div>
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const carousel = document.getElementById('results-carousel');
+  const items   = Array.from(carousel.querySelectorAll('.item'));
+  const videos  = items.map(item => item.querySelector('.lazy-video'));
+
+  let currentIndex   = 0;
+  let autoPlayTimer  = null;
+  const SLIDE_INTERVAL = 8000;  // 每个视频显示时长（毫秒）
+
+  // 懒加载：首次需要时才把 data-src 写入 src
+  function ensureVideoLoaded(index) {
+    const realIndex = (index + videos.length) % videos.length;
+    const video = videos[realIndex];
+    if (!video) return;
+
+    const source = video.querySelector('source');
+    if (source && !source.src && source.dataset.src) {
+      source.src = source.dataset.src;
+      video.load();
+    }
+  }
+
+  // 预加载但不播放
+  function preloadVideo(index) {
+    ensureVideoLoaded(index);
+  }
+
+  // 如果你要全程静音，就不需要在这里取消静音
+  function pauseAllVideos() {
+    videos.forEach(v => {
+      if (!v) return;
+      v.pause();
+      v.muted = true;  // 保持静音
+    });
+  }
+
+  function playCurrent() {
+    const video = videos[currentIndex];
+    if (!video) return;
+
+    ensureVideoLoaded(currentIndex);
+
+    // 为保证自动播放成功，保持静音
+    video.muted = true;
+    video.play().catch(() => {
+      // 某些浏览器仍可能拦截，简单忽略错误即可
+    });
+  }
+
+  function goTo(index) {
+    currentIndex = (index + items.length) % items.length;
+
+    // 视觉切换，如果你用轮播库，请换成轮播库的 API
+    // items[currentIndex].scrollIntoView({
+    //   behavior: 'smooth',
+    //   inline:   'center',
+    //   block:    'nearest'
+    // });
+
+    pauseAllVideos();
+    playCurrent();
+    preloadVideo(currentIndex + 1);
+  }
+
+  function goNext() {
+    goTo(currentIndex + 1);
+  }
+
+  function startAutoPlay() {
+    stopAutoPlay();
+    autoPlayTimer = setInterval(goNext, SLIDE_INTERVAL);
+  }
+
+  function stopAutoPlay() {
+    if (autoPlayTimer) {
+      clearInterval(autoPlayTimer);
+      autoPlayTimer = null;
+    }
+  }
+
+  // 初始化：第 1 个视频静音自动播放，并预加载第 2 个
+  ensureVideoLoaded(0);
+  preloadVideo(1);
+
+  // 确保第一个 video 标签本身就有 muted 属性（防止有的浏览器在 play 前检查）
+  const firstVideo = videos[0];
+  if (firstVideo) {
+    firstVideo.muted = true;
+    firstVideo.setAttribute('muted', 'muted');
+  }
+
+  playCurrent();
+  startAutoPlay();
+
+  // 可选：鼠标移入暂停自动播放，移出恢复
+  carousel.addEventListener('mouseenter', stopAutoPlay);
+  carousel.addEventListener('mouseleave', startAutoPlay);
+
+  // 仅用于“预加载附近视频”，不再改变当前索引
+  if ('IntersectionObserver' in window) {
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const idx = items.indexOf(entry.target);
+          if (idx !== -1) {
+            preloadVideo(idx);
+            preloadVideo(idx + 1);
+          }
+        }
+      });
+    }, {
+      root: null,
+      threshold: 0.3
+    });
+
+    items.forEach(item => io.observe(item));
+  }
+});
+</script>
+
+
+
+
+
+
+
+
 <section class="hero is-light is-small">
   <div class="hero-body">
     <div class="container">
-      <h2 class="title is-3" id="leaderboard" style="text-align: center;">
+      <h2 class="title is-3" id="soul_bench" style="text-align: center;">
         <strong>Visualization</strong> of 
         <strong><span style="color:#b02418; font-weight:bold;">Soul-Bench</span></strong>
       </h2>
       <div id="results-carousel" class="carousel results-carousel">
-        
         
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
@@ -1672,6 +2361,70 @@
 </section>
 
 
+<script>
+  // 懒加载当前可见 item 的 audio
+const items = document.querySelectorAll('#results-carousel .item');
+
+function loadAudioForItem(item) {
+  const audio = item.querySelector('audio');
+  if (!audio) return;
+
+  const source = audio.querySelector('source');
+  if (!source) return;
+
+  // 如果已经有 src 就不重复加载
+  if (!source.src && source.dataset.src) {
+    source.src = source.dataset.src;
+    // 触发加载
+    audio.load();
+  }
+}
+
+function unloadAudioForItem(item) {
+  const audio = item.querySelector('audio');
+  if (!audio) return;
+
+  const source = audio.querySelector('source');
+  if (!source) return;
+
+  // 暂停并移除 src 释放资源
+  audio.pause();
+  if (source.src) {
+    source.removeAttribute('src');
+    audio.load(); // 让浏览器释放资源
+  }
+}
+
+const observer = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      const item = entry.target;
+      if (entry.isIntersecting) {
+        // 当前 item 进入视口
+        loadAudioForItem(item);
+      } else {
+        // 当前 item 离开视口
+        unloadAudioForItem(item);
+      }
+    });
+  },
+  {
+    root: null,         // 视口
+    threshold: 0.5      // item 有 50% 出现在视口里才认为是“可见”
+  }
+);
+
+items.forEach((item) => observer.observe(item));
+</script>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1680,9 +2433,9 @@
     <div class="columns is-centered">
       <div class="column">
         <div class="content has-text-centered">
-          <h2 class="title is-3" style="margin-top: 30px;">Comparison with SOTAs on <strong><span style="color:#efafa9; font-weight:bold;">Soul-Bench</span></strong><br>
+          <h2 class="title is-3" id="sota" style="margin-top: 30px;">Comparison with SOTAs on <strong><span style="color:#f49d95; font-weight:bold;">Soul-Bench</span></strong><br>
           <small>
-            <strong><span style="color:#efafa9; font-weight:bold;">Better to display in full screen for detailed comparison</span></strong>.
+            <strong><span style="color:#f49d95; font-weight:bold;">Better to display in full screen for detailed presentation</span></strong>.
           </small>
           </h2>
           

@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 45,
+    "nationality": "French",
+    "speaking_language": "English",
+    "hobbies": [
+        "cooking",
+        "gardening",
+        "reading culinary books"
+    ],
+    "personality": "disciplined, passionate, professional, calm under pressure",
+    "message": "In the kitchen, every dish is a story. I cook not just to feed, but to express. Precision, patience, and passion—these are my tools. I believe in the power of fresh ingredients and the art of simplicity. My goal is to create experiences that linger long after the last bite. Whether it’s a classic French bistro dish or a modern fusion, I pour my heart into every plate. To me, cooking is not just a job—it’s a lifelong journey of discovery and creation.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士站在厨房中，身穿白色厨师服，头戴厨师帽，双手持着炒锅和锅铲，锅内有少量食材，正对着镜头讲话，偶尔用锅铲轻点锅底做些动作匹配说话内容，镜头固定。背景可见烤箱、灶台等厨房设备，整体氛围专业而沉稳。",
+    "en_prompt": "The man in the image stands in a kitchen, wearing a white chef's uniform and a chef's hat. He holds a wok in one hand and a spatula in the other, with a small amount of food inside the wok. He speaks directly to the camera, occasionally tapping the bottom of the wok gently with the spatula to match his speech. The camera remains fixed. In the background, kitchen equipment such as ovens and stovetops are visible. The overall atmosphere is professional and composed.",
+    "main_character": "human"
+}

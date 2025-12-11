@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 17,
+    "nationality": "Thai",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading novels",
+        "taking photos",
+        "listening to music",
+        "studying English"
+    ],
+    "personality": "gentle, kind-hearted, optimistic, and curious about the world",
+    "message": "大家好，我是一名高中生，喜欢在校园里漫步，感受阳光和微风。我喜欢阅读和拍照，用镜头记录生活中的美好瞬间。虽然有时会感到压力，但我相信只要保持微笑，一切都会变得更好。希望每个人都能找到属于自己的光，勇敢追逐梦想。愿我们都能在平凡的日子里，活出不平凡的精彩。",
+    "source": "pexels",
+    "cn_prompt": "画面中的女孩穿着校服，扎着两条麻花辫，正对着镜头说话，双手自然交叠放在身前，镜头固定。",
+    "en_prompt": "The girl in the image is wearing a school uniform with two braided pigtails, speaking directly to the camera, her hands naturally crossed in front of her body, with a fixed camera shot.",
+    "main_character": "human"
+}

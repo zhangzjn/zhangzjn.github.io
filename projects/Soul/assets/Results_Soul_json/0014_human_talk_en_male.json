@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "fitness",
+        "traveling",
+        "reading"
+    ],
+    "personality": "confident, introspective, adventurous, and empathetic",
+    "message": "I believe in living authentically and chasing what sets your soul on fire. Life is too short to follow someone else’s path. I find peace in quiet moments—whether it’s capturing a sunrise through my lens or pushing my limits at the gym. I’m always learning, always growing. I value deep connections and meaningful conversations. If you’re open to exploring the world with curiosity and courage, I’d love to walk this journey with you. Let’s make every day count.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。他神情专注，目光直视镜头，偶尔微微点头，配合语言表达。他穿着深色外套，耳戴银色圆环耳钉，整体造型简约而有型。背景为纯净浅灰，突出人物主体。",
+    "en_prompt": "The man in the image is speaking directly to the camera with a fixed shot. He maintains a focused expression, looking straight into the lens, occasionally nodding slightly to accompany his speech. He is wearing a dark-colored jacket and silver hoop earrings, with an overall simple yet stylish appearance. The background is a clean, light gray, emphasizing the subject.",
+    "main_character": "human"
+}

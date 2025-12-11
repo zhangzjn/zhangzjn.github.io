@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "age": 2,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "sunbathing",
+        "playing with yarn",
+        "napping on soft chairs"
+    ],
+    "personality": "cute, curious, gentle, affectionate",
+    "message": "喵呜~大家好！我是小灰，一只爱撒娇的虎斑猫。我最喜欢在温暖的午后蜷缩在柔软的椅子上，眯着眼睛享受阳光。我的大眼睛总是充满好奇，喜欢观察窗外飞过的鸟儿和飘动的树叶。虽然我有点害羞，但只要有人轻轻抚摸我，我就会发出满足的呼噜声。希望每个人都能像我一样，找到属于自己的小幸福，每天开心快乐！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色是一只可爱的虎斑猫，正端坐在米色沙发上，对着镜头讲话，镜头固定。它有着大大的碧绿色眼睛和蓬松的白色胸毛，姿态乖巧，仿佛在温柔地与观众互动。背景简洁，突出猫咪的可爱形象，适合用于治愈系或萌宠类短视频内容。",
+    "en_prompt": "The character in the scene is an adorable tabby cat, sitting upright on a beige sofa, speaking directly to the camera with a fixed shot. It has large, emerald-green eyes and fluffy white chest fur, with a gentle and well-behaved posture, as if softly interacting with the audience. The background is minimalistic, emphasizing the cat's cute appearance, making it ideal for healing or cute pet-themed short video content.",
+    "main_character": "comic"
+}

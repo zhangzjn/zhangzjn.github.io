@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "exploring nature",
+        "listening to music",
+        "reading poetry"
+    ],
+    "personality": "introspective, independent, artistic, and emotionally expressive",
+    "message": "I find peace in the quiet moments—standing on a wooden bridge, surrounded by mist and bare branches, feeling the world slow down. I’m not running from anything; I’m just being. My thoughts wander like the fog, sometimes heavy, sometimes light. I love capturing beauty in the ordinary, in the gray skies and the subtle textures of life. I’m learning to embrace my emotions, to let them shape me. This moment? It’s mine. And I’m choosing to feel it fully.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在木制栏杆旁，一手轻搭在栏杆上，另一手自然垂放，对着镜头讲话。镜头固定，背景是朦胧的雾气与枯枝，营造出一种孤寂而优雅的氛围。",
+    "en_prompt": "The woman in the image stands beside a wooden railing, one hand gently resting on the railing while the other hangs naturally by her side, speaking directly to the camera. The camera remains stationary, with a background of hazy fog and bare branches, creating a solitary yet elegant atmosphere.",
+    "main_character": "human"
+}

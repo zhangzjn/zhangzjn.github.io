@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "flower arranging",
+        "interior design",
+        "painting",
+        "plant care"
+    ],
+    "personality": "creative, calm, kind, artistic, and detail-oriented",
+    "message": "I find peace in the colors and textures of flowers. Each bouquet tells a story, and I love bringing that beauty into people’s lives. My space is a reflection of my soul — calm, vibrant, and full of life. I believe in the power of small, beautiful things to make a big difference. Whether it’s arranging flowers or choosing the perfect plant, I pour my heart into every detail. Life is too short not to surround yourself with beauty. Let’s create something lovely together.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在室内，一手抱着一大束色彩柔和的鲜花，对着镜头讲话，姿态自然放松。她身后的空间布置温馨，有绿植、艺术画作和木质家具，整体氛围舒适有格调。镜头固定，人物保持静态，突出她与花束的互动和温柔气质。",
+    "en_prompt": "The woman in the image stands indoors, holding a large bouquet of softly colored flowers in one arm, speaking directly to the camera with a natural and relaxed posture. The space behind her is warmly decorated with green plants, artistic paintings, and wooden furniture, creating a cozy and stylish atmosphere. The camera remains stationary, keeping the subject static to emphasize her interaction with the bouquet and her gentle demeanor.",
+    "main_character": "human"
+}

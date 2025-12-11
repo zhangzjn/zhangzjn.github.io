@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 20,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "studying",
+        "exploring libraries",
+        "writing"
+    ],
+    "personality": "calm, intelligent, curious, introspective, kind",
+    "message": "在书页间，我找到了属于自己的宁静世界。每一本书都像一扇门，带我走进不同的时空与思想。我喜欢在图书馆的灯光下，细细品味文字的温度。读书不仅让我增长知识，更让我学会思考与共情。在这个快节奏的时代，我选择慢下来，用阅读滋养心灵。愿每个人都能在书中遇见更好的自己，找到内心的光。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，双手捧着一本打开的书，偶尔用手指轻点书页做些动作匹配说话的内容，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, holding an open book with both hands, occasionally using her fingers to lightly tap the pages to match the content of her speech. The camera remains stationary.",
+    "main_character": "human"
+}

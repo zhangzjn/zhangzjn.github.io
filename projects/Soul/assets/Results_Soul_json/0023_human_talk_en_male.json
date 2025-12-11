@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 52,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "reading",
+        "hiking",
+        "urban exploration"
+    ],
+    "personality": "thoughtful, introspective, observant, calm under pressure, deeply curious about human nature and city life",
+    "message": "Life moves fast, but I try to slow down and see the world through the lens of my camera and my mind. Every city has a soul, and I’m drawn to its quiet corners—the places where stories unfold without fanfare. I value honesty, depth, and connection. I don’t chase fame, but I do chase meaning. If you’re looking for answers, start by asking the right questions. And remember: even in the busiest places, there’s space for stillness. Be present. Be kind. Be curious.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

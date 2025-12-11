@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "fashion design",
+        "traveling",
+        "reading"
+    ],
+    "personality": "confident, elegant, creative, and kind-hearted",
+    "message": "每个人都是自己故事的主角，不必羡慕他人。我热爱用镜头捕捉生活中的美好瞬间，也享受在设计中表达自我。旅行让我看见世界的广阔，阅读让我内心更丰盈。我相信，真正的美来自内心的自信与善良。愿你也能勇敢做自己，拥抱属于你的光芒。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她佩戴着精致的玫瑰金耳环，妆容柔和自然，眼神专注而温柔，展现出优雅自信的气质。背景为简洁的摄影棚环境，柔和的灯光营造出温暖专业的氛围。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She is wearing elegant rose gold earrings, with soft and natural makeup, her gaze focused and gentle, exuding a graceful and confident demeanor. The background is a minimalist studio setting, with soft lighting creating a warm and professional atmosphere.",
+    "main_character": "human"
+}

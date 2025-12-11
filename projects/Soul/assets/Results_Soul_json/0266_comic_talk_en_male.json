@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 25,
+    "nationality": "African",
+    "speaking_language": "English",
+    "hobbies": [
+        "eating bananas",
+        "sitting on logs",
+        "thinking deeply",
+        "watching the sky"
+    ],
+    "personality": "curious, thoughtful, slightly mischievous, observant",
+    "message": "Hey there! I'm just a thoughtful monkey, sitting here on my favorite log, pondering life. Bananas are great, but sometimes I wonder what’s beyond the trees. I like to think, to observe, to question. Maybe you have a question too? Let’s share thoughts and bananas. Life is simple, but full of wonder. Don’t forget to look up at the sky — you never know what you might see. Stay curious!",
+    "source": "generated",
+    "cn_prompt": "画面中的角色坐在一根木头上，手托着头，正在说话，周围散落着几根香蕉。角色偶尔用手指轻敲额头或调整姿势，镜头固定，营造出一种悠闲又略带困惑的氛围。",
+    "en_prompt": "The character in the image is sitting on a log, resting their head in one hand, speaking aloud. Several bananas are scattered around. Occasionally, the character lightly taps their forehead with a finger or adjusts their posture. The camera remains fixed, creating a relaxed yet slightly puzzled atmosphere.",
+    "main_character": "comic"
+}

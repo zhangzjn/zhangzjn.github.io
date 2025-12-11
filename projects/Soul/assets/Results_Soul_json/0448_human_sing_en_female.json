@@ -1,0 +1,19 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "steampunk fashion design",
+        "cosplay",
+        "antique collecting",
+        "theater performances",
+        "photography"
+    ],
+    "personality": "confident, creative, mysterious, and passionate about alternative subcultures",
+    "message": "I am not just a woman in a costume—I am a storyteller of another world. My corset, my hat, my gears—they are not accessories, but extensions of my soul. I walk through this modern world with a heart full of Victorian dreams and brass-powered imagination. I believe beauty lies in the intricate, the unusual, the bold. If you see me, you’re not just seeing a costume—you’re seeing a rebellion against the ordinary. Let your spirit be as daring as your dreams. The future is not just mechanical—it’s magical.",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色身着华丽的蒸汽朋克风格服饰，头戴装饰繁复的礼帽，站在林荫小径上，眼神坚定地望向镜头，正在唱歌",
+    "en_prompt": "The character in the scene is dressed in elaborate steampunk attire, wearing an ornate top hat, standing on a tree-lined path, gazing confidently at the camera. She is singing.",
+    "main_character": "human"
+}

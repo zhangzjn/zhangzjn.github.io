@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "drawing",
+        "reading manga",
+        "listening to music",
+        "walking under cherry blossoms"
+    ],
+    "personality": "gentle, kind-hearted, introspective, and observant",
+    "message": "Spring is my favorite season. I love how the cherry blossoms paint the sky in soft pinks and how the breeze carries their delicate fragrance. I often sit under a sakura tree with my sketchbook, trying to capture the beauty of fleeting moments. Life is like these flowers—short but full of grace. I hope everyone can find peace in small things, like the warmth of sunlight or the sound of birds singing. Let’s cherish each day, even the quiet ones.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在盛开的樱花树下，一边对着镜头温柔讲话，一边轻轻撩动发丝，偶尔用手指轻点脸颊，镜头固定，背景粉嫩的樱花随风轻摇，营造出春日浪漫氛围。",
+    "en_prompt": "The character in the image stands under a blooming cherry blossom tree, gently speaking to the camera while lightly brushing her hair aside, occasionally touching her cheek with her finger. The camera remains fixed, with the soft pink cherry blossoms in the background swaying gently in the breeze, creating a romantic spring atmosphere.",
+    "main_character": "comic"
+}

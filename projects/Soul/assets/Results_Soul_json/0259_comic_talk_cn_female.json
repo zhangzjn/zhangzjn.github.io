@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 3,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "eating bamboo",
+        "napping",
+        "climbing trees",
+        "playing with toys"
+    ],
+    "personality": "cute, gentle, playful, curious",
+    "message": "大家好！我是大熊猫宝宝，来自美丽的中国四川。我最喜欢吃竹子，每天都要吃好多好多！我也喜欢在树上玩耍，和朋友们一起打滚。虽然我有时候懒懒的，但我知道自己很特别。希望你们喜欢我，也请保护我们的家园，让更多的熊猫宝宝能快乐地生活。谢谢你们的关爱！",
+    "source": "generated",
+    "cn_prompt": "画面中的熊猫玩偶趴在浅色地面上，前爪自然搭在身前，正在讲话，镜头固定。它圆润的黑白毛发蓬松柔软，大眼睛清澈无辜，嘴角微微上扬，仿佛在温柔地注视着镜头，营造出治愈可爱的氛围。背景简洁，突出主体，适合用于温馨、治愈类口播视频。",
+    "en_prompt": "The panda plush toy in the image is lying on a light-colored surface, with its front paws naturally resting in front of its body, speaking while the camera remains fixed. Its round black-and-white fur is fluffy and soft, with large, clear, innocent eyes and a slightly upturned mouth, as if gently gazing at the camera, creating a soothing and adorable atmosphere. The background is simple, emphasizing the main subject, making it ideal for warm and healing-style talking-head videos.",
+    "main_character": "comic"
+}

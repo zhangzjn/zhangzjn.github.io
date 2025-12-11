@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Vietnamese",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "gardening",
+        "traditional dress fashion",
+        "nature walks"
+    ],
+    "personality": "graceful, kind-hearted, artistic, and serene",
+    "message": "Hello! I’m a young woman who loves embracing the beauty of nature and tradition. Wearing my traditional áo dài, I feel connected to my roots and proud of my culture. I enjoy capturing moments through photography and spending quiet afternoons by the water. I believe in living mindfully, with kindness and grace. Life is a beautiful journey—let’s cherish every moment together.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正对着镜头说话，手轻握一个编织草包，包上点缀着一朵白色花朵。她身着粉色印花传统长裙，站在水边绿树环绕的宁静环境中，镜头固定，画面温柔恬静。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, gently holding a woven straw bag adorned with a white flower. She is wearing a pink floral traditional long dress, standing by the water in a serene environment surrounded by green trees. The camera remains stationary, capturing a gentle and peaceful scene.",
+    "main_character": "human"
+}

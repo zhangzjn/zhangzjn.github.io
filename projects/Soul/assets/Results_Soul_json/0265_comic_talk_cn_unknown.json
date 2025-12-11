@@ -1,0 +1,18 @@
+{
+    "gender": "unknown",
+    "age": 2,
+    "nationality": "Japan",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "playing with toys",
+        "chasing tails",
+        "sitting in sunny spots",
+        "sniffing flowers"
+    ],
+    "personality": "cheerful, friendly, playful, and affectionate",
+    "message": "大家好呀！我是一只可爱的小柴犬，最喜欢在阳光下打滚，和朋友们一起玩耍。我的舌头总是忍不住伸出来，因为我觉得世界太美好啦！无论你开心还是难过，我都会用温暖的拥抱陪伴你。汪汪！让我们一起度过快乐的每一天吧！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。这只可爱的柴犬表情开心，舌头微吐，显得活泼又亲切，适合用轻松愉快的语调进行互动或介绍。背景简洁，突出角色主体，适合用于萌系内容或宠物主题的口播视频。",
+    "en_prompt": "The character in the image is speaking directly to the camera with a fixed shot. This cute Shiba Inu has a cheerful expression, with its tongue slightly sticking out, appearing lively and friendly, suitable for interactive or introductory content delivered in a light and cheerful tone. The background is simple, emphasizing the character as the main focus, ideal for cute-style content or pet-themed talking videos.",
+    "main_character": "comic"
+}

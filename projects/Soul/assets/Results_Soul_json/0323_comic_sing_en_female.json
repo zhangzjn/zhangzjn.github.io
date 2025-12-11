@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 18,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "playing electric guitar",
+        "listening to rock and pop music",
+        "drawing anime characters",
+        "collecting butterflies"
+    ],
+    "personality": "cheerful, creative, passionate, gentle, and a bit shy when meeting new people",
+    "message": "大家好！我是绿发的小吉他手。音乐是我的生命，每次拨动琴弦，我都仿佛在和世界对话。我喜欢用音符表达心情，无论是快乐还是忧伤。虽然我有点害羞，但只要拿起吉他，我就充满勇气。希望我的音乐能带给你一丝温暖和力量。让我们一起在旋律中跳舞吧！蝴蝶也喜欢我的音乐呢～",
+    "source": "generated",
+    "cn_prompt": "画面中的角色一边唱歌一边弹奏手中的电吉他。",
+    "en_prompt": "The character in the image is singing while playing the electric guitar in her hands.",
+    "main_character": "comic"
+}

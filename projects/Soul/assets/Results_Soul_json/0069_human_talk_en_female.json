@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Pakistani",
+    "speaking_language": "English",
+    "hobbies": [
+        "fashion styling",
+        "photography",
+        "traveling",
+        "gardening"
+    ],
+    "personality": "confident, elegant, creative, and culturally proud",
+    "message": "I am proud to wear traditional attire with a modern twist, blending heritage with contemporary style. Fashion is my language, and I express myself through every outfit I choose. I love capturing moments through photography and exploring new places. My home is filled with greenery and art, reflecting my love for nature and beauty. I believe in embracing culture while staying true to oneself. Life is a journey of self-expression, and I cherish every step.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在室内，一边对着镜头讲话一边往前走，镜头随着人物的走动慢慢往后退，保持人物在画面中。她身着精致的印花长衫，搭配轻盈的披肩和白色长裤，脚踩闪亮凉鞋，双手自然交叠于身前。背景是温馨的家居环境，有藤编椅、绿植和装饰花瓶，营造出优雅舒适的氛围。",
+    "en_prompt": "The woman in the image stands indoors, speaking toward the camera while walking forward. The camera slowly pulls back as she moves, keeping her centered in the frame. She wears an elegant printed kurta, paired with a lightweight dupatta and white trousers, and sparkly sandals. Her hands are naturally clasped in front of her. The background features a cozy home setting with a rattan chair, green plants, and decorative vases, creating an elegant and comfortable atmosphere.",
+    "main_character": "human"
+}

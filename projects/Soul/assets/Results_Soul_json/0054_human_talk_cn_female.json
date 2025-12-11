@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 65,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "drinking hot tea",
+        "walking in nature",
+        "enjoying winter scenery",
+        "knitting"
+    ],
+    "personality": "warm-hearted, calm, resilient, and appreciative of simple joys in life",
+    "message": "冬天的雪，像一层柔软的棉被，盖在大地身上，也盖在我的心上。我最爱在这样的清晨，捧着保温杯，喝一口热茶，看着雪中的老屋和枯枝，心里就特别踏实。岁月虽已留下痕迹，但只要心中有暖，日子就永远不冷。愿你我都能在寒风中，守住那份属于自己的宁静与温暖。",
+    "source": "generated",
+    "cn_prompt": "画面中的老太太站在雪地里，双手捧着一个不锈钢保温杯，面带微笑看着镜头，镜头固定。背景是被白雪覆盖的树木和传统风格的房屋，营造出宁静温暖的冬日氛围。",
+    "en_prompt": "An elderly woman stands in the snow, holding a stainless steel thermos with both hands, smiling gently at the camera. The camera remains fixed. In the background, snow-covered trees and traditional-style houses create a serene and warm winter atmosphere.",
+    "main_character": "human"
+}

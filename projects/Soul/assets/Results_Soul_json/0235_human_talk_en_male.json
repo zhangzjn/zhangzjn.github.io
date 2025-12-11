@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 19,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "skateboarding",
+        "street art",
+        "fashion",
+        "music"
+    ],
+    "personality": "confident, expressive, creative, urban, bold",
+    "message": "I live for the streets — where art, music, and movement collide. My skateboard is my voice, my graffiti is my soul, and my style is my identity. I don’t follow trends; I create them. Every rip in my jeans, every gold chain, every bold graphic — it’s all part of my story. I’m not just skating; I’m building a legacy. The wall behind me? That’s my canvas. The world might see chaos, but I see freedom. I’m unapologetically me, and that’s my power.",
+    "source": "generated",
+    "cn_prompt": "画面中的男孩站在色彩斑斓的涂鸦墙前，一手自然垂放，一手轻扶着滑板，镜头固定。他身穿潮流夹克与破洞牛仔裤，佩戴金链与棒球帽，神情自信地直视镜头，仿佛正向观众讲述街头文化的故事。滑板上绘有卡通图案，与背景涂鸦形成鲜明呼应，整体氛围充满青春活力与街头艺术气息。",
+    "en_prompt": "The boy in the image stands in front of a vibrant graffiti-covered wall, one hand relaxed at his side and the other gently holding a skateboard, with a fixed camera angle. He wears a trendy jacket and ripped jeans, accessorized with a gold chain and a baseball cap, confidently looking directly into the camera as if narrating the story of street culture to the audience. The skateboard features a cartoon design, echoing the background graffiti, creating a striking visual harmony. The overall atmosphere is full of youthful energy and urban artistry.",
+    "main_character": "human"
+}

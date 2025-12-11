@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 30,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "fashion photography",
+        "traveling",
+        "yoga",
+        "reading contemporary literature"
+    ],
+    "personality": "confident, poised, independent, and artistic",
+    "message": "I believe in embracing your true self with confidence and grace. Fashion is not just about clothes—it’s about expression, empowerment, and telling your story. I live for moments that feel authentic, whether it’s walking down a runway or simply standing in front of a blank wall, owning my presence. Life is too short to hide. Be bold, be beautiful, and never stop believing in your own power. Let your style reflect your soul.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在简约的白色背景前，身穿米白色西装外套，下身无裤装，搭配黑色高跟鞋，一手轻抚衣襟，姿态优雅。她正对着镜头讲话，镜头固定。",
+    "en_prompt": "The woman in the image stands against a minimalist white background, wearing a beige blazer with no pants underneath, paired with black high heels. She gently touches the front of her blazer with one hand, posing elegantly. She is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

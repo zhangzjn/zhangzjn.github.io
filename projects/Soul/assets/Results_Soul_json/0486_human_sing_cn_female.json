@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 68,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "walking in parks",
+        "reading classic literature",
+        "gardening",
+        "wearing elegant clothing"
+    ],
+    "personality": "graceful, calm, thoughtful, and warm-hearted",
+    "message": "秋日的阳光洒在金黄的银杏叶上，我撑着蕾丝伞，漫步在林荫小道。岁月如歌，我依然热爱生活中的每一处细节——一件柔软的毛衣，一条飘逸的长裙，还有脚下铺满落叶的小径。优雅不是年轻时的专属，而是历经时光沉淀后的从容。愿每一个清晨，你都能像我一样，带着微笑迎接新的一天，珍惜当下，温柔待己。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色在秋日公园中缓缓行走，手持透明蕾丝伞，身着温柔的浅紫色针织套装，脚下是铺满金黄落叶的小径。她唱着歌，歌声与落叶的沙沙声交织，营造出宁静而诗意的氛围。背景是金黄的银杏树与柔和的暖光，整个画面如一首视觉诗篇，温柔而治愈。",
+    "en_prompt": "The character in the scene walks slowly through an autumn park, holding a transparent lace umbrella, dressed in a gentle light purple knitted outfit. Beneath her feet lies a path covered with golden fallen leaves. She sings, creating a tranquil and poetic atmosphere. In the background, golden ginkgo trees bathe in soft warm light. The entire scene resembles a visual poem—gentle and healing.",
+    "main_character": "human"
+}

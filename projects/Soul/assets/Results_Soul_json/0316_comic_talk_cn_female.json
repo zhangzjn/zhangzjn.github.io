@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 20,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "gardening",
+        "painting",
+        "reading",
+        "taking care of plants"
+    ],
+    "personality": "gentle, optimistic, creative, and nature-loving",
+    "message": "你好呀！我最喜欢在阳光明媚的午后坐在花园里，和我的花草们说说话。每一片叶子、每一朵花都像在和我分享它们的故事。种花让我感到平静，也让我学会耐心和细心。我常想，生活就像这些植物，需要用心浇灌，才能开出最美的花。希望你也能找到属于自己的那片小花园，种下希望，静待花开。愿你每天都像今天一样，被温柔的绿意和清新的花香包围。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色坐在竹凳上，手握一朵白色花朵，对着镜头讲话，镜头固定。角色面带微笑，偶尔轻轻摆动手中花朵，与观众互动，营造出轻松自然的氛围。",
+    "en_prompt": "The character in the scene is sitting on a bamboo stool, holding a white flower in hand, speaking directly to the camera with a fixed shot. The character smiles gently, occasionally lightly swaying the flower in hand, interacting with the audience to create a relaxed and natural atmosphere.",
+    "main_character": "comic"
+}

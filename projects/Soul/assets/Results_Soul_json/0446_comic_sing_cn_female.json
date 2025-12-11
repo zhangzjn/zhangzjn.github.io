@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional embroidery",
+        "classical dance",
+        "reading ancient poetry",
+        "flower arrangement"
+    ],
+    "personality": "gentle, elegant, kind-hearted, and deeply connected to cultural heritage",
+    "message": "我是一位热爱传统文化的少女，喜欢在月光下绣花，听古筝的旋律。我向往宁静与美好，愿用双手传承祖先的智慧。每一片花瓣、每一针一线，都承载着我对生活的敬意。我愿与你分享东方的诗意与温柔，让这份美好如春风般拂过心田。愿世界多一份宁静，多一份对美的珍视。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在吟唱，身着华美的古风婚服，头戴繁花珠翠，眼眸清澈如星，双手轻抚衣襟，仿佛在诉说一段温柔的诗词。背景朦胧如梦，光影柔和，营造出仙气缭绕的古典意境，歌声婉转悠扬，如花间清露，沁人心脾。",
+    "en_prompt": "The character in the image is singing, adorned in an exquisite traditional wedding attire, with a headdress embellished with flowers and jewels. Her eyes are clear and star-like, and her hands gently caress the front of her robe, as if reciting a tender poem. The background is hazy and dreamlike, with soft lighting creating an ethereal, classical atmosphere. Her voice is melodic and lingering, like clear dew among flowers, refreshing and soothing to the soul.",
+    "main_character": "comic"
+}

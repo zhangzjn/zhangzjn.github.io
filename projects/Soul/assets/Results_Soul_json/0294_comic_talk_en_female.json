@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 8,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "knitting",
+        "reading picture books",
+        "drawing cute characters",
+        "playing with dolls"
+    ],
+    "personality": "shy, kind-hearted, imaginative, and gentle",
+    "message": "Hello, I'm a little girl. Every day, I chat with my doll and draw pictures. My hair is blue, and I wear a white hat. I like pink ribbons, and I always try to have a gentle smile. Do you cherish your dreams, just like me? Let's create a wonderful story together.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。她头戴白色蕾丝边帽子，深蓝色短发柔顺垂落，大大的蓝色眼睛清澈明亮，脸颊微红，神情略带忧郁。她身穿白色衬衫搭配粉色蕾丝围裙，衣着精致可爱。背景是浅色条纹墙面，整体氛围温柔静谧。角色保持静止，仿佛在娓娓诉说一个温柔的故事。",
+    "en_prompt": "The character in the image is speaking directly to the camera, with a fixed shot. She wears a white lace-trimmed hat, with smooth, dark blue short hair falling gently. Her large, bright blue eyes are clear and expressive, with slightly blushing cheeks and a gentle, slightly melancholic expression. She is dressed in a white shirt paired with a pink lace apron, giving her a delicate and adorable appearance. The background features a light-colored striped wall, creating an overall soft and serene atmosphere. The character remains still, as if softly narrating a tender story.",
+    "main_character": "comic"
+}

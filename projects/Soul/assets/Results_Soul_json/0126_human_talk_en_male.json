@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 42,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "classic cars",
+        "outdoor activities",
+        "watch collecting"
+    ],
+    "personality": "confident, calm, introspective, and passionate about vintage automobiles",
+    "message": "I’ve always believed that a car is more than just metal and engine—it’s a story, a piece of history, a reflection of who you are. This classic ride? It’s been with me through long road trips, quiet mornings, and moments of reflection. I love the way the sun hits the chrome, the sound of the engine, the feel of the steering wheel in my hands. It’s not just a hobby; it’s a connection to the past and a reminder to live with purpose. Life’s too short to drive in the fast lane without meaning. I’m just a man who appreciates the journey.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士正倚靠在一辆蓝色经典汽车旁，一边对着镜头讲话，一边用右手自然搭在车门上，镜头固定。",
+    "en_prompt": "The man in the image is leaning against a blue classic car, speaking toward the camera while naturally resting his right hand on the car door. The camera remains stationary.",
+    "main_character": "human"
+}

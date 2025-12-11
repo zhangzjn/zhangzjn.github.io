@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 52,
+    "nationality": "British",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading classic literature",
+        "collecting antique pocket watches",
+        "writing historical essays",
+        "visiting old libraries"
+    ],
+    "personality": "intelligent, thoughtful, kind-hearted, and deeply passionate about knowledge and history",
+    "message": "In the quiet corners of old libraries, I find not just books, but stories that shape our understanding of the world. Each page turned is a journey through time, and each pocket watch I collect reminds me of the precious moments we must cherish. Knowledge is not just power—it’s connection. It connects us to the past, to each other, and to the future we are writing. Let us never stop seeking wisdom, for it is the light that guides us through uncertainty.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，他戴着金丝眼镜，胸前挂着一枚复古怀表，偶尔轻抬手调整眼镜或轻触怀表链，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera. He is wearing gold-rimmed glasses and has a vintage pocket watch hanging from his chest. Occasionally, he slightly raises his hand to adjust his glasses or gently touches the watch chain. The camera remains fixed.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 48,
+    "nationality": "German",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading philosophy",
+        "hiking in the mountains",
+        "playing classical guitar",
+        "visiting art museums"
+    ],
+    "personality": "thoughtful, introspective, calm, and observant with a quiet sense of humor and deep empathy for others.",
+    "message": "Life is not about waiting for the storm to pass, but learning to dance in the rain. I’ve spent years seeking meaning in quiet moments — a book under a tree, a melody on the guitar, a conversation with a stranger. These small things anchor me. I believe in listening more than speaking, in patience over haste, and in kindness as a quiet revolution. We’re all navigating our own storms. Be gentle with yourself. And if you ever feel lost, remember: even the smallest light can guide you home.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

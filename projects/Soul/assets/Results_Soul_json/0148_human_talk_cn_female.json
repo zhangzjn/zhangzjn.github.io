@@ -1,0 +1,19 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese music",
+        "calligraphy",
+        "gardening",
+        "tea ceremony",
+        "wearing cheongsams"
+    ],
+    "personality": "graceful, composed, culturally refined, warm-hearted, and deeply connected to her heritage",
+    "message": "在这古色古香的庭院中，我感受到岁月的静美与文化的传承。红色旗袍不仅是一件衣裳，更是我对中华传统之美的敬意。手中的折扇轻摇，仿佛在诉说千年的故事。我热爱书法、茶艺与园艺，它们让我内心宁静。愿更多人能欣赏这份东方韵味，让古典之美在现代生活中继续绽放光彩。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在中式庭院中，身着红色旗袍，手持一把绘有花卉图案的折扇，优雅地对着镜头讲话。她偶尔用扇子轻点或微调姿势，配合说话内容，镜头固定。背景是古色古香的建筑与盛开的粉色花树，阳光透过枝叶洒在石板路上，氛围宁静典雅。她佩戴着绿色耳坠和玉镯，神情温婉从容。",
+    "en_prompt": "The woman in the image stands in a traditional Chinese courtyard, wearing a red qipao and holding a folding fan adorned with floral patterns. She speaks gracefully to the camera, occasionally gently tapping or adjusting her posture with the fan to match her speech. The camera remains fixed. The background features classic ancient architecture and blooming pink flowering trees, with sunlight filtering through the leaves and casting dappled light on the stone pathway, creating a serene and elegant atmosphere. She wears green earrings and a jade bracelet, her expression calm, gentle, and composed.",
+    "main_character": "human"
+}

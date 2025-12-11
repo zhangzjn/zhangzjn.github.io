@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading technology books",
+        "coding in his free time",
+        "playing guitar",
+        "hiking on weekends"
+    ],
+    "personality": "confident, intelligent, detail-oriented, and calm under pressure",
+    "message": "I believe in the power of continuous learning and innovation. Every challenge is an opportunity to grow, and every project is a chance to create something meaningful. I value collaboration, clear communication, and integrity in everything I do. Whether I'm working on a complex algorithm or enjoying a quiet hike, I strive to stay focused and present. My goal is not just to succeed, but to inspire others to do the same. Let’s build the future, one step at a time.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，双臂交叉于胸前，偶尔轻微调整手势以匹配说话内容，镜头固定。",
+    "en_prompt": "The man in the frame is speaking directly to the camera, with his arms crossed over his chest, occasionally making slight hand gestures to match his speech. The camera remains fixed.",
+    "main_character": "human"
+}

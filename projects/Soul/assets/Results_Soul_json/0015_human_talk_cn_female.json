@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "writing",
+        "jewelry collecting",
+        "cozy home decoration"
+    ],
+    "personality": "warm, gentle, thoughtful, and wise with a calm and composed demeanor",
+    "message": "岁月静好，愿我们都能在忙碌的生活中，找到属于自己的那份宁静与从容。书页翻动的声音，台灯下温暖的光，都是生活给予的温柔馈赠。不必追逐喧嚣，内心的丰盈才是真正的富足。愿你我都能在时光中沉淀智慧，在平凡中感受美好，以温柔之心拥抱每一天。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正坐在书桌前对着镜头讲话，双手自然放在桌面上，偶尔轻抬手指做些优雅的手势匹配说话内容，镜头固定。她身后的书架和台灯营造出温馨知性的氛围，她佩戴珍珠项链和耳环，神情从容自信。",
+    "en_prompt": "The woman in the image is sitting at a desk, speaking directly to the camera, with her hands resting naturally on the tabletop. Occasionally, she gently lifts her fingers to make elegant gestures that match her speech. The camera remains fixed. Behind her, a bookshelf and a desk lamp create a warm and intellectual atmosphere. She wears a pearl necklace and earrings, and her expression is calm and confident.",
+    "main_character": "human"
+}

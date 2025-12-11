@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "voice acting",
+        "recording music",
+        "listening to podcasts",
+        "playing video games"
+    ],
+    "personality": "calm, focused, creative, and expressive",
+    "message": "你好，我是小宇，一个热爱声音艺术的年轻创作者。每天在录音室里，我用声音讲述故事，传递情感。无论是为动画配音，还是录制自己的音乐，我都希望用最真挚的声音打动每一个听众。声音是我的语言，也是我的世界。如果你也喜欢听故事、感受声音的魅力，欢迎来到我的频道，我们一起探索声音的无限可能。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正对着麦克风演唱，戴着专业耳机，神情专注，背景为录音棚设备，营造沉浸式音乐录制氛围。",
+    "en_prompt": "The character in the image is singing directly into a microphone, wearing professional headphones, with a focused expression. The background features recording studio equipment, creating an immersive music recording atmosphere.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "reading",
+        "traveling",
+        "wearing elegant jewelry"
+    ],
+    "personality": "gentle, optimistic, kind-hearted, and graceful",
+    "message": "你好呀！我是一个热爱生活、喜欢用镜头记录美好瞬间的女孩。无论是清晨的阳光，还是街角的一朵小花，都让我感到温暖和幸福。我享受阅读带来的宁静，也喜欢在旅途中遇见不同的人和故事。珍珠是我最爱的饰品，它象征着纯净与优雅，就像我希望自己成为的样子——温柔而坚定。愿你每天都能发现生活中的小确幸，保持微笑，拥抱美好。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，镜头固定。她面带微笑，神情温柔，佩戴珍珠耳钉和项链，身穿轻盈蕾丝上衣，整体氛围清新优雅。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She is smiling gently, exuding a warm and soft expression. She is wearing pearl stud earrings and a pearl necklace, dressed in a delicate lace top. The overall atmosphere is fresh and elegant.",
+    "main_character": "human"
+}

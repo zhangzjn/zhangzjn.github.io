@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 42,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "gardening",
+        "photography",
+        "reading"
+    ],
+    "personality": "friendly, calm, thoughtful, and approachable",
+    "message": "大家好！我是李明，一个热爱生活、喜欢在花园里静心的人。每当看到这些盛开的三角梅，我都会感到无比的宁静与喜悦。我享受用镜头记录下每一个美好的瞬间，也喜欢在闲暇时读一本好书，让心灵沉淀。生活不在于追逐，而在于感受。希望每个人都能在忙碌中找到属于自己的小确幸，像这些花朵一样，绽放出属于自己的色彩。愿我们都能心怀阳光，温暖前行。",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色正在唱歌，他双臂交叉站立，背景是盛开的粉红色花朵和木质栅栏，他似乎正在轻声哼唱或准备开嗓，营造出一种宁静而愉悦的氛围。",
+    "en_prompt": "The character in the image is singing, he stands with arms crossed, against a backdrop of blooming pink flowers and a wooden fence. He appears to be softly humming or preparing to sing, creating a calm and pleasant atmosphere.",
+    "main_character": "human"
+}

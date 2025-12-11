@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading philosophy books",
+        "urban photography",
+        "hiking in national parks",
+        "playing chess"
+    ],
+    "personality": "thoughtful, observant, calm, and introspective with a quiet confidence",
+    "message": "I believe in the quiet power of presence—of truly seeing the world around us, not just with our eyes, but with our minds and hearts. I find peace in the stillness between thoughts, in the way light hits a city street at dusk, or the silence after a long hike. I don’t rush to speak; I listen first. I read to understand, not to impress. I value depth over speed, connection over distraction. Life is not about how fast we move, but how deeply we feel. That’s what I’m searching for—authentic moments, real conversations, and the courage to be still.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

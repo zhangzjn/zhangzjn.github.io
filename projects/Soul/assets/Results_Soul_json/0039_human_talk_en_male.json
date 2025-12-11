@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "fashion photography",
+        "wearing bold outfits",
+        "exploring nature",
+        "artistic expression"
+    ],
+    "personality": "confident, introspective, creative, and expressive",
+    "message": "Standing in this golden field, I feel both grounded and free. My afro is my crown, my suit is my armor, and this moment is mine. I don’t follow trends—I create them. Fashion is not just clothes; it’s identity, resistance, and beauty. I choose to be seen, to challenge norms, and to embrace my truth. This black panel beside me? It’s a mirror. It reflects not just my shadow, but the silence we break when we dare to stand out. I am here. I am bold. I am unapologetically me.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士站在一片金黄的麦田中，身穿米色西装外套，内搭裸露，头发蓬松卷曲，神情沉静地直视镜头。他正对着镜头讲话。镜头固定，背景是辽阔的田野与阴云密布的天空，左侧立着一块黑色方形板。画面整体氛围宁静、有力量感，适合用于时尚或艺术类口播视频。",
+    "en_prompt": "A man stands in a golden wheat field, wearing a beige suit jacket with no shirt underneath, his hair voluminous and curly, gazing calmly and directly at the camera. He is speaking to the camera. The shot is static, with a vast field and overcast sky in the background, and a black square panel standing on the left side. The overall atmosphere is serene and powerful, ideal for fashion or artistic vlog-style videos.",
+    "main_character": "human"
+}

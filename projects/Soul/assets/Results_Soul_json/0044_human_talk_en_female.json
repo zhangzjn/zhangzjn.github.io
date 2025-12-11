@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 24,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "exploring urban areas",
+        "listening to indie rock music",
+        "wearing vintage-inspired fashion"
+    ],
+    "personality": "confident, introspective, artistic, and independent",
+    "message": "I find beauty in the raw, unpolished corners of the city—concrete walls, metal railings, and quiet staircases. My style is a blend of rebellion and elegance, a reflection of who I am: someone who embraces individuality. I don’t follow trends; I create my own. I love capturing moments through my lens, especially those that tell stories of solitude and strength. Life is too short to blend in. Stay true, stay bold, and never be afraid to stand out.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正靠在水泥台阶上，双手自然搭在两侧，镜头固定。她身穿黑色皮夹克和皮裙，内搭白色针织上衣，目光直视镜头，神情沉静。背景是斑驳的水泥墙，整体氛围冷峻而时尚。",
+    "en_prompt": "The woman in the image is leaning against a concrete staircase, with her hands resting naturally on either side. The camera remains stationary. She is wearing a black leather jacket and a leather skirt, with a white knitted top underneath. Her gaze is directed straight at the camera, her expression calm and composed. The background features a weathered concrete wall, creating an overall atmosphere that is cool and stylish.",
+    "main_character": "human"
+}

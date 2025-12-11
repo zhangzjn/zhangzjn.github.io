@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 5,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing in the park",
+        "eating berries",
+        "exploring new places",
+        "making friends"
+    ],
+    "personality": "cheerful, curious, friendly, energetic",
+    "message": "Hello everyone! I’m Pikachu, and I’m so happy to be here at the funfair today! The Ferris wheel is spinning, the sky is blue, and there are so many colorful flowers around. I love to explore and make new friends. I just had a yummy snack and I’m ready for more adventures! If you see me, give me a big smile — I’ll give you a little electric zap of joy! Let’s have a wonderful day together, full of laughter and fun!",
+    "source": "generated",
+    "cn_prompt": "画面中的皮卡丘坐在一个透明球形舱内，舱体置于宝可梦球造型的底座上，它正对着镜头讲话，双手自然放在身前，偶尔轻轻摆动以配合讲话节奏。背景是色彩缤纷的宝可梦主题乐园，有摩天轮和粉色建筑，镜头固定，保持皮卡丘在画面中央，营造出温馨可爱的氛围。",
+    "en_prompt": "Pikachu sits inside a transparent spherical capsule, which rests on a Poké Ball-shaped base. It faces the camera directly, speaking with its hands naturally placed in front of its body, occasionally moving them gently to match the rhythm of its speech. The background features a colorful Pokémon-themed amusement park, with a Ferris wheel and pink buildings visible. The camera remains fixed, keeping Pikachu centered in the frame, creating a warm and adorable atmosphere.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "fitness",
+        "yoga",
+        "healthy cooking",
+        "traveling"
+    ],
+    "personality": "confident, disciplined, positive, and goal-oriented",
+    "message": "健身不仅塑造了我的身体，更磨炼了我的意志。每天坚持训练，让我学会了自律与坚持。我相信，只要努力，就没有达不到的目标。健康的生活方式让我充满活力，也让我更爱自己。希望每一个正在努力的你，都能在汗水与坚持中找到属于自己的光芒。加油，你比想象中更强大！",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在健身房内对着镜头讲话，双手各持一个哑铃，偶尔配合说话内容做出轻微的握举动作，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera inside a gym, holding a dumbbell in each hand. She occasionally makes slight lifting motions with the dumbbells to accompany her speech. The camera remains stationary throughout.",
+    "main_character": "human"
+}

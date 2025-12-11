@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "Nigerian",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "attending weddings",
+        "dancing",
+        "reading inspirational books"
+    ],
+    "personality": "confident, cheerful, socially outgoing, and deeply appreciative of life’s special moments",
+    "message": "Today is a beautiful day filled with joy, love, and celebration. I’m honored to be part of this special occasion, dressed in my finest, ready to share in the happiness of the couple. Life is too short to not celebrate love, and I’m here to embrace every moment with a smile. May this day be the beginning of a lifetime of happiness, laughter, and unforgettable memories. Let’s dance, laugh, and cherish every second together!",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，一边微笑着调整领结，右手自然垂下，左手拿着白色西装外套轻搭在肩上，外套上别着一朵白色胸花，镜头固定。",
+    "en_prompt": "The man in the frame is speaking directly to the camera, smiling while adjusting his bow tie with one hand. His right hand hangs naturally by his side, while his left hand holds a white suit jacket draped over his shoulder. A white boutonniere is pinned to the jacket. The camera remains stationary.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 55,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese embroidery",
+        "calligraphy",
+        "tea ceremony",
+        "classical Chinese music"
+    ],
+    "personality": "graceful, wise, warm-hearted, and deeply connected to cultural heritage",
+    "message": "在这条古色古香的巷子里，红灯笼映照着岁月的温柔。我穿着祖母传下的旗袍，手捧一方红布包，仿佛握住了家的温度。每一针绣花，每一声琴音，都是对传统的敬意。我愿将这份宁静与美好传递给年轻一代，让中华文化如这灯笼般，永远温暖明亮。愿你我心中都有一盏不灭的灯，照亮前路，也照亮彼此。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在古色古香的灯笼街巷中，一边对着镜头讲话，一边轻轻整理手中红色绣花布包，镜头固定。她身着精致的黑色刺绣旗袍，佩戴翡翠项链和玉镯，神情温婉从容，背景是暖黄色灯笼与青砖古巷，营造出浓厚的中式传统氛围。",
+    "en_prompt": "The woman in the scene stands in an ancient alley adorned with traditional lanterns, speaking gently toward the camera while lightly adjusting the red embroidered cloth pouch in her hands. The camera remains fixed. She wears an elegant black embroidered qipao, accessorized with a jade necklace and jade bracelets, exuding a graceful and composed demeanor. The background features warm yellow lanterns and gray brick alleys, creating a richly atmospheric traditional Chinese setting.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "Brazilian",
+    "speaking_language": "English",
+    "hobbies": [
+        "traveling",
+        "photography",
+        "hiking",
+        "exploring cities"
+    ],
+    "personality": "outgoing, adventurous, friendly, optimistic",
+    "message": "Life is an adventure waiting to be explored. I love traveling to new places, capturing moments through my lens, and meeting people from different cultures. The mountains, the sea, and the city lights—they all inspire me. I believe in living in the moment and embracing every experience with a smile. Whether I'm hiking a trail or wandering through a bustling street, I’m always looking for beauty and connection. Let’s make memories that last a lifetime.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士戴着墨镜，面带微笑，靠在白色矮墙上，左手自然搭在墙沿，右手放在膝盖上，一边对着镜头讲话，一边轻松地摆动身体，镜头固定。背景是连绵的青山、城市与海湾，阳光明媚，氛围惬意。",
+    "en_prompt": "The man in the image is wearing sunglasses and smiling, leaning against a white low wall. His left hand rests naturally on the edge of the wall, while his right hand is placed on his knee. He speaks to the camera while casually swaying his body. The camera remains fixed. In the background, there are continuous green mountains, a cityscape, and a bay, under bright sunshine, creating a relaxed and pleasant atmosphere.",
+    "main_character": "human"
+}

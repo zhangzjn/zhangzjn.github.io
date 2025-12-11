@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 48,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading",
+        "photography",
+        "hiking",
+        "playing guitar"
+    ],
+    "personality": "calm, thoughtful, kind, and curious",
+    "message": "Hello, I’m a man in my late 40s who finds joy in quiet moments—reading under a tree, capturing nature through my lens, or strumming a tune on my guitar. Life moves fast, but I try to stay present, to listen deeply, and to appreciate the small things. I believe in kindness, curiosity, and the power of connection. Whether it’s a conversation over coffee or a shared hike in the woods, I value genuine human moments. Let’s take time to breathe, to reflect, and to be kind to ourselves and others. That’s where true peace begins.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

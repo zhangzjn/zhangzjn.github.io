@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "reading",
+        "yoga",
+        "traveling"
+    ],
+    "personality": "calm, thoughtful, kind-hearted, and introspective",
+    "message": "我热爱生活中的每一个细节，无论是清晨的阳光，还是书页间的文字。摄影让我学会用镜头捕捉美好，瑜伽让我与内心对话。我相信，真正的美源于内心的平和与对世界的温柔。我愿以开放的心态拥抱每一天，也愿与你分享这份宁静与真诚。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她妆容精致，眼神专注，佩戴着简约的圆形耳环，神情自然从容，背景干净明亮，整体氛围温柔而专业。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She has精致 makeup, focused eyes, and is wearing simple round earrings. Her expression is natural and composed. The background is clean and bright, creating an overall gentle and professional atmosphere.",
+    "main_character": "human"
+}

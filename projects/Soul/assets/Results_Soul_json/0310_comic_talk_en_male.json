@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 16,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading",
+        "studying",
+        "botany",
+        "writing"
+    ],
+    "personality": "intelligent, curious, introverted, kind-hearted, thoughtful",
+    "message": "I find peace in the quiet corners of libraries, surrounded by books and greenery. Each page I turn feels like a journey into a new world. I love learning, not just facts, but the stories behind them. Sometimes, I write my thoughts in a journal, hoping to understand myself better. I may be shy, but I care deeply about people and nature. If you ever need someone to listen or share a book with, I’m here. Knowledge is a gift — let’s cherish it together.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正坐在书桌前讲话，双手轻放在摊开的书页上，镜头固定。背景是阳光洒满的木质书架与绿植，营造出宁静的书香氛围。角色佩戴眼镜，神情专注，仿佛沉浸在知识的世界里。",
+    "en_prompt": "The character in the image is sitting at a desk, speaking, with both hands gently resting on the open pages of a book. The camera remains fixed. The background features wooden bookshelves and green plants bathed in sunlight, creating a serene and scholarly atmosphere. The character wears glasses, with a focused expression, as if immersed in a world of knowledge.",
+    "main_character": "comic"
+}

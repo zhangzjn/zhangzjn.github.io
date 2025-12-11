@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Mexican",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "exploring urban streets",
+        "wearing bold fashion",
+        "traveling"
+    ],
+    "personality": "confident, stylish, adventurous, and expressive",
+    "message": "I live for the moment, for the colors, the light, and the stories hidden in every corner of the city. My style is my voice—bold, free, and unapologetically me. I carry my camera to capture the beauty in the ordinary, and I wear my clothes like armor and art. Life is too short to blend in. I’m here to stand out, to feel the sun on my skin, and to chase the next adventure. This is my world, and I’m loving every second of it.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正靠在蓝白相间的墙边，一手自然垂下轻握黑色铆钉包，另一手搭在短裤上，她正对着镜头讲话。镜头固定。",
+    "en_prompt": "The woman in the image is leaning against a blue and white wall, one hand naturally hanging down holding a black studded bag, while the other hand rests on her shorts. She is speaking directly to the camera. The camera remains stationary.",
+    "main_character": "human"
+}

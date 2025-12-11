@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 52,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading business journals",
+        "playing golf",
+        "collecting vintage watches"
+    ],
+    "personality": "confident, disciplined, professional, detail-oriented, and calm under pressure",
+    "message": "Success isn't about luck—it's about preparation, consistency, and integrity. Every decision I make is rooted in long-term vision, not short-term gain. I value precision, whether it's in my work or my personal life. I believe in leading by example, mentoring others, and staying committed to excellence. Challenges are not obstacles—they're opportunities to grow. Stay focused, stay ethical, and never underestimate the power of a well-planned strategy. That’s how you build lasting impact.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正站在明亮的办公室里，对着镜头讲话，他右手拿着一支笔，左手佩戴着一块银色手表，偶尔用笔做些动作匹配说话的内容，镜头固定。背景是落地窗和书架，窗外是城市建筑，室内有绿植和办公桌，整体氛围专业而沉稳。",
+    "en_prompt": "The man in the image is standing in a bright office, speaking directly to the camera. He holds a pen in his right hand and wears a silver watch on his left wrist, occasionally using the pen to gesture in sync with his speech. The camera remains fixed. The background features floor-to-ceiling windows and a bookshelf, with city buildings visible outside. Inside, there are green plants and a desk, creating an overall professional and composed atmosphere.",
+    "main_character": "human"
+}

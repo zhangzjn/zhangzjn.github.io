@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "reading",
+        "playing basketball",
+        "listening to music"
+    ],
+    "personality": "confident, introspective, calm, and passionate about self-expression",
+    "message": "I believe in the power of quiet strength and authenticity. Life isn’t about being loud—it’s about being true to yourself. I find peace in the small moments: a sunset, a good book, or a game of basketball with friends. I’m always learning, always growing. My journey is my own, and I walk it with purpose. I value honesty, creativity, and connection. If you’re out there searching for your path, remember: you’re not alone. Keep going. Your story matters.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

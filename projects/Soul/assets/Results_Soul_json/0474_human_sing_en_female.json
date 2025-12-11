@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Indian",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "exploring urban streets",
+        "listening to music",
+        "wearing vintage accessories"
+    ],
+    "personality": "confident, artistic, introspective, and independent",
+    "message": "I find beauty in the everyday—gritty streets, soft light, and quiet moments. My camera is my voice, capturing stories that words can't tell. I love walking through cities, discovering hidden corners and fleeting emotions. I wear my jewelry not for fashion, but for meaning—each piece tells a story. I’m not loud, but I’m present. I believe in authenticity, in being true to myself, even when the world tries to mold me. Life is a photo waiting to be taken—frame by frame, moment by moment.",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色正在唱歌，神情专注，手中轻握一台复古相机，仿佛在捕捉或回忆某个瞬间，背景是朦胧的街景与树影，整体氛围静谧而富有故事感。",
+    "en_prompt": "The character in the image is singingwith a focused expression, gently holding a vintage camera in her hands, as if capturing or reminiscing about a particular moment. The background features a blurred street scene with tree shadows, creating an overall serene and story-rich atmosphere.",
+    "main_character": "human"
+}

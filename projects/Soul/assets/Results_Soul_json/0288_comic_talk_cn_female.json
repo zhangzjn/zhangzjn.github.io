@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 6,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "holding a floral fan",
+        "wearing traditional Hanfu",
+        "admiring flowers",
+        "dancing in the garden"
+    ],
+    "personality": "sweet, gentle, curious, and full of joy",
+    "message": "大家好！我是小花仙，住在美丽的古园里。我最喜欢穿着漂亮的汉服，在花园中漫步，看粉红的花朵在风中轻轻摇曳。我手中的团扇上画着我最爱的花儿，每一片花瓣都像在对我微笑。我常常在阳光下跳舞，和蝴蝶一起嬉戏。希望你们也喜欢这温暖的春日，愿你们每天都像花儿一样绽放笑容，心里充满快乐与美好！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，双手轻握团扇，偶尔微转扇面或轻轻扬起，眼神温柔灵动，镜头固定。背景是古色古香的庭院，粉花点缀，暖阳洒落，营造出温婉典雅的氛围。",
+    "en_prompt": "The character in the image is speaking directly to the camera, gently holding a round fan with both hands, occasionally slightly turning the fan's surface or lifting it lightly. Her eyes are soft and expressive. The camera remains fixed. The background features a traditional Chinese courtyard adorned with pink blossoms, bathed in warm sunlight, creating a gentle and elegant atmosphere.",
+    "main_character": "comic"
+}

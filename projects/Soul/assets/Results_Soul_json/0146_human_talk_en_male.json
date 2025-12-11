@@ -1,0 +1,19 @@
+{
+    "gender": "male",
+    "age": 34,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "mountaineering",
+        "backpacking",
+        "photography",
+        "hiking",
+        "outdoor survival"
+    ],
+    "personality": "adventurous, determined, resilient, calm under pressure, environmentally conscious",
+    "message": "Standing atop this peak, surrounded by endless snow-capped mountains and clouds below, I feel both humbled and alive. Every step up was a challenge, but the view makes it all worth it. This journey taught me that perseverance and respect for nature are the true rewards. I carry the mountains in my heart, and I’m ready for the next climb. Adventure isn’t just about reaching the summit—it’s about the journey, the breath, the silence, and the moment you realize you’re part of something much bigger.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士站在雪山之巅，身着专业登山装备，双手握着登山杖，背景是壮丽的雪峰与云海。他正对着镜头讲话，偶尔配合内容做出手势，镜头固定。",
+    "en_prompt": "The man in the image stands atop a snowy mountain peak, wearing professional mountaineering gear, holding trekking poles in both hands. The background features majestic snow-capped peaks and a sea of clouds. He is speaking directly to the camera, occasionally gesturing to emphasize his points, with a fixed camera shot.",
+    "main_character": "human"
+}

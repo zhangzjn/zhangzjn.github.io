@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Dutch",
+    "speaking_language": "English",
+    "hobbies": [
+        "painting",
+        "reading classical literature",
+        "listening to baroque music"
+    ],
+    "personality": "gentle, curious, artistic, and thoughtful",
+    "message": "Hello! I’m the girl with the pearl earring, inspired by Vermeer’s masterpiece. I love exploring the world through art and music. Though I’m from the 17th century, I believe beauty and curiosity connect all times. I enjoy painting quiet moments and reading stories that spark imagination. I’m gentle and thoughtful, always looking for meaning in small details. I hope you find joy in the simple things too—like a soft light, a pearl’s glow, or a smile. Let’s share stories and dreams.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。角色面带微笑，头戴蓝黄相间的头巾，耳坠珍珠耳环，身着黄色外衣，整体形象可爱卡通，背景为纯黄色，氛围轻松温馨。",
+    "en_prompt": "The character in the image is speaking directly to the camera, with a fixed shot. The character is smiling, wearing a blue-and-yellow headscarf, a pearl earring, and a yellow outer garment. The overall appearance is cute and cartoonish. The background is solid yellow, creating a light and warm atmosphere.",
+    "main_character": "comic"
+}

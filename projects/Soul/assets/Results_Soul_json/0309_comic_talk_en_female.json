@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 2,
+    "nationality": "British",
+    "speaking_language": "English",
+    "hobbies": [
+        "napping in sunbeams",
+        "chasing toy mice",
+        "grooming herself",
+        "staring into space with big eyes"
+    ],
+    "personality": "cute, curious, calm, and slightly aloof",
+    "message": "Hello there! I’m Mimi, a fluffy British tabby with eyes like golden suns. I love lounging in the warm sunlight, watching birds from the window, and occasionally playing with my favorite feather toy. I may look serious, but I’m just deep in thought—probably about the best nap spot or the meaning of life. I’m gentle, affectionate, and enjoy quiet moments with my human. If you’re looking for a calm, cuddly companion, I’m your cat. Let’s share some quiet time together, maybe with a little purring and a lot of love.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。",
+    "en_prompt": "The character in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "comic"
+}

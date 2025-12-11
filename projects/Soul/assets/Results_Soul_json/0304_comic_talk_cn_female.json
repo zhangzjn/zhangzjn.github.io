@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "dancing",
+        "calligraphy",
+        "playing the guzheng",
+        "reading classical literature"
+    ],
+    "personality": "graceful, gentle, intelligent, and kind-hearted",
+    "message": "我是一个热爱传统文化的少女，喜欢在月光下弹奏古筝，也喜欢用毛笔书写心中的诗篇。我向往宁静的生活，也渴望用自己的方式传承中华之美。希望每个人都能在忙碌中停下脚步，感受古韵的温柔与智慧。愿我们都能心怀美好，如花般绽放于时光之中。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色身着华美古装，头戴精致发饰，正对着镜头讲话，双手轻握衣襟，姿态优雅。镜头固定，角色面向镜头，仿佛在温柔讲述一段古典故事，眼神清澈，神情恬静，背景暖光映衬，氛围静谧典雅。",
+    "en_prompt": "The character in the image is dressed in exquisite traditional attire, adorned with an elegant headdress, facing the camera and speaking, with hands gently holding the front of the garment, exuding graceful poise. The camera remains stationary, with the character facing forward, as if tenderly narrating a classical tale, eyes clear and expression serene. Warm lighting in the background enhances the tranquil and refined atmosphere.",
+    "main_character": "comic"
+}

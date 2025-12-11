@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 18,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "gardening",
+        "taking care of plants",
+        "reading botanical books",
+        "drawing plant sketches"
+    ],
+    "personality": "gentle, kind-hearted, curious, patient, and deeply connected to nature",
+    "message": "Hello! I love spending time with my plants in the greenhouse. Watching the tiny sprouts grow warms my heart. Every day brings a new discovery, and I'm always moved by the wonders of nature. You should try connecting with plants, too. I'm sure you'll be soothed by their quiet strength. Let's enjoy the world of green together!",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，双手轻托一盆小绿植，偶尔用手指轻抚叶片，眼神温柔注视镜头，镜头固定。",
+    "en_prompt": "The character in the image is speaking directly to the camera, gently holding a small potted green plant with both hands, occasionally using fingers to lightly touch the leaves, with a gentle gaze fixed on the camera. The camera remains stationary.",
+    "main_character": "comic"
+}

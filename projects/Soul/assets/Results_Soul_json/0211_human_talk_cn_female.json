@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 72,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "walking in parks",
+        "reading classic literature",
+        "knitting",
+        "gardening"
+    ],
+    "personality": "graceful, gentle, wise, and serene",
+    "message": "秋天的阳光温暖而柔和，像极了我年轻时的回忆。我爱这满地金黄的落叶，它们静静铺展，如同岁月的诗行。撑着这把蕾丝伞，我仿佛在时光中漫步，不疾不徐。人生如秋，虽有凋零，却也有收获的静美。愿你我都能在岁月中保持一颗温柔的心，从容面对每一段旅程。珍惜当下，感恩所有相遇，因为每一个平凡的日子，都值得被温柔以待。",
+    "source": "generated",
+    "cn_prompt": "画面中的老太太手持一把蕾丝花纹的白色雨伞，站在铺满金黄色落叶的林荫小道上，一边对着镜头温柔地讲话，一边轻轻摆动手中的伞，偶尔用另一只手自然地轻抚裙摆，镜头固定，背景是温暖的秋日阳光透过金黄树叶洒下，营造出宁静优雅的氛围。",
+    "en_prompt": "An elderly woman holds a white lace-patterned umbrella, standing on a tree-lined path covered with golden autumn leaves. She speaks gently toward the camera, lightly swaying the umbrella in her hand, occasionally using her other hand to naturally brush her skirt. The camera remains fixed, with the background showing warm autumn sunlight filtering through golden foliage, creating a serene and elegant atmosphere.",
+    "main_character": "human"
+}

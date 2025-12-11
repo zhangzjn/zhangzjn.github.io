@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "playing traditional musical instruments",
+        "dancing",
+        "wearing ethnic costumes",
+        "exploring nature"
+    ],
+    "personality": "graceful, passionate, artistic, and deeply connected to her cultural heritage",
+    "message": "草原的风拂过我的发梢，我手中的琵琶诉说着千年的故事。我是来自草原的女儿，血液里流淌着祖先的歌谣。我热爱用音乐传递情感，用舞蹈表达自由。每一片云，每一缕阳光，都是我灵感的源泉。我愿用我的艺术，让更多人感受这份纯真与美好。无论走到哪里，我的根永远扎在这片辽阔的绿野之上。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在草原上，一边唱歌一边弹奏手中的乐器。她身着华丽的民族服饰，头戴装饰繁复的头饰，双辫垂肩，神情专注而温柔。背景是蓝天白云与连绵的绿色山丘，阳光洒在她的身上，营造出宁静而充满诗意的氛围。她手中的乐器为一把精美的弹拨乐器，琴身雕刻细腻，琴弦在阳光下泛着光泽。她的动作优雅，仿佛在用歌声与自然对话，整个画面充满民族风情与艺术感染力。",
+    "en_prompt": "The woman in the image stands on a grassland, singing while playing the musical instrument in her hands. She wears elaborate ethnic attire, adorned with an intricately decorated headdress, and her two braids fall gracefully over her shoulders. Her expression is focused and gentle. The background features a blue sky with white clouds and rolling green hills, with sunlight bathing her, creating a serene and poetic atmosphere. The instrument she holds is a beautifully crafted stringed instrument, with finely carved body and strings that shimmer in the sunlight. Her movements are graceful, as if she is conversing with nature through her song. The entire scene is rich in ethnic charm and artistic appeal.",
+    "main_character": "human"
+}

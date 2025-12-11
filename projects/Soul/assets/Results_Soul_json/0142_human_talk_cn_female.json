@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "practicing calligraphy",
+        "attending cultural performances",
+        "gardening"
+    ],
+    "personality": "graceful, intelligent, warm-hearted, and deeply rooted in tradition with a modern sensibility",
+    "message": "岁月如歌，我始终相信，真正的美不在于青春的容颜，而在于内心的从容与智慧。我热爱阅读古籍，笔墨间感受千年文化的沉淀；我也喜欢在花园中静坐，看花开花落，体会生命的流转。生活不必匆忙，重要的是在每一个当下，保持对美的感知与对生活的热爱。愿我们都能在时光中优雅前行，不惧岁月，心怀温柔。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她神情温婉，佩戴着精致的水滴形耳环，身着黑色蕾丝上衣，背景温暖柔和，整体氛围优雅从容。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She has a gentle and graceful expression, wearing elegant teardrop-shaped earrings and a black lace top. The background is warm and soft, creating an overall sophisticated and composed atmosphere.",
+    "main_character": "human"
+}

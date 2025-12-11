@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "yoga",
+        "photography",
+        "listening to music"
+    ],
+    "personality": "gentle, thoughtful, calm, and optimistic",
+    "message": "你好，我是小雅。我热爱生活中的每一个细节，喜欢在清晨的阳光里读一本好书，或在傍晚的微风中练习瑜伽。我相信温柔的力量，也相信每个人都有属于自己的光芒。愿你每天都能发现生活中的美好，保持内心的平静与喜悦。无论遇到什么困难，都请记得微笑面对，因为温柔的人，终会被世界温柔以待。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她戴着粉色缎面发带，妆容精致，神情温柔，偶尔微微点头或轻抬下巴，配合说话内容，显得自然生动。背景柔和虚化，暖光营造出舒适氛围。",
+    "en_prompt": "The woman in the frame is speaking directly to the camera with a fixed shot. She is wearing a pink satin headband, has delicate makeup, and a gentle expression, occasionally nodding slightly or lifting her chin subtly to match her speech, appearing natural and lively. The background is softly blurred, with warm lighting creating a cozy atmosphere.",
+    "main_character": "human"
+}

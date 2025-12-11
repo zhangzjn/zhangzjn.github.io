@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Mexican",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "dancing",
+        "exploring urban cities",
+        "wearing bold fashion"
+    ],
+    "personality": "confident, expressive, adventurous, and artistic",
+    "message": "I live for the moment, where city lights meet my soul and every step I take tells a story. Fashion is my voice, and I wear it with pride. I dance through life, unafraid to be seen, to be heard. The streets are my runway, and I own every inch of it. I believe in beauty in motion, in confidence that radiates from within. I’m not just passing through—I’m creating memories, one bold look at a time. This is me: fearless, free, and full of fire.",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色站在城市街头，夕阳余晖洒在她身上，她眼神迷离，微微仰头，仿佛在深情吟唱。她身穿黑色抹胸上衣与高开叉的橙黄色长裙，佩戴着华丽的金色串珠耳环，长发随风飘扬，左手轻抚发丝，右手自然垂落，无名指上戴着一枚精致戒指。背景是模糊的高楼与车流，营造出都市黄昏的浪漫氛围。她正沉浸在音乐中，用歌声诉说故事，画面充满情绪张力与艺术感。",
+    "en_prompt": "The character in the scene stands on a city street, bathed in the golden glow of the setting sun. Her eyes are dreamy, head slightly tilted upward, as if passionately singing. She wears a black strapless crop top and a high-slit mustard-yellow long skirt, adorned with elegant golden beaded earrings. Her long hair flows freely in the breeze, her left hand gently touching her hair, while her right hand rests naturally by her side, featuring a delicate ring on her ring finger. The background features blurred skyscrapers and flowing traffic, creating a romantic urban twilight atmosphere. She is deeply immersed in music, telling a story through her song, with the scene filled with emotional intensity and artistic expression.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "playing traditional musical instruments",
+        "wearing ethnic costumes",
+        "singing folk songs",
+        "exploring grasslands"
+    ],
+    "personality": "graceful, artistic, proud of her cultural heritage, calm and introspective",
+    "message": "我来自广袤的草原，身着祖辈传承的银饰与绣花长裙，手持古老的乐器，唱着祖先的歌谣。每一道纹路，每一片银饰，都承载着民族的记忆与温度。我热爱这片土地，也热爱我的文化。音乐是我与天地对话的方式，它让我在风中听见自由，在云下感受宁静。愿更多人了解并珍视这份独特的美，让传统在新时代继续流淌、回响。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在广袤的草原上，身着华丽的传统服饰，头戴精致银饰头冠，手持一把装饰繁复的民族乐器，正对着镜头讲话，偶尔轻抚乐器或用手指轻点琴弦，配合表达内容，镜头固定。背景是蓝天白云与连绵的青山，阳光洒在她身上，营造出宁静而富有民族风情的氛围。",
+    "en_prompt": "The woman in the image stands on a vast grassland, wearing elaborate traditional attire and an intricately designed silver headdress. She holds a richly decorated ethnic musical instrument, facing the camera and speaking, occasionally gently touching the instrument or lightly tapping the strings to accompany her expression. The camera remains fixed. The background features a blue sky with white clouds and rolling green mountains. Sunlight bathes her, creating a serene and culturally rich atmosphere.",
+    "main_character": "human"
+}

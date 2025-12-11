@@ -1,0 +1,19 @@
+{
+    "gender": "male",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "singing",
+        "dancing",
+        "playing guitar",
+        "listening to music",
+        "drawing"
+    ],
+    "personality": "cheerful, kind-hearted, passionate, confident, and always eager to inspire others with his music",
+    "message": "大家好！我是小星，一个热爱音乐的少年。每当我拿起麦克风，就仿佛拥有了整个世界。音乐是我表达情感的方式，也是我与大家连接的桥梁。无论你此刻是开心还是难过，我都希望我的歌声能带给你温暖和力量。我会继续努力，用真诚和热情唱出属于我们的青春旋律。谢谢你一直陪伴我，未来我们一起闪耀！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，他身穿白色西装搭配粉色衬衫，手持麦克风，神情专注而温柔，仿佛沉浸在音乐的世界中。",
+    "en_prompt": "The character in the image is singing, wearing a white suit with a pink shirt, holding a microphone, with a focused and gentle expression, as if immersed in the world of music.",
+    "main_character": "comic"
+}

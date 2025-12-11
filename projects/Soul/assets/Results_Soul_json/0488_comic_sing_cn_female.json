@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 12,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "collecting cute figurines",
+        "drawing cartoon characters",
+        "listening to pop music",
+        "playing video games"
+    ],
+    "personality": "cheerful, imaginative, friendly, and a bit playful",
+    "message": "大家好呀！我是小蓝，一个爱幻想、爱打扮的小女孩！我喜欢收集各种可爱的小玩偶，也喜欢画自己的小故事。每天穿上最喜欢的黄色外套，感觉自己就是最闪亮的星星！虽然有时候会有点小迷糊，但我知道只要保持开心，就能把每一天都过得像彩虹一样绚烂！希望你们也像我一样，永远相信美好，永远保持童心！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，她戴着红白条纹的帽子，蓝色渐变双马尾，身穿黄色夹克和黑色短裤，脚踩粉色系带运动鞋，表情可爱专注，背景是明亮的橙色，整体氛围活泼欢快。",
+    "en_prompt": "The character in the image is singing, wearing a red-and-white striped hat, blue gradient pigtails, a yellow jacket, black shorts, and pink-laced sneakers. Her expression is cute and focused, set against a bright orange background. The overall atmosphere is lively and cheerful.",
+    "main_character": "comic"
+}

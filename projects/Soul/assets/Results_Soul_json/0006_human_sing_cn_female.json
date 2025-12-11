@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 18,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "playing traditional musical instruments",
+        "singing folk songs",
+        "embroidering traditional clothing",
+        "exploring nature"
+    ],
+    "personality": "graceful, gentle, passionate about her cultural heritage, introspective, and deeply connected to nature",
+    "message": "在这片辽阔的草原上，我用马头琴诉说祖先的故事，用歌声传递山风的低语。每一道刺绣花纹，都承载着民族的记忆；每一声琴弦颤动，都是对大地的深情告白。我愿做文化的守望者，让古老的声音在新时代继续回响。当云朵飘过山巅，我听见了自由的呼唤——那是属于我们民族的，永不消逝的歌谣。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在绿草如茵的草原上，背景是连绵的青山和蓝天白云，她身着色彩绚丽、绣有精美花纹的传统民族服饰，头戴羽毛装饰，神情专注。她右手轻抚琴弦，左手按弦，正在弹奏手中的马头琴，同时开口轻声歌唱，歌声仿佛与风和草原融为一体，展现出浓郁的民族风情与自然之美。",
+    "en_prompt": "The woman in the image stands on a lush green grassland, with rolling green mountains and a blue sky dotted with white clouds in the background. She wears vibrant, traditional ethnic attire adorned with intricate embroidery, and has feathers decorating her head. Her expression is focused and serene. With her right hand gently brushing the strings and her left hand pressing the strings, she plays the horsehead fiddle in her hands, while softly singing. Her voice seems to blend seamlessly with the wind and the grassland, evoking a rich ethnic charm and the beauty of nature.",
+    "main_character": "human"
+}

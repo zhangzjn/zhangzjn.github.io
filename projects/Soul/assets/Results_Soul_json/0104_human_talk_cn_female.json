@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 38,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "traveling to historical cities",
+        "wearing elegant clothing",
+        "enjoying quiet winter walks"
+    ],
+    "personality": "graceful, composed, introspective, and warm-hearted",
+    "message": "冬日的雪，像时光的静语，轻轻覆盖了城市的喧嚣。我站在街角，围巾裹住温暖，也裹住内心的从容。岁月从不辜负认真生活的人，每一步都踏在属于自己的节奏里。我喜欢在雪中漫步，看光影流转，听风低语。愿你我都能在纷繁世界中，守住一份宁静与优雅，像这围巾一样，温暖自己，也照亮他人。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，双臂自然交叉于胸前，偶尔配合语气轻轻调整手部姿势，镜头固定。她身着米色大衣，围着鲜红色围巾，佩戴金色耳饰和腕表，神情从容自信，背景是冬日雪景街道，氛围温暖而优雅。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with her arms naturally crossed over her chest, occasionally adjusting her hand gestures subtly to match her tone. The camera remains fixed. She is wearing a beige coat, a vibrant red scarf, gold earrings, and a wristwatch. Her expression is calm and confident. The background features a snowy winter street scene, creating a warm and elegant atmosphere.",
+    "main_character": "human"
+}

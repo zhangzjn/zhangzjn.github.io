@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Thai",
+    "speaking_language": "English",
+    "hobbies": [
+        "flower arrangement",
+        "nature walks",
+        "photography",
+        "reading poetry"
+    ],
+    "personality": "gentle, kind-hearted, thoughtful, and artistic",
+    "message": "Hello! I’m a young woman who finds joy in simple things—like holding a bouquet of daisies on a sunny day. I love spending time in nature, capturing moments through my camera, and reading poetry that speaks to the soul. I believe beauty is all around us, especially in small, quiet moments. I hope my smile and the flowers I carry bring a little warmth and peace to your day. Let’s cherish the little things together.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女孩站在绿意盎然的户外小径上，一边对着镜头温柔微笑讲话，一边自然地抱着一束白色雏菊，偶尔轻轻晃动手中的花束以配合语境，镜头固定。",
+    "en_prompt": "The girl in the image stands on a lush green outdoor path, gently smiling and speaking toward the camera while naturally holding a bouquet of white daisies. She occasionally softly sways the bouquet in her hands to match the context of her speech. The camera remains fixed.",
+    "main_character": "human"
+}

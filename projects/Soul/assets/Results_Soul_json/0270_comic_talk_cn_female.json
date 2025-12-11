@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 10,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "dancing",
+        "holding fans",
+        "wearing traditional costumes",
+        "visiting ancient temples"
+    ],
+    "personality": "sweet, gentle, curious, and full of joy",
+    "message": "大家好呀！我是来自古老京城的小公主，穿着漂亮的汉服，头戴花冠，手持红扇，最喜欢在古色古香的庭院里跳舞了！每次看到飞檐翘角的屋檐，我都会想象自己在画中游走。我爱传统文化，也爱交朋友，希望和你们一起分享快乐，一起感受中华文化的美丽与温暖。来吧，让我们一起欢笑，一起跳舞，把幸福传递给每一个人！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色身着华丽的中式古装，头戴繁复精致的花冠，手持一把红色折扇，正对着镜头讲话。她偶尔轻轻摆动手中的折扇，配合说话内容做出优雅的手势。镜头固定，聚焦于角色的面部与上半身，背景是古色古香的中式庭院建筑，营造出典雅庄重的氛围。",
+    "en_prompt": "The character in the image is dressed in an elaborate traditional Chinese costume, wearing an intricately designed floral headdress, and holding a red folding fan. She is speaking directly to the camera, occasionally gently waving the fan and making elegant hand gestures to complement her speech. The camera remains fixed, focusing on the character’s face and upper body. The background features classical Chinese courtyard architecture, creating an elegant and dignified atmosphere.",
+    "main_character": "comic"
+}

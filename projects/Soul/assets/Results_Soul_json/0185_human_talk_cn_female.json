@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 24,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "drinking coffee",
+        "photography",
+        "traveling"
+    ],
+    "personality": "gentle, thoughtful, calm, and observant",
+    "message": "在咖啡的香气中，我找到了内心的宁静。每杯咖啡都像一段故事，温暖而细腻。我喜欢在安静的角落，用相机记录下生活的瞬间，也喜欢在书页间寻找心灵的共鸣。旅行让我看到世界的广阔，也让我更懂得珍惜当下的每一刻。愿你也能在忙碌中，找到属于自己的那份从容与美好。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双手稳稳捧着一杯带有拉花的咖啡，偶尔轻轻晃动杯子以配合说话内容，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, holding a cup of coffee with latte art steadily with both hands, occasionally gently shaking the cup to accompany her speech. The camera remains fixed.",
+    "main_character": "human"
+}

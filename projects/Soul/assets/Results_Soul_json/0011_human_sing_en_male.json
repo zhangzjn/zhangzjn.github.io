@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 30,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing acoustic guitar",
+        "singing",
+        "writing music",
+        "recording in home studio"
+    ],
+    "personality": "passionate, introspective, creative, and emotionally expressive",
+    "message": "Music is my soul’s language. When I strum the guitar and sing into the microphone, I’m not just performing—I’m sharing pieces of my heart. Every note carries a story, a memory, or a feeling too deep for words. I find peace in the simplicity of a single chord and power in the raw honesty of a song. This space, with its quiet walls and soft light, is where I become most myself. I hope my music touches someone, reminds them they’re not alone, and inspires them to create their own sound. Keep playing, keep singing, keep being brave.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在唱歌，一边弹奏手中的吉他。",
+    "en_prompt": "The man in the image is singing while playing the guitar in his hands.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "reading",
+        "gardening",
+        "listening to music"
+    ],
+    "personality": "gentle, thoughtful, calm, and observant",
+    "message": "在花丛中呼吸新鲜空气，感受自然的温柔，是我最享受的时刻。我喜欢用镜头记录下每一朵花绽放的瞬间，也喜欢在书页间寻找心灵的宁静。生活不必太匆忙，慢下来，才能发现美好。希望每个人都能在平凡的日子里，找到属于自己的小确幸。愿你我都能温柔地对待这个世界，也温柔地对待自己。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，镜头固定。她身穿白色上衣，佩戴着精致的花朵耳饰和项链，背景是柔和的花园，粉色与黄色的花朵点缀其间，营造出清新自然的氛围。她的神情温柔，目光直视镜头，仿佛在与观众进行亲切的交流。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She is wearing a white top, adorned with delicate floral earrings and a matching necklace. The background features a soft garden setting, with pink and yellow flowers scattered throughout, creating a fresh and natural atmosphere. Her expression is gentle, and she maintains eye contact with the camera, as if engaging in a warm and intimate conversation with the audience.",
+    "main_character": "human"
+}

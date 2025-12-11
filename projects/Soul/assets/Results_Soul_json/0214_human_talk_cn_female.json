@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "calligraphy",
+        "jewelry design",
+        "traveling"
+    ],
+    "personality": "confident, elegant, intelligent, and detail-oriented",
+    "message": "我始终相信，真正的优雅源于内心的坚定与对细节的执着。无论是书写一份重要文件，还是设计一条独特的项链，我都倾注全部专注与热情。工作是我表达自我的方式，而生活则是我不断探索的旅程。我热爱阅读，从中汲取智慧；也喜欢旅行，感受世界的多元。在快节奏的都市中，我选择保持从容，用笔尖记录思考，用珍珠点缀生活。愿我们都能在平凡中活出不凡。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，右手优雅地持着一支金属钢笔，偶尔轻点笔尖或微微调整握姿以匹配说话内容，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, elegantly holding a metallic fountain pen in her right hand, occasionally tapping the pen tip or slightly adjusting her grip to match the content of her speech. The camera remains fixed.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "shopping",
+        "fashion",
+        "traveling",
+        "photography"
+    ],
+    "personality": "confident, stylish, outgoing, and adventurous",
+    "message": "Life is too short to wear boring clothes. I believe in living boldly, embracing every moment with confidence and grace. Whether I’m strolling by a fountain at night or exploring a new city, I carry my style and spirit with me. Fashion isn’t just about looking good—it’s about feeling empowered. I love discovering new trends, supporting local brands, and capturing memories through my lens. Here’s to chasing dreams, making memories, and always staying true to who you are.",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色站在喷泉前，身着白色露肩短裙，手提购物袋，正在唱歌。",
+    "en_prompt": "The character in the scene stands in front of a fountain, wearing a white off-the-shoulder mini dress, holding a shopping bag, singing.",
+    "main_character": "human"
+}

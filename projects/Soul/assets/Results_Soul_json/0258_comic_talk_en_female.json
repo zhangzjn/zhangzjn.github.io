@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 17,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading manga",
+        "playing the piano",
+        "taking long walks in the park",
+        "studying astronomy"
+    ],
+    "personality": "kind, intelligent, calm, and observant with a gentle smile that makes people feel at ease",
+    "message": "Hello! I'm someone who finds beauty in quiet moments — the way sunlight filters through leaves, or how stars twinkle in the night sky. I love learning new things and sharing them with others. Though I may seem reserved at first, I truly care about those around me. I believe in kindness, patience, and the power of small, meaningful gestures. If you ever need a listening ear or a calm presence, I’m here. Let’s discover the world together, one peaceful moment at a time.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，镜头固定。她身着深色西装搭配蓝色领带，紫色高马尾在灯光下泛着柔和光泽，眼神清澈明亮，嘴角带着温和的微笑，整体氛围安静而自信。",
+    "en_prompt": "The character in the image is speaking directly to the camera, with a fixed shot. She is wearing a dark suit with a blue tie, her high purple ponytail glowing softly under the light. Her eyes are clear and bright, and she has a gentle smile on her lips. The overall atmosphere is calm and confident.",
+    "main_character": "comic"
+}

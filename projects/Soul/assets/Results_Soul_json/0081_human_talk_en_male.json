@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 62,
+    "nationality": "British",
+    "speaking_language": "English",
+    "hobbies": [
+        "fishing",
+        "gardening",
+        "reading",
+        "walking in nature"
+    ],
+    "personality": "calm, thoughtful, kind-hearted, patient, and enjoys simple pleasures in life",
+    "message": "There’s a quiet joy in standing by the water with a fishing rod in hand, watching the ripples and listening to the birds. Life doesn’t need to be rushed—sometimes, the best moments come when you slow down and appreciate the stillness. I’ve spent years tending my garden, fishing by the stream, and reading under the willow tree. These small routines ground me. I believe in kindness, patience, and finding peace in the ordinary. May you too find your own quiet corner of calm.",
+    "source": "generated",
+    "cn_prompt": "画面中的老爷爷正对着镜头讲话，右手自然握着一根钓鱼竿，偶尔轻轻晃动竿身以匹配说话内容，镜头固定。背景是绿意盎然的花园和小溪，阳光柔和，氛围宁静悠闲。",
+    "en_prompt": "The elderly man in the image is speaking directly to the camera, holding a fishing rod naturally in his right hand, occasionally gently moving the rod to match his speech. The camera remains fixed. The background features a lush garden and a small stream, with soft sunlight and a peaceful, leisurely atmosphere.",
+    "main_character": "human"
+}

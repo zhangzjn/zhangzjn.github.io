@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 32,
+    "nationality": "Iranian",
+    "speaking_language": "English",
+    "hobbies": [
+        "fitness",
+        "photography",
+        "traveling",
+        "reading"
+    ],
+    "personality": "confident, thoughtful, calm, and detail-oriented",
+    "message": "I believe in living with purpose and intention. Every day is an opportunity to grow, learn, and connect with the world around us. I find peace in quiet moments and strength in movement—whether it’s lifting weights, capturing a sunset, or diving into a good book. I value authenticity and strive to be present in every interaction. Life is too short for regrets, so I choose to embrace challenges and cherish the journey. Let’s make every moment count.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，双手插在裤兜里，偶尔轻微调整姿势以匹配说话内容，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with both hands in his pockets, occasionally making slight posture adjustments to match the content of his speech. The camera remains fixed.",
+    "main_character": "human"
+}

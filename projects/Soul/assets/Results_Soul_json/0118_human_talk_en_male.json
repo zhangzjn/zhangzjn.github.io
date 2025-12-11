@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 30,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "golf",
+        "reading",
+        "attending charity events",
+        "mentoring young professionals"
+    ],
+    "personality": "confident, charismatic, professional, and approachable",
+    "message": "Hello everyone! I’m thrilled to be here, dressed sharp and ready to make a difference. Life is about confidence, purpose, and lifting others as we rise. Whether it’s in business, community, or personal growth, I believe in leading with integrity and a smile. Let’s chase our dreams, support one another, and build a future full of opportunity. Stay positive, stay driven, and never underestimate the power of a well-tailored suit and a kind heart. Let’s go!",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士穿着蓝色三件套西装，搭配白色衬衫和红色花纹领带，面带微笑，右手插在裤兜，左手轻搭在西装上。他一边对着镜头讲话一边往前走，镜头随着人物的走动慢慢往后退，保持人物在画面中。",
+    "en_prompt": "The man in the image is wearing a blue three-piece suit, paired with a white shirt and a red patterned tie. He is smiling, with his right hand in his pocket and his left hand lightly resting on his suit jacket. As he walks forward while speaking to the camera, the camera slowly pulls back, keeping him centered in the frame.",
+    "main_character": "human"
+}

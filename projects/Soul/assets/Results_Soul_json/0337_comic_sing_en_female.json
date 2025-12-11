@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "snowboarding",
+        "collecting cute stationery",
+        "reading manga",
+        "listening to J-pop"
+    ],
+    "personality": "cheerful, kind-hearted, slightly shy but expressive when excited, loves winter and small gifts",
+    "message": "啊，今天下雪了呢！我最喜欢在雪地里走走，感觉整个人都变得轻盈了。这个小礼物盒是朋友送给我的，上面还有可爱的笑脸，让我特别开心。虽然天气有点冷，但有围巾和兔耳朵帽子的保护，我一点也不怕！希望你也和我一样，能在冬天找到属于自己的小确幸。让我们一起享受这美丽的雪景吧！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色在雪景中开心地捧着一个可爱的礼物盒，对着镜头唱歌，仿佛正在轻声哼唱一首温暖的冬日小曲，背景雪花飘落，树枝静谧，营造出温馨治愈的氛围。",
+    "en_prompt": "The character in the scene happily holds a cute gift box in the snowy landscape, singing softly toward the camera as if gently humming a warm winter melody. Snowflakes gently fall in the background, with bare tree branches standing quietly, creating a cozy and healing atmosphere.",
+    "main_character": "comic"
+}

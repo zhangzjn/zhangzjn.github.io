@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "weightlifting",
+        "running",
+        "cooking healthy meals",
+        "reading self-improvement books"
+    ],
+    "personality": "confident, disciplined, introspective, and determined",
+    "message": "I believe in the power of consistency and hard work. Every day is a chance to become a better version of myself. Whether I'm in the gym, on the track, or in the kitchen, I focus on what I can control. I don't chase perfection, but I strive for progress. My journey is not about being the strongest or fastest, but about showing up, even when it's hard. I’m proud of my discipline and my resilience. I hope my story inspires others to stay committed to their goals, no matter how small the steps. Keep going. You’re stronger than you think.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

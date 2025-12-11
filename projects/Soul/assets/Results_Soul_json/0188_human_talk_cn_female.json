@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "photography",
+        "traveling",
+        "learning calligraphy"
+    ],
+    "personality": "gentle, thoughtful, optimistic, and artistic",
+    "message": "你好，我是来自中国的一位年轻女性。我热爱生活中的美好瞬间，喜欢用镜头记录下旅途中的风景，也享受在书页间寻找心灵的宁静。书法让我静心，阅读让我成长。我相信，温柔与坚持同样重要。愿你我都能在平凡的日子里，活出属于自己的诗意与光芒。愿世界温柔待你，也愿你温柔待世界。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她妆容精致，棕色卷发优雅盘起，佩戴金色小耳环，身穿白色蕾丝上衣，神情温柔专注，背景柔和温暖，营造出一种静谧而高级的氛围。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She has精致 makeup, elegant brown curly hair styled up, and wears small gold earrings. She is dressed in a white lace top, with a gentle and focused expression. The background is soft and warm, creating a serene and sophisticated atmosphere.",
+    "main_character": "human"
+}

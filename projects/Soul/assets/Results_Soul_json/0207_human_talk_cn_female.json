@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 24,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "flower arrangement",
+        "photography",
+        "reading poetry",
+        "listening to classical music"
+    ],
+    "personality": "gentle, artistic, introspective, and kind-hearted",
+    "message": "花开花落，岁月静好。每一片花瓣都藏着一个故事，每一缕芬芳都诉说着温柔。我喜欢在花丛中静坐，听风轻语，看光影流转。生活不必太喧嚣，简单而真挚的美，才是我心中的向往。愿你也能在忙碌中，找到属于自己的那一束光，像花一样，安静地绽放，温柔地活着。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，手中轻抚一束鲜花，偶尔用手指轻抚花瓣做些动作匹配说话的内容，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, gently holding a bouquet of fresh flowers in her hands. Occasionally, she lightly touches the petals with her fingers, making subtle gestures that match the content of her speech. The camera remains fixed in position.",
+    "main_character": "human"
+}

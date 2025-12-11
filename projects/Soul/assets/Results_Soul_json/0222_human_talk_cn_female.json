@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 24,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "painting",
+        "traveling",
+        "listening to music"
+    ],
+    "personality": "gentle, thoughtful, optimistic, and kind-hearted",
+    "message": "生活就像一幅画，每一笔都值得用心描绘。我热爱阅读，在字里行间寻找心灵的共鸣；喜欢用画笔记录下眼中的美好；也向往远方，相信每一次旅行都是对世界的温柔探索。音乐是我最忠实的伙伴，它总能抚平内心的波澜。愿我们都能在平凡中发现诗意，在忙碌中保持初心，温柔地对待自己，也温柔地对待这个世界。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她妆容精致，眼神温柔，佩戴着小巧的耳饰，神情自然放松，仿佛在与观众亲切交流。背景柔和，光线均匀，营造出一种宁静优雅的氛围。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She has elegant makeup, gentle eyes, and is wearing small earrings. Her expression is natural and relaxed, as if engaging in a warm conversation with the audience. The background is soft and the lighting is even, creating a serene and elegant atmosphere.",
+    "main_character": "human"
+}

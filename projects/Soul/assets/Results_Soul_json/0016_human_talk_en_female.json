@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Spanish",
+    "speaking_language": "English",
+    "hobbies": [
+        "traveling",
+        "fashion",
+        "photography",
+        "shopping"
+    ],
+    "personality": "confident, expressive, bold, adventurous",
+    "message": "Hey, look at me! I’m not just holding money—I’m holding my freedom. These euros? They’re my passport to new adventures, new cities, and new experiences. I’m not flashy, but I’m proud of what I’ve earned. I wear my sunglasses not to hide, but to stand out. Life’s too short to play it safe. I’m here to live boldly, to chase my dreams, and to enjoy every moment. If you’re waiting for the perfect time, don’t. Start now. Your future self will thank you.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，右手拿着一叠100欧元钞票，右手食指指向自己胸口，表情夸张，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, holding a stack of 100 Euro banknotes in her right hand, while pointing her right index finger toward her chest with an exaggerated expression. The camera remains stationary.",
+    "main_character": "human"
+}

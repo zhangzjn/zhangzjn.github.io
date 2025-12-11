@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 24,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading business books",
+        "playing basketball",
+        "learning new technologies"
+    ],
+    "personality": "confident, ambitious, detail-oriented, and goal-driven",
+    "message": "I believe in hard work and continuous growth. Every day is a new opportunity to learn, improve, and achieve more. I’m passionate about innovation and building a successful future. I value integrity, professionalism, and staying true to my goals. Whether it’s a challenging project or a new skill, I face it with determination. I’m not just building a career—I’m building a legacy. Stay focused, stay driven, and never stop believing in yourself.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，右手轻握领带，左手持着一个黑色文件夹，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, his right hand lightly gripping his tie, and his left hand holding a black folder. The camera remains stationary.",
+    "main_character": "human"
+}

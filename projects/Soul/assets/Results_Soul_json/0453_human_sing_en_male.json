@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 19,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "skateboarding",
+        "graffiti art",
+        "urban fashion",
+        "listening to hip-hop music"
+    ],
+    "personality": "confident, expressive, street-smart, creative, and passionate about urban culture",
+    "message": "I live for the streets—where art, music, and movement collide. My skateboard is my voice, my graffiti is my soul, and this city is my canvas. I don’t follow trends; I set them. Every scrape on my board, every spray of paint on the wall, tells a story of resilience and freedom. I’m not just skating—I’m building a legacy. The sun may set, but my energy never does. This is my world, and I’m owning it, one trick, one tag, one moment at a time.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在涂鸦墙前，手持滑板，随着夕阳的余晖，他正在演唱，歌声充满街头的自由与激情。他身着炫酷的皮夹克和潮流配饰，眼神坚定，仿佛在用音乐讲述自己的故事。背景的彩色涂鸦与温暖的晚霞交相辉映，营造出充满活力与艺术感的街头音乐氛围。",
+    "en_prompt": "The character in the image stands in front of a graffiti-covered wall, holding a skateboard. As the golden light of the setting sun bathes the scene, he is singing, his voice filled with the freedom and passion of the streets. Dressed in a stylish leather jacket and trendy accessories, his eyes are determined, as if telling his own story through music. The colorful graffiti in the background blends beautifully with the warm hues of the sunset, creating a vibrant and artistic atmosphere of street music.",
+    "main_character": "human"
+}

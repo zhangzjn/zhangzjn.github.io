@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 7,
+    "nationality": "unknown",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading books",
+        "learning new things",
+        "exploring forests",
+        "solving puzzles"
+    ],
+    "personality": "curious, intelligent, kind-hearted, and always eager to learn",
+    "message": "Hello! I'm a little fox who loves to read and discover new worlds through books. Every page I turn opens a door to adventure, wisdom, and imagination. I believe that knowledge is the greatest treasure, and I’m always excited to share what I learn with others. Whether it’s about nature, science, or stories from faraway lands, I’m here to inspire curiosity and joy in learning. Let’s read together and grow smarter, one book at a time!",
+    "source": "generated",
+    "cn_prompt": "画面中的小狐狸戴着圆框眼镜，双手捧着一本红色的书，对着镜头讲话，镜头固定。背景是温暖的黄色，营造出宁静温馨的氛围。小狐狸表情认真又可爱，仿佛沉浸在书本的世界里，偶尔抬头微笑，与观众分享阅读的快乐。",
+    "en_prompt": "The little fox in the image wears round glasses and holds a red book with both hands, speaking directly to the camera. The camera remains fixed. The background is a warm yellow, creating a calm and cozy atmosphere. The fox looks serious yet adorable, as if immersed in the world of the book, occasionally looking up with a smile to share the joy of reading with the audience.",
+    "main_character": "comic"
+}

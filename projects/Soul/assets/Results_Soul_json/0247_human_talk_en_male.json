@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 27,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "music production",
+        "fashion design",
+        "dancing",
+        "attending award shows"
+    ],
+    "personality": "confident, expressive, bold, creative, charismatic",
+    "message": "I’m here to celebrate the art of music and fashion! This pink cowboy suit? It’s not just a look — it’s a statement. I believe in being unapologetically yourself, no matter what the world says. Every stitch, every gold accent, every smile — it’s all about confidence and joy. I’m proud to represent boldness and creativity on this red carpet. To everyone chasing their dreams: wear your colors loud, stand tall, and never let fear dim your light. Let’s make the world brighter, one bold choice at a time.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士站在红毯上，身穿亮眼的粉色牛仔套装，头戴同色系牛仔帽，双手自然交叠于身前，正在对着镜头讲话，镜头固定。背景是格莱美奖标志性的黑色菱格墙，整体氛围华丽而充满活力。",
+    "en_prompt": "The man in the image stands on the red carpet, wearing a striking pink cowboy outfit with a matching pink cowboy hat. His hands are naturally crossed in front of him as he speaks directly to the camera. The camera remains fixed. The background features the iconic black quilted wall of the Grammy Awards, creating an overall glamorous and vibrant atmosphere.",
+    "main_character": "human"
+}

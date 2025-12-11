@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "drinking tea",
+        "wearing traditional clothing",
+        "gardening",
+        "calligraphy"
+    ],
+    "personality": "graceful, composed, warm-hearted, and deeply connected to tradition",
+    "message": "茶香袅袅，岁月静好。我喜爱穿旗袍，品一盏清茶，感受生活的细腻与宁静。在雕花窗棂前，竹影婆娑，仿佛时光也慢了下来。传统不是束缚，而是心灵的归处。我愿将这份温婉与从容，传递给每一个愿意静心体会生活之美的人。愿你我都能在喧嚣中，寻得一方内心的宁静。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正优雅地端着一杯茶，对着镜头微笑讲话，双手轻稳地捧着茶杯，偶尔微微调整姿势以配合语句表达，镜头固定。背景是古典中式窗棂与竹椅茶几，营造出温婉宁静的氛围。",
+    "en_prompt": "The woman in the image is elegantly holding a cup of tea, smiling and speaking directly to the camera. She gently and steadily cradles the teacup with both hands, occasionally making slight posture adjustments to match her speech. The camera remains fixed. The background features classical Chinese-style lattice windows, bamboo chairs, and a tea table, creating a warm, serene, and tranquil atmosphere.",
+    "main_character": "human"
+}

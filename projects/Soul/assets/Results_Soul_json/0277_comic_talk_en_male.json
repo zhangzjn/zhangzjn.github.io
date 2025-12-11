@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 18,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "baking bread",
+        "listening to jazz music",
+        "reading manga"
+    ],
+    "personality": "kind-hearted, cheerful, attentive to details, passionate about his craft",
+    "message": "大家好！我是这家面包店的学徒，每天最幸福的时刻就是看到新鲜出炉的面包被顾客们喜爱。我最喜欢用简单的食材做出温暖人心的味道。每一颗面包都承载着我的用心，希望它们能带给你一天的好心情。如果你喜欢，请一定要告诉我，我会继续努力，做出更多让你微笑的面包！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正微笑着端着一托刚出炉的面包，对着镜头讲话，双手稳稳托着托盘，偶尔轻轻晃动展示面包的诱人光泽，镜头固定。背景是阳光洒满的面包店，窗外绿意盎然，货架上陈列着各式面包，营造出温暖治愈的氛围。",
+    "en_prompt": "The character in the image is smiling while holding a tray of freshly baked bread, speaking directly to the camera. Both hands steadily support the tray, occasionally gently shaking it to showcase the bread's appealing shine. The camera remains fixed. The background features a sunlit bakery, with greenery visible outside the window and shelves displaying various types of bread, creating a warm and soothing atmosphere.",
+    "main_character": "comic"
+}

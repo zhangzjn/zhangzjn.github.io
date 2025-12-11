@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 30,
+    "nationality": "French",
+    "speaking_language": "English",
+    "hobbies": [
+        "cooking",
+        "experimenting with new recipes",
+        "gardening",
+        "reading culinary books"
+    ],
+    "personality": "dedicated, passionate, precise, calm under pressure",
+    "message": "Every dish I create is a story told through flavor and technique. I believe in the power of fresh ingredients and the art of precision. In the kitchen, I find peace and purpose. I’m not just cooking—I’m crafting experiences. Whether it’s a simple omelet or a complex soufflé, every element matters. I respect tradition but always seek innovation. My goal is to inspire others to appreciate the beauty of food. Cooking is my language, and I speak it with heart.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士站在专业厨房中，身穿白色厨师服和围裙，头戴高帽，双手稳稳地持着一个小煎锅和锅铲，正对着镜头讲话。镜头固定，背景是不锈钢灶台和烤箱，营造出专业而专注的烹饪氛围。",
+    "en_prompt": "The man in the image stands in a professional kitchen, wearing a white chef's coat and apron, with a tall toque on his head. He holds a small frying pan and a spatula steadily in both hands, speaking directly to the camera. The camera remains fixed, with a background of stainless steel stovetops and ovens, creating a professional and focused cooking atmosphere.",
+    "main_character": "human"
+}

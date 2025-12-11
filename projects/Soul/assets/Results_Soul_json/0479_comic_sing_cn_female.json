@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "dancing",
+        "painting",
+        "reading classical poetry",
+        "playing the guzheng"
+    ],
+    "personality": "graceful, gentle, intelligent, and kind-hearted",
+    "message": "我生于山水之间，心随云卷云舒。蓝衣如海，花影随风，我愿以舞为言，以诗为梦。世间纷扰，我独守一份清雅。愿与你共赏月色，同听松风，共谱一曲千年古韵。若你心中有梦，我愿为你点亮一盏青灯，陪你走过四季流转。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，身着蓝白渐变的华美古风裙装，发髻高挽饰以蓝色花朵与宝石，正轻抬右手，仿佛在吟唱一首悠扬的古风曲调，清澈的蓝色眼眸凝视前方，神情温柔而专注，周围水珠飞溅，背景是朦胧的山水与枯枝，营造出空灵梦幻的意境。",
+    "en_prompt": "The character in the image is singing, wearing an elegant traditional-style dress with a gradient of blue and white. Her hair is styled in an elaborate updo adorned with blue flowers and gemstones. She gently raises her right hand, as if singing a melodious ancient-style tune. Her clear blue eyes gaze forward with a gentle and focused expression. Water droplets splash around her, while the background features hazy mountains, water, and bare branches, creating an ethereal and dreamlike atmosphere.",
+    "main_character": "comic"
+}

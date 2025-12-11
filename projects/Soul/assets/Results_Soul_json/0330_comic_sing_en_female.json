@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 17,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "listening to music",
+        "drawing",
+        "reading light novels",
+        "stargazing"
+    ],
+    "personality": "calm, thoughtful, kind-hearted, and introverted but observant",
+    "message": "阳光洒在窗边，耳机里流淌着轻柔的旋律，这一刻，世界仿佛只剩下我和音乐。我喜欢安静地坐在窗前，看着天空的云朵慢慢飘过，想象它们变成不同的故事。虽然我不常说话，但我的内心总是充满温柔和好奇。希望每个人都能找到属于自己的宁静角落，像我一样，用心感受生活中的每一份美好。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，微风轻拂她的长发，她眼神温柔地望向远方，仿佛沉浸在音乐的世界里。",
+    "en_prompt": "The character in the image is singing, with a gentle breeze lightly brushing through her long hair. She gazes softly into the distance, seemingly immersed in the world of music.",
+    "main_character": "comic"
+}

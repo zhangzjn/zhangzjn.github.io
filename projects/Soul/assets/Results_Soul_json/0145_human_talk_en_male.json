@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 26,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "weightlifting",
+        "fitness training",
+        "running",
+        "healthy cooking"
+    ],
+    "personality": "disciplined, focused, determined, confident, and goal-oriented",
+    "message": "Consistency is the key to success. Every rep, every set, every workout brings me closer to my goals. I don’t chase perfection—I chase progress. Whether you’re just starting or you’ve been training for years, remember: small efforts compound over time. Stay committed, stay humble, and never underestimate the power of showing up. Your future self will thank you for the discipline you show today. Let’s push harder, stay strong, and keep moving forward.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，双手紧握哑铃，偶尔做些小幅度的力量展示动作匹配说话内容，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, holding dumbbells firmly in both hands, occasionally performing small, controlled strength demonstration movements that match his speech content. The camera remains fixed.",
+    "main_character": "human"
+}

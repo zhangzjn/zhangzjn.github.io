@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 18,
+    "nationality": "Orcish",
+    "speaking_language": "English",
+    "hobbies": [
+        "dual-wielding daggers",
+        "exploring dark caves",
+        "training combat skills",
+        "collecting rare weapons"
+    ],
+    "personality": "fierce, determined, loyal to allies, quick to anger but protective of the weak",
+    "message": "I am not just a warrior—I am a survivor. From the moment I drew my first breath in the shadowed forests of the Orcish clans, I knew I was meant for battle. My daggers are extensions of my will, and every scar tells a story of courage. I fight not for glory, but for honor and the safety of those who cannot fight for themselves. If you stand with me, you stand with strength. If you cross me, you face a storm of steel and fury. I am here, and I am ready.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正双手持刀，摆出战斗姿态，对着镜头讲话，仿佛随时准备出击。镜头固定，角色保持原位，通过表情和肢体语言传递出强烈的攻击性与自信。背景简洁，突出角色的凶悍形象，适合用于战斗或冒险类游戏的开场或角色介绍。",
+    "en_prompt": "The character in the image is holding two knives, one in each hand, striking a combat stance while speaking directly to the camera, as if ready to strike at any moment. The camera remains static, with the character staying in place, conveying intense aggression and confidence through facial expressions and body language. The background is simple and minimalistic, emphasizing the character's fierce appearance, making it ideal for use as an opening or character introduction in combat or adventure-themed games.",
+    "main_character": "comic"
+}

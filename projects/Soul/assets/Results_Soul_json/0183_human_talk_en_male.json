@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading business books",
+        "running in the city",
+        "attending networking events"
+    ],
+    "personality": "confident, ambitious, professional, and detail-oriented",
+    "message": "I believe in the power of hard work and continuous learning. Every day is a new opportunity to grow, connect, and achieve more. I’m passionate about building a successful career in finance and making a positive impact in my community. I value integrity, professionalism, and strong relationships. Whether I’m walking through the city or preparing for a meeting, I carry my goals with me. I’m not just chasing success—I’m building a meaningful future, one step at a time.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，左手自然垂下握着一个浅棕色皮质文件夹，右手插在裤兜里，偶尔配合说话内容做出轻微手势，镜头固定。背景是现代都市高楼与绿植，光线明亮，整体氛围专业而沉稳。",
+    "en_prompt": "The man in the image is speaking directly to the camera, his left hand naturally hanging down holding a light brown leather folder, while his right hand is tucked into his pants pocket. Occasionally, he makes subtle gestures to accompany his speech. The camera remains stationary. The background features modern urban skyscrapers and greenery, with bright lighting, creating an overall professional and composed atmosphere.",
+    "main_character": "human"
+}

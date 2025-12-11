@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 25,
+    "nationality": "Indian",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "traveling",
+        "reading",
+        "walking in nature"
+    ],
+    "personality": "calm, introspective, thoughtful, and curious",
+    "message": "I find peace in the quiet moments—walking along paths, watching the sky change colors, and listening to the wind through the trees. Life moves fast, but I try to slow down, to observe and appreciate the small things. I believe every journey, no matter how short, teaches us something new. I’m always looking for stories in the world around me, and I love capturing them through my lens. Being present is my favorite kind of adventure.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士一边对着镜头讲话一边往前走，镜头随着人物的走动慢慢往后退，保持人物在画面中。他身穿米白色立领衬衫和浅色牛仔裤，左手插在裤兜里，右手自然摆动，神情专注地望向一侧，背景是模糊的绿植和石板小路，整体氛围自然随性。",
+    "en_prompt": "The man in the image walks forward while speaking to the camera, and the camera slowly pulls back following his movement, keeping him centered in the frame. He is wearing a beige stand-collar shirt and light-colored jeans, with his left hand in his pocket and his right hand swinging naturally. His expression is focused as he looks off to the side. The background features blurred greenery and a stone pathway, creating an overall natural and relaxed atmosphere.",
+    "main_character": "human"
+}

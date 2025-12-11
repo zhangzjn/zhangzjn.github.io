@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "photography",
+        "painting",
+        "listening to music"
+    ],
+    "personality": "gentle, thoughtful, artistic, and introspective",
+    "message": "生活就像一幅未完成的画，每一笔都藏着故事。我喜欢在安静的午后，捧一本书，听一首老歌，让思绪随风飘荡。摄影和绘画是我表达内心的方式，用镜头捕捉光影，用画笔描绘情绪。我渴望理解世界，也渴望被世界温柔以待。愿你我都能在平凡中发现美，在喧嚣中守住内心的宁静。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她佩戴着精致的银色项链和耳环，浅棕色长发自然垂落，神情温柔专注，背景是柔和的浅绿色，整体氛围清新自然。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She is wearing delicate silver necklace and earrings, with light brown long hair falling naturally. Her expression is gentle and focused. The background is a soft light green, creating an overall fresh and natural atmosphere.",
+    "main_character": "human"
+}

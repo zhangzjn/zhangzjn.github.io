@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Thai",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "gardening",
+        "reading poetry",
+        "traveling"
+    ],
+    "personality": "warm-hearted, cheerful, creative, and kind",
+    "message": "Hello! I’m so happy to share this beautiful moment with you. I love the simple joys in life—like holding a bouquet of wildflowers on a sunny day, wearing my favorite straw hat, and feeling the warmth of the sun on my skin. Life is full of small wonders, and I try to cherish each one. Whether I’m exploring new places or just walking through the city, I carry a sense of gratitude and joy. I hope you find beauty in your everyday too. Let’s spread kindness and smile often!",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，双手轻握一束白色小花，面带微笑，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, gently holding a bouquet of small white flowers with both hands, smiling, with a fixed camera shot.",
+    "main_character": "human"
+}

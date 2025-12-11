@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 8,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "drinking tea",
+        "taking care of plants",
+        "cooking simple meals",
+        "organizing the kitchen"
+    ],
+    "personality": "sweet, gentle, curious, and responsible",
+    "message": "Hello! I love spending my days in this bright and warm kitchen, making tea and tending to my plants. The food my mom makes is so delicious, too. This place is my own little world, a spot that always warms my heart. Today, I'm looking forward to enjoying the aroma of a new tea. I hope you can have a heartwarming time as well.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在温馨的厨房中央，双手捧着一杯热饮，对着镜头讲话，偶尔轻轻晃动手中的杯子，镜头固定。背景是柔和粉色调的厨房，有冰箱、微波炉、橱柜和绿植，营造出舒适治愈的氛围。",
+    "en_prompt": "The character in the image stands in the center of a cozy kitchen, holding a warm drink with both hands, speaking directly to the camera, occasionally gently swaying the cup. The camera remains fixed. The background features a soft pink-toned kitchen with a refrigerator, microwave, cabinets, and potted plants, creating a comforting and healing atmosphere.",
+    "main_character": "comic"
+}

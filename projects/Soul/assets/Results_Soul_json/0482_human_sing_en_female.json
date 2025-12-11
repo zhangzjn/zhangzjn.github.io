@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading",
+        "writing",
+        "walking in nature",
+        "visiting historical sites"
+    ],
+    "personality": "thoughtful, kind, curious, and independent",
+    "message": "Hello! I’m a student who loves exploring the world through books and real-life experiences. I enjoy walking through quiet campuses and city parks, always with a notebook in hand to capture thoughts and inspiration. I believe in the power of small moments—like sunlight through trees or a deep conversation with a friend. I’m curious about people, cultures, and stories, and I’m always open to learning something new. Life is a journey, and I’m grateful for every step.",
+    "source": "pexels",
+    "cn_prompt": "画面中的角色正在唱歌，她身穿红色外套，手捧书本，站在校园小径上，背景是教堂尖塔和树木，阳光洒在她的脸上，神情温柔而专注。",
+    "en_prompt": "The character in the scene is singing, wearing a red coat and holding a book, standing on a campus pathway. In the background are a church spire and trees, with sunlight gently falling on her face, her expression tender and focused.",
+    "main_character": "human"
+}

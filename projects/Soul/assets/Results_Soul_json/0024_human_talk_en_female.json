@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "traveling",
+        "reading novels",
+        "painting"
+    ],
+    "personality": "calm, artistic, introspective, and kind-hearted",
+    "message": "I find beauty in quiet moments—like sunlight filtering through ancient stones or the soft rustle of leaves on a staircase. Life is a canvas, and I’m always painting my story with curiosity and grace. I love exploring new places, capturing stories through my lens, and losing myself in a good book. I believe in kindness, authenticity, and the power of small, meaningful connections. Let’s cherish the present, embrace our dreams, and always stay true to who we are.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正对着镜头讲话，她身着橙色连衣裙，长发披肩，倚靠在石墙边，背景是石阶。镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera. She is wearing an orange dress, with long hair cascading over her shoulders, leaning against a stone wall. The background features stone steps. The camera remains stationary.",
+    "main_character": "human"
+}

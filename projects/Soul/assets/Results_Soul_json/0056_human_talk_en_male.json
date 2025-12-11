@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 22,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "mountain hiking",
+        "backpacking",
+        "photography",
+        "outdoor survival skills"
+    ],
+    "personality": "adventurous, determined, introspective, calm under pressure, nature-loving",
+    "message": "Standing above the clouds, I feel truly alive. Every step on the trail teaches me something new—about myself, about nature, about perseverance. Hiking isn’t just a hobby; it’s a way of life. It pushes me beyond limits I never knew I had. The silence of the mountains speaks louder than words. I carry my gear, my thoughts, and my dreams with me. This journey isn’t about reaching the summit—it’s about the growth along the way. To anyone who feels lost: find your trail, and walk it with courage. The world is vast, and so are your possibilities.",
+    "source": "generated",
+    "cn_prompt": "画面中的男孩站在高山之巅，身着户外登山装备，手持登山杖，背景是云海与连绵山峦。他正对着镜头讲话，偶尔用登山杖轻点地面以匹配说话内容，镜头固定。",
+    "en_prompt": "The boy in the image stands atop a high mountain peak, dressed in outdoor hiking gear and holding a trekking pole. The background features a sea of clouds and rolling mountain ranges. He is speaking directly to the camera, occasionally tapping the ground with his trekking pole to match his speech, while the camera remains fixed.",
+    "main_character": "human"
+}

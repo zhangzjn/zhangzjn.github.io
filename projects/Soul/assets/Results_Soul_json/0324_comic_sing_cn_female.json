@@ -1,0 +1,19 @@
+{
+    "gender": "female",
+    "age": 20,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "playing guitar",
+        "wearing traditional Hanfu",
+        "listening to music",
+        "painting",
+        "reading classical literature"
+    ],
+    "personality": "graceful, gentle, artistic, imaginative, and serene",
+    "message": "我是一名热爱传统文化与现代音乐结合的少女。身着青绿汉服，手持吉他，仿佛在云端奏响古今交融的旋律。我愿用琴声传递东方的诗意与温柔，让世界听见中国文化的浪漫与力量。愿每一个音符，都像云朵般轻盈，抚慰人心。音乐无国界，但我的根在中国，我的梦在云间。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色一边唱歌一边弹奏手中的吉他，身着青绿色与珊瑚红相间的华美古风长裙，发髻高挽，点缀着精致的金色头饰与红色流苏，神情温柔恬静，周围环绕着轻盈的白云，营造出仙气飘飘的梦幻氛围。",
+    "en_prompt": "The character in the image sings while playing the guitar in hand, wearing an elegant traditional-style long dress in a blend of teal and coral red. Her hair is styled in a high, elegant bun adorned with intricate golden hair ornaments and red tassels. Her expression is gentle and serene, surrounded by light, floating white clouds, creating a dreamy, ethereal atmosphere.",
+    "main_character": "comic"
+}

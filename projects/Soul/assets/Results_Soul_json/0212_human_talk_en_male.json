@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "Mexican",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "reading",
+        "hiking"
+    ],
+    "personality": "confident, introspective, disciplined",
+    "message": "I believe in the power of quiet strength and thoughtful action. Life is not about loud declarations, but about consistency, integrity, and purpose. I find peace in nature, clarity in books, and inspiration in capturing moments through my lens. Every challenge is a lesson, every step forward a victory. I stand firm in my values, and I choose to grow, not just in knowledge, but in character. The journey matters as much as the destination.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士正对着镜头讲话，双臂交叉于胸前，偶尔配合内容做出手势，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with his arms crossed over his chest, occasionally making gestures to accompany his speech. The camera remains stationary.",
+    "main_character": "human"
+}

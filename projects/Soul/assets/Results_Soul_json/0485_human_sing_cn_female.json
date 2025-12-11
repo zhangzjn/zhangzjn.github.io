@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "acting",
+        "philanthropy",
+        "reading",
+        "traveling"
+    ],
+    "personality": "graceful, warm-hearted, intelligent, and resilient",
+    "message": "每个人的生命都像一朵花，有绽放的时刻，也有静默的时光。我始终相信，只要心中有光，就能照亮前行的路。岁月带走了青春，却沉淀了从容与智慧。我热爱表演，也热爱生活，更愿意用自己微薄的力量去温暖他人。愿我们都能在平凡中活出不凡，在岁月里保持初心，温柔而坚定地走好每一步。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在演唱，眼神温柔，嘴角带着浅浅的微笑，金色花朵耳环在柔和的蓝光下熠熠生辉，背景如梦幻云雾般朦胧，营造出优雅而沉浸的音乐氛围。",
+    "en_prompt": "The character in the scene is singing, with soft eyes and a subtle smile on her lips. The golden floral earrings shimmer under soft blue lighting, while the background appears as a dreamy, hazy mist, creating an elegant and immersive musical atmosphere.",
+    "main_character": "human"
+}

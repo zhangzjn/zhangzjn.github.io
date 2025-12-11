@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 24,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading philosophy books",
+        "photography",
+        "hiking",
+        "playing guitar"
+    ],
+    "personality": "thoughtful, introspective, calm, and curious",
+    "message": "I believe in the quiet power of observation and reflection. Life moves fast, but I try to pause and truly see the world — in the details of a leaf, the expression in someone’s eyes, or the silence between words. I’m not always loud, but I’m deeply present. I find peace in nature, in music, and in the pages of a well-worn book. I’m learning to trust my own thoughts, to ask questions without needing immediate answers. I hope to live with intention, kindness, and a little bit of wonder every day.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 52,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading technical manuals",
+        "repairing old tools",
+        "camping with his son",
+        "listening to classic rock"
+    ],
+    "personality": "hardworking, responsible, detail-oriented, patient, and reliable",
+    "message": "I’ve spent over thirty years on construction sites, and every day I’m proud to build something that lasts. I wear my safety gear not just for rules, but because I care about my team and the quality of our work. These blueprints aren’t just lines on paper—they’re promises to families who will one day call this place home. I’ve seen the sweat, the storms, and the triumphs. And I’ll keep showing up, because what we build matters. Safety first, integrity always.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士站在建筑工地前，一手拿着展开的施工图纸，另一手自然垂下，镜头固定。他穿着反光背心和安全帽，背景是正在施工的高楼和脚手架，神情专注地对着镜头讲话，偶尔用手指点图纸上的细节，配合说明内容。",
+    "en_prompt": "The man in the image stands in front of a construction site, holding an unrolled construction blueprint in one hand while the other hand hangs naturally by his side. The camera remains stationary. He wears a reflective vest and a hard hat, with a backdrop of tall buildings under construction and scaffolding. He speaks directly to the camera with a focused expression, occasionally pointing to specific details on the blueprint with his finger to accompany his explanation.",
+    "main_character": "human"
+}

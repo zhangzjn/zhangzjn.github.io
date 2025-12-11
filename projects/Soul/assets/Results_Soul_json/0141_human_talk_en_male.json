@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 68,
+    "nationality": "British",
+    "speaking_language": "English",
+    "hobbies": [
+        "fishing",
+        "walking in the countryside",
+        "enjoying nature"
+    ],
+    "personality": "calm, reflective, kind-hearted, and deeply connected to nature",
+    "message": "There’s a quiet peace in standing by a river with just your rod and the sky above. I’ve spent decades chasing fish, but what I’ve really caught is time—time to think, to breathe, to be present. The golden fields, the whisper of the wind, the curve of the path ahead—they’re all part of a life well lived. I’m not chasing big catches anymore; I’m chasing moments. Simple, honest, and full of meaning. If you’re ever feeling lost, take a walk, cast a line, and let nature speak to you. It’s the best teacher we have.",
+    "source": "generated",
+    "cn_prompt": "画面中的老爷爷站在乡间小路中央，手持鱼竿，面带微笑看着镜头，偶尔轻轻晃动手中的鱼竿，镜头固定。背景是金黄的麦田和蓝天白云，阳光洒在老爷爷身上，营造出宁静悠闲的氛围。",
+    "en_prompt": "An elderly man stands in the center of a rural path, holding a fishing rod and smiling gently at the camera. He occasionally gives the rod a slight, gentle shake. The camera remains fixed. In the background, golden wheat fields stretch under a blue sky with fluffy white clouds. Sunlight bathes the old man, creating a peaceful and relaxed atmosphere.",
+    "main_character": "human"
+}

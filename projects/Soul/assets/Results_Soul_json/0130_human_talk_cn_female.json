@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading business books",
+        "practicing yoga",
+        "traveling to new cities",
+        "learning new languages"
+    ],
+    "personality": "professional, confident, detail-oriented, and approachable",
+    "message": "在职场中，我始终相信专业与真诚是赢得信任的基石。每天我都在努力提升自己，无论是通过学习新技能，还是在团队中积极沟通协作。我热爱挑战，也享受解决问题的过程。希望我的坚持与热情，能激励更多人勇敢追求自己的职业理想。生活不止于工作，我同样珍视健康与平衡，相信只有身心俱佳，才能走得更远。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在办公桌旁，一手持笔记本电脑，另一手自然垂放，镜头固定。她身着灰色职业套装，背景是白板和办公椅，整体氛围专业而沉稳。",
+    "en_prompt": "The woman in the image stands beside a desk, holding a laptop in one hand while the other hand rests naturally by her side, with a fixed camera angle. She is dressed in a gray business suit, with a whiteboard and office chair visible in the background. The overall atmosphere is professional and composed.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "practicing calligraphy",
+        "enjoying tea ceremonies",
+        "photography"
+    ],
+    "personality": "graceful, gentle, introspective, and deeply appreciative of beauty in art and nature.",
+    "message": "我始终相信，真正的美源于内心的宁静与对生活的热爱。无论是笔尖下的墨香，还是镜头中捕捉的瞬间，我都愿用心去感受世界的温柔。珍珠耳坠轻摇，如时光的低语，提醒我珍惜每一个平凡却珍贵的当下。愿你我都能在喧嚣中寻得一方静谧，在忙碌里守护内心的光。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她佩戴着精致的珍珠耳坠，妆容淡雅，神情温柔，展现出优雅从容的气质。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She is wearing elegant pearl drop earrings, has a soft and natural makeup look, and displays a gentle expression, exuding a graceful and composed demeanor.",
+    "main_character": "human"
+}

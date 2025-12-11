@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "writing",
+        "visiting libraries",
+        "learning new languages"
+    ],
+    "personality": "calm, intelligent, curious, thoughtful, and kind-hearted",
+    "message": "在书架间穿行，我总能找到属于自己的宁静角落。每一本书都像一扇门，带我走进不同的世界。阅读让我学会思考，也让我更懂得倾听他人。我热爱文字的力量，它能治愈心灵，也能点燃梦想。愿我们都能在忙碌的生活中，为自己留一片阅读的净土，让思想自由生长。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在图书馆书架间，双手捧着一本打开的书，正对着镜头讲话，偶尔用手指轻点书页以匹配说话内容，镜头固定。",
+    "en_prompt": "The woman in the image stands between library bookshelves, holding an open book with both hands, speaking directly to the camera, occasionally lightly pointing at the pages with her finger to match her speech, with a fixed camera shot.",
+    "main_character": "human"
+}

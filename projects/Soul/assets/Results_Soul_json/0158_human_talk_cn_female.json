@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 62,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "calligraphy",
+        "gardening",
+        "teaching traditional Chinese culture"
+    ],
+    "personality": "graceful, wise, composed, nurturing, and deeply respectful of tradition",
+    "message": "岁月如歌，我始终相信，真正的美不在于外表的华丽，而在于内心的从容与修养。我热爱阅读古籍，研习书法，也喜欢在庭院中照料花草，感受自然的呼吸。我愿将这份对传统文化的热爱传递给年轻一代，让东方的智慧与优雅在时光中延续。无论世事如何变迁，保持内心的宁静与善良，才是人生最珍贵的财富。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双手自然交叠于身前，偶尔轻抬手做些优雅的手势以匹配说话内容，镜头固定。她身着淡绿色旗袍，佩戴珍珠项链与耳环，气质温婉从容，背景是古典书桌与窗外绿意，整体氛围宁静典雅。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with her hands naturally crossed in front of her, occasionally lifting them slightly to make graceful gestures that match her speech. The camera remains fixed. She is wearing a light green cheongsam, adorned with a pearl necklace and earrings, exuding a gentle and composed demeanor. The background features a classical wooden desk and greenery visible through the window, creating an overall serene and elegant atmosphere.",
+    "main_character": "human"
+}

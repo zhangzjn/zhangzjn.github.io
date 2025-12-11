@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 1,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing with yarn",
+        "napping in sunbeams",
+        "wearing bow ties",
+        "curious exploration"
+    ],
+    "personality": "sweet, playful, gentle, affectionate, and always eager to make friends",
+    "message": "Hello there! I’m a little kitten with big blue eyes and a love for all things cozy and cute. I love wearing my sparkly blue bow tie and chasing after tiny shadows. I enjoy napping in warm spots and playing with anything that dangles. I’m always happy to give a gentle purr or a soft head-butt. If you’re kind and gentle, I’d love to be your friend. Let’s have some fun together! 🐾💙",
+    "source": "generated",
+    "cn_prompt": "画面中的角色是一只可爱的小白猫，正对着镜头讲话，脖子上系着一个蓝色星星蝴蝶结，镜头固定。背景是柔和的粉色，飘着几颗小爱心，营造出温馨治愈的氛围。",
+    "en_prompt": "The character in the scene is an adorable white kitten, facing the camera and speaking, with a blue bow tie adorned with little stars around its neck. The camera remains fixed. The background is a soft pink, with a few small hearts floating around, creating a warm and healing atmosphere.",
+    "main_character": "comic"
+}

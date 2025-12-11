@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 62,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "calligraphy",
+        "gardening",
+        "teaching traditional Chinese culture"
+    ],
+    "personality": "graceful, wise, composed, nurturing, and deeply respectful of tradition",
+    "message": "岁月如歌，我始终相信，真正的美不在于外表的华丽，而在于内心的从容与修养。我热爱阅读古籍，研习书法，也喜欢在庭院中照料花草，感受自然的呼吸。我愿将这份对传统文化的热爱传递给年轻一代，让东方的智慧与优雅在时光中延续。无论世事如何变迁，保持内心的宁静与善良，才是人生最珍贵的财富。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正优雅地坐着，唱着歌，神情温婉，仿佛在哼唱一首古典民谣，背景是书香满溢的书房，窗外绿意盎然，衬托出她从容淡定的气质。",
+    "en_prompt": "The character in the scene is elegantly seated, singing with a gentle and graceful expression, as if singing a classical folk melody. The background is a scholarly study filled with books, with lush greenery visible through the window, enhancing her calm and composed demeanor.",
+    "main_character": "human"
+}

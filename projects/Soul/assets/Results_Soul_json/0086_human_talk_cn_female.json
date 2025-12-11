@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 32,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "photography",
+        "traveling",
+        "reading classical literature",
+        "attending art exhibitions"
+    ],
+    "personality": "graceful, introspective, confident, and compassionate",
+    "message": "人生如一场静谧的旅程，不必急于抵达终点。我珍惜每一个清晨的阳光，每一段与自然对话的时光。在喧嚣的世界里，我选择用镜头记录真实，在文字中寻找内心的宁静。愿你我都能在平凡中发现诗意，在忙碌中守护温柔。真正的美，不在于外表的华丽，而在于灵魂的丰盈与从容。愿我们都能活成自己想要的模样，温柔坚定，不惧岁月。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她佩戴着精致的水滴形耳环，妆容优雅，神情从容，展现出成熟女性的温婉与自信。背景柔和，光线温暖，突显人物的面部轮廓与气质。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She wears elegant teardrop-shaped earrings, has refined makeup, and a composed expression, exuding the grace and confidence of a mature woman. The background is soft, with warm lighting that highlights her facial features and overall aura.",
+    "main_character": "human"
+}

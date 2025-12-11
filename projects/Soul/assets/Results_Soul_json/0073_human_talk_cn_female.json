@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 45,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "writing",
+        "gardening",
+        "listening to classical music"
+    ],
+    "personality": "warm, thoughtful, intelligent, and gentle",
+    "message": "生活就像一本书，每一页都值得细细品味。我享受在书架前静坐的时光，让思绪随着文字飘远。也喜欢在花园里照料花草，看它们在阳光下舒展。岁月虽悄然流逝，但内心始终保有对美的敏感与对生活的热爱。愿我们都能在平凡中发现诗意，在忙碌中守护内心的宁静。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，手轻托下巴，神情温和从容，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, gently resting her hand under her chin, with a calm and composed expression. The camera remains stationary.",
+    "main_character": "human"
+}

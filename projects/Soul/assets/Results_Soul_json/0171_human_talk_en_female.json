@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 32,
+    "nationality": "Indian",
+    "speaking_language": "English",
+    "hobbies": [
+        "traditional dance",
+        "wearing sarees",
+        "attending cultural events",
+        "jewelry collecting"
+    ],
+    "personality": "graceful, confident, culturally proud, elegant",
+    "message": "I am proud to wear the rich heritage of my culture through every thread and embellishment of my saree. Fashion is not just about clothes—it’s about identity, tradition, and self-expression. I love dancing to classical rhythms, celebrating festivals, and sharing my culture with the world. My saree is not just an outfit—it’s a story, a legacy, and a symbol of grace. I hope to inspire others to embrace their roots with pride and elegance.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在户外台阶旁，身着华丽的蓝色纱丽，双手自然交叠于身前，对着镜头讲话，镜头固定。背景有花盆和现代建筑栏杆，整体氛围优雅宁静。",
+    "en_prompt": "The woman in the image stands beside outdoor steps, wearing an elegant blue saree, with her hands naturally folded in front of her, speaking directly to the camera. The shot is static. In the background, there are flower pots and modern architectural railings, creating an overall atmosphere of grace and tranquility.",
+    "main_character": "human"
+}

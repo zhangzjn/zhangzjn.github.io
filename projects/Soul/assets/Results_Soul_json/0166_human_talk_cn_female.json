@@ -1,0 +1,19 @@
+{
+    "gender": "female",
+    "age": 24,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese clothing",
+        "calligraphy",
+        "classical music",
+        "tea ceremony",
+        "flower arrangement"
+    ],
+    "personality": "graceful, elegant, respectful, culturally aware, and gentle-hearted",
+    "message": "在这条古巷中，红灯笼映照着千年的时光。我穿着母亲传下来的旗袍，手捧红绸袋，仿佛承载着家的温暖与祝福。我热爱传统文化，喜欢在墨香中书写心语，在茶香里品味人生。希望每一位路过的人，都能感受到这份宁静与美好。愿我们都能在快节奏的生活中，保留一份对传统的敬意与温柔。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在古色古香的巷子里，身着精致刺绣旗袍，双手轻握一个红色绸缎手袋，镜头固定。她妆容典雅，发髻上点缀着珠翠，耳坠轻摇，背景是悬挂的红灯笼与青砖灰瓦，营造出浓郁的东方古典氛围。她正对着镜头，神情温婉，仿佛在讲述一段关于传统与美的故事。",
+    "en_prompt": "The woman in the image stands in an ancient, traditional alley, wearing an exquisitely embroidered cheongsam. She gently holds a red silk handbag with both hands. The camera remains fixed. Her makeup is elegant, her hair styled in an updo adorned with pearls and jade ornaments, and her earrings sway gently. The background features hanging red lanterns and gray brick rooftops, creating a richly atmospheric Eastern classical ambiance. She faces the camera directly, with a gentle and serene expression, as if narrating a story about tradition and beauty.",
+    "main_character": "human"
+}

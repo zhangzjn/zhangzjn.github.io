@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 45,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading classic literature",
+        "wearing vintage accessories",
+        "exploring rustic architecture",
+        "collecting antique jewelry"
+    ],
+    "personality": "confident, introspective, stylish, and grounded",
+    "message": "Life is not about waiting for the storm to pass, but learning to dance in the rain. I’ve spent years building a life that reflects who I am—strong, thoughtful, and true to my roots. The leather cuff on my wrist, the chain around my neck—they’re not just accessories. They’re stories, memories, and quiet reminders of where I’ve been. I believe in authenticity, in standing tall with arms crossed not in defiance, but in quiet strength. Let your style speak for you, and let your soul lead the way.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正站在木质背景前深情演唱，他身穿黑色高领毛衣，佩戴银色链条项链与复古皮质腕带，双臂交叉于胸前，眼神专注而富有感染力，仿佛在用歌声讲述一段动人的故事。",
+    "en_prompt": "The character in the image stands before a wooden backdrop, passionately singing. He wears a black turtleneck sweater, a silver chain necklace, and a vintage leather wristband. His arms are crossed over his chest, his gaze focused and expressive, as if telling a moving story through his song.",
+    "main_character": "human"
+}

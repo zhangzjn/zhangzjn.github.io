@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "Australian",
+    "speaking_language": "English",
+    "hobbies": [
+        "fitness training",
+        "surfing",
+        "photography",
+        "traveling"
+    ],
+    "personality": "confident, calm, adventurous, and introspective",
+    "message": "I believe in living life to the fullest—embracing challenges, staying true to myself, and finding beauty in every moment. Whether I'm catching waves at sunrise or capturing a landscape through my lens, I’m always seeking growth and connection. Confidence isn’t about being perfect; it’s about being present. I value authenticity, and I hope to inspire others to pursue their passions with courage and purpose. Life is short—make it count.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 35,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "golf",
+        "reading business literature",
+        "traveling to international markets",
+        "attending industry conferences"
+    ],
+    "personality": "confident, ambitious, disciplined, and strategic thinker with a strong sense of professionalism and leadership.",
+    "message": "Success is not a destination—it’s a journey of continuous growth and resilience. In the fast-paced world of business, I believe in leading with integrity, making informed decisions, and staying ahead of the curve. Every challenge is an opportunity to innovate and adapt. I value collaboration, but I also embrace accountability. My goal is not just to achieve personal success, but to inspire and elevate those around me. Let’s build something meaningful, together.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，双臂交叉于胸前，偶尔用手指轻点或调整领带以匹配说话内容，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with arms crossed over his chest. Occasionally, he lightly taps or adjusts his tie with his fingers to match the content of his speech. The camera remains stationary.",
+    "main_character": "human"
+}

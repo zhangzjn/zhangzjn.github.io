@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading business books",
+        "practicing yoga",
+        "attending industry conferences"
+    ],
+    "personality": "professional, confident, detail-oriented, and calm under pressure",
+    "message": "在职场中，我始终相信专业与坚持的力量。每一天，我都以严谨的态度对待工作，力求在每一个细节中做到最好。我热爱学习，不断充实自己，也享受在团队中协作与成长的过程。面对挑战，我从不退缩，而是将其视为提升自我的机会。希望我的努力能为团队创造价值，也期待与志同道合的伙伴一起，共同追求卓越。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双手自然持握文件，偶尔用手指轻点文件内容以配合表达，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, holding documents naturally with both hands, occasionally using her fingers to lightly point at the content to emphasize her points, with a fixed camera shot.",
+    "main_character": "human"
+}

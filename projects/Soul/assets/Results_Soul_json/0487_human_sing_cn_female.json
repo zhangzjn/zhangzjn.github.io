@@ -1,0 +1,19 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "surfing",
+        "beach photography",
+        "wearing straw hats",
+        "collecting seashells",
+        "listening to ocean waves"
+    ],
+    "personality": "calm, adventurous, artistic, cheerful, and nature-loving",
+    "message": "站在这片蔚蓝的海边，我感到无比自由。冲浪板是我最好的伙伴，每一次划水都像在与大海对话。我爱这阳光、沙滩和海风，它们让我充满能量。生活就像海浪，有时平静，有时汹涌，但只要保持微笑，就能享受每一刻。希望你也找到属于自己的那片海，勇敢追逐梦想，像海浪一样，永不停歇。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在海边，手持冲浪板，一边唱歌一边微笑着望向镜头，背景是碧蓝的海水和晴朗的天空，营造出轻松愉悦的夏日氛围。",
+    "en_prompt": "The character in the image stands by the seaside, holding a surfboard, singing while smiling gently toward the camera. The background features clear blue seawater and a bright sky, creating a relaxed and joyful summer atmosphere.",
+    "main_character": "human"
+}

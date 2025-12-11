@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "photography",
+        "traveling",
+        "listening to music"
+    ],
+    "personality": "gentle, thoughtful, optimistic, and artistic",
+    "message": "生活就像一幅画，每一笔都值得用心描绘。我喜欢在清晨的阳光中读一本书，在微风拂面的旅途中按下快门，记录下那些温柔的瞬间。音乐是我心灵的慰藉，让我在忙碌中找到宁静。我相信，只要保持热爱，平凡的日子也能闪闪发光。愿你我都能在喧嚣的世界里，守住内心的柔软与美好。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正对着镜头讲话，镜头固定。她佩戴着珍珠耳环，神情温柔，目光直视镜头，展现出自然的亲和力。背景虚化，突出人物主体，整体氛围柔和温馨。",
+    "en_prompt": "The woman in the image is speaking directly to the camera with a fixed shot. She is wearing pearl earrings, with a gentle expression and direct eye contact, exuding natural warmth and approachability. The background is softly blurred to emphasize the subject, creating an overall soft and cozy atmosphere.",
+    "main_character": "human"
+}

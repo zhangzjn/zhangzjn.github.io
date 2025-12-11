@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Pakistani",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing the piano",
+        "wearing traditional attire",
+        "attending cultural events",
+        "reading literature"
+    ],
+    "personality": "graceful, artistic, confident, and culturally proud",
+    "message": "Music and tradition are the threads that weave my identity. Standing by this piano, I feel a deep connection to both art and heritage. The elegance of my outfit reflects my pride in my culture, while the piano represents my passion for expression. I cherish moments like these—where beauty, rhythm, and tradition come together. I hope to inspire others to embrace their roots while pursuing their dreams with grace and confidence.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在白色钢琴旁，一边对着镜头讲话，一边轻触琴键，左手自然垂放，右手优雅搭在琴键上，镜头固定。她身着精致的灰绿色刺绣长衫，搭配同色系阔腿裤与银色高跟鞋，颈间佩戴珍珠项链，耳饰与手链相映成辉，整体造型典雅高贵。钢琴上摆放着一束粉色玫瑰与一本旧书，脚下是复古花纹地毯，背景简洁明亮，营造出艺术与优雅并存的氛围。",
+    "en_prompt": "The woman in the image stands beside a white piano, speaking toward the camera while gently touching the keys. Her left hand rests naturally by her side, while her right hand elegantly rests on the piano keys. The camera remains fixed. She wears an exquisite gray-green embroidered kurta, paired with matching wide-leg pants and silver high heels. Around her neck is a pearl necklace, complemented by matching earrings and bracelets, creating an overall elegant and sophisticated look. On the piano lies a bouquet of pink roses and an old book. Beneath her feet is a vintage-patterned rug, and the background is clean and bright, creating an atmosphere that blends artistry and elegance.",
+    "main_character": "human"
+}

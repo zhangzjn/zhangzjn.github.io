@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 20,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "photography",
+        "hiking",
+        "reading",
+        "playing guitar"
+    ],
+    "personality": "friendly, confident, outgoing, optimistic",
+    "message": "Hi there! I'm just a guy who loves exploring the world around me—whether it’s through a camera lens, a good book, or a hike in the woods. I believe life is full of beautiful moments waiting to be discovered. I’m always up for a chat, a laugh, or a new adventure. If you’re ever looking for someone to share a smile or a story with, I’m your guy. Let’s make some memories together!",
+    "source": "pexels",
+    "cn_prompt": "画面中的男孩正靠在砖墙边，双臂交叉于胸前，对着镜头讲话，镜头固定。",
+    "en_prompt": "The boy in the image is leaning against a brick wall, arms crossed over his chest, speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

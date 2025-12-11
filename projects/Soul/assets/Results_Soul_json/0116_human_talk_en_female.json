@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "fashion design",
+        "reading contemporary literature",
+        "urban photography",
+        "attending art exhibitions"
+    ],
+    "personality": "confident, sophisticated, independent, and detail-oriented",
+    "message": "I believe confidence is the most powerful accessory one can wear. This suit isn't just clothing—it's a statement of who I am: strong, intentional, and unapologetically myself. I find beauty in structure and elegance in simplicity. Whether I'm walking down a marble hallway or navigating life’s challenges, I carry myself with purpose. I’m not just following trends—I’m creating them. And I do it with grace, intelligence, and a quiet fire that refuses to be ignored.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士站在一条典雅的走廊中央，一边对着镜头讲话，一边缓缓往前走，镜头随着她的走动慢慢往后退，保持人物在画面中。她身着一套深蓝色西装套装，搭配棕色丝巾和浅色高跟鞋，姿态从容自信。走廊两侧是古典风格的门框和大理石地面，营造出优雅庄重的氛围。",
+    "en_prompt": "The woman in the image stands in the center of an elegant hallway, speaking directly to the camera while slowly walking forward. The camera gradually pulls back, keeping her centered in the frame. She is wearing a sophisticated navy blue suit set, paired with a brown silk scarf and light-colored high heels, exuding calm confidence. The hallway features classical-style door frames and marble flooring on both sides, creating an atmosphere of refined elegance and grandeur.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 25,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading",
+        "writing",
+        "exploring bookstores",
+        "photography"
+    ],
+    "personality": "introspective, thoughtful, curious, calm, and slightly reserved",
+    "message": "I find peace in the quiet corners of bookstores, where every spine tells a story and every page holds a world. I’m drawn to the way words can shape thoughts and emotions, and I love capturing moments that feel timeless. I’m not one for loud conversations, but I cherish deep, meaningful ones. Life is a book, and I’m still writing my chapter—one thoughtful page at a time.",
+    "source": "pexels",
+    "cn_prompt": "画面中的男孩正站在书架前，一手搭在木桌上，另一手自然垂在身侧，镜头固定。他身穿白色衬衫和格纹长裤，神情专注地直视镜头，背景是摆满书籍的书架，营造出文艺而沉静的氛围。",
+    "en_prompt": "The boy in the image stands in front of a bookshelf, with one hand resting on a wooden table and the other hanging naturally by his side, the camera remains stationary. He wears a white shirt and checkered trousers, gazing directly at the camera with a focused expression. The background features bookshelves filled with books, creating a literary and serene atmosphere.",
+    "main_character": "human"
+}

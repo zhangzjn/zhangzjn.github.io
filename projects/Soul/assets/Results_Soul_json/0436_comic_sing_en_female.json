@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 17,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading manga",
+        "playing the piano",
+        "taking long walks in the park",
+        "studying astronomy"
+    ],
+    "personality": "kind, intelligent, calm, and observant with a gentle smile that makes people feel at ease",
+    "message": "Hello! I'm someone who finds beauty in quiet moments — the way sunlight filters through leaves, or how stars twinkle in the night sky. I love learning new things and sharing them with others. Though I may seem reserved at first, I truly care about those around me. I believe in kindness, patience, and the power of small, meaningful gestures. If you ever need a listening ear or a calm presence, I’m here. Let’s discover the world together, one peaceful moment at a time.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在唱歌，眼神温柔地望向一侧，仿佛沉浸在音乐的氛围中。她身着整洁的校服，蓝色领带与发色相呼应，在暖光下更显清新动人。背景是柔和的室内环境，光线从侧面洒落，营造出宁静而富有情感的演唱氛围。",
+    "en_prompt": "The character in the image is singing, her gentle gaze directed to the side, as if immersed in the atmosphere of music. She is wearing a neat school uniform, with a blue tie that complements her hair color, appearing fresh and charming under the warm light. The background is a soft indoor setting, with light streaming in from the side, creating a serene and emotionally rich singing atmosphere.",
+    "main_character": "comic"
+}

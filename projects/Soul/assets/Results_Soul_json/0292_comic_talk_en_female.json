@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 3,
+    "nationality": "Japanese",
+    "speaking_language": "English",
+    "hobbies": [
+        "playing with yarn",
+        "sunbathing",
+        "napping in cozy corners",
+        "chasing butterflies"
+    ],
+    "personality": "gentle, curious, affectionate, and playful",
+    "message": "Hello there! I'm a little kitten with big blue eyes and a heart full of joy. I love to play and explore the world around me, especially when the sun is shining and the air is warm. I enjoy curling up in soft spots and taking naps, but I also love to run and pounce on toys. I’m always happy to share a purr or a cuddle with my favorite humans. Life is sweet, and I’m so grateful for every moment. Let’s make happy memories together!",
+    "source": "generated",
+    "cn_prompt": "画面中的小猫正对着镜头讲话，毛茸茸的脑袋微微仰起，脖子上系着蓝色蝴蝶结，显得格外可爱。镜头固定，背景柔和的蓝色与金色边框营造出温馨梦幻的氛围，小猫偶尔轻轻摆动尾巴，仿佛在无声地撒娇。",
+    "en_prompt": "The kitten in the image is speaking directly to the camera, its fluffy head slightly tilted upward, with a blue bow tied around its neck, looking especially adorable. The camera remains fixed, and the soft blue background combined with a golden frame creates a warm and dreamy atmosphere. The kitten occasionally gently wags its tail, as if silently begging for affection.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "weightlifting",
+        "photography",
+        "reading philosophy books",
+        "listening to jazz music"
+    ],
+    "personality": "confident, introspective, disciplined, and empathetic",
+    "message": "I believe strength isn't just physical—it's mental and emotional too. I train not only my body but also my mind, seeking balance and clarity. I find peace in quiet moments, with a camera in hand or a book on my lap. I value honesty and authenticity, and I strive to be present in every moment. Life is a journey of growth, and I’m committed to becoming the best version of myself, not for others, but for my own peace and purpose.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

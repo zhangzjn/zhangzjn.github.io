@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "surfing",
+        "beach photography",
+        "wearing colorful bohemian fashion",
+        "exploring coastal towns"
+    ],
+    "personality": "adventurous, free-spirited, confident, and artistic",
+    "message": "The ocean is my sanctuary. Every wave carries a story, and I’m here to ride it with joy and courage. I love the sun on my skin, the salt in my hair, and the freedom of chasing the next perfect swell. Life’s too short to wear boring clothes or stay in one place. I surf, I travel, I create. I’m not just living—I’m experiencing. If you’re looking for adventure, come find me where the sea meets the sky. Let’s make memories that last a lifetime.",
+    "source": "generated",
+    "cn_prompt": "画面中的角色站在海边，手持冲浪板，一边唱歌，一边微笑着望向远方，海风轻拂她的草帽与彩色泳衣，贝壳项链随风轻晃，仿佛在为她的歌声伴奏。",
+    "en_prompt": "The character in the scene stands by the seaside, holding a surfboard, singing while smiling gently toward the horizon. The sea breeze gently brushes her straw hat and colorful swimsuit, and her shell necklace sways lightly in the wind, as if accompanying her song.",
+    "main_character": "human"
+}

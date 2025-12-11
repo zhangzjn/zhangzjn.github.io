@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "graffiti art",
+        "hip-hop music",
+        "urban photography",
+        "streetwear fashion"
+    ],
+    "personality": "confident, expressive, artistic, introspective, and resilient",
+    "message": "I paint my soul on walls no one else sees. Every spray of color is a word I can't say out loud. This city is my canvas, and I’m not just surviving—I’m creating. I wear my thoughts like a chain, heavy but real. Some call it rebellion; I call it truth. I don’t need permission to be me. I’m not here to fit in—I’m here to stand out, to speak through color and rhythm. My art is my voice, my armor, my legacy. This is who I am. And I’m not going anywhere.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正对着镜头讲话，镜头固定。他戴着黑色棒球帽，身穿白色T恤，脖子上挂着一条银色链条项链，背景是色彩鲜艳的涂鸦墙，营造出街头潮流的氛围。",
+    "en_prompt": "The man in the frame is speaking directly to the camera, with a fixed shot. He is wearing a black baseball cap, a white T-shirt, and a silver chain necklace around his neck. The background features a vibrant graffiti wall, creating a street-style, urban fashion atmosphere.",
+    "main_character": "human"
+}

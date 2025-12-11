@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 16,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading ancient poetry",
+        "painting landscapes",
+        "walking in gardens",
+        "playing the guqin"
+    ],
+    "personality": "gentle, kind-hearted, curious, and thoughtful",
+    "message": "春风拂面，花香四溢，我最爱在这绿意盎然的庭院中漫步。一缕清风拂过发梢，仿佛带走了所有烦忧。我常在树下读书，或提笔作画，记录下这美好的瞬间。我愿以温柔之心待人，以诗意之眼观世界。若你也在寻找宁静，不妨与我一同坐在石凳上，听鸟鸣，赏花开，让时光缓缓流淌。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，偶尔做些动作匹配说话的内容，镜头固定。她身着青绿色古风服饰，发间金花点缀，手持一柄细长的金色短剑，眼神温柔，嘴角含笑，背景是绿意盎然的林间，阳光透过树叶洒下斑驳光影，营造出宁静美好的氛围。",
+    "en_prompt": "The character in the image is speaking directly to the camera, occasionally making gestures that match her speech, with a fixed camera angle. She is wearing a light green traditional-style outfit, adorned with golden floral hairpins in her hair, and holding a slender golden short sword. Her eyes are gentle, and she has a soft smile on her lips. The background features a lush green forest, with sunlight filtering through the leaves, casting dappled shadows and creating a serene and beautiful atmosphere.",
+    "main_character": "comic"
+}

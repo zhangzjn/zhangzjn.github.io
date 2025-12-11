@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 35,
+    "nationality": "Indian",
+    "speaking_language": "English",
+    "hobbies": [
+        "working out",
+        "reading about technology",
+        "listening to music",
+        "spending time with family"
+    ],
+    "personality": "friendly, optimistic, hardworking, and approachable",
+    "message": "Hello! I'm proud to be part of a team that helps people build, create, and improve their homes. Every day in the warehouse is a chance to learn, grow, and connect with others. I love the energy of this environment and the satisfaction of knowing I’m contributing to something meaningful. Whether it’s organizing supplies or helping a customer find what they need, I bring my best attitude. Life is all about small joys and big efforts—let’s keep smiling and moving forward together!",
+    "source": "pexels",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，双手插在口袋里，面带微笑，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with both hands in his pockets, smiling warmly. The camera remains stationary.",
+    "main_character": "human"
+}

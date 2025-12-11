@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "surfing",
+        "beach photography",
+        "wearing colorful clothing",
+        "collecting seashells"
+    ],
+    "personality": "outgoing, adventurous, cheerful, artistic",
+    "message": "海风拂面，阳光洒在身上，我最爱的时刻就是站在沙滩上，抱着冲浪板，准备迎接海浪的挑战。每一次冲浪都像是一场与自然的对话，自由而充满力量。我热爱色彩，喜欢用鲜艳的裙子表达内心的活力。生活就像冲浪，有时平静，有时汹涌，但只要保持微笑和勇气，就能乘风破浪。希望每个人都能找到属于自己的那片海，勇敢追逐梦想。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在海边沙滩上，手持冲浪板，一边对着镜头讲话一边往前走，镜头随着人物的走动慢慢往后退，保持人物在画面中。她头戴草帽，身穿色彩鲜艳的印花连衣裙，脖子上戴着贝壳项链，神情自然放松，背景是蔚蓝的海浪和晴朗的天空。",
+    "en_prompt": "The woman in the image stands on a sandy beach by the sea, holding a surfboard, walking forward while speaking to the camera. The camera slowly pulls back as she moves, keeping her centered in the frame. She wears a straw hat, a vibrant floral-print dress, and a shell necklace, with a natural and relaxed expression. The background features blue ocean waves and a clear sky.",
+    "main_character": "human"
+}

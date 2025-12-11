@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "fashion blogging",
+        "traveling",
+        "photography",
+        "exploring cafes"
+    ],
+    "personality": "confident, cheerful, adventurous, and stylish",
+    "message": "Hey there! I’m someone who believes in living life to the fullest — every day is a new adventure waiting to happen. I love expressing myself through fashion and capturing beautiful moments with my camera. Whether I’m exploring a new city or trying out a trendy outfit, I’m always up for something fresh and exciting. Life’s too short to play it safe — so I say, go bold, be yourself, and never stop daring to dream big. Let’s make memories that last a lifetime!",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，偶尔用右手轻抚衣领，左手自然搭在身前，镜头固定。她肩上斜挎着一条蓝白条纹的帆布包带，穿着印有蓝色字母的粉色T恤和牛仔裤，背景是浅色的室内环境，有白色镂空装饰墙。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, occasionally gently touching her collar with her right hand, while her left hand rests naturally in front of her. The camera remains stationary. She is wearing a pink T-shirt with blue lettering and jeans, with a blue-and-white striped canvas bag strap slung diagonally across her shoulder. The background is a light-colored indoor setting featuring a white perforated decorative wall.",
+    "main_character": "human"
+}

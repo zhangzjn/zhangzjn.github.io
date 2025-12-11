@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 45,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading philosophy",
+        "urban photography",
+        "playing jazz piano",
+        "hiking in national parks"
+    ],
+    "personality": "intelligent, introspective, confident yet humble, with a calm and thoughtful demeanor",
+    "message": "Life is not about waiting for the storm to pass, but learning to dance in the rain. I’ve spent years navigating the complexities of the modern world—both in business and in personal growth. I believe in the power of quiet reflection, in the beauty of a well-told story, and in the importance of staying true to oneself. Whether I’m capturing a cityscape at night or playing a soulful tune on the piano, I’m always searching for meaning. I encourage you to do the same—to look deeper, to listen more, and to live with intention.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

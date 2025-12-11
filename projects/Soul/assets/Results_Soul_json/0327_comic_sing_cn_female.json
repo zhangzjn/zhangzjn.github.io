@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 20,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "DJing",
+        "electronic music production",
+        "gaming",
+        "fashion"
+    ],
+    "personality": "confident, creative, tech-savvy, outgoing, passionate about music",
+    "message": "大家好！我是你们的DJ小星，一个热爱电音与科技的年轻女孩。每当音乐响起，我就像在另一个世界中自由飞翔。我喜欢用音符编织梦境，用节奏点燃夜晚。无论你是谁，无论你在哪，只要戴上耳机，就能和我一起感受这份律动与激情。让我们一起在音乐中释放自我，享受每一个瞬间！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色一边唱歌一边打碟，双手在DJ控制器上操作，戴着粉色耳机，专注地调整音乐节奏。背景是充满霓虹灯光的电子音乐场景，营造出动感十足的夜店氛围。",
+    "en_prompt": "The character in the image is singing while DJing, operating the DJ controller with both hands, wearing pink headphones, and focused on adjusting the music rhythm. The background features a vibrant electronic music scene filled with neon lights, creating an energetic nightclub atmosphere.",
+    "main_character": "comic"
+}

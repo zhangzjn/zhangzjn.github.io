@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading business books",
+        "practicing yoga",
+        "traveling to new cities",
+        "attending industry conferences"
+    ],
+    "personality": "confident, professional, detail-oriented, and approachable",
+    "message": "作为一名职场女性，我始终相信努力与坚持是通往成功的基石。每天面对挑战，我选择以积极的心态去迎接。无论是工作中的项目策划，还是团队协作，我都力求做到最好。我热爱学习新知识，也享受在忙碌中找到平衡。希望我的经历能激励更多女性勇敢追梦，活出自信与精彩。生活不止眼前的忙碌，还有诗和远方。愿我们都能在事业与生活中找到属于自己的光芒。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，双手稳稳托着一台银色笔记本电脑，偶尔用手指轻点键盘做些动作匹配说话的内容，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, holding a silver laptop steadily with both hands, occasionally tapping the keyboard with her fingers to match the content of her speech. The camera remains fixed.",
+    "main_character": "human"
+}

@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "age": 48,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading classical literature",
+        "gardening",
+        "traditional Chinese music"
+    ],
+    "personality": "warm, gentle, thoughtful, and deeply rooted in cultural values",
+    "message": "亲爱的朋友，人生如花，有盛开也有凋零，但只要心怀善意与热爱，每一天都值得珍惜。我热爱阅读古籍，也喜欢在庭院里照料花草，听一曲古筝，感受岁月静好。愿你我都能在平凡中发现美，在忙碌中守住内心的宁静。愿你幸福安康，笑容常在。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正在对着镜头讲话，镜头固定。她面带温和微笑，佩戴金色花朵耳饰，身着带有精致刺绣的深色上衣，神情从容优雅。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with a fixed shot. She wears a gentle smile, golden flower-shaped earrings, and a dark top adorned with intricate embroidery. Her expression is calm and elegant.",
+    "main_character": "human"
+}

@@ -1,0 +1,17 @@
+{
+    "gender": "male",
+    "age": 52,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "golf",
+        "reading business journals",
+        "collecting vintage watches"
+    ],
+    "personality": "confident, disciplined, professional, reserved",
+    "message": "Success isn't about luck — it's about preparation, focus, and consistency. Every decision I make is calculated, every step intentional. I respect hard work, and I expect the same from those around me. I don’t chase attention — I earn respect. My briefcase holds more than documents; it holds my legacy. I walk into every meeting with purpose, and I leave with results. The world moves fast — but I move with precision. That’s how you lead. That’s how you win.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士一边对着镜头讲话一边往前走，镜头随着人物的走动慢慢往后退，保持人物在画面中。他右手提着一个棕色公文包，左手自然垂在身侧，腕上戴着一块银色手表。他身着深色西装、白色衬衫和深色领带，戴着墨镜，神情沉稳，步伐坚定地行走在宽敞明亮的大理石大厅中，背景是通透的玻璃幕墙和高大柱体，整体氛围专业而富有力量感。",
+    "en_prompt": "The man in the image walks forward while speaking directly to the camera. The camera slowly pulls back, keeping him centered in the frame. He carries a brown briefcase in his right hand, while his left hand hangs naturally at his side, with a silver watch visible on his wrist. Dressed in a dark suit, white shirt, and dark tie, he wears sunglasses and maintains a composed expression. He strides confidently through a spacious, bright marble lobby, with transparent glass walls and tall columns in the background. The overall atmosphere is professional and powerful.",
+    "main_character": "human"
+}

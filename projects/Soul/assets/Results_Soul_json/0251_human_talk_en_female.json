@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 28,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading business books",
+        "yoga",
+        "hiking",
+        "attending networking events"
+    ],
+    "personality": "confident, professional, thoughtful, and approachable",
+    "message": "I believe in the power of authenticity and hard work. In a fast-paced world, staying grounded and true to your values is key. I'm passionate about growth—both personal and professional—and I love connecting with others who share that drive. Whether it's leading a team or learning something new, I approach every challenge with curiosity and determination. Let’s build something meaningful together.",
+    "source": "pexels",
+    "cn_prompt": "画面中的女士正对着镜头讲话，双臂交叉于胸前，偶尔配合语言做出轻微手势，镜头固定。",
+    "en_prompt": "The woman in the image is speaking directly to the camera, with her arms crossed over her chest, occasionally making slight hand gestures to accompany her speech. The camera remains stationary.",
+    "main_character": "human"
+}

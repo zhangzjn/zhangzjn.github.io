@@ -1,0 +1,17 @@
+{
+    "gender": "female",
+    "age": 52,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading business books",
+        "attending professional seminars",
+        "practicing calligraphy"
+    ],
+    "personality": "confident, professional, composed, and approachable",
+    "message": "各位同事，大家好。作为一名管理者，我始终相信，专业与真诚是赢得尊重的基础。无论面对挑战还是机遇，我们都应保持冷静与专注。学习永无止境，我鼓励大家持续提升自我，勇于创新。在团队中，我们不仅是同事，更是伙伴。让我们携手并进，共同创造更高效、更和谐的工作环境。愿我们每个人都能在工作中找到成就感与价值。谢谢大家！",
+    "source": "generated",
+    "cn_prompt": "画面中的女士站在会议室中央，一手拿着文件夹，另一手自然垂放，正对着镜头讲话，偶尔用手指轻点文件夹强调重点，镜头固定。背景是白板和投影屏幕，营造专业商务氛围。",
+    "en_prompt": "The woman in the image stands in the center of the conference room, holding a folder in one hand and letting the other hand rest naturally by her side, speaking directly to the camera. Occasionally, she lightly taps the folder with her finger to emphasize key points. The camera remains fixed. In the background, there is a whiteboard and a projection screen, creating a professional business atmosphere.",
+    "main_character": "human"
+}

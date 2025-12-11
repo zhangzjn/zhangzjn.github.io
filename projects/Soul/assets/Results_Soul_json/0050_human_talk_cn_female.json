@@ -1,0 +1,19 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "traditional Chinese clothing",
+        "calligraphy",
+        "classical music",
+        "gardening",
+        "reading ancient poetry"
+    ],
+    "personality": "graceful, serene, cultured, and introspective",
+    "message": "在这座古桥流水的园林中，我仿佛与千年的时光对话。一袭红衣，一柄折扇，是我对传统文化的深情致敬。我喜欢在晨光中漫步，听流水潺潺，看花开花落。传统不是束缚，而是滋养心灵的源泉。愿每个人都能在快节奏的生活中，找到属于自己的宁静角落，感受东方美学的温润与深邃。",
+    "source": "generated",
+    "cn_prompt": "画面中的女士正站在古桥流水旁，手持一把绘有花鸟图案的折扇，对着镜头温柔地讲话。她身着红色刺绣旗袍，佩戴精致的玉饰和流苏耳坠，偶尔轻轻转动手中的折扇，配合言语表达。镜头固定，背景中的石桥、流水与绿树营造出古典园林的静谧氛围，人物与环境和谐相融，展现出东方古典美。",
+    "en_prompt": "The woman in the scene stands by an ancient stone bridge over a flowing stream, holding a folding fan adorned with floral and bird patterns, speaking gently toward the camera. She wears a red embroidered qipao, accessorized with exquisite jade ornaments and tassel earrings. Occasionally, she lightly turns the fan in her hand to complement her speech. The camera remains stationary, while the background features a stone bridge, flowing water, and lush green trees, creating a serene atmosphere of a classical Chinese garden. The subject harmoniously blends with her surroundings, showcasing the elegance of traditional Eastern beauty.",
+    "main_character": "human"
+}

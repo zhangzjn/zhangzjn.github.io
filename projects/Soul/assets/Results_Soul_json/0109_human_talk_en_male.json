@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 35,
+    "nationality": "American",
+    "speaking_language": "English",
+    "hobbies": [
+        "hiking",
+        "exploring nature",
+        "photography",
+        "reading outdoor survival guides"
+    ],
+    "personality": "adventurous, introspective, calm, observant, resilient",
+    "message": "There’s something deeply peaceful about walking a trail alone, where the only sounds are your footsteps and the wind through the trees. I’ve learned to listen—not just to the world around me, but to myself. Each step is a chance to reflect, to breathe, to reconnect with what truly matters. The mountains don’t judge; they simply stand, ancient and wise. I carry my walking stick not just for balance, but as a reminder: every journey, no matter how long, begins with a single step. Keep moving forward.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士站在乡间小路上，手持登山杖，一边对着镜头讲话，一边缓慢向前走，镜头随着他的步伐慢慢往后退，保持人物在画面中。他戴着棕色宽檐帽，身穿卡其色工装外套，腰间系着皮带，神情专注而沉稳，背景是连绵的山丘与秋日植被，氛围宁静自然。",
+    "en_prompt": "The man in the image stands on a country path, holding a trekking pole, speaking directly to the camera while slowly walking forward. The camera gradually pulls back with his steps, keeping him centered in the frame. He wears a brown wide-brimmed hat, a khaki utility jacket, and a leather belt around his waist. His expression is focused and composed. The background features rolling hills and autumn foliage, creating a serene and natural atmosphere.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading",
+        "yoga",
+        "photography",
+        "listening to music"
+    ],
+    "personality": "gentle, thoughtful, calm, and optimistic",
+    "message": "你好，我是小雅。我热爱生活中的每一个细节，喜欢在清晨的阳光里读一本好书，或在傍晚的微风中练习瑜伽。我相信温柔的力量，也相信每个人都有属于自己的光芒。愿你每天都能发现生活中的美好，保持内心的平静与喜悦。无论遇到什么困难，都请记得微笑面对，因为温柔的人，终会被世界温柔以待。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正演唱，头戴粉色缎带发箍，眼神温柔注视前方，背景是柔和的暖光室内环境，营造出宁静而梦幻的氛围。",
+    "en_prompt": "The character in the scene is singing, wearing a pink satin headband, with soft eyes gazing forward. The background features a warm, softly lit indoor environment, creating a serene and dreamy atmosphere.",
+    "main_character": "human"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "reading ancient poetry",
+        "painting landscapes",
+        "playing the guqin",
+        "tending to cherry blossoms"
+    ],
+    "personality": "graceful, serene, introspective, and gentle with a quiet strength",
+    "message": "春风拂面，樱花轻落，我独坐窗前，看云卷云舒。世间喧嚣，于我如过眼烟云。我爱这静谧的时光，一盏清茶，一卷诗书，足以慰藉心灵。愿你我皆能于纷扰中寻得一方净土，守住内心的澄澈。纵使岁月流转，亦不改初心。若你偶遇此景，不妨驻足片刻，听风吟，赏花落，与我共赴一场无声的诗意之约。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在对着镜头讲话，偶尔轻抚胸前的玉佩，镜头固定。",
+    "en_prompt": "The character in the image is speaking directly to the camera, occasionally gently touching the jade pendant on her chest. The camera remains stationary.",
+    "main_character": "comic"
+}

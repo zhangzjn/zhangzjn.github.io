@@ -1,0 +1,18 @@
+{
+    "gender": "male",
+    "age": 45,
+    "nationality": "Swedish",
+    "speaking_language": "English",
+    "hobbies": [
+        "reading philosophy",
+        "playing chess",
+        "hiking in the mountains",
+        "listening to classical music"
+    ],
+    "personality": "calm, thoughtful, intellectual, and approachable",
+    "message": "I believe in the power of quiet reflection and meaningful conversation. Life is not about rushing through tasks, but about understanding ourselves and the world around us. I find peace in nature and joy in deep discussions over a cup of coffee. Whether it’s a challenging chess game or a long hike, I seek moments that challenge my mind and soothe my soul. I value honesty, curiosity, and kindness above all. Let’s take the time to listen, to think, and to grow together.",
+    "source": "generated",
+    "cn_prompt": "画面中的男士正在对着镜头讲话，镜头固定。",
+    "en_prompt": "The man in the image is speaking directly to the camera, with a fixed shot.",
+    "main_character": "human"
+}

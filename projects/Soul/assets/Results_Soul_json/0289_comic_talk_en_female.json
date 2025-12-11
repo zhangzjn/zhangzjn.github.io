@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 18,
+    "nationality": "Japanese",
+    "speaking_language": "Japanese",
+    "hobbies": [
+        "reading manga",
+        "painting",
+        "listening to jazz music",
+        "taking walks in cherry blossom gardens"
+    ],
+    "personality": "gentle, introspective, artistic, and kind-hearted",
+    "message": "清晨的阳光透过窗帘洒在身上，我最喜欢的樱花图案和服也仿佛在轻声诉说着春天的故事。我常常在安静的午后，用画笔记录下那些微小而美好的瞬间。或许我并不擅长表达，但我的心，总是温柔地装着对生活的热爱。希望你也能找到属于自己的宁静角落，感受每一片花瓣飘落时的温柔。",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正坐在沙发上，身着印有粉色花卉图案的和服，浅蓝色卷发上别着粉色蝴蝶结发饰，对着镜头讲话，嘴角带着浅浅的微笑。她双手自然交叠放在身前，姿态放松优雅。镜头固定，营造出一种静谧温馨的氛围。",
+    "en_prompt": "The character in the image is sitting on a sofa, wearing a kimono with pink floral patterns. Her light blue curly hair is adorned with a pink bow hairpin. She is speaking directly to the camera with a gentle, subtle smile on her lips. Her hands are naturally crossed in front of her, exuding a relaxed and elegant posture. The camera remains stationary, creating a serene and warm atmosphere.",
+    "main_character": "comic"
+}

@@ -1,0 +1,18 @@
+{
+    "gender": "female",
+    "age": 22,
+    "nationality": "Chinese",
+    "speaking_language": "Chinese",
+    "hobbies": [
+        "singing",
+        "dancing",
+        "reading literature",
+        "attending fashion events"
+    ],
+    "personality": "graceful, confident, kind-hearted, and passionate about performing arts",
+    "message": "亲爱的朋友们，感谢你们一直以来的支持与陪伴。每一次站在舞台上，我都感受到你们的温暖与力量。音乐是我表达情感的桥梁，而你们的掌声是我前行的动力。无论未来多远，我都会坚持初心，用歌声传递美好与希望。愿我们共同成长，一起追逐梦想的光芒。谢谢你们，我永远爱你们！",
+    "source": "generated",
+    "cn_prompt": "画面中的角色正在演唱，她头戴华丽的钻石皇冠，身着白色礼服，佩戴精致的项链和耳坠，手持麦克风，神情专注而温柔，背景为柔和的舞台灯光，营造出梦幻而高贵的氛围。",
+    "en_prompt": "The character in the image is singing, wearing an elaborate diamond tiara, a white gown, and elegant necklace and earrings, holding a microphone, with a focused and gentle expression. The background features soft stage lighting, creating a dreamy and noble atmosphere.",
+    "main_character": "human"
+}
