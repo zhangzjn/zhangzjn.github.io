@@ -23,7 +23,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Efficient Learning</strong></span>: 🥝 Neural Architecture Design 🥝 Light-weight (Ultra-High Definition) Image/Video Model 🥝 Efficient Training/Finetuning.<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 World Model 🍉 Sim2Real2Sim 🍉 VLA with Humanoid/Quadruped/Wheeled Robots 🍉 Action Transfer
 
-🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我正在寻找具备自驱力的2027级硕士研究生、直博生、博士生，以及科研实习生、科研助理与博士后，加入[刘勇教授](https://april.zju.edu.cn/our-team)课题组，有上述研究方向相关科研经历者优先考虑。</strong></span> 🔥🔥🔥<br>
+🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我正在寻找具备自驱力的2027级硕士研究生、直博生、博士生，以及科研实习生、科研助理与博士后加入[刘勇教授](https://april.zju.edu.cn/our-team)课题组，有上述研究方向相关科研经历者优先考虑。</strong></span> 🔥🔥🔥<br>
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>I am looking for self-motivated prospective master students, direct-entry PhD students, PhD students (2027 intake), as well as research interns, research assistants and postdoctoral fellows to join [Prof. Yong Liu's](https://april.zju.edu.cn/our-team) research group. Candidates with research experience in the aforementioned research areas will be given priority.</strong></span> 🔥🔥🔥<br>
 
 # 🔥 News
