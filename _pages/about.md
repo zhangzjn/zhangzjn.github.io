@@ -32,7 +32,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert
   <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li>
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li> -->
-    <li><i>2025.12.08</i>: &nbsp;🎉🎉🎉 We obtain the grand champion🥇🥇🥇 of the offline competition in <a href="https://www.atecup.com/competitions/atec2025">ATEC 2025 • AI & Robotics Real-World Challenges</a> <strong>(US$150,000 prize)</strong>. </li>
+    <li><i>2025.12.08</i>: &nbsp;🎉🎉🎉 Our team obtains the grand champion🥇🥇🥇 of the offline competition in <a href="https://www.atecup.com/competitions/atec2025">ATEC 2025 • AI & Robotics Real-World Challenges</a> <strong>(US$150,000 prize)</strong>. </li>
     <li><i>2025.11.08</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/UltraGen/">UltraGen</a> and <a href="https://github.com/SassyRong/AdaKD/">AdaKD (Oral)</a> are accepted by <strong>AAAI 2026</strong>. </li>
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/zhangzjn/EMOv2/">EMOv2</a> and <a href="https://github.com/lewandofskee/MobileMamba/">MobileMamba</a> for mobile applications. </li> -->
     <li><i>2025.09.21</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/document/11197930">ImitDiff</a> is accepted by <strong>RA-L 2025</strong>. </li>
