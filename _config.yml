@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangning Zhang"
-description              : AIGC · Video Generation · Virtual Digital Human · MLLM · Efficient Learning
+description              : Multi-modal Learning · Embodied AI · Efficient Learning
 repository               : "zhangzjn/zhangzjn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Jiangning Zhang"
   avatar           : "images/zhangzjn-512x512.jpg"
   bio              : "Photograph by my loved wife: Ms. Xue"  # "Ph.D. under Zhejiang University"   fiancee -> wife, 2023.10.02
-  location         : "Shanghai, China"
+  location         : "Hangzhou, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=2hA4X9wAAAAJ&hl=zh-CN"
