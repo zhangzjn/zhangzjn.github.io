@@ -29,6 +29,9 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
+  <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/T3-Video/">T3-Video (Transform Trained Transformer)</a> for Accelerating Naive 4K Video Generation. </li>
+  <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a> for High-fidelity Long-term Multimodal Animation. </li>
+  <li> 🔥🔥🔥 Checkout our recent <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a> for High-Quality Instruction-Guided Video Editing. </li>
   <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li>
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://arxiv.org/abs/2506.13589">AdaVideoRAG</a> for long video understanding. </li> -->
