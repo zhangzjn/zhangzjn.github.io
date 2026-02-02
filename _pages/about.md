@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert researcher of two centers at YouTu Lab, Tencent, Shanghai (技术大咖计划), also serve as the leader for [APRIL-AIGC](https://april.zju.edu.cn/our-team) direction. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
+I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert researcher of two centers at YouTu Lab, Tencent, Shanghai, also serve as the leader for [APRIL-AIGC](https://april.zju.edu.cn/our-team) direction. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Multimodal Perception and Generation</strong></span>: 🎋 Image/Video Generation/Editing 🎋 Long-term Efficient Video Understanding/RAG 🎋 Agent Applications 🎋 Interdisciplinary Fundamental Researches.<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Efficient Learning</strong></span>: 🥝 Neural Architecture Design 🥝 Light-weight (Ultra-High Definition) Image/Video Model 🥝 Efficient Training/Finetuning.<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 World Model 🍉 Sim2Real2Sim 🍉 VLA with Humanoid/Quadruped/Wheeled Robots 🍉 Action Transfer
