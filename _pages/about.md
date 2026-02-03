@@ -27,7 +27,7 @@ I am <strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>I am looking for self-motivated prospective master students, direct-entry PhD students, PhD students (2027 intake), as well as research interns, research assistants and postdoctoral fellows to join [Prof. Yong Liu's](https://april.zju.edu.cn/our-team) research group. Candidates with research experience in the aforementioned research areas will be given priority.</strong></span> 🔥🔥🔥<br>
 
 # 🔥 News
-<div style="max-height: 36em; overflow-y: auto;">
+<div style="max-height: 56em; overflow-y: auto;">
   <ol style="list-style-type: none;">
   <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/T3-Video/">T3-Video (Transform Trained Transformer)</a> for Accelerating Naive 4K Video Generation. </li>
   <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a> for High-fidelity Long-term Multimodal Animation. </li>
