@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-<strong>Jiangning Zhang (张江宁)</strong>, currently working as a expert researcher of two centers at YouTu Lab, Tencent, Shanghai, also serving as the leader for [APRIL-AIGC](https://april.zju.edu.cn/our-team) direction. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
+<strong>Jiangning Zhang (张江宁)</strong> currently leads AIGC and Embodied-AI direction at [APRIL](https://april.zju.edu.cn/our-team), previously working as a expert researcher of two centers at YouTu Lab, Tencent, Shanghai. 
+I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 Real-Time Intelligent Interaction 🍉 World Model 🍉 Sim2Real2Sim 🍉 VLA with Humanoid/Quadruped/Wheeled Robots 🍉 Action Transfer<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Multimodal Perception and Generation</strong></span>: 🎋 Image/Video Generation/Editing 🎋 Long-term Efficient Video Understanding/RAG 🎋 Agent Applications 🎋 Interdisciplinary Fundamental Researches<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Efficient Learning</strong></span>: 🥝 Neural Architecture Design 🥝 Light-weight (Ultra-High Definition) Image/Video Model 🥝 Efficient Training/Finetuning
@@ -33,6 +33,8 @@ redirect_from:
   <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a> for High-fidelity Long-term Multimodal Animation. </li> -->
   <li> 🔥🔥🔥 Checkout our recent <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a> for High-Quality Instruction-Guided Video Editing. </li>
   <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li> -->
+    <li><i>2026.03.09</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/ader">InvAD and COCO-AD Dataset</a> is accepted by <strong>IJCV 2026</strong>. </li>
+    <li><i>2026.03.08</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection">Deepfake Survey</a> is accepted by <strong>CSUR 2026</strong>. </li>
     <li><i>2026.02.21</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a>, <a href="https://christian42mmreason.github.io/replay/">Replay</a>, <a href="https://github.com/NJU-PCALab/DiP">DiP</a>, <a href="https://github.com/LsmnBmnc/Med-CMR">Med-CMR</a>, <a href="https://ffp-300k.github.io/">FFP-300K</a>, <a href="https://arxiv.org/abs/2512.20340">KeyTailor</a>, <a href="https://vankouf.github.io/DSONet/">DSONet</a>, <a href="https://ssj9596.github.io/one-to-all-animation-project/">One-to-All Animation</a>, <a href="https://github.com/YU-deep/VisMem">VisMem</a>, and <a href="https://arxiv.org/abs/2508.03404">MACT</a> are accepted by <strong>CVPR 2026</strong>. </li>
     <li><i>2026.01.27</i>: &nbsp;🎉🎉🎉 <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a>, <a href="https://juntaojianggavin.github.io/projects/M3CoTBench/">M3CoTBench</a>, <a href="https://github.com/BigAandSmallq/SAD">SAD</a>, <a href="https://github.com/Yuan-Hou/Human-MME">Human-MME</a>, and <a href="https://github.com/YU-deep/ViF">ViF</a> are accepted by <strong>ICLR 2026</strong>. </li>
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://xzc-zju.github.io/projects/UltraVideo/">UltraVideo</a> and <a href="https://huggingface.co/APRIL-AIGC/UltraWan">UltraWan</a> for UHD 4K video generation. </li> -->
