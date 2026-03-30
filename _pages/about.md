@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<strong>Jiangning Zhang (张江宁)</strong> currently leads AIGC and Embodied-AI direction at [APRIL](https://april.zju.edu.cn/our-team), previously working as a expert researcher of two centers at YouTu Lab, Tencent, Shanghai. 
+<strong>Jiangning Zhang (张江宁)</strong> will join Zhejiang University as an assistant professor (ZJU-100 Young Professor) in April 2026, currently leading AIGC and Embodied-AI direction at [APRIL Lab](https://april.zju.edu.cn/our-team), previously working as a expert researcher of two centers at YouTu Lab, Tencent, Shanghai. 
 I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My research interests include:<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 Real-Time Intelligent Interaction 🍉 World Model 🍉 Sim2Real2Sim 🍉 VLA with Humanoid/Quadruped/Wheeled Robots 🍉 Action Transfer<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Multimodal Perception and Generation</strong></span>: 🎋 Image/Video Generation/Editing 🎋 Long-term Efficient Video Understanding/RAG 🎋 Agent Applications 🎋 Interdisciplinary Fundamental Researches<br>
