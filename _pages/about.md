@@ -34,6 +34,7 @@ My research interests include:<br>
   <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a> for High-fidelity Long-term Multimodal Animation. </li> -->
   <li> 🔥🔥🔥 Checkout our recent <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a> for High-Quality Instruction-Guided Video Editing. </li>
   <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li> -->
+    <li><i>2026.04.07</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2601.04377">Disco-RAG</a> is accepted by <strong>ACL 2026</strong>. </li>
     <li><i>2026.03.27</i>: &nbsp;🎉🎉🎉 <a href="https://hithqd.github.io/projects/OV-SAM3D/">OV-SAM3D</a> is accepted by <strong>TCSVT 2026</strong>. </li>
     <li><i>2026.03.17</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2505.11334">MARRS</a> is accepted by <strong>TVCG 2026</strong>. </li>
     <li><i>2026.03.09</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/zhangzjn/ader">InvAD and COCO-AD Dataset</a> is accepted by <strong>IJCV 2026</strong>. </li>
