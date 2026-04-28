@@ -21,8 +21,8 @@ redirect_from:
 <!-- I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team).  -->
 My research focuses on the research and application of robotics and embodied intelligence:<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 Embodied multimodal perception and reasoning, embodied decision-making and planning, embodied intelligence evaluation systems, embodied foundation models (VLA, WM, etc.), simulation and Sim-Twin-Real, multi-agent embodied AI<br>
-🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied Interaction and Applications</strong></span>: 🎋 Human-robot collaboration and safe interaction, psychology-based perceptual interaction and applications, industry-specific scenario implementation, safety and ethics governance<br>
-🌱 <span style="color:#b02418; font-weight:bold;"><strong>Other Supporting Research Directions</strong></span>: 🥝 Embodied lifelong and efficient learning, embodied hardware design (humanoid robots, smart glasses, etc.), interdisciplinary fundamental researches, and the development of next-generation brain-inspired, etc.
+🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied Interaction and Applications</strong></span>: 🎋 Human-robot collaboration and safe interaction, psychology-based perceptual interaction and applications, industry-specific scenario implementation, safety and ethics governance, lifelong and efficient learning<br>
+🌱 <span style="color:#b02418; font-weight:bold;"><strong>Other Supporting Research Directions</strong></span>: 🥝 embodied hardware design (humanoid robots, smart glasses, etc.), interdisciplinary fundamental researches, and the development of next-generation brain-inspired, etc.
 
 
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我正在寻找具备自驱力的2027级硕士研究生、直博生、博士生，以及科研实习生、科研助理与博士后加入[刘勇教授](https://april.zju.edu.cn/our-team)课题组，主要关注[具身智能]()及[机器人]()方向，有上述研究方向相关科研经历者优先考虑。</strong></span> 🔥🔥🔥<br>
