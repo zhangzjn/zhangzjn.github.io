@@ -21,7 +21,7 @@ redirect_from:
 <!-- I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team).  -->
 My research focuses on the research and application of robotics and embodied intelligence:<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 Embodied multimodal perception and reasoning, embodied decision-making and planning, embodied intelligence evaluation systems, embodied foundation models (VLA, WM, etc.), simulation and Sim-Twin-Real, multi-agent embodied AI<br>
-🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied Interaction and Applications</strong></span>: 🎋 Human-robot collaboration and safe interaction, psychology-based perceptual interaction and applications, industry-specific scenario implementation, safety and ethics governance, lifelong and efficient learning<br>
+🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied Interaction and Applications</strong></span>: 🎋 Human-robot collaboration and safe interaction, psychology-based perceptual interaction and applications, industry-specific scenario application, safety and ethics governance, lifelong and efficient learning<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Other Supporting Research Directions</strong></span>: 🥝 embodied hardware design (humanoid robots, smart glasses, etc.), interdisciplinary fundamental researches, the development of next-generation brain-inspired, etc.
 
 
