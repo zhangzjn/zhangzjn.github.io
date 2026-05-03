@@ -84,7 +84,7 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
     <li><i>2023.07.14</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. </li>
     <li><i>2023.07.08</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2023</strong>. </li>
     <li><i>2023.07.07</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. </li>
-    <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 1st place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12499#results">Zero-shot Track</a> and 4th place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12500#results">Few-shot Track</a> in <a href="https://sites.google.com/view/vand-cvpr23/home">Visual Anomaly and Novelty Detection (VAND) 2023 Challenge</a> by <strong>CVPR 2023</strong>. </li>
+    <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 1st place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12499#results">Zero-shot Track</a> and 4th place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12500#results">Few-shot Track</a> in <a href="https://sites.google.com/view/vand-cvpr23/home">Visual Anomaly and Novelty Detection (VAND) 2023 Challenge</a> by <strong>CVPR 2023</strong>. </li> -->
     <li><i>2023.03.09</i>: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. </li>
     <li><i>2022.11.22</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. </li>
     <li><i>2022.11.11</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>PRL 2022</strong>. </li>
