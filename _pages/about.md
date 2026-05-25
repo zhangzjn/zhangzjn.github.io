@@ -65,6 +65,7 @@ My research focuses on the research and application of robotics and embodied int
     <li><i>2025.01.22</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/SaRA/">SaRA</a> is accepted by <strong>ICLR 2025</strong>. </li>
     <li><i>2024.12.10</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2405.15214">PointRWKV</a>, <a href="https://arxiv.org/abs/2406.16710">	
 ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="https://arxiv.org/abs/2403.09616">RefLDMSeg</a> are accepted by <strong>AAAI 2025</strong>. </li>
+    <li><i>2024.12.04</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10777549">LiCROcc</a> is accepted by <strong>RA-L 2024</strong>. </li>
     <li><i>2024.09.26</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/jianzongwu/MotionBooth">MotionBooth</a>, <a href="">Fetch-and-Forge</a>, and <a href="https://lewandofskee.github.io/projects/MambaAD/">MambaAD</a> are accepted by <strong>NeurIPS 2024</strong>. </li>
     <li><i>2024.07.16</i>: &nbsp;🔥🔥🔥 Checkout our recent <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, a training-free camera-motion transferred video generation method. </li>
     <li><i>2024.07.16</i>: &nbsp;🎉🎉🎉 <a href="https://sjtuplayer.github.io/projects/MotionMaster">MotionMaster</a>, <a href="https://fcchit.github.io/mambagesture/">MambaGesture</a>, and <a href="https://xiaofenmao.github.io/web-project/MDT-A2G/">MDT-A2G</a> are accepted by <strong>ACM MM 2024</strong>. </li>
@@ -77,35 +78,35 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
     <li><i>2024.03.20</i>: &nbsp;🔥🔥🔥 We release the largest industrial anomaly detection dataset <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>. </li>
     <li><i>2024.02.27</i>: &nbsp;🎉🎉🎉 <a href="https://realiad4ad.github.io/Real-IAD">Real-IAD</a>, <a href="https://portraitbooth.github.io">PortraitBooth</a>, <a href="https://github.com/sjtuplayer/SuperSVG">SuperSVG</a>, and <a href="https://jianzongwu.github.io/projects/rovi">ROVI</a> are accepted by <strong>CVPR 2024</strong>. </li>
     <li><i>2024.02.12</i>: &nbsp;🎉🎉🎉 Strong backbone <a href="https://github.com/zhangzjn/EATFormer">EATFormer</a> is accepted by <strong>IJCV 2024</strong>. </li>
-    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>T-PAMI 2024</strong>. </li>
-    <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2024</strong>. </li>
-    <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>AAAI 2024</strong>. </li>
-    <li><i>2023.07.26</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. </li>
-    <li><i>2023.07.14</i>: &nbsp;🎉🎉🎉 Four papers are accepted by <strong>ICCV 2023</strong>. </li>
-    <li><i>2023.07.08</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCV 2023</strong>. </li>
-    <li><i>2023.07.07</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TIP 2023</strong>. </li>
+    <li><i>2024.01.30</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10420487/">Open Vocabulary Survey</a> is accepted by <strong>T-PAMI 2024</strong>. </li>
+    <li><i>2023.12.14</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10446516/">TransAVS</a> is accepted by <strong>ICASSP 2024</strong>. </li>
+    <li><i>2023.12.09</i>: &nbsp;🎉🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28690">DiAD</a>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28696">AnomalyDiffusion</a>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28687">MMRD</a>, and <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30162">SLEEG</a> are accepted by <strong>AAAI 2024</strong>. </li>
+    <li><i>2023.07.26</i>: &nbsp;🎉🎉🎉 <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612122">PVG</a> and <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611999">MCF</a> are accepted by <strong>ACM MM 2023</strong>. </li>
+    <li><i>2023.07.14</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10378489">EMO</a>, <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Hu_Phasic_Content_Fusing_Diffusion_Model_with_Directional_Distribution_Consistency_for_ICCV_2023_paper.html">few-shot-diffusion</a>, <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Shen_Learning_Global-aware_Kernel_for_Image_Harmonization_ICCV_2023_paper.html">GKNet</a>, and <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Gu_Remembering_Normality_Memory-guided_Knowledge_Distillation_for_Unsupervised_Anomaly_Detection_ICCV_2023_paper.html">MemKD</a> are accepted by <strong>ICCV 2023</strong>. </li>
+    <li><i>2023.07.08</i>: &nbsp;🎉🎉🎉 <a href="https://link.springer.com/article/10.1007/s11263-023-01875-x">SFNet</a> is accepted by <strong>IJCV 2023</strong>. </li>
+    <li><i>2023.07.07</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10192551/">OCR-GAN</a> is accepted by <strong>TIP 2023</strong>. </li>
     <!-- <li><i>2023.05.13</i>: &nbsp;🎉🎉🎉 1st place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12499#results">Zero-shot Track</a> and 4th place for <a href="https://codalab.lisn.upsaclay.fr/competitions/12500#results">Few-shot Track</a> in <a href="https://sites.google.com/view/vand-cvpr23/home">Visual Anomaly and Novelty Detection (VAND) 2023 Challenge</a> by <strong>CVPR 2023</strong>. </li> -->
-    <li><i>2023.03.09</i>: &nbsp;🎉🎉🎉 Six papers are accepted by <strong>CVPR 2023</strong>. </li>
-    <li><i>2022.11.22</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2023</strong>. </li>
-    <li><i>2022.11.11</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>PRL 2022</strong>. </li>
+    <li><i>2023.03.09</i>: &nbsp;🎉🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Better_CMOS_Produces_Clearer_Images_Learning_Space-Variant_Blur_Estimation_for_CVPR_2023_paper.html">CMOS</a>, <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Liu_MixTeacher_Mining_Promising_Labels_With_Mixed_Scale_Teacher_for_Semi-Supervised_CVPR_2023_paper.html">MixTeacher</a>, <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Xu_High-Fidelity_Generalized_Emotional_Talking_Face_Generation_With_Multi-Modal_Emotion_Space_CVPR_2023_paper.html">EmotionFace</a>, <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Learning_To_Measure_the_Point_Cloud_Reconstruction_Loss_in_a_CVPR_2023_paper.html">CALoss</a>, <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Learning_With_Noisy_Labels_via_Self-Supervised_Adversarial_Noisy_Masking_CVPR_2023_paper.html">SANM</a>, and <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Multimodal_Industrial_Anomaly_Detection_via_Hybrid_Fusion_CVPR_2023_paper.html">M3DM</a> are accepted by <strong>CVPR 2023</strong>. </li>
+    <li><i>2022.11.22</i>: &nbsp;🎉🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25349">CalibratedTeacher</a> is accepted by <strong>AAAI 2023</strong>. </li>
+    <li><i>2022.11.11</i>: &nbsp;🎉🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S016786552200335X">FPN</a> is accepted by <strong>PRL 2022</strong>. </li>
     <li><i>2022.10.11</i>: &nbsp;🎉🎉🎉 Happy graduation! 🎉🎉🎉 Working in Tencent Youtu Lab, Shanghai. 🔭🔭🔭 </li>
-    <li><i>2022.10.01</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ACM TOG 2022</strong>. </li>
-    <li><i>2022.08.17</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TMM</strong>. </li>
-    <li><i>2022.07.09</i>: &nbsp;🎉🎉🎉 Three papers are accepted by <strong>ECCV 2022</strong>. </li>
-    <li><i>2022.06.18</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>TCSVT</strong>. </li>
-    <li><i>2022.06.07</i>: &nbsp;🎉🎉🎉 One of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. </li>
-    <li><i>2022.04.21</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>IJCAI 2022</strong>. </li>
-    <li><i>2022.03.03</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>CVPR 2022</strong>. </li>
-    <li><i>2021.12.01</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>AAAI 2022</strong>. </li>
-    <li><i>2021.09.29</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>NeurIPS 2021</strong>. </li>
-    <li><i>2021.09.27</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>SPL 2021</strong>. </li>
-    <li><i>2021.08.12</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>TNNLS 2021</strong>. </li>
-    <li><i>2021.07.23</i>: &nbsp;🎉🎉🎉 One paper is presented in <strong>ICCV 2021</strong>. </li>
+    <li><i>2022.10.01</i>: &nbsp;🎉🎉🎉 <a href="https://dl.acm.org/doi/abs/10.1145/3550454.3555481">3QNet</a> is accepted by <strong>ACM TOG 2022</strong>. </li>
+    <li><i>2022.08.17</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/9864273/">ARFNet</a> is accepted by <strong>TMM 2022</strong>. </li>
+    <li><i>2022.07.09</i>: &nbsp;🎉🎉🎉 <a href="https://link.springer.com/chapter/10.1007/978-3-031-19784-0_4">UniFace</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-031-20086-1_4">PCDNet</a>, and <a href="https://link.springer.com/chapter/10.1007/978-3-031-19769-7_11">PCLossNet</a> are accepted by <strong>ECCV 2022</strong>. </li>
+    <li><i>2022.06.18</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/9797768">MST-VOD</a> is accepted by <strong>TCSVT 2022</strong>. </li>
+    <li><i>2022.06.07</i>: &nbsp;🎉🎉🎉 <a href="https://link.springer.com/article/10.1007/s41315-021-00167-2">HENet</a> obtains of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. </li>
+    <li><i>2022.04.21</i>: &nbsp;🎉🎉🎉 <a href="https://www.ijcai.org/proceedings/2022/0193">IMR-HSNet</a> is accepted by <strong>IJCAI 2022</strong>. </li>
+    <li><i>2022.03.03</i>: &nbsp;🎉🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Region-Aware_Face_Swapping_CVPR_2022_paper.html">RAFSwap</a> is accepted by <strong>CVPR 2022</strong>. </li>
+    <li><i>2021.12.01</i>: &nbsp;🎉🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">SCSNEt</a> is accepted by <strong>AAAI 2022</strong>. </li>
+    <li><i>2021.09.29</i>: &nbsp;🎉🎉🎉 <a href="https://proceedings.neurips.cc/paper/2021/hash/e02e27e04fdff967ba7d76fb24b8069d-Abstract.html">EAT</a> is accepted by <strong>NeurIPS 2021</strong>. </li>
+    <li><i>2021.09.27</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/9552566">APB2FaceV2</a> is presented in <strong>SPL 2021</strong>. </li>
+    <li><i>2021.08.12</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/9530256">ABP</a> is presented in <strong>TNNLS 2021</strong>. </li>
+    <li><i>2021.07.23</i>: &nbsp;🎉🎉🎉 <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.html">RFNet</a> is presented in <strong>ICCV 2021</strong>. </li>
     <li><i>2020.12.12</i>: &nbsp;🎉🎉🎉 Research intern in YouTu Lab, Tencent, mentored by Researcher <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ">Yabiao Wang</a> and <a href="https://tyshiwo.github.io">Dr. Ying Tai</a>. </li>
-    <li><i>2020.07.03</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. </li>
+    <li><i>2020.07.03</i>: &nbsp;🎉🎉🎉 <a href="https://link.springer.com/chapter/10.1007/978-3-030-58558-7_18">DTVNet</a> is accepted by <strong>ECCV 2020 as spotlight presentation</strong>. </li>
     <li><i>2020.04.01</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in Zhejiang University, under the supervision of <a href="https://april.zju.edu.cn/our-team">Prof. Yong Liu</a>. 🔭🔭🔭 </li>
-    <li><i>2020.02.27</i>: &nbsp;🎉🎉🎉 Two papers are accepted by <strong>CVPR 2020</strong>. </li>
-    <li><i>2020.01.25</i>: &nbsp;🎉🎉🎉 One paper is accepted by <strong>ICASSP 2020</strong>. </li>
+    <li><i>2020.02.27</i>: &nbsp;🎉🎉🎉 <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">FReeNet</a> and <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Learning_by_Analogy_Reliable_Supervision_From_Transformations_for_Unsupervised_Optical_CVPR_2020_paper.html">ARFlow</a> are accepted by <strong>CVPR 2020</strong>. </li>
+    <li><i>2020.01.25</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/9052977">APB2Face</a> is accepted by <strong>ICASSP 2020</strong>. </li>
   </ol>
 </div>
 
