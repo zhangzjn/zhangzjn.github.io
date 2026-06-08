@@ -98,7 +98,7 @@ ID-Sculpt</a>, <a href="https://arxiv.org/abs/2403.00762">PCM</a>, and <a href="
     <li><i>2022.06.07</i>: &nbsp;🎉🎉🎉 <a href="https://link.springer.com/article/10.1007/s41315-021-00167-2">HENet</a> obtains of five finalists for the <strong>IJIRA Best Paper Award 2022</strong>. </li>
     <li><i>2022.04.21</i>: &nbsp;🎉🎉🎉 <a href="https://www.ijcai.org/proceedings/2022/0193">IMR-HSNet</a> is accepted by <strong>IJCAI 2022</strong>. </li>
     <li><i>2022.03.03</i>: &nbsp;🎉🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Region-Aware_Face_Swapping_CVPR_2022_paper.html">RAFSwap</a> is accepted by <strong>CVPR 2022</strong>. </li>
-    <li><i>2021.12.01</i>: &nbsp;🎉🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">SCSNEt</a> is accepted by <strong>AAAI 2022</strong>. </li>
+    <li><i>2021.12.01</i>: &nbsp;🎉🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20236">SCSNet</a> is accepted by <strong>AAAI 2022</strong>. </li>
     <li><i>2021.09.29</i>: &nbsp;🎉🎉🎉 <a href="https://proceedings.neurips.cc/paper/2021/hash/e02e27e04fdff967ba7d76fb24b8069d-Abstract.html">EAT</a> is accepted by <strong>NeurIPS 2021</strong>. </li>
     <li><i>2021.09.27</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/9552566">APB2FaceV2</a> is presented in <strong>SPL 2021</strong>. </li>
     <li><i>2021.08.12</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/9530256">ABP</a> is presented in <strong>TNNLS 2021</strong>. </li>
