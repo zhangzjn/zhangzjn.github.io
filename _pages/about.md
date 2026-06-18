@@ -36,8 +36,10 @@ My research focuses on the research and application of robotics and embodied int
   <ol style="list-style-type: none;">
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/T3-Video/">T3-Video (Transform Trained Transformer)</a> for Accelerating Naive 4K Video Generation. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a> for High-fidelity Long-term Multimodal Animation. </li> -->
-    <li> 🔥🔥🔥 Checkout our recent <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a> for High-Quality Instruction-Guided Video Editing. </li>
+    <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a> for High-Quality Instruction-Guided Video Editing. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li> -->
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/JAVEdit/">JAVEdit</a> for Joint Audio-Visual Instruction-Guided Video Editing. </li>
+    <li><i>2026.06.18</i>: &nbsp;🎉🎉🎉 <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a>, <a href="">Cycle-World</a>, and <a href="">SPOT-E</a> are accepted by <strong>ECCV 2026</strong>. </li>
     <li><i>2026.06.01</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/hyj542682306/Semantic-Frame-Interpolation">SFI</a> is accepted by <strong>TIP 2026</strong>. </li>
     <li><i>2026.05.01</i>: &nbsp;🎉🎉🎉 <a href="https://zhangzjn.github.io/projects/T3-Video/">T3-Video (Transform Trained Transformer)</a>, <a href="https://arxiv.org/abs/2507.01908">ReasonBrain</a>, <a href="https://arxiv.org/abs/2602.00471">L2-VMAS</a>, <a href="https://github.com/YinBo0927/FeRA">FeRA</a>, and <a href="https://openreview.net/forum?id=bJ9JtQWpoE">TGPO</a> are accepted by <strong>ICML 2026</strong>. </li>
     <li><i>2026.04.07</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2601.04377">Disco-RAG</a> is accepted by <strong>ACL 2026</strong>. </li>
