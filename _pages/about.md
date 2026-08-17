@@ -25,10 +25,11 @@ currently leading AIGC and Embodied-AI direction at [APRIL Lab](https://april.zj
 My research focuses on the research and application of robotics and embodied intelligence:<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 Embodied multimodal perception and reasoning, embodied decision-making and planning, embodied intelligence evaluation systems, embodied foundation models (VLA, WM, etc.), simulation and Sim-Twin-Real, multi-agent embodied AI<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied Interaction and Applications</strong></span>: 🎋 Human-robot collaboration and safe interaction, psychology-based perceptual interaction and applications, industry-specific scenario application, safety and ethics governance, lifelong and efficient learning<br>
+🌱 <span style="color:#b02418; font-weight:bold;"><strong>Multimodal Und./Gen. & AI Infra.</strong></span>: 🎋 Efficient MLLM, real-time long-horizon video generation, agentic multimodal understanding and generation<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Other Supporting Research Directions</strong></span>: 🥝 embodied hardware design (humanoid robots, smart glasses, etc.), interdisciplinary fundamental researches, the development of next-generation brain-inspired, etc.
 
 
-🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我正在寻找具备自驱力的2027级硕士研究生、直博生、博士生，以及科研实习生、科研助理与博士后加入[刘勇教授](https://april.zju.edu.cn/our-team)课题组，主要关注[具身智能]()及[机器人]()方向，有上述研究方向相关科研经历者优先考虑。</strong></span> 🔥🔥🔥<br>
+🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我正在寻找具备自驱力的2027级硕士研究生、直博生、博士生，以及科研实习生、科研助理与博士后加入[刘勇教授](https://april.zju.edu.cn/our-team)课题组，主要关注[具身智能](), [机器人](), 以及[多模态理解与生成]()方向，有上述研究方向相关科研经历者优先考虑。</strong></span> 🔥🔥🔥<br>
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>I am looking for self-motivated prospective master students, direct-entry PhD students, PhD students (2027 intake), as well as research interns, research assistants and postdoctoral fellows to join [Prof. Yong Liu's](https://april.zju.edu.cn/our-team) research group. Candidates with research experience in the aforementioned research areas will be given priority.</strong></span> 🔥🔥🔥<br>
 
 # 🔥 News
