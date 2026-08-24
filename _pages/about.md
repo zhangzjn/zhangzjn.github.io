@@ -39,6 +39,8 @@ My research focuses on the research and application of robotics and embodied int
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a> for High-fidelity Long-term Multimodal Animation. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a> for High-Quality Instruction-Guided Video Editing. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li> -->
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://zhikaixu24.github.io/projects/DAS/">DAS</a> for automatically generating publication-oriented academic surveys within 1 hour. </li>
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://haojunchen663.github.io/projects/PixVerve/">PixVerve</a> for native 100MP image generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/JAVEdit/">JAVEdit</a> for Joint Audio-Visual Instruction-Guided Video Editing. </li>
     <li><i>2026.08.18</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2505.13219">PiT</a> and <a href="https://arxiv.org/abs/2406.18284">RealTalk</a> are accepted by <strong>PR 2026</strong>. </li>
     <li><i>2026.06.18</i>: &nbsp;🎉🎉🎉 <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a>, <a href="">Cycle-World</a>, and <a href="">SPOT-E</a> are accepted by <strong>ECCV 2026</strong>. </li>
