@@ -29,7 +29,7 @@ My research focuses on the research and application of robotics and embodied int
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Other Supporting Research Directions</strong></span>: 🥝 embodied hardware design (humanoid robots, smart glasses, etc.), interdisciplinary fundamental researches, the development of next-generation brain-inspired, etc.
 
 
-🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我正在寻找具备自驱力的2027级硕士研究生、直博生、博士生，以及科研实习生、科研助理与博士后加入[刘勇教授](https://april.zju.edu.cn/our-team)课题组，主要关注[具身智能](), [机器人](), 以及[多模态理解与生成]()方向，有上述研究方向相关科研经历者优先考虑。</strong></span> 🔥🔥🔥<br>
+🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>我正在寻找具备自驱力的2028级硕士研究生、直博生、博士生，以及科研实习生、科研助理与博士后加入[APRIL](https://april.zju.edu.cn/our-team)课题组，主要关注[具身智能](), [机器人](), 以及[多模态理解与生成]()方向，有上述研究方向相关科研经历者优先考虑。</strong></span> 🔥🔥🔥<br>
 🔥🔥🔥 <span style="color:#b02418; font-weight:bold;"><strong>I am looking for self-motivated prospective master students, direct-entry PhD students, PhD students (2027 intake), as well as research interns, research assistants and postdoctoral fellows to join [Prof. Yong Liu's](https://april.zju.edu.cn/our-team) research group. Candidates with research experience in the aforementioned research areas will be given priority.</strong></span> 🔥🔥🔥<br>
 
 # 🔥 News
@@ -41,7 +41,7 @@ My research focuses on the research and application of robotics and embodied int
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li> -->
     <li> 🔥🔥🔥 Checkout our recent <a href="https://zhikaixu24.github.io/projects/DAS/">DAS</a> for automatically generating publication-oriented academic surveys within 1 hour. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://haojunchen663.github.io/projects/PixVerve/">PixVerve</a> for native 100MP image generation. </li>
-    <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/JAVEdit/">JAVEdit</a> for Joint Audio-Visual Instruction-Guided Video Editing. </li>
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/JAVEdit/">JAVEdit</a> for joint audio-visual instruction-guided video editing. </li>
     <li><i>2026.08.18</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2505.13219">PiT</a> and <a href="https://arxiv.org/abs/2406.18284">RealTalk</a> are accepted by <strong>PR 2026</strong>. </li>
     <li><i>2026.06.18</i>: &nbsp;🎉🎉🎉 <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a>, <a href="">Cycle-World</a>, and <a href="">SPOT-E</a> are accepted by <strong>ECCV 2026</strong>. </li>
     <li><i>2026.06.01</i>: &nbsp;🎉🎉🎉 <a href="https://github.com/hyj542682306/Semantic-Frame-Interpolation">SFI</a> is accepted by <strong>TIP 2026</strong>. </li>
