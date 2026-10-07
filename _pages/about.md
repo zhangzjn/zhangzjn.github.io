@@ -20,7 +20,7 @@ redirect_from:
 <strong>Jiangning Zhang (张江宁)</strong> 
 <!-- will join Zhejiang University as an assistant professor (ZJU-100 Young Professor) in April 2026,  -->
 serves as an assistant professor (ZJU-100 Young Professor) at Zhejiang University, 
-currently leading AIGC and Embodied-AI direction at [APRIL Lab](https://april.zju.edu.cn/our-team), previously working as a expert researcher of two centers at Youtu Lab, Tencent, Shanghai. 
+currently leading AIGC and Embodied-AI direction at [APRIL Lab](https://april.zju.edu.cn/our-team), previously working as a expert researcher (2022.10~2026.05) of two centers at Youtu Lab, Tencent, Shanghai, China. 
 <!-- I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team).  -->
 My research focuses on the research and application of robotics and embodied intelligence:<br>
 🌱 <span style="color:#b02418; font-weight:bold;"><strong>Embodied AI</strong></span>: 🍉 Embodied multimodal perception and reasoning, embodied decision-making and planning, embodied intelligence evaluation systems, embodied foundation models (VLA, WM, etc.), simulation and Sim-Twin-Real, multi-agent embodied AI<br>
