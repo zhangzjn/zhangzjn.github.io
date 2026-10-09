@@ -42,6 +42,7 @@ My research focuses on the research and application of robotics and embodied int
     <li> 🔥🔥🔥 Checkout our recent <a href="https://zhikaixu24.github.io/projects/DAS/">DAS</a> for automatically generating publication-oriented academic surveys within 1 hour. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://haojunchen663.github.io/projects/PixVerve/">PixVerve</a> for native 100MP image generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/JAVEdit/">JAVEdit</a> for joint audio-visual instruction-guided video editing. </li>
+    <li><i>2026.10.07</i>: &nbsp;🎉🎉🎉 Selected for the <strong><a href="https://top2percentscientists.com/stanford-elsevier-top-2-scientists-list-2026/">Stanford/Elsevier Top 2% Scientists List (2026)</a> </strong>. </li> 
     <li><i>2026.10.03</i>: &nbsp;🎉🎉🎉 <a href="https://ieeexplore.ieee.org/document/11717537">PAGE</a> is accepted by <strong>TCSVT 2026</strong>. </li>
     <li><i>2026.09.25</i>: &nbsp;🎉🎉🎉 <a href="https://eddie0521.github.io/projects/iamflow/">IAMFlow</a>, <a href="https://yuyang-cloud.github.io/spiral/">SPIRAL</a>, <a href="https://rain152.github.io/VicEdit/">Edit</a>, <a href="https://arxiv.org/abs/2605.12013">L2P</a>, and <a href="https://arxiv.org/abs/2608.08021">Evidence-RL</a> are accepted by <strong>NeurIPS 2026</strong>. </li>
     <li><i>2026.09.06</i>: &nbsp;🎉🎉🎉 <a href="https://arxiv.org/abs/2601.15170">PSL</a> is accepted by <strong>TMLR 2026</strong>. </li>
