@@ -39,6 +39,7 @@ My research focuses on the research and application of robotics and embodied int
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://zhangzjn.github.io/projects/Soul/">Soul</a> for High-fidelity Long-term Multimodal Animation. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://lewandofskee.github.io/projects/OpenVE/">OpenVE-3M</a> for High-Quality Instruction-Guided Video Editing. </li> -->
     <!-- <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/IVEBench/">IVEBench</a> for Instruction-Guided Video Editing Assessment. </li> -->
+    <li> 🔥🔥🔥 Checkout our recent <a href="https://github.com/nano-muse/nanoMuse">nanoMuse</a>: an open-source personal agent for every device you own. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://zhikaixu24.github.io/projects/DAS/">DAS</a> for automatically generating publication-oriented academic surveys within 1 hour. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://haojunchen663.github.io/projects/PixVerve/">PixVerve</a> for native 100MP image generation. </li>
     <li> 🔥🔥🔥 Checkout our recent <a href="https://ryanchenyn.github.io/projects/JAVEdit/">JAVEdit</a> for joint audio-visual instruction-guided video editing. </li>
